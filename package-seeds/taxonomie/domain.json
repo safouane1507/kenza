@@ -1,0 +1,1681 @@
+[
+  {
+    "_id": {
+      "$oid": "69e8ed38c6121d6a80291de0"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Produits de terroir",
+        "description": ""
+      }
+    ],
+    "code": "produits-de-terroir",
+    "parent": null,
+    "children": [
+      {
+        "$oid": "69e8ed38c6121d6a80291de1"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291de6"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291deb"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291e08"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291e0f"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291e26"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291e37"
+      }
+    ],
+    "taxonomies": [],
+    "hasTaxonomies": false,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "logo": "https://source.unsplash.com/featured/1200x800/?morocco,olive,oil,bottle"
+  },
+  {
+    "_id": {
+      "$oid": "69e8ed38c6121d6a80291de1"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Oléiculture",
+        "description": ""
+      }
+    ],
+    "code": "produits-de-terroir--oleiculture",
+    "parent": {
+      "$oid": "69e8ed38c6121d6a80291de0"
+    },
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "69e8ed38c6121d6a80291de2"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "logo": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal"
+  },
+  {
+    "_id": {
+      "$oid": "69e8ed38c6121d6a80291de6"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Arganiculture",
+        "description": ""
+      }
+    ],
+    "code": "produits-de-terroir--arganiculture",
+    "parent": {
+      "$oid": "69e8ed38c6121d6a80291de0"
+    },
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "69e8ed38c6121d6a80291de7"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "logo": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal"
+  },
+  {
+    "_id": {
+      "$oid": "69e8ed38c6121d6a80291deb"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Huiles végétales",
+        "description": ""
+      }
+    ],
+    "code": "produits-de-terroir--huiles-vegetales",
+    "parent": {
+      "$oid": "69e8ed38c6121d6a80291de0"
+    },
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "69e8ed38c6121d6a80291dec"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291dee"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291df0"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291df2"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291df4"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291df6"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291df8"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291dfa"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291dfc"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291dfe"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291e00"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291e02"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291e04"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291e06"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "logo": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal"
+  },
+  {
+    "_id": {
+      "$oid": "69e8ed38c6121d6a80291e08"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Apiculture",
+        "description": ""
+      }
+    ],
+    "code": "produits-de-terroir--apiculture",
+    "parent": {
+      "$oid": "69e8ed38c6121d6a80291de0"
+    },
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "69e8ed38c6121d6a80291e09"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "logo": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal"
+  },
+  {
+    "_id": {
+      "$oid": "69e8ed38c6121d6a80291e0f"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Épices & Condiments",
+        "description": ""
+      }
+    ],
+    "code": "produits-de-terroir--epices-condiments",
+    "parent": {
+      "$oid": "69e8ed38c6121d6a80291de0"
+    },
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "69e8ed38c6121d6a80291e10"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291e12"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "logo": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal"
+  },
+  {
+    "_id": {
+      "$oid": "69e8ed38c6121d6a80291e26"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Dattes & Fruits Séchés",
+        "description": ""
+      }
+    ],
+    "code": "produits-de-terroir--dattes-fruits-seches",
+    "parent": {
+      "$oid": "69e8ed38c6121d6a80291de0"
+    },
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "69e8ed38c6121d6a80291e27"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291e2d"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291e34"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "logo": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal"
+  },
+  {
+    "_id": {
+      "$oid": "69e8ed38c6121d6a80291e37"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Amandes, Noix & Oléagineux",
+        "description": ""
+      }
+    ],
+    "code": "produits-de-terroir--amandes-noix-oleagineux",
+    "parent": {
+      "$oid": "69e8ed38c6121d6a80291de0"
+    },
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "69e8ed38c6121d6a80291e38"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291e3e"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291e41"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291e45"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "logo": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal"
+  },
+  {
+    "_id": {
+      "$oid": "69e8ed38c6121d6a80291e4f"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Agriculture Bio & Locale",
+        "description": ""
+      }
+    ],
+    "code": "agriculture-bio-locale",
+    "parent": null,
+    "children": [
+      {
+        "$oid": "69e8ed38c6121d6a80291e50"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291e6e"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291e8b"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291e9e"
+      }
+    ],
+    "taxonomies": [],
+    "hasTaxonomies": false,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "logo": "https://source.unsplash.com/featured/1200x800/?organic,vegetables,morocco"
+  },
+  {
+    "_id": {
+      "$oid": "69e8ed38c6121d6a80291e50"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Légumes Frais Locaux",
+        "description": ""
+      }
+    ],
+    "code": "agriculture-bio-locale--legumes-frais-locaux",
+    "parent": {
+      "$oid": "69e8ed38c6121d6a80291e4f"
+    },
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "69e8ed38c6121d6a80291e51"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291e58"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291e5f"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291e63"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291e67"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "logo": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal"
+  },
+  {
+    "_id": {
+      "$oid": "69e8ed38c6121d6a80291e6e"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Fruits de Saison",
+        "description": ""
+      }
+    ],
+    "code": "agriculture-bio-locale--fruits-de-saison",
+    "parent": {
+      "$oid": "69e8ed38c6121d6a80291e4f"
+    },
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "69e8ed38c6121d6a80291e6f"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291e74"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291e78"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291e7d"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291e80"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291e85"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291e88"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "logo": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal"
+  },
+  {
+    "_id": {
+      "$oid": "69e8ed38c6121d6a80291e8b"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Céréales & Légumineuses",
+        "description": ""
+      }
+    ],
+    "code": "agriculture-bio-locale--cereales-legumineuses",
+    "parent": {
+      "$oid": "69e8ed38c6121d6a80291e4f"
+    },
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "69e8ed38c6121d6a80291e8c"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291e91"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291e97"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291e9b"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "logo": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal"
+  },
+  {
+    "_id": {
+      "$oid": "69e8ed38c6121d6a80291e9e"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Paniers & Box Locaux",
+        "description": ""
+      }
+    ],
+    "code": "agriculture-bio-locale--paniers-box-locaux",
+    "parent": {
+      "$oid": "69e8ed38c6121d6a80291e4f"
+    },
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "69e8ed38c6121d6a80291e9f"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291ea2"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291ea7"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291eaa"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "logo": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal"
+  },
+  {
+    "_id": {
+      "$oid": "69e8ed38c6121d6a80291ead"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "SOIN & BEAUTÉ NATURELLE",
+        "description": ""
+      }
+    ],
+    "code": "soin-beaute-naturelle",
+    "parent": null,
+    "children": [
+      {
+        "$oid": "69e8ed38c6121d6a80291eae"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291ed4"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291ef0"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291f25"
+      }
+    ],
+    "taxonomies": [],
+    "hasTaxonomies": false,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "logo": "https://source.unsplash.com/featured/1200x800/?savon,beldi,argan,soap"
+  },
+  {
+    "_id": {
+      "$oid": "69e8ed38c6121d6a80291eae"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Savonnerie Artisanale",
+        "description": ""
+      }
+    ],
+    "code": "soin-beaute-naturelle--savonnerie-artisanale",
+    "parent": {
+      "$oid": "69e8ed38c6121d6a80291ead"
+    },
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "69e8ed38c6121d6a80291eaf"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291eb2"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291eb9"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291ebe"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291ec6"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291eca"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291ecf"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "logo": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal"
+  },
+  {
+    "_id": {
+      "$oid": "69e8ed38c6121d6a80291ed4"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Huiles essentielles & florales",
+        "description": ""
+      }
+    ],
+    "code": "soin-beaute-naturelle--huiles-essentielles-florales",
+    "parent": {
+      "$oid": "69e8ed38c6121d6a80291ead"
+    },
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "69e8ed38c6121d6a80291ed5"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291ee2"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291eea"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "logo": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal"
+  },
+  {
+    "_id": {
+      "$oid": "69e8ed38c6121d6a80291ef0"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Soins du corps & Hammam",
+        "description": ""
+      }
+    ],
+    "code": "soin-beaute-naturelle--soins-du-corps-hammam",
+    "parent": {
+      "$oid": "69e8ed38c6121d6a80291ead"
+    },
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "69e8ed38c6121d6a80291ef1"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291ef7"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291eff"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291f0c"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291f14"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291f1a"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291f22"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "logo": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal"
+  },
+  {
+    "_id": {
+      "$oid": "69e8ed38c6121d6a80291f25"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Cosmétiques & beauté visage",
+        "description": ""
+      }
+    ],
+    "code": "soin-beaute-naturelle--cosmetiques-beaute-visage",
+    "parent": {
+      "$oid": "69e8ed38c6121d6a80291ead"
+    },
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "69e8ed38c6121d6a80291f26"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291f2a"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291f2f"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "logo": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal"
+  },
+  {
+    "_id": {
+      "$oid": "69e8ed38c6121d6a80291f33"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Artisanat Culinaire",
+        "description": ""
+      }
+    ],
+    "code": "artisanat-culinaire",
+    "parent": null,
+    "children": [
+      {
+        "$oid": "69e8ed38c6121d6a80291f34"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291f47"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291f53"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291f6a"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291f7f"
+      }
+    ],
+    "taxonomies": [],
+    "hasTaxonomies": false,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "logo": "https://source.unsplash.com/featured/1200x800/?moroccan,patisserie,sweets"
+  },
+  {
+    "_id": {
+      "$oid": "69e8ed38c6121d6a80291f34"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Pâtisseries & Douceurs Marocaines",
+        "description": ""
+      }
+    ],
+    "code": "artisanat-culinaire--patisseries-douceurs-marocaines",
+    "parent": {
+      "$oid": "69e8ed38c6121d6a80291f33"
+    },
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "69e8ed38c6121d6a80291f35"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291f39"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291f3c"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291f3f"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291f42"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291f45"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "logo": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal"
+  },
+  {
+    "_id": {
+      "$oid": "69e8ed38c6121d6a80291f47"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Boulangerie Traditionnelle",
+        "description": ""
+      }
+    ],
+    "code": "artisanat-culinaire--boulangerie-traditionnelle",
+    "parent": {
+      "$oid": "69e8ed38c6121d6a80291f33"
+    },
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "69e8ed38c6121d6a80291f48"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291f4a"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291f4d"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "logo": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal"
+  },
+  {
+    "_id": {
+      "$oid": "69e8ed38c6121d6a80291f53"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Conserves & Produits Transformés",
+        "description": ""
+      }
+    ],
+    "code": "artisanat-culinaire--conserves-produits-transformes",
+    "parent": {
+      "$oid": "69e8ed38c6121d6a80291f33"
+    },
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "69e8ed38c6121d6a80291f54"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291f58"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291f5c"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291f60"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291f64"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291f66"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "logo": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal"
+  },
+  {
+    "_id": {
+      "$oid": "69e8ed38c6121d6a80291f6a"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Thés, Infusions & Boissons",
+        "description": ""
+      }
+    ],
+    "code": "artisanat-culinaire--thes-infusions-boissons",
+    "parent": {
+      "$oid": "69e8ed38c6121d6a80291f33"
+    },
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "69e8ed38c6121d6a80291f6b"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291f6f"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291f73"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291f76"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291f79"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291f7c"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "logo": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal"
+  },
+  {
+    "_id": {
+      "$oid": "69e8ed38c6121d6a80291f7f"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Plats traditionnels",
+        "description": ""
+      }
+    ],
+    "code": "artisanat-culinaire--plats-traditionnels",
+    "parent": {
+      "$oid": "69e8ed38c6121d6a80291f33"
+    },
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "69e8ed38c6121d6a80291f80"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "logo": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal"
+  },
+  {
+    "_id": {
+      "$oid": "69e8ed38c6121d6a80291f82"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Artisanat d'art",
+        "description": ""
+      }
+    ],
+    "code": "artisanat-d-art",
+    "parent": null,
+    "children": [
+      {
+        "$oid": "69e8ed38c6121d6a80291f83"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291f90"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291f9f"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291fae"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291fb4"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291fbb"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291fc1"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291fc7"
+      }
+    ],
+    "taxonomies": [],
+    "hasTaxonomies": false,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "logo": "https://source.unsplash.com/featured/1200x800/?morocco,berber,carpet,handmade"
+  },
+  {
+    "_id": {
+      "$oid": "69e8ed38c6121d6a80291f83"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Tapis",
+        "description": ""
+      }
+    ],
+    "code": "artisanat-d-art--tapis",
+    "parent": {
+      "$oid": "69e8ed38c6121d6a80291f82"
+    },
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "69e8ed38c6121d6a80291f84"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291f8a"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291f8c"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291f8e"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "logo": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal"
+  },
+  {
+    "_id": {
+      "$oid": "69e8ed38c6121d6a80291f90"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Poterie & Céramique",
+        "description": ""
+      }
+    ],
+    "code": "artisanat-d-art--poterie-ceramique",
+    "parent": {
+      "$oid": "69e8ed38c6121d6a80291f82"
+    },
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "69e8ed38c6121d6a80291f91"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291f94"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291f97"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291f9a"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291f9c"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "logo": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal"
+  },
+  {
+    "_id": {
+      "$oid": "69e8ed38c6121d6a80291f9f"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Décoration",
+        "description": ""
+      }
+    ],
+    "code": "artisanat-d-art--decoration",
+    "parent": {
+      "$oid": "69e8ed38c6121d6a80291f82"
+    },
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "69e8ed38c6121d6a80291fa0"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291fa4"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291fa7"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291faa"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "logo": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal"
+  },
+  {
+    "_id": {
+      "$oid": "69e8ed38c6121d6a80291fae"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Maroquinerie & Cuir",
+        "description": ""
+      }
+    ],
+    "code": "artisanat-d-art--maroquinerie-cuir",
+    "parent": {
+      "$oid": "69e8ed38c6121d6a80291f82"
+    },
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "69e8ed38c6121d6a80291faf"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291fb1"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "logo": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal"
+  },
+  {
+    "_id": {
+      "$oid": "69e8ed38c6121d6a80291fb4"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Art de la table",
+        "description": ""
+      }
+    ],
+    "code": "artisanat-d-art--art-de-la-table",
+    "parent": {
+      "$oid": "69e8ed38c6121d6a80291f82"
+    },
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "69e8ed38c6121d6a80291fb5"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291fb7"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291fb9"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "logo": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal"
+  },
+  {
+    "_id": {
+      "$oid": "69e8ed38c6121d6a80291fbb"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Textile & Coussins",
+        "description": ""
+      }
+    ],
+    "code": "artisanat-d-art--textile-coussins",
+    "parent": {
+      "$oid": "69e8ed38c6121d6a80291f82"
+    },
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "69e8ed38c6121d6a80291fbc"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291fbf"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "logo": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal"
+  },
+  {
+    "_id": {
+      "$oid": "69e8ed38c6121d6a80291fc1"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Vannerie & Paniers",
+        "description": ""
+      }
+    ],
+    "code": "artisanat-d-art--vannerie-paniers",
+    "parent": {
+      "$oid": "69e8ed38c6121d6a80291f82"
+    },
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "69e8ed38c6121d6a80291fc2"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291fc5"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "logo": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal"
+  },
+  {
+    "_id": {
+      "$oid": "69e8ed38c6121d6a80291fc7"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Mobilier artisanal",
+        "description": ""
+      }
+    ],
+    "code": "artisanat-d-art--mobilier-artisanal",
+    "parent": {
+      "$oid": "69e8ed38c6121d6a80291f82"
+    },
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "69e8ed38c6121d6a80291fc8"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291fca"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "logo": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal"
+  },
+  {
+    "_id": {
+      "$oid": "69e8ed38c6121d6a80291fcc"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Tourisme Rural & Éco-tourisme",
+        "description": ""
+      }
+    ],
+    "code": "tourisme-rural-eco-tourisme",
+    "parent": null,
+    "children": [
+      {
+        "$oid": "69e8ed38c6121d6a80291fcd"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291fdc"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291fe8"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291ff4"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291ffe"
+      }
+    ],
+    "taxonomies": [],
+    "hasTaxonomies": false,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "logo": "https://source.unsplash.com/featured/1200x800/?atlas,mountains,morocco"
+  },
+  {
+    "_id": {
+      "$oid": "69e8ed38c6121d6a80291fcd"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Régions & Terroirs",
+        "description": ""
+      }
+    ],
+    "code": "tourisme-rural-eco-tourisme--regions-terroirs",
+    "parent": {
+      "$oid": "69e8ed38c6121d6a80291fcc"
+    },
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "69e8ed38c6121d6a80291fce"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291fd1"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291fd4"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291fd7"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291fd9"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "logo": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal"
+  },
+  {
+    "_id": {
+      "$oid": "69e8ed38c6121d6a80291fdc"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Hébergements Ruraux",
+        "description": ""
+      }
+    ],
+    "code": "tourisme-rural-eco-tourisme--hebergements-ruraux",
+    "parent": {
+      "$oid": "69e8ed38c6121d6a80291fcc"
+    },
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "69e8ed38c6121d6a80291fdd"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291fe0"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291fe3"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291fe5"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "logo": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal"
+  },
+  {
+    "_id": {
+      "$oid": "69e8ed38c6121d6a80291fe8"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Expériences Éco-touristiques",
+        "description": ""
+      }
+    ],
+    "code": "tourisme-rural-eco-tourisme--experiences-eco-touristiques",
+    "parent": {
+      "$oid": "69e8ed38c6121d6a80291fcc"
+    },
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "69e8ed38c6121d6a80291fe9"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291fee"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291ff1"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "logo": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal"
+  },
+  {
+    "_id": {
+      "$oid": "69e8ed38c6121d6a80291ff4"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Activités de Plein Air",
+        "description": ""
+      }
+    ],
+    "code": "tourisme-rural-eco-tourisme--activites-de-plein-air",
+    "parent": {
+      "$oid": "69e8ed38c6121d6a80291fcc"
+    },
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "69e8ed38c6121d6a80291ff5"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291ff9"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80291ffc"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "logo": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal"
+  },
+  {
+    "_id": {
+      "$oid": "69e8ed38c6121d6a80291ffe"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Patrimoine Vivant",
+        "description": ""
+      }
+    ],
+    "code": "tourisme-rural-eco-tourisme--patrimoine-vivant",
+    "parent": {
+      "$oid": "69e8ed38c6121d6a80291fcc"
+    },
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "69e8ed38c6121d6a80291fff"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80292002"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80292004"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "logo": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal"
+  },
+  {
+    "_id": {
+      "$oid": "69e8ed38c6121d6a80292008"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Habillement & Mode Marocaine",
+        "description": ""
+      }
+    ],
+    "code": "habillement-mode-marocaine",
+    "parent": null,
+    "children": [
+      {
+        "$oid": "69e8ed38c6121d6a80292009"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80292020"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80292032"
+      }
+    ],
+    "taxonomies": [],
+    "hasTaxonomies": false,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "logo": "https://source.unsplash.com/featured/1200x800/?kaftan,moroccan,fashion"
+  },
+  {
+    "_id": {
+      "$oid": "69e8ed38c6121d6a80292009"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Femme",
+        "description": ""
+      }
+    ],
+    "code": "habillement-mode-marocaine--femme",
+    "parent": {
+      "$oid": "69e8ed38c6121d6a80292008"
+    },
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "69e8ed38c6121d6a8029200a"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80292014"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80292019"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a8029201e"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80292038"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a8029203f"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80292046"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "logo": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal"
+  },
+  {
+    "_id": {
+      "$oid": "69e8ed38c6121d6a80292020"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Homme",
+        "description": ""
+      }
+    ],
+    "code": "habillement-mode-marocaine--homme",
+    "parent": {
+      "$oid": "69e8ed38c6121d6a80292008"
+    },
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "69e8ed38c6121d6a80292021"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80292027"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a8029202b"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a8029202e"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80292048"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "logo": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal"
+  },
+  {
+    "_id": {
+      "$oid": "69e8ed38c6121d6a80292032"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Mixte",
+        "description": ""
+      }
+    ],
+    "code": "habillement-mode-marocaine--mixte",
+    "parent": {
+      "$oid": "69e8ed38c6121d6a80292008"
+    },
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "69e8ed38c6121d6a80292033"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a8029203b"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80292044"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a8029204a"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "logo": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal"
+  },
+  {
+    "_id": {
+      "$oid": "69e8ed38c6121d6a8029204e"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Produits de la mer & Pêche artisanale",
+        "description": ""
+      }
+    ],
+    "code": "produits-de-la-mer-peche-artisanale",
+    "parent": null,
+    "children": [
+      {
+        "$oid": "69e8ed38c6121d6a8029204f"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80292064"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80292071"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a8029207e"
+      }
+    ],
+    "taxonomies": [],
+    "hasTaxonomies": false,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "logo": "https://source.unsplash.com/featured/1200x800/?morocco,sardines,fish,market"
+  },
+  {
+    "_id": {
+      "$oid": "69e8ed38c6121d6a8029204f"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Produits Frais",
+        "description": ""
+      }
+    ],
+    "code": "produits-de-la-mer-peche-artisanale--produits-frais",
+    "parent": {
+      "$oid": "69e8ed38c6121d6a8029204e"
+    },
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "69e8ed38c6121d6a80292050"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80292057"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a8029205e"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "logo": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal"
+  },
+  {
+    "_id": {
+      "$oid": "69e8ed38c6121d6a80292064"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Aquaculture & Coquillages",
+        "description": ""
+      }
+    ],
+    "code": "produits-de-la-mer-peche-artisanale--aquaculture-coquillages",
+    "parent": {
+      "$oid": "69e8ed38c6121d6a8029204e"
+    },
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "69e8ed38c6121d6a80292065"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80292069"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a8029206c"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a8029206f"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "logo": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal"
+  },
+  {
+    "_id": {
+      "$oid": "69e8ed38c6121d6a80292071"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Conserverie & Transformation",
+        "description": ""
+      }
+    ],
+    "code": "produits-de-la-mer-peche-artisanale--conserverie-transformation",
+    "parent": {
+      "$oid": "69e8ed38c6121d6a8029204e"
+    },
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "69e8ed38c6121d6a80292072"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80292079"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "logo": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal"
+  },
+  {
+    "_id": {
+      "$oid": "69e8ed38c6121d6a8029207e"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Produits Dérivés",
+        "description": ""
+      }
+    ],
+    "code": "produits-de-la-mer-peche-artisanale--produits-derives",
+    "parent": {
+      "$oid": "69e8ed38c6121d6a8029204e"
+    },
+    "children": [],
+    "taxonomies": [
+      {
+        "$oid": "69e8ed38c6121d6a8029207f"
+      },
+      {
+        "$oid": "69e8ed38c6121d6a80292084"
+      }
+    ],
+    "hasTaxonomies": true,
+    "etatObjet": "code-1",
+    "etatCreation": "etatCreation.creation",
+    "logo": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal"
+  }
+]

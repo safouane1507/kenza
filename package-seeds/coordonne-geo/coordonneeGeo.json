@@ -1,0 +1,737 @@
+[
+  {
+    "_id": {
+      "$oid": "138b58bf66a8fabff5541c14"
+    },
+    "etatDePublication": "code_3417",
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Casablanca",
+        "description": "Localisation principale à Casablanca",
+        "adresse": "Quartier des Artisans, Casablanca, Maroc"
+      },
+      {
+        "language": "ar",
+        "designation": "Casablanca",
+        "description": "موقع رئيسي في Casablanca",
+        "adresse": "حي الصناع، Casablanca، المغرب"
+      }
+    ],
+    "secteursActivitees": [],
+    "codePostal": "20000",
+    "typeZone": "code_8810",
+    "typeCoordGeo": "code_8801",
+    "pays": "MA",
+    "region": "Grand Casablanca",
+    "province": "Casablanca",
+    "ville": "Casablanca",
+    "commune": "Casablanca",
+    "quartier": "Médina",
+    "etatCoord": "code_3417",
+    "longitude": -7.5898,
+    "latitude": 33.5731,
+    "planAcces": "https://source.unsplash.com/featured/1200x800/?atlas,mountains,morocco",
+    "email": "contact.casablanca@kenzbladi.ma",
+    "mobile": "+212688523880",
+    "teleFixe": "+212538025412",
+    "fax": "",
+    "web": "https://kenzbladi.ma/lieux/casablanca",
+    "instancesCoordonnee": [],
+    "horaire": [],
+    "contact": [],
+    "coordonnesNumeriques": [],
+    "transports": [],
+    "indications": [],
+    "zones": [],
+    "objetsAssocies": [],
+    "objetsConcernes": []
+  },
+  {
+    "_id": {
+      "$oid": "47619f4b14d74e7789b07b09"
+    },
+    "etatDePublication": "code_3417",
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Rabat",
+        "description": "Localisation principale à Rabat",
+        "adresse": "Quartier des Artisans, Rabat, Maroc"
+      },
+      {
+        "language": "ar",
+        "designation": "Rabat",
+        "description": "موقع رئيسي في Rabat",
+        "adresse": "حي الصناع، Rabat، المغرب"
+      }
+    ],
+    "secteursActivitees": [],
+    "codePostal": "20150",
+    "typeZone": "code_8810",
+    "typeCoordGeo": "code_8801",
+    "pays": "MA",
+    "region": "Rabat-Salé-Kénitra",
+    "province": "Rabat",
+    "ville": "Rabat",
+    "commune": "Rabat",
+    "quartier": "Médina",
+    "etatCoord": "code_3417",
+    "longitude": -6.8417,
+    "latitude": 34.0209,
+    "planAcces": "https://source.unsplash.com/featured/1200x800/?atlas,mountains,morocco",
+    "email": "contact.rabat@kenzbladi.ma",
+    "mobile": "+212643890094",
+    "teleFixe": "+212537082354",
+    "fax": "",
+    "web": "https://kenzbladi.ma/lieux/rabat",
+    "instancesCoordonnee": [],
+    "horaire": [],
+    "contact": [],
+    "coordonnesNumeriques": [],
+    "transports": [],
+    "indications": [],
+    "zones": [],
+    "objetsAssocies": [],
+    "objetsConcernes": []
+  },
+  {
+    "_id": {
+      "$oid": "0fda03d07dd5cc145829aa36"
+    },
+    "etatDePublication": "code_3417",
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Marrakech",
+        "description": "Localisation principale à Marrakech",
+        "adresse": "Quartier des Artisans, Marrakech, Maroc"
+      },
+      {
+        "language": "ar",
+        "designation": "Marrakech",
+        "description": "موقع رئيسي في Marrakech",
+        "adresse": "حي الصناع، Marrakech، المغرب"
+      }
+    ],
+    "secteursActivitees": [],
+    "codePostal": "20300",
+    "typeZone": "code_8810",
+    "typeCoordGeo": "code_8801",
+    "pays": "MA",
+    "region": "Marrakech-Safi",
+    "province": "Marrakech",
+    "ville": "Marrakech",
+    "commune": "Marrakech",
+    "quartier": "Médina",
+    "etatCoord": "code_3417",
+    "longitude": -7.9811,
+    "latitude": 31.6295,
+    "planAcces": "https://source.unsplash.com/featured/1200x800/?atlas,mountains,morocco",
+    "email": "contact.marrakech@kenzbladi.ma",
+    "mobile": "+212666591687",
+    "teleFixe": "+212571346935",
+    "fax": "",
+    "web": "https://kenzbladi.ma/lieux/marrakech",
+    "instancesCoordonnee": [],
+    "horaire": [],
+    "contact": [],
+    "coordonnesNumeriques": [],
+    "transports": [],
+    "indications": [],
+    "zones": [],
+    "objetsAssocies": [],
+    "objetsConcernes": []
+  },
+  {
+    "_id": {
+      "$oid": "c7035b62ac4afff7948f0fcb"
+    },
+    "etatDePublication": "code_3417",
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Fès",
+        "description": "Localisation principale à Fès",
+        "adresse": "Quartier des Artisans, Fès, Maroc"
+      },
+      {
+        "language": "ar",
+        "designation": "Fès",
+        "description": "موقع رئيسي في Fès",
+        "adresse": "حي الصناع، Fès، المغرب"
+      }
+    ],
+    "secteursActivitees": [],
+    "codePostal": "20450",
+    "typeZone": "code_8810",
+    "typeCoordGeo": "code_8801",
+    "pays": "MA",
+    "region": "Fès-Meknès",
+    "province": "Fès",
+    "ville": "Fès",
+    "commune": "Fès",
+    "quartier": "Médina",
+    "etatCoord": "code_3417",
+    "longitude": -5.0078,
+    "latitude": 34.0181,
+    "planAcces": "https://source.unsplash.com/featured/1200x800/?atlas,mountains,morocco",
+    "email": "contact.fès@kenzbladi.ma",
+    "mobile": "+212686236102",
+    "teleFixe": "+212577935160",
+    "fax": "",
+    "web": "https://kenzbladi.ma/lieux/fès",
+    "instancesCoordonnee": [],
+    "horaire": [],
+    "contact": [],
+    "coordonnesNumeriques": [],
+    "transports": [],
+    "indications": [],
+    "zones": [],
+    "objetsAssocies": [],
+    "objetsConcernes": []
+  },
+  {
+    "_id": {
+      "$oid": "24c7be859f11162acccbcb8f"
+    },
+    "etatDePublication": "code_3417",
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Meknès",
+        "description": "Localisation principale à Meknès",
+        "adresse": "Quartier des Artisans, Meknès, Maroc"
+      },
+      {
+        "language": "ar",
+        "designation": "Meknès",
+        "description": "موقع رئيسي في Meknès",
+        "adresse": "حي الصناع، Meknès، المغرب"
+      }
+    ],
+    "secteursActivitees": [],
+    "codePostal": "20600",
+    "typeZone": "code_8810",
+    "typeCoordGeo": "code_8801",
+    "pays": "MA",
+    "region": "Fès-Meknès",
+    "province": "Meknès",
+    "ville": "Meknès",
+    "commune": "Meknès",
+    "quartier": "Médina",
+    "etatCoord": "code_3417",
+    "longitude": -5.5473,
+    "latitude": 33.8935,
+    "planAcces": "https://source.unsplash.com/featured/1200x800/?atlas,mountains,morocco",
+    "email": "contact.meknès@kenzbladi.ma",
+    "mobile": "+212675516114",
+    "teleFixe": "+212551657173",
+    "fax": "",
+    "web": "https://kenzbladi.ma/lieux/meknès",
+    "instancesCoordonnee": [],
+    "horaire": [],
+    "contact": [],
+    "coordonnesNumeriques": [],
+    "transports": [],
+    "indications": [],
+    "zones": [],
+    "objetsAssocies": [],
+    "objetsConcernes": []
+  },
+  {
+    "_id": {
+      "$oid": "e5d4334b943fd96f66429330"
+    },
+    "etatDePublication": "code_3417",
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Agadir",
+        "description": "Localisation principale à Agadir",
+        "adresse": "Quartier des Artisans, Agadir, Maroc"
+      },
+      {
+        "language": "ar",
+        "designation": "Agadir",
+        "description": "موقع رئيسي في Agadir",
+        "adresse": "حي الصناع، Agadir، المغرب"
+      }
+    ],
+    "secteursActivitees": [],
+    "codePostal": "20750",
+    "typeZone": "code_8810",
+    "typeCoordGeo": "code_8801",
+    "pays": "MA",
+    "region": "Souss-Massa",
+    "province": "Agadir-Ida-Outanane",
+    "ville": "Agadir",
+    "commune": "Agadir",
+    "quartier": "Médina",
+    "etatCoord": "code_3417",
+    "longitude": -9.5981,
+    "latitude": 30.4278,
+    "planAcces": "https://source.unsplash.com/featured/1200x800/?atlas,mountains,morocco",
+    "email": "contact.agadir@kenzbladi.ma",
+    "mobile": "+212650954755",
+    "teleFixe": "+212522777491",
+    "fax": "",
+    "web": "https://kenzbladi.ma/lieux/agadir",
+    "instancesCoordonnee": [],
+    "horaire": [],
+    "contact": [],
+    "coordonnesNumeriques": [],
+    "transports": [],
+    "indications": [],
+    "zones": [],
+    "objetsAssocies": [],
+    "objetsConcernes": []
+  },
+  {
+    "_id": {
+      "$oid": "69323205f5d1393e4a09cbb8"
+    },
+    "etatDePublication": "code_3417",
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Tanger",
+        "description": "Localisation principale à Tanger",
+        "adresse": "Quartier des Artisans, Tanger, Maroc"
+      },
+      {
+        "language": "ar",
+        "designation": "Tanger",
+        "description": "موقع رئيسي في Tanger",
+        "adresse": "حي الصناع، Tanger، المغرب"
+      }
+    ],
+    "secteursActivitees": [],
+    "codePostal": "20900",
+    "typeZone": "code_8810",
+    "typeCoordGeo": "code_8801",
+    "pays": "MA",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "province": "Tanger",
+    "ville": "Tanger",
+    "commune": "Tanger",
+    "quartier": "Médina",
+    "etatCoord": "code_3417",
+    "longitude": -5.834,
+    "latitude": 35.7595,
+    "planAcces": "https://source.unsplash.com/featured/1200x800/?atlas,mountains,morocco",
+    "email": "contact.tanger@kenzbladi.ma",
+    "mobile": "+212687482816",
+    "teleFixe": "+212584924363",
+    "fax": "",
+    "web": "https://kenzbladi.ma/lieux/tanger",
+    "instancesCoordonnee": [],
+    "horaire": [],
+    "contact": [],
+    "coordonnesNumeriques": [],
+    "transports": [],
+    "indications": [],
+    "zones": [],
+    "objetsAssocies": [],
+    "objetsConcernes": []
+  },
+  {
+    "_id": {
+      "$oid": "51a28b22780dcd5c1e45208d"
+    },
+    "etatDePublication": "code_3417",
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Essaouira",
+        "description": "Localisation principale à Essaouira",
+        "adresse": "Quartier des Artisans, Essaouira, Maroc"
+      },
+      {
+        "language": "ar",
+        "designation": "Essaouira",
+        "description": "موقع رئيسي في Essaouira",
+        "adresse": "حي الصناع، Essaouira، المغرب"
+      }
+    ],
+    "secteursActivitees": [],
+    "codePostal": "21050",
+    "typeZone": "code_8810",
+    "typeCoordGeo": "code_8801",
+    "pays": "MA",
+    "region": "Marrakech-Safi",
+    "province": "Essaouira",
+    "ville": "Essaouira",
+    "commune": "Essaouira",
+    "quartier": "Médina",
+    "etatCoord": "code_3417",
+    "longitude": -9.7595,
+    "latitude": 31.5085,
+    "planAcces": "https://source.unsplash.com/featured/1200x800/?atlas,mountains,morocco",
+    "email": "contact.essaouira@kenzbladi.ma",
+    "mobile": "+212688349412",
+    "teleFixe": "+212577078126",
+    "fax": "",
+    "web": "https://kenzbladi.ma/lieux/essaouira",
+    "instancesCoordonnee": [],
+    "horaire": [],
+    "contact": [],
+    "coordonnesNumeriques": [],
+    "transports": [],
+    "indications": [],
+    "zones": [],
+    "objetsAssocies": [],
+    "objetsConcernes": []
+  },
+  {
+    "_id": {
+      "$oid": "5638a7814e7569320fcc0246"
+    },
+    "etatDePublication": "code_3417",
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Chefchaouen",
+        "description": "Localisation principale à Chefchaouen",
+        "adresse": "Quartier des Artisans, Chefchaouen, Maroc"
+      },
+      {
+        "language": "ar",
+        "designation": "Chefchaouen",
+        "description": "موقع رئيسي في Chefchaouen",
+        "adresse": "حي الصناع، Chefchaouen، المغرب"
+      }
+    ],
+    "secteursActivitees": [],
+    "codePostal": "21200",
+    "typeZone": "code_8810",
+    "typeCoordGeo": "code_8801",
+    "pays": "MA",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "province": "Chefchaouen",
+    "ville": "Chefchaouen",
+    "commune": "Chefchaouen",
+    "quartier": "Médina",
+    "etatCoord": "code_3417",
+    "longitude": -5.2636,
+    "latitude": 35.1689,
+    "planAcces": "https://source.unsplash.com/featured/1200x800/?atlas,mountains,morocco",
+    "email": "contact.chefchaouen@kenzbladi.ma",
+    "mobile": "+212640166875",
+    "teleFixe": "+212556667020",
+    "fax": "",
+    "web": "https://kenzbladi.ma/lieux/chefchaouen",
+    "instancesCoordonnee": [],
+    "horaire": [],
+    "contact": [],
+    "coordonnesNumeriques": [],
+    "transports": [],
+    "indications": [],
+    "zones": [],
+    "objetsAssocies": [],
+    "objetsConcernes": []
+  },
+  {
+    "_id": {
+      "$oid": "f5f839d43e6b7b8ba5843478"
+    },
+    "etatDePublication": "code_3417",
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Ouarzazate",
+        "description": "Localisation principale à Ouarzazate",
+        "adresse": "Quartier des Artisans, Ouarzazate, Maroc"
+      },
+      {
+        "language": "ar",
+        "designation": "Ouarzazate",
+        "description": "موقع رئيسي في Ouarzazate",
+        "adresse": "حي الصناع، Ouarzazate، المغرب"
+      }
+    ],
+    "secteursActivitees": [],
+    "codePostal": "21350",
+    "typeZone": "code_8810",
+    "typeCoordGeo": "code_8801",
+    "pays": "MA",
+    "region": "Drâa-Tafilalet",
+    "province": "Ouarzazate",
+    "ville": "Ouarzazate",
+    "commune": "Ouarzazate",
+    "quartier": "Médina",
+    "etatCoord": "code_3417",
+    "longitude": -6.937,
+    "latitude": 30.9335,
+    "planAcces": "https://source.unsplash.com/featured/1200x800/?atlas,mountains,morocco",
+    "email": "contact.ouarzazate@kenzbladi.ma",
+    "mobile": "+212640896920",
+    "teleFixe": "+212579061954",
+    "fax": "",
+    "web": "https://kenzbladi.ma/lieux/ouarzazate",
+    "instancesCoordonnee": [],
+    "horaire": [],
+    "contact": [],
+    "coordonnesNumeriques": [],
+    "transports": [],
+    "indications": [],
+    "zones": [],
+    "objetsAssocies": [],
+    "objetsConcernes": []
+  },
+  {
+    "_id": {
+      "$oid": "e298181ff3970e0f6ae1b32d"
+    },
+    "etatDePublication": "code_3417",
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Taroudant",
+        "description": "Localisation principale à Taroudant",
+        "adresse": "Quartier des Artisans, Taroudant, Maroc"
+      },
+      {
+        "language": "ar",
+        "designation": "Taroudant",
+        "description": "موقع رئيسي في Taroudant",
+        "adresse": "حي الصناع، Taroudant، المغرب"
+      }
+    ],
+    "secteursActivitees": [],
+    "codePostal": "21500",
+    "typeZone": "code_8810",
+    "typeCoordGeo": "code_8801",
+    "pays": "MA",
+    "region": "Souss-Massa",
+    "province": "Taroudant",
+    "ville": "Taroudant",
+    "commune": "Taroudant",
+    "quartier": "Médina",
+    "etatCoord": "code_3417",
+    "longitude": -8.8767,
+    "latitude": 30.4727,
+    "planAcces": "https://source.unsplash.com/featured/1200x800/?atlas,mountains,morocco",
+    "email": "contact.taroudant@kenzbladi.ma",
+    "mobile": "+212671103118",
+    "teleFixe": "+212578561060",
+    "fax": "",
+    "web": "https://kenzbladi.ma/lieux/taroudant",
+    "instancesCoordonnee": [],
+    "horaire": [],
+    "contact": [],
+    "coordonnesNumeriques": [],
+    "transports": [],
+    "indications": [],
+    "zones": [],
+    "objetsAssocies": [],
+    "objetsConcernes": []
+  },
+  {
+    "_id": {
+      "$oid": "1fdec7207f504cf3b14a5d31"
+    },
+    "etatDePublication": "code_3417",
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Beni Mellal",
+        "description": "Localisation principale à Beni Mellal",
+        "adresse": "Quartier des Artisans, Beni Mellal, Maroc"
+      },
+      {
+        "language": "ar",
+        "designation": "Beni Mellal",
+        "description": "موقع رئيسي في Beni Mellal",
+        "adresse": "حي الصناع، Beni Mellal، المغرب"
+      }
+    ],
+    "secteursActivitees": [],
+    "codePostal": "21650",
+    "typeZone": "code_8810",
+    "typeCoordGeo": "code_8801",
+    "pays": "MA",
+    "region": "Béni Mellal-Khénifra",
+    "province": "Beni Mellal",
+    "ville": "Beni Mellal",
+    "commune": "Beni Mellal",
+    "quartier": "Médina",
+    "etatCoord": "code_3417",
+    "longitude": -6.3498,
+    "latitude": 32.3373,
+    "planAcces": "https://source.unsplash.com/featured/1200x800/?atlas,mountains,morocco",
+    "email": "contact.benimellal@kenzbladi.ma",
+    "mobile": "+212628235060",
+    "teleFixe": "+212569315242",
+    "fax": "",
+    "web": "https://kenzbladi.ma/lieux/beni mellal",
+    "instancesCoordonnee": [],
+    "horaire": [],
+    "contact": [],
+    "coordonnesNumeriques": [],
+    "transports": [],
+    "indications": [],
+    "zones": [],
+    "objetsAssocies": [],
+    "objetsConcernes": []
+  },
+  {
+    "_id": {
+      "$oid": "af12805373b13e5325f0b39c"
+    },
+    "etatDePublication": "code_3417",
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Safi",
+        "description": "Localisation principale à Safi",
+        "adresse": "Quartier des Artisans, Safi, Maroc"
+      },
+      {
+        "language": "ar",
+        "designation": "Safi",
+        "description": "موقع رئيسي في Safi",
+        "adresse": "حي الصناع، Safi، المغرب"
+      }
+    ],
+    "secteursActivitees": [],
+    "codePostal": "21800",
+    "typeZone": "code_8810",
+    "typeCoordGeo": "code_8801",
+    "pays": "MA",
+    "region": "Marrakech-Safi",
+    "province": "Safi",
+    "ville": "Safi",
+    "commune": "Safi",
+    "quartier": "Médina",
+    "etatCoord": "code_3417",
+    "longitude": -9.2372,
+    "latitude": 32.2994,
+    "planAcces": "https://source.unsplash.com/featured/1200x800/?atlas,mountains,morocco",
+    "email": "contact.safi@kenzbladi.ma",
+    "mobile": "+212685245363",
+    "teleFixe": "+212537247160",
+    "fax": "",
+    "web": "https://kenzbladi.ma/lieux/safi",
+    "instancesCoordonnee": [],
+    "horaire": [],
+    "contact": [],
+    "coordonnesNumeriques": [],
+    "transports": [],
+    "indications": [],
+    "zones": [],
+    "objetsAssocies": [],
+    "objetsConcernes": []
+  },
+  {
+    "_id": {
+      "$oid": "20806b3d18e443d0debc5bf8"
+    },
+    "etatDePublication": "code_3417",
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Tétouan",
+        "description": "Localisation principale à Tétouan",
+        "adresse": "Quartier des Artisans, Tétouan, Maroc"
+      },
+      {
+        "language": "ar",
+        "designation": "Tétouan",
+        "description": "موقع رئيسي في Tétouan",
+        "adresse": "حي الصناع، Tétouan، المغرب"
+      }
+    ],
+    "secteursActivitees": [],
+    "codePostal": "21950",
+    "typeZone": "code_8810",
+    "typeCoordGeo": "code_8801",
+    "pays": "MA",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "province": "Tétouan",
+    "ville": "Tétouan",
+    "commune": "Tétouan",
+    "quartier": "Médina",
+    "etatCoord": "code_3417",
+    "longitude": -5.3684,
+    "latitude": 35.5785,
+    "planAcces": "https://source.unsplash.com/featured/1200x800/?atlas,mountains,morocco",
+    "email": "contact.tétouan@kenzbladi.ma",
+    "mobile": "+212687513919",
+    "teleFixe": "+212547266717",
+    "fax": "",
+    "web": "https://kenzbladi.ma/lieux/tétouan",
+    "instancesCoordonnee": [],
+    "horaire": [],
+    "contact": [],
+    "coordonnesNumeriques": [],
+    "transports": [],
+    "indications": [],
+    "zones": [],
+    "objetsAssocies": [],
+    "objetsConcernes": []
+  },
+  {
+    "_id": {
+      "$oid": "89f80e7cca0a5daf8e91c889"
+    },
+    "etatDePublication": "code_3417",
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Errachidia",
+        "description": "Localisation principale à Errachidia",
+        "adresse": "Quartier des Artisans, Errachidia, Maroc"
+      },
+      {
+        "language": "ar",
+        "designation": "Errachidia",
+        "description": "موقع رئيسي في Errachidia",
+        "adresse": "حي الصناع، Errachidia، المغرب"
+      }
+    ],
+    "secteursActivitees": [],
+    "codePostal": "22100",
+    "typeZone": "code_8810",
+    "typeCoordGeo": "code_8801",
+    "pays": "MA",
+    "region": "Drâa-Tafilalet",
+    "province": "Errachidia",
+    "ville": "Errachidia",
+    "commune": "Errachidia",
+    "quartier": "Médina",
+    "etatCoord": "code_3417",
+    "longitude": -4.4244,
+    "latitude": 31.9314,
+    "planAcces": "https://source.unsplash.com/featured/1200x800/?atlas,mountains,morocco",
+    "email": "contact.errachidia@kenzbladi.ma",
+    "mobile": "+212674403258",
+    "teleFixe": "+212547978700",
+    "fax": "",
+    "web": "https://kenzbladi.ma/lieux/errachidia",
+    "instancesCoordonnee": [],
+    "horaire": [],
+    "contact": [],
+    "coordonnesNumeriques": [],
+    "transports": [],
+    "indications": [],
+    "zones": [],
+    "objetsAssocies": [],
+    "objetsConcernes": []
+  }
+]

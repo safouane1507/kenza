@@ -1,0 +1,122 @@
+[
+  {
+    "_id": {
+      "$oid": "925950062c2247f2e44db555"
+    },
+    "etatObjet": "code-1",
+    "quantiteMaxProduit": 1,
+    "prixInclus": true,
+    "tarifIndicatif": [],
+    "refProduit": {
+      "$oid": "0a6b9a90b7ef5293822377e3"
+    },
+    "produitAssocie": {
+      "$oid": "6066a01e5cb4ec922bb01935"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "9728b2ccb30868580f237770"
+    },
+    "etatObjet": "code-1",
+    "quantiteMaxProduit": 1,
+    "prixInclus": true,
+    "tarifIndicatif": [],
+    "refProduit": {
+      "$oid": "1478825e3619a2b765482221"
+    },
+    "produitAssocie": {
+      "$oid": "012e58ff3c0bd1cf9c3ef442"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "bfe059564a4332a75fd0c131"
+    },
+    "etatObjet": "code-1",
+    "quantiteMaxProduit": 1,
+    "prixInclus": true,
+    "tarifIndicatif": [],
+    "refProduit": {
+      "$oid": "98f8e52f7918acc099d800ce"
+    },
+    "produitAssocie": {
+      "$oid": "b1df570f30e12de9354d3c5c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "47c2d6c0d0c60f24392d5727"
+    },
+    "etatObjet": "code-1",
+    "quantiteMaxProduit": 1,
+    "prixInclus": true,
+    "tarifIndicatif": [],
+    "refProduit": {
+      "$oid": "2662b3d55361dec632d70a4e"
+    },
+    "produitAssocie": {
+      "$oid": "07244524bebe5ace5cdc965f"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "a1a5a6223503463b16db06d4"
+    },
+    "etatObjet": "code-1",
+    "quantiteMaxProduit": 1,
+    "prixInclus": true,
+    "tarifIndicatif": [],
+    "refProduit": {
+      "$oid": "9f4492ebf2e1004d81dcf843"
+    },
+    "produitAssocie": {
+      "$oid": "864ebd0189c71b321e7e17a5"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "7f3178b57373f58afe6da777"
+    },
+    "etatObjet": "code-1",
+    "quantiteMaxProduit": 1,
+    "prixInclus": true,
+    "tarifIndicatif": [],
+    "refProduit": {
+      "$oid": "668c2ff2a17409bc7f0d5339"
+    },
+    "produitAssocie": {
+      "$oid": "edbb5dc48e4af66ec13a8988"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "f26905be5c4a290e3e846c4f"
+    },
+    "etatObjet": "code-1",
+    "quantiteMaxProduit": 1,
+    "prixInclus": true,
+    "tarifIndicatif": [],
+    "refProduit": {
+      "$oid": "e78075ba2bd54591fba6d87b"
+    },
+    "produitAssocie": {
+      "$oid": "95dc8436fe73e1cf3c1b4cca"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6fe855fd33267a234d4917d6"
+    },
+    "etatObjet": "code-1",
+    "quantiteMaxProduit": 1,
+    "prixInclus": true,
+    "tarifIndicatif": [],
+    "refProduit": {
+      "$oid": "35531411c5b094a68d865dac"
+    },
+    "produitAssocie": {
+      "$oid": "b1ecaf96d1634ff82153ba21"
+    }
+  }
+]

@@ -1,0 +1,1096 @@
+[
+  {
+    "_id": {
+      "$oid": "88fa990b78d6486e5f464d75"
+    },
+    "etatObjet": "code-1",
+    "refMembre": "KB-ACT-1000",
+    "translations": [
+      {
+        "language": "fr",
+        "nomOrganisation": "Coopérative Aïn Atlas",
+        "descriptionOrganisation": "Coopérative féminine certifiée bio dédiée à la production d'huile d'olive AOP Tyout-Chiadma."
+      },
+      {
+        "language": "en",
+        "nomOrganisation": "Coopérative Aïn Atlas",
+        "descriptionOrganisation": "Coopérative féminine certifiée bio dédiée à la production d'huile d'olive AOP Tyout-Chiadma."
+      }
+    ],
+    "secteurAcitivite": {
+      "$oid": "69e8ed38c6121d6a80291de0"
+    },
+    "logoOrganisation": "https://source.unsplash.com/featured/1200x800/?dates,palm,morocco",
+    "etatOrganisation": true,
+    "taxonomieOrganisation": {
+      "$oid": "69e8ed38c6121d6a80291de6"
+    },
+    "telephone": "+212689166653",
+    "email": "contact1@coopérativeaïnatlas.ma",
+    "instanseCaracteristique": [],
+    "motivations": [],
+    "protagonisteProtentiels": [],
+    "annuaireActeursPro": {
+      "$oid": "919c56e5b864acd9fbd13368"
+    },
+    "coordonneesLieu": [
+      {
+        "$oid": "e5d4334b943fd96f66429330"
+      }
+    ],
+    "relationsPersonneOrganisation": [],
+    "etats": []
+  },
+  {
+    "_id": {
+      "$oid": "6dd378a158e6ec999f2de9f9"
+    },
+    "etatObjet": "code-1",
+    "refMembre": "KB-ACT-1001",
+    "translations": [
+      {
+        "language": "fr",
+        "nomOrganisation": "Argania Souss",
+        "descriptionOrganisation": "Coopérative d'arganiculture, production éthique d'huile d'argan cosmétique et alimentaire."
+      },
+      {
+        "language": "en",
+        "nomOrganisation": "Argania Souss",
+        "descriptionOrganisation": "Coopérative d'arganiculture, production éthique d'huile d'argan cosmétique et alimentaire."
+      }
+    ],
+    "secteurAcitivite": {
+      "$oid": "69e8ed38c6121d6a80291de0"
+    },
+    "logoOrganisation": "https://source.unsplash.com/featured/1200x800/?morocco,spices,souk",
+    "etatOrganisation": true,
+    "taxonomieOrganisation": {
+      "$oid": "69e8ed38c6121d6a80291e37"
+    },
+    "telephone": "+212627284599",
+    "email": "contact2@arganiasouss.ma",
+    "instanseCaracteristique": [],
+    "motivations": [],
+    "protagonisteProtentiels": [
+      {
+        "$oid": "05ae41400ee66b6937b1c887"
+      }
+    ],
+    "annuaireActeursPro": {
+      "$oid": "7f8c6020d22eacc539e9d195"
+    },
+    "coordonneesLieu": [
+      {
+        "$oid": "e298181ff3970e0f6ae1b32d"
+      }
+    ],
+    "relationsPersonneOrganisation": [],
+    "etats": []
+  },
+  {
+    "_id": {
+      "$oid": "369693854f442abc1401bb5e"
+    },
+    "etatObjet": "code-1",
+    "refMembre": "KB-ACT-1002",
+    "translations": [
+      {
+        "language": "fr",
+        "nomOrganisation": "Miel des Cèdres",
+        "descriptionOrganisation": "Apiculteurs du Moyen Atlas — miels mono-fleurs d'eucalyptus, lavande, oranger."
+      },
+      {
+        "language": "en",
+        "nomOrganisation": "Miel des Cèdres",
+        "descriptionOrganisation": "Apiculteurs du Moyen Atlas — miels mono-fleurs d'eucalyptus, lavande, oranger."
+      }
+    ],
+    "secteurAcitivite": {
+      "$oid": "69e8ed38c6121d6a80291de0"
+    },
+    "logoOrganisation": "https://source.unsplash.com/featured/1200x800/?almonds,morocco,terroir",
+    "etatOrganisation": true,
+    "taxonomieOrganisation": {
+      "$oid": "69e8ed38c6121d6a80291deb"
+    },
+    "telephone": "+212684736927",
+    "email": "contact3@mieldescèdres.ma",
+    "instanseCaracteristique": [],
+    "motivations": [],
+    "protagonisteProtentiels": [],
+    "annuaireActeursPro": {
+      "$oid": "5811fc125d16e52f324b5d56"
+    },
+    "coordonneesLieu": [
+      {
+        "$oid": "c7035b62ac4afff7948f0fcb"
+      }
+    ],
+    "relationsPersonneOrganisation": [],
+    "etats": []
+  },
+  {
+    "_id": {
+      "$oid": "df58a0a6b409bf10489800a3"
+    },
+    "etatObjet": "code-1",
+    "refMembre": "KB-ACT-1003",
+    "translations": [
+      {
+        "language": "fr",
+        "nomOrganisation": "Saveurs de l'Oriental",
+        "descriptionOrganisation": "Maison spécialisée dans les épices fraîches et mélanges Ras El Hanout traditionnels."
+      },
+      {
+        "language": "en",
+        "nomOrganisation": "Saveurs de l'Oriental",
+        "descriptionOrganisation": "Maison spécialisée dans les épices fraîches et mélanges Ras El Hanout traditionnels."
+      }
+    ],
+    "secteurAcitivite": {
+      "$oid": "69e8ed38c6121d6a80291de0"
+    },
+    "logoOrganisation": "https://source.unsplash.com/featured/1200x800/?almonds,morocco,terroir",
+    "etatOrganisation": true,
+    "taxonomieOrganisation": {
+      "$oid": "69e8ed38c6121d6a80291e26"
+    },
+    "telephone": "+212667600305",
+    "email": "contact4@saveursdeloriental.ma",
+    "instanseCaracteristique": [],
+    "motivations": [],
+    "protagonisteProtentiels": [],
+    "annuaireActeursPro": {
+      "$oid": "40bd6fd1aabd7425a437ba8f"
+    },
+    "coordonneesLieu": [
+      {
+        "$oid": "20806b3d18e443d0debc5bf8"
+      }
+    ],
+    "relationsPersonneOrganisation": [],
+    "etats": []
+  },
+  {
+    "_id": {
+      "$oid": "b0b159419ad2e04a11e50803"
+    },
+    "etatObjet": "code-1",
+    "refMembre": "KB-ACT-1004",
+    "translations": [
+      {
+        "language": "fr",
+        "nomOrganisation": "Dates de Tafilalet",
+        "descriptionOrganisation": "Producteur de dattes Mejhoul AOP issues de la palmeraie de Erfoud."
+      },
+      {
+        "language": "en",
+        "nomOrganisation": "Dates de Tafilalet",
+        "descriptionOrganisation": "Producteur de dattes Mejhoul AOP issues de la palmeraie de Erfoud."
+      }
+    ],
+    "secteurAcitivite": {
+      "$oid": "69e8ed38c6121d6a80291de0"
+    },
+    "logoOrganisation": "https://source.unsplash.com/featured/1200x800/?almonds,morocco,terroir",
+    "etatOrganisation": true,
+    "taxonomieOrganisation": {
+      "$oid": "69e8ed38c6121d6a80291e37"
+    },
+    "telephone": "+212655570527",
+    "email": "contact5@datesdetafilalet.ma",
+    "instanseCaracteristique": [],
+    "motivations": [],
+    "protagonisteProtentiels": [],
+    "annuaireActeursPro": {
+      "$oid": "94ef1a2e14b18b954e01e82a"
+    },
+    "coordonneesLieu": [
+      {
+        "$oid": "24c7be859f11162acccbcb8f"
+      }
+    ],
+    "relationsPersonneOrganisation": [],
+    "etats": []
+  },
+  {
+    "_id": {
+      "$oid": "c5e9d9b5e43fad483e9ebdd3"
+    },
+    "etatObjet": "code-1",
+    "refMembre": "KB-ACT-1005",
+    "translations": [
+      {
+        "language": "fr",
+        "nomOrganisation": "Bio Souss",
+        "descriptionOrganisation": "Coopérative de petits agriculteurs bio de la plaine du Souss."
+      },
+      {
+        "language": "en",
+        "nomOrganisation": "Bio Souss",
+        "descriptionOrganisation": "Coopérative de petits agriculteurs bio de la plaine du Souss."
+      }
+    ],
+    "secteurAcitivite": {
+      "$oid": "69e8ed38c6121d6a80291e4f"
+    },
+    "logoOrganisation": "https://source.unsplash.com/featured/1200x800/?seasonal,fruits,morocco",
+    "etatOrganisation": true,
+    "taxonomieOrganisation": {
+      "$oid": "69e8ed38c6121d6a80291e6e"
+    },
+    "telephone": "+212626574508",
+    "email": "contact6@biosouss.ma",
+    "instanseCaracteristique": [],
+    "motivations": [],
+    "protagonisteProtentiels": [],
+    "annuaireActeursPro": {
+      "$oid": "dcea3052bdc1469ed073fc46"
+    },
+    "coordonneesLieu": [
+      {
+        "$oid": "89f80e7cca0a5daf8e91c889"
+      }
+    ],
+    "relationsPersonneOrganisation": [],
+    "etats": []
+  },
+  {
+    "_id": {
+      "$oid": "937c83556f53318d6197fbd1"
+    },
+    "etatObjet": "code-1",
+    "refMembre": "KB-ACT-1006",
+    "translations": [
+      {
+        "language": "fr",
+        "nomOrganisation": "Panier Berbère",
+        "descriptionOrganisation": "Box bio livrées à domicile, agriculture solidaire & paysanne."
+      },
+      {
+        "language": "en",
+        "nomOrganisation": "Panier Berbère",
+        "descriptionOrganisation": "Box bio livrées à domicile, agriculture solidaire & paysanne."
+      }
+    ],
+    "secteurAcitivite": {
+      "$oid": "69e8ed38c6121d6a80291e4f"
+    },
+    "logoOrganisation": "https://source.unsplash.com/featured/1200x800/?seasonal,fruits,morocco",
+    "etatOrganisation": true,
+    "taxonomieOrganisation": {
+      "$oid": "69e8ed38c6121d6a80291e8b"
+    },
+    "telephone": "+212619628112",
+    "email": "contact7@panierberbère.ma",
+    "instanseCaracteristique": [],
+    "motivations": [],
+    "protagonisteProtentiels": [],
+    "annuaireActeursPro": {
+      "$oid": "23952ce440655a634b05769f"
+    },
+    "coordonneesLieu": [
+      {
+        "$oid": "f5f839d43e6b7b8ba5843478"
+      }
+    ],
+    "relationsPersonneOrganisation": [],
+    "etats": []
+  },
+  {
+    "_id": {
+      "$oid": "867789143b8eee574a9b47b8"
+    },
+    "etatObjet": "code-1",
+    "refMembre": "KB-ACT-1007",
+    "translations": [
+      {
+        "language": "fr",
+        "nomOrganisation": "Savonnerie Beldi",
+        "descriptionOrganisation": "Maison artisanale de savons beldi à l'huile d'olive et eucalyptus."
+      },
+      {
+        "language": "en",
+        "nomOrganisation": "Savonnerie Beldi",
+        "descriptionOrganisation": "Maison artisanale de savons beldi à l'huile d'olive et eucalyptus."
+      }
+    ],
+    "secteurAcitivite": {
+      "$oid": "69e8ed38c6121d6a80291ead"
+    },
+    "logoOrganisation": "https://source.unsplash.com/featured/1200x800/?savon,beldi,argan,soap",
+    "etatOrganisation": true,
+    "taxonomieOrganisation": {
+      "$oid": "69e8ed38c6121d6a80291ef0"
+    },
+    "telephone": "+212667286297",
+    "email": "contact8@savonneriebeldi.ma",
+    "instanseCaracteristique": [],
+    "motivations": [],
+    "protagonisteProtentiels": [
+      {
+        "$oid": "30707c74e4d46e9bb56030e2"
+      }
+    ],
+    "annuaireActeursPro": {
+      "$oid": "6b3356f18784b3e8223ac20c"
+    },
+    "coordonneesLieu": [
+      {
+        "$oid": "51a28b22780dcd5c1e45208d"
+      }
+    ],
+    "relationsPersonneOrganisation": [],
+    "etats": []
+  },
+  {
+    "_id": {
+      "$oid": "d6d9ce5fa64c58ec4994d431"
+    },
+    "etatObjet": "code-1",
+    "refMembre": "KB-ACT-1008",
+    "translations": [
+      {
+        "language": "fr",
+        "nomOrganisation": "Rose de Kelaa",
+        "descriptionOrganisation": "Distillerie de la vallée des roses — extraction par alambic traditionnel."
+      },
+      {
+        "language": "en",
+        "nomOrganisation": "Rose de Kelaa",
+        "descriptionOrganisation": "Distillerie de la vallée des roses — extraction par alambic traditionnel."
+      }
+    ],
+    "secteurAcitivite": {
+      "$oid": "69e8ed38c6121d6a80291ead"
+    },
+    "logoOrganisation": "https://source.unsplash.com/featured/1200x800/?essential,oil,morocco,rose",
+    "etatOrganisation": true,
+    "taxonomieOrganisation": {
+      "$oid": "69e8ed38c6121d6a80291ef0"
+    },
+    "telephone": "+212693559785",
+    "email": "contact9@rosedekelaa.ma",
+    "instanseCaracteristique": [],
+    "motivations": [],
+    "protagonisteProtentiels": [],
+    "annuaireActeursPro": {
+      "$oid": "0352776fb95791e9e6daac74"
+    },
+    "coordonneesLieu": [
+      {
+        "$oid": "c7035b62ac4afff7948f0fcb"
+      }
+    ],
+    "relationsPersonneOrganisation": [],
+    "etats": []
+  },
+  {
+    "_id": {
+      "$oid": "0a1f05c13b85505b94df7037"
+    },
+    "etatObjet": "code-1",
+    "refMembre": "KB-ACT-1009",
+    "translations": [
+      {
+        "language": "fr",
+        "nomOrganisation": "Atelier Hammam",
+        "descriptionOrganisation": "Gamme premium ghassoul, savon noir, huile d'argan pour soins corps."
+      },
+      {
+        "language": "en",
+        "nomOrganisation": "Atelier Hammam",
+        "descriptionOrganisation": "Gamme premium ghassoul, savon noir, huile d'argan pour soins corps."
+      }
+    ],
+    "secteurAcitivite": {
+      "$oid": "69e8ed38c6121d6a80291ead"
+    },
+    "logoOrganisation": "https://source.unsplash.com/featured/1200x800/?essential,oil,morocco,rose",
+    "etatOrganisation": true,
+    "taxonomieOrganisation": {
+      "$oid": "69e8ed38c6121d6a80291ef0"
+    },
+    "telephone": "+212637501545",
+    "email": "contact10@atelierhammam.ma",
+    "instanseCaracteristique": [],
+    "motivations": [],
+    "protagonisteProtentiels": [],
+    "annuaireActeursPro": {
+      "$oid": "a06c92f892440cb6da3f467e"
+    },
+    "coordonneesLieu": [
+      {
+        "$oid": "138b58bf66a8fabff5541c14"
+      }
+    ],
+    "relationsPersonneOrganisation": [],
+    "etats": []
+  },
+  {
+    "_id": {
+      "$oid": "e3033a9a5bb5e456a780d594"
+    },
+    "etatObjet": "code-1",
+    "refMembre": "KB-ACT-1010",
+    "translations": [
+      {
+        "language": "fr",
+        "nomOrganisation": "Maison Chebakia",
+        "descriptionOrganisation": "Boulangerie-pâtisserie spécialisée dans les douceurs traditionnelles du ramadan."
+      },
+      {
+        "language": "en",
+        "nomOrganisation": "Maison Chebakia",
+        "descriptionOrganisation": "Boulangerie-pâtisserie spécialisée dans les douceurs traditionnelles du ramadan."
+      }
+    ],
+    "secteurAcitivite": {
+      "$oid": "69e8ed38c6121d6a80291f33"
+    },
+    "logoOrganisation": "https://source.unsplash.com/featured/1200x800/?moroccan,mint,tea",
+    "etatOrganisation": true,
+    "taxonomieOrganisation": {
+      "$oid": "69e8ed38c6121d6a80291f6a"
+    },
+    "telephone": "+212693744722",
+    "email": "contact11@maisonchebakia.ma",
+    "instanseCaracteristique": [],
+    "motivations": [],
+    "protagonisteProtentiels": [
+      {
+        "$oid": "680c7a348dd6d20e91134551"
+      }
+    ],
+    "annuaireActeursPro": {
+      "$oid": "1aef25c8e0cdc7807fe22049"
+    },
+    "coordonneesLieu": [
+      {
+        "$oid": "138b58bf66a8fabff5541c14"
+      }
+    ],
+    "relationsPersonneOrganisation": [],
+    "etats": []
+  },
+  {
+    "_id": {
+      "$oid": "41e6a9883d52aa53c28f5368"
+    },
+    "etatObjet": "code-1",
+    "refMembre": "KB-ACT-1011",
+    "translations": [
+      {
+        "language": "fr",
+        "nomOrganisation": "Khobz Dial Dar",
+        "descriptionOrganisation": "Boulangerie traditionnelle au four communautaire — khobz, batbout, msemen."
+      },
+      {
+        "language": "en",
+        "nomOrganisation": "Khobz Dial Dar",
+        "descriptionOrganisation": "Boulangerie traditionnelle au four communautaire — khobz, batbout, msemen."
+      }
+    ],
+    "secteurAcitivite": {
+      "$oid": "69e8ed38c6121d6a80291f33"
+    },
+    "logoOrganisation": "https://source.unsplash.com/featured/1200x800/?moroccan,mint,tea",
+    "etatOrganisation": true,
+    "taxonomieOrganisation": {
+      "$oid": "69e8ed38c6121d6a80291f34"
+    },
+    "telephone": "+212697558316",
+    "email": "contact12@khobzdialdar.ma",
+    "instanseCaracteristique": [],
+    "motivations": [],
+    "protagonisteProtentiels": [],
+    "annuaireActeursPro": {
+      "$oid": "4ccd1aec6467fabf1cba1b6e"
+    },
+    "coordonneesLieu": [
+      {
+        "$oid": "0fda03d07dd5cc145829aa36"
+      }
+    ],
+    "relationsPersonneOrganisation": [],
+    "etats": []
+  },
+  {
+    "_id": {
+      "$oid": "efcb2b93406bf48d04427eb9"
+    },
+    "etatObjet": "code-1",
+    "refMembre": "KB-ACT-1012",
+    "translations": [
+      {
+        "language": "fr",
+        "nomOrganisation": "Atay Lmaghribi",
+        "descriptionOrganisation": "Sélection de thé vert Chinois, menthe Nanaa et infusions de plantes aromatiques."
+      },
+      {
+        "language": "en",
+        "nomOrganisation": "Atay Lmaghribi",
+        "descriptionOrganisation": "Sélection de thé vert Chinois, menthe Nanaa et infusions de plantes aromatiques."
+      }
+    ],
+    "secteurAcitivite": {
+      "$oid": "69e8ed38c6121d6a80291f33"
+    },
+    "logoOrganisation": "https://source.unsplash.com/featured/1200x800/?moroccan,mint,tea",
+    "etatOrganisation": true,
+    "taxonomieOrganisation": {
+      "$oid": "69e8ed38c6121d6a80291f53"
+    },
+    "telephone": "+212610600828",
+    "email": "contact13@ataylmaghribi.ma",
+    "instanseCaracteristique": [],
+    "motivations": [],
+    "protagonisteProtentiels": [],
+    "annuaireActeursPro": {
+      "$oid": "cbba9fbfedb13dc3f8d4e56d"
+    },
+    "coordonneesLieu": [
+      {
+        "$oid": "c7035b62ac4afff7948f0fcb"
+      }
+    ],
+    "relationsPersonneOrganisation": [],
+    "etats": []
+  },
+  {
+    "_id": {
+      "$oid": "20b4b06bcc1c423a7df32e37"
+    },
+    "etatObjet": "code-1",
+    "refMembre": "KB-ACT-1013",
+    "translations": [
+      {
+        "language": "fr",
+        "nomOrganisation": "Tapis du Haut Atlas",
+        "descriptionOrganisation": "Coopérative féminine de tisserandes Aït Ouaouzguite — tapis noués main."
+      },
+      {
+        "language": "en",
+        "nomOrganisation": "Tapis du Haut Atlas",
+        "descriptionOrganisation": "Coopérative féminine de tisserandes Aït Ouaouzguite — tapis noués main."
+      }
+    ],
+    "secteurAcitivite": {
+      "$oid": "69e8ed38c6121d6a80291f82"
+    },
+    "logoOrganisation": "https://source.unsplash.com/featured/1200x800/?safi,morocco,pottery,ceramic",
+    "etatOrganisation": true,
+    "taxonomieOrganisation": {
+      "$oid": "69e8ed38c6121d6a80291fbb"
+    },
+    "telephone": "+212633652445",
+    "email": "contact14@tapisduhautatlas.ma",
+    "instanseCaracteristique": [],
+    "motivations": [],
+    "protagonisteProtentiels": [
+      {
+        "$oid": "ecabd9e27957c632704df88a"
+      }
+    ],
+    "annuaireActeursPro": {
+      "$oid": "7651e4e1c03bca86d2eb60d2"
+    },
+    "coordonneesLieu": [
+      {
+        "$oid": "89f80e7cca0a5daf8e91c889"
+      }
+    ],
+    "relationsPersonneOrganisation": [],
+    "etats": []
+  },
+  {
+    "_id": {
+      "$oid": "9ee61edf331712db2db81648"
+    },
+    "etatObjet": "code-1",
+    "refMembre": "KB-ACT-1014",
+    "translations": [
+      {
+        "language": "fr",
+        "nomOrganisation": "Poteries de Safi",
+        "descriptionOrganisation": "Maître-potier de Safi — assiettes, tagines et plats peints à la main."
+      },
+      {
+        "language": "en",
+        "nomOrganisation": "Poteries de Safi",
+        "descriptionOrganisation": "Maître-potier de Safi — assiettes, tagines et plats peints à la main."
+      }
+    ],
+    "secteurAcitivite": {
+      "$oid": "69e8ed38c6121d6a80291f82"
+    },
+    "logoOrganisation": "https://source.unsplash.com/featured/1200x800/?moroccan,furniture,artisan",
+    "etatOrganisation": true,
+    "taxonomieOrganisation": {
+      "$oid": "69e8ed38c6121d6a80291fae"
+    },
+    "telephone": "+212638222094",
+    "email": "contact15@poteriesdesafi.ma",
+    "instanseCaracteristique": [],
+    "motivations": [],
+    "protagonisteProtentiels": [
+      {
+        "$oid": "8c1ea98e4f84c852400be0a8"
+      },
+      {
+        "$oid": "cf959ecd9f510b3b8a3ba1c8"
+      }
+    ],
+    "annuaireActeursPro": {
+      "$oid": "0409a701edc2d9d8df7ff624"
+    },
+    "coordonneesLieu": [
+      {
+        "$oid": "24c7be859f11162acccbcb8f"
+      }
+    ],
+    "relationsPersonneOrganisation": [],
+    "etats": []
+  },
+  {
+    "_id": {
+      "$oid": "bdd62512382a9120dd5a87a2"
+    },
+    "etatObjet": "code-1",
+    "refMembre": "KB-ACT-1015",
+    "translations": [
+      {
+        "language": "fr",
+        "nomOrganisation": "Maroquinerie de Fès",
+        "descriptionOrganisation": "Atelier familial de maroquinerie tannée aux tanneries Chouara."
+      },
+      {
+        "language": "en",
+        "nomOrganisation": "Maroquinerie de Fès",
+        "descriptionOrganisation": "Atelier familial de maroquinerie tannée aux tanneries Chouara."
+      }
+    ],
+    "secteurAcitivite": {
+      "$oid": "69e8ed38c6121d6a80291f82"
+    },
+    "logoOrganisation": "https://source.unsplash.com/featured/1200x800/?moroccan,tableware,ceramic",
+    "etatOrganisation": true,
+    "taxonomieOrganisation": {
+      "$oid": "69e8ed38c6121d6a80291f90"
+    },
+    "telephone": "+212677849040",
+    "email": "contact16@maroquineriedefès.ma",
+    "instanseCaracteristique": [],
+    "motivations": [],
+    "protagonisteProtentiels": [
+      {
+        "$oid": "37f56c1a0d1c61c9378213c5"
+      },
+      {
+        "$oid": "4320c93e802a9bb66d548e77"
+      }
+    ],
+    "annuaireActeursPro": {
+      "$oid": "26710da1cd6cce68c44c8517"
+    },
+    "coordonneesLieu": [
+      {
+        "$oid": "47619f4b14d74e7789b07b09"
+      }
+    ],
+    "relationsPersonneOrganisation": [],
+    "etats": []
+  },
+  {
+    "_id": {
+      "$oid": "a7ce1a997e3b34023e86385d"
+    },
+    "etatObjet": "code-1",
+    "refMembre": "KB-ACT-1016",
+    "translations": [
+      {
+        "language": "fr",
+        "nomOrganisation": "Vannerie de l'Oriental",
+        "descriptionOrganisation": "Artisans tisseurs de paniers, sets de table et chapeaux."
+      },
+      {
+        "language": "en",
+        "nomOrganisation": "Vannerie de l'Oriental",
+        "descriptionOrganisation": "Artisans tisseurs de paniers, sets de table et chapeaux."
+      }
+    ],
+    "secteurAcitivite": {
+      "$oid": "69e8ed38c6121d6a80291f82"
+    },
+    "logoOrganisation": "https://source.unsplash.com/featured/1200x800/?moroccan,furniture,artisan",
+    "etatOrganisation": true,
+    "taxonomieOrganisation": {
+      "$oid": "69e8ed38c6121d6a80291f83"
+    },
+    "telephone": "+212624864570",
+    "email": "contact17@vanneriedeloriental.ma",
+    "instanseCaracteristique": [],
+    "motivations": [],
+    "protagonisteProtentiels": [],
+    "annuaireActeursPro": {
+      "$oid": "1d790a6a2492844a8a1624e6"
+    },
+    "coordonneesLieu": [
+      {
+        "$oid": "20806b3d18e443d0debc5bf8"
+      }
+    ],
+    "relationsPersonneOrganisation": [],
+    "etats": []
+  },
+  {
+    "_id": {
+      "$oid": "b12803695779e12388199792"
+    },
+    "etatObjet": "code-1",
+    "refMembre": "KB-ACT-1017",
+    "translations": [
+      {
+        "language": "fr",
+        "nomOrganisation": "Riad du Terroir",
+        "descriptionOrganisation": "Maison d'hôtes bio, circuit court, expériences immersives."
+      },
+      {
+        "language": "en",
+        "nomOrganisation": "Riad du Terroir",
+        "descriptionOrganisation": "Maison d'hôtes bio, circuit court, expériences immersives."
+      }
+    ],
+    "secteurAcitivite": {
+      "$oid": "69e8ed38c6121d6a80291fcc"
+    },
+    "logoOrganisation": "https://source.unsplash.com/featured/1200x800/?hiking,morocco,toubkal",
+    "etatOrganisation": true,
+    "taxonomieOrganisation": {
+      "$oid": "69e8ed38c6121d6a80291fe8"
+    },
+    "telephone": "+212666429670",
+    "email": "contact18@riadduterroir.ma",
+    "instanseCaracteristique": [],
+    "motivations": [],
+    "protagonisteProtentiels": [
+      {
+        "$oid": "4150aa77ea4286387f3803c0"
+      }
+    ],
+    "annuaireActeursPro": {
+      "$oid": "3f768f6d3d4aaa69c7f2e0d7"
+    },
+    "coordonneesLieu": [
+      {
+        "$oid": "5638a7814e7569320fcc0246"
+      }
+    ],
+    "relationsPersonneOrganisation": [],
+    "etats": []
+  },
+  {
+    "_id": {
+      "$oid": "89c2fcc35ad399f84d1ed565"
+    },
+    "etatObjet": "code-1",
+    "refMembre": "KB-ACT-1018",
+    "translations": [
+      {
+        "language": "fr",
+        "nomOrganisation": "Trek Atlas Authentique",
+        "descriptionOrganisation": "Guides de montagne brevetés — Toubkal, M'goun, Saghro."
+      },
+      {
+        "language": "en",
+        "nomOrganisation": "Trek Atlas Authentique",
+        "descriptionOrganisation": "Guides de montagne brevetés — Toubkal, M'goun, Saghro."
+      }
+    ],
+    "secteurAcitivite": {
+      "$oid": "69e8ed38c6121d6a80291fcc"
+    },
+    "logoOrganisation": "https://source.unsplash.com/featured/1200x800/?hiking,morocco,toubkal",
+    "etatOrganisation": true,
+    "taxonomieOrganisation": {
+      "$oid": "69e8ed38c6121d6a80291fe8"
+    },
+    "telephone": "+212631453611",
+    "email": "contact19@trekatlasauthentique.ma",
+    "instanseCaracteristique": [],
+    "motivations": [],
+    "protagonisteProtentiels": [
+      {
+        "$oid": "c917fad0328b3c3bd755ee66"
+      },
+      {
+        "$oid": "d39d9be3529fd733a5a0cd55"
+      },
+      {
+        "$oid": "c95da845b4f9781f96599ad4"
+      }
+    ],
+    "annuaireActeursPro": {
+      "$oid": "f0d883ed905c59ff33f5c3a9"
+    },
+    "coordonneesLieu": [
+      {
+        "$oid": "f5f839d43e6b7b8ba5843478"
+      }
+    ],
+    "relationsPersonneOrganisation": [],
+    "etats": []
+  },
+  {
+    "_id": {
+      "$oid": "042fc5dc1e4909a2ee66ac83"
+    },
+    "etatObjet": "code-1",
+    "refMembre": "KB-ACT-1019",
+    "translations": [
+      {
+        "language": "fr",
+        "nomOrganisation": "Caftan & Dar",
+        "descriptionOrganisation": "Maison de couture marocaine — caftans, takchitas et jelaba sur mesure."
+      },
+      {
+        "language": "en",
+        "nomOrganisation": "Caftan & Dar",
+        "descriptionOrganisation": "Maison de couture marocaine — caftans, takchitas et jelaba sur mesure."
+      }
+    ],
+    "secteurAcitivite": {
+      "$oid": "69e8ed38c6121d6a80292008"
+    },
+    "logoOrganisation": "https://source.unsplash.com/featured/1200x800/?babouches,morocco,leather",
+    "etatOrganisation": true,
+    "taxonomieOrganisation": {
+      "$oid": "69e8ed38c6121d6a80292009"
+    },
+    "telephone": "+212637116537",
+    "email": "contact20@caftan&dar.ma",
+    "instanseCaracteristique": [],
+    "motivations": [],
+    "protagonisteProtentiels": [],
+    "annuaireActeursPro": {
+      "$oid": "ae92e23f2b8459ccb258bc8b"
+    },
+    "coordonneesLieu": [
+      {
+        "$oid": "69323205f5d1393e4a09cbb8"
+      }
+    ],
+    "relationsPersonneOrganisation": [],
+    "etats": []
+  },
+  {
+    "_id": {
+      "$oid": "e7d10027a873607b5d606765"
+    },
+    "etatObjet": "code-1",
+    "refMembre": "KB-ACT-1020",
+    "translations": [
+      {
+        "language": "fr",
+        "nomOrganisation": "Babouches d'Imintanout",
+        "descriptionOrganisation": "Atelier de babouches brodées main pour homme et femme."
+      },
+      {
+        "language": "en",
+        "nomOrganisation": "Babouches d'Imintanout",
+        "descriptionOrganisation": "Atelier de babouches brodées main pour homme et femme."
+      }
+    ],
+    "secteurAcitivite": {
+      "$oid": "69e8ed38c6121d6a80292008"
+    },
+    "logoOrganisation": "https://source.unsplash.com/featured/1200x800/?kaftan,moroccan,fashion",
+    "etatOrganisation": true,
+    "taxonomieOrganisation": {
+      "$oid": "69e8ed38c6121d6a80292032"
+    },
+    "telephone": "+212650061993",
+    "email": "contact21@babouchesdimintanout.ma",
+    "instanseCaracteristique": [],
+    "motivations": [],
+    "protagonisteProtentiels": [],
+    "annuaireActeursPro": {
+      "$oid": "2b4bf291727aa3cc37eaab5a"
+    },
+    "coordonneesLieu": [
+      {
+        "$oid": "89f80e7cca0a5daf8e91c889"
+      }
+    ],
+    "relationsPersonneOrganisation": [],
+    "etats": []
+  },
+  {
+    "_id": {
+      "$oid": "d9ddb2e4581fafebc0f84ab4"
+    },
+    "etatObjet": "code-1",
+    "refMembre": "KB-ACT-1021",
+    "translations": [
+      {
+        "language": "fr",
+        "nomOrganisation": "Pêcheurs d'Essaouira",
+        "descriptionOrganisation": "Coopérative de pêche artisanale — port d'Essaouira."
+      },
+      {
+        "language": "en",
+        "nomOrganisation": "Pêcheurs d'Essaouira",
+        "descriptionOrganisation": "Coopérative de pêche artisanale — port d'Essaouira."
+      }
+    ],
+    "secteurAcitivite": {
+      "$oid": "69e8ed38c6121d6a8029204e"
+    },
+    "logoOrganisation": "https://source.unsplash.com/featured/1200x800/?morocco,sardines,fish,market",
+    "etatOrganisation": true,
+    "taxonomieOrganisation": {
+      "$oid": "69e8ed38c6121d6a80292064"
+    },
+    "telephone": "+212633938279",
+    "email": "contact22@pêcheursdessaouira.ma",
+    "instanseCaracteristique": [],
+    "motivations": [],
+    "protagonisteProtentiels": [],
+    "annuaireActeursPro": {
+      "$oid": "eb0e2ff2ca1de66d819e14a0"
+    },
+    "coordonneesLieu": [
+      {
+        "$oid": "138b58bf66a8fabff5541c14"
+      }
+    ],
+    "relationsPersonneOrganisation": [],
+    "etats": []
+  },
+  {
+    "_id": {
+      "$oid": "dd42a313db06f6a9961270ae"
+    },
+    "etatObjet": "code-1",
+    "refMembre": "KB-ACT-1022",
+    "translations": [
+      {
+        "language": "fr",
+        "nomOrganisation": "Conserverie Atlantique",
+        "descriptionOrganisation": "Conserverie historique — sardines à l'huile, anchois, makrelle."
+      },
+      {
+        "language": "en",
+        "nomOrganisation": "Conserverie Atlantique",
+        "descriptionOrganisation": "Conserverie historique — sardines à l'huile, anchois, makrelle."
+      }
+    ],
+    "secteurAcitivite": {
+      "$oid": "69e8ed38c6121d6a8029204e"
+    },
+    "logoOrganisation": "https://source.unsplash.com/featured/1200x800/?conserves,morocco,sardines",
+    "etatOrganisation": true,
+    "taxonomieOrganisation": {
+      "$oid": "69e8ed38c6121d6a8029204f"
+    },
+    "telephone": "+212625849624",
+    "email": "contact23@conserverieatlantique.ma",
+    "instanseCaracteristique": [],
+    "motivations": [],
+    "protagonisteProtentiels": [],
+    "annuaireActeursPro": {
+      "$oid": "4708b2e0a09ffa1775daea2a"
+    },
+    "coordonneesLieu": [
+      {
+        "$oid": "f5f839d43e6b7b8ba5843478"
+      }
+    ],
+    "relationsPersonneOrganisation": [],
+    "etats": []
+  },
+  {
+    "_id": {
+      "$oid": "6d9c852d5827f225a5cca121"
+    },
+    "etatObjet": "code-1",
+    "refMembre": "KB-ACT-1023",
+    "translations": [
+      {
+        "language": "fr",
+        "nomOrganisation": "Oualidia Coquillages",
+        "descriptionOrganisation": "Aquaculture durable — huîtres creuses, moules, palourdes de la lagune."
+      },
+      {
+        "language": "en",
+        "nomOrganisation": "Oualidia Coquillages",
+        "descriptionOrganisation": "Aquaculture durable — huîtres creuses, moules, palourdes de la lagune."
+      }
+    ],
+    "secteurAcitivite": {
+      "$oid": "69e8ed38c6121d6a8029204e"
+    },
+    "logoOrganisation": "https://source.unsplash.com/featured/1200x800/?conserves,morocco,sardines",
+    "etatOrganisation": true,
+    "taxonomieOrganisation": {
+      "$oid": "69e8ed38c6121d6a8029204f"
+    },
+    "telephone": "+212649178375",
+    "email": "contact24@oualidiacoquillages.ma",
+    "instanseCaracteristique": [],
+    "motivations": [],
+    "protagonisteProtentiels": [],
+    "annuaireActeursPro": {
+      "$oid": "336cedb752b9710516c75406"
+    },
+    "coordonneesLieu": [
+      {
+        "$oid": "c7035b62ac4afff7948f0fcb"
+      }
+    ],
+    "relationsPersonneOrganisation": [],
+    "etats": []
+  },
+  {
+    "_id": {
+      "$oid": "a257e801a6606b868c1f248d"
+    },
+    "etatObjet": "code-1",
+    "refMembre": "KB-ACT-1024",
+    "translations": [
+      {
+        "language": "fr",
+        "nomOrganisation": "Patrimoine Vivant",
+        "descriptionOrganisation": "Circuits autour des médinas, ksours et savoir-faire ancestraux."
+      },
+      {
+        "language": "en",
+        "nomOrganisation": "Patrimoine Vivant",
+        "descriptionOrganisation": "Circuits autour des médinas, ksours et savoir-faire ancestraux."
+      }
+    ],
+    "secteurAcitivite": {
+      "$oid": "69e8ed38c6121d6a80291fcc"
+    },
+    "logoOrganisation": "https://source.unsplash.com/featured/1200x800/?atlas,mountains,morocco",
+    "etatOrganisation": true,
+    "taxonomieOrganisation": {
+      "$oid": "69e8ed38c6121d6a80291fdc"
+    },
+    "telephone": "+212650196424",
+    "email": "contact25@patrimoinevivant.ma",
+    "instanseCaracteristique": [],
+    "motivations": [],
+    "protagonisteProtentiels": [],
+    "annuaireActeursPro": {
+      "$oid": "772982b274ceb391e1069f0f"
+    },
+    "coordonneesLieu": [
+      {
+        "$oid": "c7035b62ac4afff7948f0fcb"
+      }
+    ],
+    "relationsPersonneOrganisation": [],
+    "etats": []
+  }
+]

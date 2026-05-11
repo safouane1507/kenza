@@ -1,0 +1,1082 @@
+[
+  {
+    "_id": {
+      "$oid": "8ebbd2e711c00bac978a1cb1"
+    },
+    "etatObjet": "code-1",
+    "typecodage": "code_QR",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?argan,oil,morocco",
+    "codeOuFrequenceAssocie": "KB-5BF39B",
+    "produitAssocie": {
+      "$oid": "e4f5f7a70ac16a444c109f33"
+    },
+    "instanceActeurAssocie": [
+      {
+        "$oid": "919c56e5b864acd9fbd13368"
+      }
+    ],
+    "indicationDuStockAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "22dd55a50bb951e045c8c108"
+    },
+    "etatObjet": "code-1",
+    "typecodage": "code_QR",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?morocco,spices,souk",
+    "codeOuFrequenceAssocie": "KB-E6B128",
+    "produitAssocie": {
+      "$oid": "0a6b9a90b7ef5293822377e3"
+    },
+    "instanceActeurAssocie": [
+      {
+        "$oid": "919c56e5b864acd9fbd13368"
+      }
+    ],
+    "indicationDuStockAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "7e64f4b0051a3fed39715a8a"
+    },
+    "etatObjet": "code-1",
+    "typecodage": "code_QR",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?morocco,olive,oil,bottle",
+    "codeOuFrequenceAssocie": "KB-02D933",
+    "produitAssocie": {
+      "$oid": "4ce6f68892a9ceab00b40f8d"
+    },
+    "instanceActeurAssocie": [
+      {
+        "$oid": "7f8c6020d22eacc539e9d195"
+      }
+    ],
+    "indicationDuStockAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "ca4a8eb9ee32d97e60fed2dd"
+    },
+    "etatObjet": "code-1",
+    "typecodage": "code_QR",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?dates,palm,morocco",
+    "codeOuFrequenceAssocie": "KB-3856CA",
+    "produitAssocie": {
+      "$oid": "3d6263c403de355e9dc2cab9"
+    },
+    "instanceActeurAssocie": [
+      {
+        "$oid": "7f8c6020d22eacc539e9d195"
+      }
+    ],
+    "indicationDuStockAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "c2d980a757c89921cd750c2a"
+    },
+    "etatObjet": "code-1",
+    "typecodage": "code_QR",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?morocco,olive,oil,bottle",
+    "codeOuFrequenceAssocie": "KB-0E67C0",
+    "produitAssocie": {
+      "$oid": "e9ce59d1b2d44f6a088ecd7d"
+    },
+    "instanceActeurAssocie": [
+      {
+        "$oid": "5811fc125d16e52f324b5d56"
+      }
+    ],
+    "indicationDuStockAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "3801cdf49786ef2f1233acfd"
+    },
+    "etatObjet": "code-1",
+    "typecodage": "code_QR",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?almonds,morocco,terroir",
+    "codeOuFrequenceAssocie": "KB-C332D9",
+    "produitAssocie": {
+      "$oid": "ed34bb02c63a0f6a29667c49"
+    },
+    "instanceActeurAssocie": [
+      {
+        "$oid": "5811fc125d16e52f324b5d56"
+      }
+    ],
+    "indicationDuStockAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "4ede391250e070e874577117"
+    },
+    "etatObjet": "code-1",
+    "typecodage": "code_QR",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?argan,oil,morocco",
+    "codeOuFrequenceAssocie": "KB-2C5ABE",
+    "produitAssocie": {
+      "$oid": "ccc54a0be1b34f436c47a9b7"
+    },
+    "instanceActeurAssocie": [
+      {
+        "$oid": "5811fc125d16e52f324b5d56"
+      }
+    ],
+    "indicationDuStockAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "b8bea69aefe5ad9abd7cfc80"
+    },
+    "etatObjet": "code-1",
+    "typecodage": "code_QR",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?dates,palm,morocco",
+    "codeOuFrequenceAssocie": "KB-4BE6FF",
+    "produitAssocie": {
+      "$oid": "55f37d6d93c3dc43328c53ae"
+    },
+    "instanceActeurAssocie": [
+      {
+        "$oid": "40bd6fd1aabd7425a437ba8f"
+      }
+    ],
+    "indicationDuStockAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "c755ce3464358653d8d255f2"
+    },
+    "etatObjet": "code-1",
+    "typecodage": "code_QR",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?honey,jar,morocco,artisan",
+    "codeOuFrequenceAssocie": "KB-625B85",
+    "produitAssocie": {
+      "$oid": "9777eda660a4da612b0e65a8"
+    },
+    "instanceActeurAssocie": [
+      {
+        "$oid": "40bd6fd1aabd7425a437ba8f"
+      }
+    ],
+    "indicationDuStockAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "8ee5381cb61ea752fe222a96"
+    },
+    "etatObjet": "code-1",
+    "typecodage": "code_QR",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?honey,jar,morocco,artisan",
+    "codeOuFrequenceAssocie": "KB-FD4C83",
+    "produitAssocie": {
+      "$oid": "1478825e3619a2b765482221"
+    },
+    "instanceActeurAssocie": [
+      {
+        "$oid": "94ef1a2e14b18b954e01e82a"
+      }
+    ],
+    "indicationDuStockAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "2e8e1f2fc73c3f828edf2edb"
+    },
+    "etatObjet": "code-1",
+    "typecodage": "code_QR",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?morocco,spices,souk",
+    "codeOuFrequenceAssocie": "KB-0C5224",
+    "produitAssocie": {
+      "$oid": "df28d885880ba78cc2399db4"
+    },
+    "instanceActeurAssocie": [
+      {
+        "$oid": "94ef1a2e14b18b954e01e82a"
+      }
+    ],
+    "indicationDuStockAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "b72a6d53c872cd30edf4eb95"
+    },
+    "etatObjet": "code-1",
+    "typecodage": "code_QR",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?morocco,olive,oil,bottle",
+    "codeOuFrequenceAssocie": "KB-69F818",
+    "produitAssocie": {
+      "$oid": "be1275cde9f43405b75b7f27"
+    },
+    "instanceActeurAssocie": [
+      {
+        "$oid": "94ef1a2e14b18b954e01e82a"
+      }
+    ],
+    "indicationDuStockAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "42e4a5edb1308a9a49acd399"
+    },
+    "etatObjet": "code-1",
+    "typecodage": "code_QR",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?dates,palm,morocco",
+    "codeOuFrequenceAssocie": "KB-CF2343",
+    "produitAssocie": {
+      "$oid": "04a0018b18f20a3ee871f325"
+    },
+    "instanceActeurAssocie": [
+      {
+        "$oid": "94ef1a2e14b18b954e01e82a"
+      }
+    ],
+    "indicationDuStockAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "6d8a842ccec7c7595be9866c"
+    },
+    "etatObjet": "code-1",
+    "typecodage": "code_QR",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?organic,vegetables,morocco",
+    "codeOuFrequenceAssocie": "KB-045934",
+    "produitAssocie": {
+      "$oid": "a3ddb7ae6a7f65934ca3646c"
+    },
+    "instanceActeurAssocie": [
+      {
+        "$oid": "dcea3052bdc1469ed073fc46"
+      }
+    ],
+    "indicationDuStockAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "a6e26fc9dea372b6c3cbac9d"
+    },
+    "etatObjet": "code-1",
+    "typecodage": "code_QR",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?couscous,morocco",
+    "codeOuFrequenceAssocie": "KB-F67D7A",
+    "produitAssocie": {
+      "$oid": "e1dfbffe8ef6315a1e4acfcb"
+    },
+    "instanceActeurAssocie": [
+      {
+        "$oid": "dcea3052bdc1469ed073fc46"
+      }
+    ],
+    "indicationDuStockAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "fcbef765937ef0fcee7f3eba"
+    },
+    "etatObjet": "code-1",
+    "typecodage": "code_QR",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?seasonal,fruits,morocco",
+    "codeOuFrequenceAssocie": "KB-7EBD99",
+    "produitAssocie": {
+      "$oid": "a58b00562153ab4013d78ae1"
+    },
+    "instanceActeurAssocie": [
+      {
+        "$oid": "23952ce440655a634b05769f"
+      }
+    ],
+    "indicationDuStockAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "6680057d452a0b8bb98912f3"
+    },
+    "etatObjet": "code-1",
+    "typecodage": "code_QR",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?organic,vegetables,morocco",
+    "codeOuFrequenceAssocie": "KB-7FD094",
+    "produitAssocie": {
+      "$oid": "7c026ef2ea8df27c55524005"
+    },
+    "instanceActeurAssocie": [
+      {
+        "$oid": "23952ce440655a634b05769f"
+      }
+    ],
+    "indicationDuStockAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "7b28d0a404c4465eec93c1e9"
+    },
+    "etatObjet": "code-1",
+    "typecodage": "code_QR",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?hammam,morocco,spa",
+    "codeOuFrequenceAssocie": "KB-97884E",
+    "produitAssocie": {
+      "$oid": "98f8e52f7918acc099d800ce"
+    },
+    "instanceActeurAssocie": [
+      {
+        "$oid": "6b3356f18784b3e8223ac20c"
+      }
+    ],
+    "indicationDuStockAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "902a5023f3be8afba66f3df0"
+    },
+    "etatObjet": "code-1",
+    "typecodage": "code_QR",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?essential,oil,morocco,rose",
+    "codeOuFrequenceAssocie": "KB-FF48C7",
+    "produitAssocie": {
+      "$oid": "dbeb5f07b8f3a44d20a14b9a"
+    },
+    "instanceActeurAssocie": [
+      {
+        "$oid": "6b3356f18784b3e8223ac20c"
+      }
+    ],
+    "indicationDuStockAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "9380770293f778fa9070c261"
+    },
+    "etatObjet": "code-1",
+    "typecodage": "code_QR",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?savon,beldi,argan,soap",
+    "codeOuFrequenceAssocie": "KB-B7EE07",
+    "produitAssocie": {
+      "$oid": "e9aff9a787f3d8281e527be3"
+    },
+    "instanceActeurAssocie": [
+      {
+        "$oid": "6b3356f18784b3e8223ac20c"
+      }
+    ],
+    "indicationDuStockAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "dafb345b100ba3beeb665c5e"
+    },
+    "etatObjet": "code-1",
+    "typecodage": "code_QR",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?morocco,beauty,natural",
+    "codeOuFrequenceAssocie": "KB-216908",
+    "produitAssocie": {
+      "$oid": "625a53f16d0f6dbe6824f9d8"
+    },
+    "instanceActeurAssocie": [
+      {
+        "$oid": "6b3356f18784b3e8223ac20c"
+      }
+    ],
+    "indicationDuStockAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "fcaa4d3655d8389459109f40"
+    },
+    "etatObjet": "code-1",
+    "typecodage": "code_QR",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?savon,beldi,argan,soap",
+    "codeOuFrequenceAssocie": "KB-191B7C",
+    "produitAssocie": {
+      "$oid": "846d4161d60ffa49741694aa"
+    },
+    "instanceActeurAssocie": [
+      {
+        "$oid": "0352776fb95791e9e6daac74"
+      }
+    ],
+    "indicationDuStockAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "1aff0f6e7d8fe595269fbecb"
+    },
+    "etatObjet": "code-1",
+    "typecodage": "code_QR",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?morocco,beauty,natural",
+    "codeOuFrequenceAssocie": "KB-89F7B1",
+    "produitAssocie": {
+      "$oid": "329b7b6449163ffd9e6d51f4"
+    },
+    "instanceActeurAssocie": [
+      {
+        "$oid": "0352776fb95791e9e6daac74"
+      }
+    ],
+    "indicationDuStockAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "a10fd56d5235780a4c76b0ab"
+    },
+    "etatObjet": "code-1",
+    "typecodage": "code_QR",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?hammam,morocco,spa",
+    "codeOuFrequenceAssocie": "KB-50933A",
+    "produitAssocie": {
+      "$oid": "2fa38f5015521737f0b69bf1"
+    },
+    "instanceActeurAssocie": [
+      {
+        "$oid": "a06c92f892440cb6da3f467e"
+      }
+    ],
+    "indicationDuStockAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "97bf98152d222898d44814e8"
+    },
+    "etatObjet": "code-1",
+    "typecodage": "code_QR",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?morocco,beauty,natural",
+    "codeOuFrequenceAssocie": "KB-999F92",
+    "produitAssocie": {
+      "$oid": "e85a5e009678a4f9c4fa5d37"
+    },
+    "instanceActeurAssocie": [
+      {
+        "$oid": "a06c92f892440cb6da3f467e"
+      }
+    ],
+    "indicationDuStockAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "7a7dcbaeaa8e0b3d4a35ce4e"
+    },
+    "etatObjet": "code-1",
+    "typecodage": "code_QR",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?essential,oil,morocco,rose",
+    "codeOuFrequenceAssocie": "KB-01FF70",
+    "produitAssocie": {
+      "$oid": "2662b3d55361dec632d70a4e"
+    },
+    "instanceActeurAssocie": [
+      {
+        "$oid": "a06c92f892440cb6da3f467e"
+      }
+    ],
+    "indicationDuStockAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "9b75600b2c0e0b36c77562ad"
+    },
+    "etatObjet": "code-1",
+    "typecodage": "code_QR",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?moroccan,patisserie,sweets",
+    "codeOuFrequenceAssocie": "KB-250898",
+    "produitAssocie": {
+      "$oid": "446d4f5966602eacee083521"
+    },
+    "instanceActeurAssocie": [
+      {
+        "$oid": "1aef25c8e0cdc7807fe22049"
+      }
+    ],
+    "indicationDuStockAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "c0fdc2a0a0bf42ea5d95ea1d"
+    },
+    "etatObjet": "code-1",
+    "typecodage": "code_QR",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?moroccan,mint,tea",
+    "codeOuFrequenceAssocie": "KB-19DCDF",
+    "produitAssocie": {
+      "$oid": "19158e481bc84541f782c947"
+    },
+    "instanceActeurAssocie": [
+      {
+        "$oid": "1aef25c8e0cdc7807fe22049"
+      }
+    ],
+    "indicationDuStockAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "a84650d5d300275be2a91598"
+    },
+    "etatObjet": "code-1",
+    "typecodage": "code_QR",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?moroccan,mint,tea",
+    "codeOuFrequenceAssocie": "KB-2C717A",
+    "produitAssocie": {
+      "$oid": "4ace1a921a6d9d8cf730da33"
+    },
+    "instanceActeurAssocie": [
+      {
+        "$oid": "4ccd1aec6467fabf1cba1b6e"
+      }
+    ],
+    "indicationDuStockAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "b92bfce8de3de486ab1946f1"
+    },
+    "etatObjet": "code-1",
+    "typecodage": "code_QR",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?moroccan,bread,khobz",
+    "codeOuFrequenceAssocie": "KB-5619C2",
+    "produitAssocie": {
+      "$oid": "416290aaecbe2a318ebb8a6f"
+    },
+    "instanceActeurAssocie": [
+      {
+        "$oid": "4ccd1aec6467fabf1cba1b6e"
+      }
+    ],
+    "indicationDuStockAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "583e7f393cf2cb7343f7dc6f"
+    },
+    "etatObjet": "code-1",
+    "typecodage": "code_QR",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?moroccan,patisserie,sweets",
+    "codeOuFrequenceAssocie": "KB-E0671F",
+    "produitAssocie": {
+      "$oid": "cc74ee952bfc01fdeb566984"
+    },
+    "instanceActeurAssocie": [
+      {
+        "$oid": "4ccd1aec6467fabf1cba1b6e"
+      }
+    ],
+    "indicationDuStockAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "e969eca5f81d8159fd5b6f04"
+    },
+    "etatObjet": "code-1",
+    "typecodage": "code_QR",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?moroccan,mint,tea",
+    "codeOuFrequenceAssocie": "KB-A89102",
+    "produitAssocie": {
+      "$oid": "6781e1d4e526d9a68aacd7b7"
+    },
+    "instanceActeurAssocie": [
+      {
+        "$oid": "cbba9fbfedb13dc3f8d4e56d"
+      }
+    ],
+    "indicationDuStockAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "f26a77718746d91c19323e9f"
+    },
+    "etatObjet": "code-1",
+    "typecodage": "code_QR",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?moroccan,patisserie,sweets",
+    "codeOuFrequenceAssocie": "KB-CA9857",
+    "produitAssocie": {
+      "$oid": "1e7991731a1aee6832986b55"
+    },
+    "instanceActeurAssocie": [
+      {
+        "$oid": "cbba9fbfedb13dc3f8d4e56d"
+      }
+    ],
+    "indicationDuStockAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "5ca946dbd3df046c05640ee7"
+    },
+    "etatObjet": "code-1",
+    "typecodage": "code_QR",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?moroccan,textile,handwoven",
+    "codeOuFrequenceAssocie": "KB-DA0F1F",
+    "produitAssocie": {
+      "$oid": "9f4492ebf2e1004d81dcf843"
+    },
+    "instanceActeurAssocie": [
+      {
+        "$oid": "7651e4e1c03bca86d2eb60d2"
+      }
+    ],
+    "indicationDuStockAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "81e95fdef6a44e91911d408b"
+    },
+    "etatObjet": "code-1",
+    "typecodage": "code_QR",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?morocco,berber,carpet,handmade",
+    "codeOuFrequenceAssocie": "KB-B5D69C",
+    "produitAssocie": {
+      "$oid": "07df28941ef166741bbba3a6"
+    },
+    "instanceActeurAssocie": [
+      {
+        "$oid": "7651e4e1c03bca86d2eb60d2"
+      }
+    ],
+    "indicationDuStockAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "30619b193ae1efc96175f25b"
+    },
+    "etatObjet": "code-1",
+    "typecodage": "code_QR",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?morocco,berber,carpet,handmade",
+    "codeOuFrequenceAssocie": "KB-F69D1C",
+    "produitAssocie": {
+      "$oid": "fa5e07ecf203eb2367cd5a4d"
+    },
+    "instanceActeurAssocie": [
+      {
+        "$oid": "0409a701edc2d9d8df7ff624"
+      }
+    ],
+    "indicationDuStockAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "fb7357aa65446f3613e15586"
+    },
+    "etatObjet": "code-1",
+    "typecodage": "code_QR",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?morocco,basket,vannerie",
+    "codeOuFrequenceAssocie": "KB-D5AA2E",
+    "produitAssocie": {
+      "$oid": "220761c08ca1dca492a66ae6"
+    },
+    "instanceActeurAssocie": [
+      {
+        "$oid": "0409a701edc2d9d8df7ff624"
+      }
+    ],
+    "indicationDuStockAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "de778a53abde2a23c998c4e3"
+    },
+    "etatObjet": "code-1",
+    "typecodage": "code_QR",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?safi,morocco,pottery,ceramic",
+    "codeOuFrequenceAssocie": "KB-45ACD3",
+    "produitAssocie": {
+      "$oid": "88fd39f546e7231b4c7e09dd"
+    },
+    "instanceActeurAssocie": [
+      {
+        "$oid": "0409a701edc2d9d8df7ff624"
+      }
+    ],
+    "indicationDuStockAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "9288c5de323e8cf8d0509f0d"
+    },
+    "etatObjet": "code-1",
+    "typecodage": "code_QR",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?morocco,basket,vannerie",
+    "codeOuFrequenceAssocie": "KB-D0C4BF",
+    "produitAssocie": {
+      "$oid": "1a633e907f887205541772a3"
+    },
+    "instanceActeurAssocie": [
+      {
+        "$oid": "26710da1cd6cce68c44c8517"
+      }
+    ],
+    "indicationDuStockAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "9f39813198d6cc4712c03a0d"
+    },
+    "etatObjet": "code-1",
+    "typecodage": "code_QR",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?morocco,berber,carpet,handmade",
+    "codeOuFrequenceAssocie": "KB-0A1588",
+    "produitAssocie": {
+      "$oid": "2e7fca1415ba2e502457da4a"
+    },
+    "instanceActeurAssocie": [
+      {
+        "$oid": "26710da1cd6cce68c44c8517"
+      }
+    ],
+    "indicationDuStockAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "c94841e50df447f88dc757bd"
+    },
+    "etatObjet": "code-1",
+    "typecodage": "code_QR",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?fes,leather,morocco",
+    "codeOuFrequenceAssocie": "KB-9C8058",
+    "produitAssocie": {
+      "$oid": "c9fea7296bced4680a04c0e2"
+    },
+    "instanceActeurAssocie": [
+      {
+        "$oid": "26710da1cd6cce68c44c8517"
+      }
+    ],
+    "indicationDuStockAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "5bef49019574453027afb183"
+    },
+    "etatObjet": "code-1",
+    "typecodage": "code_QR",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?morocco,basket,vannerie",
+    "codeOuFrequenceAssocie": "KB-B2086D",
+    "produitAssocie": {
+      "$oid": "668c2ff2a17409bc7f0d5339"
+    },
+    "instanceActeurAssocie": [
+      {
+        "$oid": "1d790a6a2492844a8a1624e6"
+      }
+    ],
+    "indicationDuStockAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "c2586c2a15c82acc2186ed08"
+    },
+    "etatObjet": "code-1",
+    "typecodage": "code_QR",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?safi,morocco,pottery,ceramic",
+    "codeOuFrequenceAssocie": "KB-968C09",
+    "produitAssocie": {
+      "$oid": "bb9b87879fe49621af954221"
+    },
+    "instanceActeurAssocie": [
+      {
+        "$oid": "1d790a6a2492844a8a1624e6"
+      }
+    ],
+    "indicationDuStockAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "52355c81770427da84468224"
+    },
+    "etatObjet": "code-1",
+    "typecodage": "code_QR",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?fes,leather,morocco",
+    "codeOuFrequenceAssocie": "KB-FF9761",
+    "produitAssocie": {
+      "$oid": "c73ae325b6bb4a6f2e898950"
+    },
+    "instanceActeurAssocie": [
+      {
+        "$oid": "1d790a6a2492844a8a1624e6"
+      }
+    ],
+    "indicationDuStockAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "617b4368a66138f94a0c6e35"
+    },
+    "etatObjet": "code-1",
+    "typecodage": "code_QR",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?hiking,morocco,toubkal",
+    "codeOuFrequenceAssocie": "KB-0A72AD",
+    "produitAssocie": {
+      "$oid": "685116c52fa9bdba74debd5b"
+    },
+    "instanceActeurAssocie": [
+      {
+        "$oid": "3f768f6d3d4aaa69c7f2e0d7"
+      }
+    ],
+    "indicationDuStockAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "3872383f634b45bbcb477e8b"
+    },
+    "etatObjet": "code-1",
+    "typecodage": "code_QR",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?morocco,riad,kasbah",
+    "codeOuFrequenceAssocie": "KB-02480B",
+    "produitAssocie": {
+      "$oid": "99ad23f9ff7fcd7c8e079093"
+    },
+    "instanceActeurAssocie": [
+      {
+        "$oid": "3f768f6d3d4aaa69c7f2e0d7"
+      }
+    ],
+    "indicationDuStockAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "882e708e3dfb0cc0896cf43e"
+    },
+    "etatObjet": "code-1",
+    "typecodage": "code_QR",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?morocco,riad,kasbah",
+    "codeOuFrequenceAssocie": "KB-7130B5",
+    "produitAssocie": {
+      "$oid": "ac8de817d5692a612f750895"
+    },
+    "instanceActeurAssocie": [
+      {
+        "$oid": "f0d883ed905c59ff33f5c3a9"
+      }
+    ],
+    "indicationDuStockAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "601e0bd2ae7474f894db73c5"
+    },
+    "etatObjet": "code-1",
+    "typecodage": "code_QR",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?hiking,morocco,toubkal",
+    "codeOuFrequenceAssocie": "KB-47C8C1",
+    "produitAssocie": {
+      "$oid": "0f9337ed484a729725198a33"
+    },
+    "instanceActeurAssocie": [
+      {
+        "$oid": "f0d883ed905c59ff33f5c3a9"
+      }
+    ],
+    "indicationDuStockAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "72e3bd7b237638653a645600"
+    },
+    "etatObjet": "code-1",
+    "typecodage": "code_QR",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?kaftan,moroccan,fashion",
+    "codeOuFrequenceAssocie": "KB-9C0E7E",
+    "produitAssocie": {
+      "$oid": "358ede32d35c1ff877af9e38"
+    },
+    "instanceActeurAssocie": [
+      {
+        "$oid": "ae92e23f2b8459ccb258bc8b"
+      }
+    ],
+    "indicationDuStockAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "8df6c2255880a9b0525c6a7e"
+    },
+    "etatObjet": "code-1",
+    "typecodage": "code_QR",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?babouches,morocco,leather",
+    "codeOuFrequenceAssocie": "KB-5A8F64",
+    "produitAssocie": {
+      "$oid": "e78075ba2bd54591fba6d87b"
+    },
+    "instanceActeurAssocie": [
+      {
+        "$oid": "ae92e23f2b8459ccb258bc8b"
+      }
+    ],
+    "indicationDuStockAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "48ae1a7d3f6d05cc19523058"
+    },
+    "etatObjet": "code-1",
+    "typecodage": "code_QR",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?kaftan,moroccan,fashion",
+    "codeOuFrequenceAssocie": "KB-CF4D4B",
+    "produitAssocie": {
+      "$oid": "7e83252da49beaf1c4ca4c20"
+    },
+    "instanceActeurAssocie": [
+      {
+        "$oid": "2b4bf291727aa3cc37eaab5a"
+      }
+    ],
+    "indicationDuStockAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "8673b567e727334e5ae9b59e"
+    },
+    "etatObjet": "code-1",
+    "typecodage": "code_QR",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?babouches,morocco,leather",
+    "codeOuFrequenceAssocie": "KB-22A81A",
+    "produitAssocie": {
+      "$oid": "66bd6f9ff3acc6ec0e4f11c3"
+    },
+    "instanceActeurAssocie": [
+      {
+        "$oid": "2b4bf291727aa3cc37eaab5a"
+      }
+    ],
+    "indicationDuStockAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "5989c693c8ebd1ff698270d2"
+    },
+    "etatObjet": "code-1",
+    "typecodage": "code_QR",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?oysters,oualidia,morocco",
+    "codeOuFrequenceAssocie": "KB-AF5532",
+    "produitAssocie": {
+      "$oid": "9bb1afa6848a869e0d609e11"
+    },
+    "instanceActeurAssocie": [
+      {
+        "$oid": "eb0e2ff2ca1de66d819e14a0"
+      }
+    ],
+    "indicationDuStockAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "9b91e84c047d9323ff84945b"
+    },
+    "etatObjet": "code-1",
+    "typecodage": "code_QR",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?conserves,morocco,sardines",
+    "codeOuFrequenceAssocie": "KB-A09BF4",
+    "produitAssocie": {
+      "$oid": "bc0f81b0ffa5fcba96ec12d1"
+    },
+    "instanceActeurAssocie": [
+      {
+        "$oid": "eb0e2ff2ca1de66d819e14a0"
+      }
+    ],
+    "indicationDuStockAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "293037fb77fe95664ced026a"
+    },
+    "etatObjet": "code-1",
+    "typecodage": "code_QR",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?oysters,oualidia,morocco",
+    "codeOuFrequenceAssocie": "KB-0703ED",
+    "produitAssocie": {
+      "$oid": "6e66a03a9b9b3d193b88020a"
+    },
+    "instanceActeurAssocie": [
+      {
+        "$oid": "4708b2e0a09ffa1775daea2a"
+      }
+    ],
+    "indicationDuStockAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "fdaed4152b8b1a449aa806c0"
+    },
+    "etatObjet": "code-1",
+    "typecodage": "code_QR",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?conserves,morocco,sardines",
+    "codeOuFrequenceAssocie": "KB-EE1F5F",
+    "produitAssocie": {
+      "$oid": "f36f98002c9a5e5eeffc343e"
+    },
+    "instanceActeurAssocie": [
+      {
+        "$oid": "4708b2e0a09ffa1775daea2a"
+      }
+    ],
+    "indicationDuStockAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "e3643743c58920c60f75aa9c"
+    },
+    "etatObjet": "code-1",
+    "typecodage": "code_QR",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?oysters,oualidia,morocco",
+    "codeOuFrequenceAssocie": "KB-D0514B",
+    "produitAssocie": {
+      "$oid": "f6f6355ff33dda2642014bde"
+    },
+    "instanceActeurAssocie": [
+      {
+        "$oid": "336cedb752b9710516c75406"
+      }
+    ],
+    "indicationDuStockAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "bdbea7472311541783454e36"
+    },
+    "etatObjet": "code-1",
+    "typecodage": "code_QR",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?conserves,morocco,sardines",
+    "codeOuFrequenceAssocie": "KB-63273A",
+    "produitAssocie": {
+      "$oid": "35531411c5b094a68d865dac"
+    },
+    "instanceActeurAssocie": [
+      {
+        "$oid": "336cedb752b9710516c75406"
+      }
+    ],
+    "indicationDuStockAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "474aa3633aab71af0e556a33"
+    },
+    "etatObjet": "code-1",
+    "typecodage": "code_QR",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?hiking,morocco,toubkal",
+    "codeOuFrequenceAssocie": "KB-6087FE",
+    "produitAssocie": {
+      "$oid": "44d0b076fcd36d0789368782"
+    },
+    "instanceActeurAssocie": [
+      {
+        "$oid": "772982b274ceb391e1069f0f"
+      }
+    ],
+    "indicationDuStockAssocie": null
+  },
+  {
+    "_id": {
+      "$oid": "ce253d20f3e180a724e700d1"
+    },
+    "etatObjet": "code-1",
+    "typecodage": "code_QR",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?morocco,riad,kasbah",
+    "codeOuFrequenceAssocie": "KB-29F410",
+    "produitAssocie": {
+      "$oid": "9a023081f34a7e9e3332c3ed"
+    },
+    "instanceActeurAssocie": [
+      {
+        "$oid": "772982b274ceb391e1069f0f"
+      }
+    ],
+    "indicationDuStockAssocie": null
+  }
+]

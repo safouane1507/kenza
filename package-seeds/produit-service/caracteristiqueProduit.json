@@ -1,0 +1,3422 @@
+[
+  {
+    "_id": {
+      "$oid": "b5f54b2de1d30f7614ddfb38"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-74FAED85",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 1,
+    "produitPrincipal": {
+      "$oid": "e4f5f7a70ac16a444c109f33"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "75e8122e989c64073d94a45d"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "931fdf68fec765064b4143b5"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_BOOL",
+    "refcaracteristique": "PRODCARAC-48303176",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 2,
+    "produitPrincipal": {
+      "$oid": "e4f5f7a70ac16a444c109f33"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "aec52b850d94a1a39a0f7823"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "f0aa9ccacb2dd9af89022859"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-80C798AA",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 3,
+    "produitPrincipal": {
+      "$oid": "e4f5f7a70ac16a444c109f33"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "2640688bfbf4ca6ed4957533"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "9101e760d682010e2076c9c3"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-3597553A",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 1,
+    "produitPrincipal": {
+      "$oid": "0a6b9a90b7ef5293822377e3"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "674e16e7b84623bd23a65fea"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "e47ad20a0211c5fbdbb1baa4"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-2785294C",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 2,
+    "produitPrincipal": {
+      "$oid": "0a6b9a90b7ef5293822377e3"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "ede7efb7b4bec38d72c30ec5"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "61971c67efd9c29a46f3532d"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-7BF122E8",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 3,
+    "produitPrincipal": {
+      "$oid": "0a6b9a90b7ef5293822377e3"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "afe0abac8a67f5a74bd97c60"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "aba683f48a782f37b5e89aa6"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-5A06C74C",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 1,
+    "produitPrincipal": {
+      "$oid": "4ce6f68892a9ceab00b40f8d"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "39e406b3dc02ba44181a42f6"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "27a79bfb0635881a8bf9d20e"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_BOOL",
+    "refcaracteristique": "PRODCARAC-D5C4B89F",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 2,
+    "produitPrincipal": {
+      "$oid": "4ce6f68892a9ceab00b40f8d"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "0a0201215c61235013ef1079"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "0836d11061da3401793f57c2"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-7AF89658",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 3,
+    "produitPrincipal": {
+      "$oid": "4ce6f68892a9ceab00b40f8d"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "22a33f775309f4042fe1be22"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "4a09c6713a129bceca89788f"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-EB11E69C",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 1,
+    "produitPrincipal": {
+      "$oid": "3d6263c403de355e9dc2cab9"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "b12fba189ea5fea78e65b30d"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "9c95ad75d6abdcb108b75f8e"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-A35BE81E",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 2,
+    "produitPrincipal": {
+      "$oid": "3d6263c403de355e9dc2cab9"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "5a75e5e3cceb94540b9fa26f"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "a4eee9288dbe181dc55a6998"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-C5B8422A",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 3,
+    "produitPrincipal": {
+      "$oid": "3d6263c403de355e9dc2cab9"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "2324c879cbbd81dbff6046a2"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "d0b85583af4b3f3fbbe2a6c1"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-382589FA",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 1,
+    "produitPrincipal": {
+      "$oid": "e9ce59d1b2d44f6a088ecd7d"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "ada714af6733547aec8aab9f"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "88149578b4d86f4e761c4f0f"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-7ADE2F22",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 2,
+    "produitPrincipal": {
+      "$oid": "e9ce59d1b2d44f6a088ecd7d"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "a8b861207a34fe4dd4ce5d19"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "d42e14578af4177ce433c239"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-D6CED705",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 3,
+    "produitPrincipal": {
+      "$oid": "e9ce59d1b2d44f6a088ecd7d"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "0d51b9fee829087e51616cf4"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "dfde588bb75a1c028cc35651"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-8CC49092",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 1,
+    "produitPrincipal": {
+      "$oid": "ed34bb02c63a0f6a29667c49"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "e020ce0033a7ff3ae104ba25"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "bd467c8ffedff2c04e3ad6b1"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-FED8B732",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 2,
+    "produitPrincipal": {
+      "$oid": "ed34bb02c63a0f6a29667c49"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "7c7d362bb46db43ae143b6df"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "3cd7cee4aa2e0750a1e880ca"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-19897E98",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 3,
+    "produitPrincipal": {
+      "$oid": "ed34bb02c63a0f6a29667c49"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "ee089a82950dbb4f63f61d92"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "3516b92a51b166592c1872fc"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-5152AE6F",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 1,
+    "produitPrincipal": {
+      "$oid": "ccc54a0be1b34f436c47a9b7"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "01ff20445081da8cb68bbdfc"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6c95c770f6d8fe60bd60e053"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-248493F0",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 2,
+    "produitPrincipal": {
+      "$oid": "ccc54a0be1b34f436c47a9b7"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "b5f1630e2d18aeaa21349e0f"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "a9f205edc9b4206643681924"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-D4CF128B",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 3,
+    "produitPrincipal": {
+      "$oid": "ccc54a0be1b34f436c47a9b7"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "7c135eff4e9ebe35e4d05f72"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "aaf7b71ba02e55b98be2dba9"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_BOOL",
+    "refcaracteristique": "PRODCARAC-8E76F08C",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 1,
+    "produitPrincipal": {
+      "$oid": "55f37d6d93c3dc43328c53ae"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "a3c452d9f81bf8b1d8570cc2"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "1e1e4a0f667ac28823fc0c6b"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-EE3143A3",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 2,
+    "produitPrincipal": {
+      "$oid": "55f37d6d93c3dc43328c53ae"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "5649d356802c5ecc2e95dcc0"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "b1cb211e132e630d464b8587"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-CE0603E5",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 3,
+    "produitPrincipal": {
+      "$oid": "55f37d6d93c3dc43328c53ae"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "113eff0f43a54be48f363f60"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6c21ffcad739463c3be4cbf2"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_BOOL",
+    "refcaracteristique": "PRODCARAC-3D8C3D30",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 1,
+    "produitPrincipal": {
+      "$oid": "9777eda660a4da612b0e65a8"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "b09b4a37ece5791f988fa310"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "fa71faa640442cbe6cf95487"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-330994EA",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 2,
+    "produitPrincipal": {
+      "$oid": "9777eda660a4da612b0e65a8"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "4c3e8e59bdbee55779423e9f"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "3a229fe78529c71cdd4c5488"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-8F2AA491",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 3,
+    "produitPrincipal": {
+      "$oid": "9777eda660a4da612b0e65a8"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "5d4ee00418adf2c901b93c6a"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "04166f054d6f94d6dc401d44"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-C3E435D2",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 1,
+    "produitPrincipal": {
+      "$oid": "1478825e3619a2b765482221"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "7c521dc71e619d5bea8e2373"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "f8a40e162556855dd9ceb84a"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-3B104A7A",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 2,
+    "produitPrincipal": {
+      "$oid": "1478825e3619a2b765482221"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "7ba4464d99d6f8d9f1adad24"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "24ec4c79b6bcc2cab676ede9"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-72229BAC",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 3,
+    "produitPrincipal": {
+      "$oid": "1478825e3619a2b765482221"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "c8320c553eca046a1076beaa"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "67d5c0bbf30fc5981ad40dbe"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_BOOL",
+    "refcaracteristique": "PRODCARAC-E00B5288",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 1,
+    "produitPrincipal": {
+      "$oid": "df28d885880ba78cc2399db4"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "7db982f8e54f402baa60afea"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6d06a3d17307e61bc170da4c"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-177D6292",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 2,
+    "produitPrincipal": {
+      "$oid": "df28d885880ba78cc2399db4"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "fa468c94c8045834a7017e13"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "f6132505a65f89dea2b7a1d6"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-8063F936",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 3,
+    "produitPrincipal": {
+      "$oid": "df28d885880ba78cc2399db4"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "502a8a0fc663a1e4006f22b6"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "2d11c5717f1abb8c1b26e40d"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-F6E2529B",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 1,
+    "produitPrincipal": {
+      "$oid": "be1275cde9f43405b75b7f27"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "50e01a292918ca1612e2dea2"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "fe474b1362b0c667afe21eb6"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-AC8004CD",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 2,
+    "produitPrincipal": {
+      "$oid": "be1275cde9f43405b75b7f27"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "3a643ee3843e841781822334"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "3d699a1a0a703d6c94f96dee"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-DCA17542",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 3,
+    "produitPrincipal": {
+      "$oid": "be1275cde9f43405b75b7f27"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "6694fc5429d30e75f7ae607d"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "0e1113c98ca8812a3d13309c"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-15BFFF39",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 1,
+    "produitPrincipal": {
+      "$oid": "04a0018b18f20a3ee871f325"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "1d27f044cb8ec3ac8a794c24"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65412341b6f23625e7fa91b3"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-D2B31C41",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 2,
+    "produitPrincipal": {
+      "$oid": "04a0018b18f20a3ee871f325"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "483e2fa205ae70a00e36cd97"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6bbba4656a30e2db7409d5e0"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-FAD7388F",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 3,
+    "produitPrincipal": {
+      "$oid": "04a0018b18f20a3ee871f325"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "862ce7c712569aa789b98ff4"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5fee926c878aa3e2acb2b9ca"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-194AFF0A",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 1,
+    "produitPrincipal": {
+      "$oid": "a3ddb7ae6a7f65934ca3646c"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "fac429af7790e9662807ebe0"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "40387f2a3ef504c1c59c13ba"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-81C6B138",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 2,
+    "produitPrincipal": {
+      "$oid": "a3ddb7ae6a7f65934ca3646c"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "6eb80dd4fd04f33636290975"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "eed300c27d6330752fc3fb41"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-1CB325B2",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 3,
+    "produitPrincipal": {
+      "$oid": "a3ddb7ae6a7f65934ca3646c"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "0dbddfcb864fd5e16ea606ad"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5f73a7a85ea29ed1ed3c167c"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-EA269EDA",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 1,
+    "produitPrincipal": {
+      "$oid": "e1dfbffe8ef6315a1e4acfcb"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "f33ad154a44f937cfa260323"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "23d0cf7b9db43834aec86de8"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-2F589EFB",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 2,
+    "produitPrincipal": {
+      "$oid": "e1dfbffe8ef6315a1e4acfcb"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "7ca4d47fbeded16cda3b39fa"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "d2ec85d6d65b6b600fe4a19c"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_BOOL",
+    "refcaracteristique": "PRODCARAC-72A132BF",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 3,
+    "produitPrincipal": {
+      "$oid": "e1dfbffe8ef6315a1e4acfcb"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "6525140122ddae757636126f"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "edd8b980e46d06ef3f23885a"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-0D65B810",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 1,
+    "produitPrincipal": {
+      "$oid": "a58b00562153ab4013d78ae1"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "ad3bbf5c81b0faa17d3accbb"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "b4306d8ac2a3440be720479c"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-B772B7D5",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 2,
+    "produitPrincipal": {
+      "$oid": "a58b00562153ab4013d78ae1"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "1bf21fe5fe892f1b1e1f333c"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "2703e17a823cbe9e0da8e712"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-96EED988",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 3,
+    "produitPrincipal": {
+      "$oid": "a58b00562153ab4013d78ae1"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "235efe97a8f3851a1a56d414"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "966fa8ccd722429b7bb67a96"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-FA1D60E1",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 1,
+    "produitPrincipal": {
+      "$oid": "7c026ef2ea8df27c55524005"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "c99e136f381bdabcf90c1f97"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "12c36523f28eb79aae502204"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-1064C19A",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 2,
+    "produitPrincipal": {
+      "$oid": "7c026ef2ea8df27c55524005"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "d5ec16aeeabcf395d177b728"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "2224cfd55f45a58d49bab455"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-12025AE2",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 3,
+    "produitPrincipal": {
+      "$oid": "7c026ef2ea8df27c55524005"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "55322bdffce15d11c102e2a1"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6f31093a353f39bf25626acc"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-882FB4ED",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 1,
+    "produitPrincipal": {
+      "$oid": "98f8e52f7918acc099d800ce"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "4ac916fa5352b46d09aa0cc4"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "a830491b186861a2fc3ba469"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-0C9269CC",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 2,
+    "produitPrincipal": {
+      "$oid": "98f8e52f7918acc099d800ce"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "f5ff66f2e54150177e32d104"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "b39e8269742096e73c2f90c0"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-08963321",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 3,
+    "produitPrincipal": {
+      "$oid": "98f8e52f7918acc099d800ce"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "1bb1d4c4099265bb7ccccac9"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "8eb6728f269d6b48688ad12d"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-30B37ACA",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 1,
+    "produitPrincipal": {
+      "$oid": "dbeb5f07b8f3a44d20a14b9a"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "6e9cc1a3495b94bc9380b662"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "196c6e8722e4d0bd2c608c28"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_BOOL",
+    "refcaracteristique": "PRODCARAC-381F8A2A",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 2,
+    "produitPrincipal": {
+      "$oid": "dbeb5f07b8f3a44d20a14b9a"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "6d59e3f4121057a365079289"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "57158b5a1591f31ead82af85"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-03ABB057",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 3,
+    "produitPrincipal": {
+      "$oid": "dbeb5f07b8f3a44d20a14b9a"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "845d1b9ef284590c28b40ee4"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "f3d5c18d7388d7c6e4002bb4"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_BOOL",
+    "refcaracteristique": "PRODCARAC-0D0F9557",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 1,
+    "produitPrincipal": {
+      "$oid": "e9aff9a787f3d8281e527be3"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "baad4b353a33c49c53dc458c"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "e331ddad30ab8257f1c86f22"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-9A0FA67B",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 2,
+    "produitPrincipal": {
+      "$oid": "e9aff9a787f3d8281e527be3"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "feba5752baa70e4d433325a3"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "02a49838f14ae4c66616b0ee"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-8D23AFCE",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 3,
+    "produitPrincipal": {
+      "$oid": "e9aff9a787f3d8281e527be3"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "6485c43d661fd107cba50224"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "476a6acdff7a2114c51d20ec"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-616CA045",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 1,
+    "produitPrincipal": {
+      "$oid": "625a53f16d0f6dbe6824f9d8"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "de7df80e7293902faaa53975"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "9c84be699759a84e2cc071c9"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-9E4B8381",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 2,
+    "produitPrincipal": {
+      "$oid": "625a53f16d0f6dbe6824f9d8"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "396f694531dcd80dfa2ed9f0"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "b64cac613242e7ef26318884"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-C798EC4B",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 3,
+    "produitPrincipal": {
+      "$oid": "625a53f16d0f6dbe6824f9d8"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "1f1a639913a18ac169653542"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "367752450b3dbb0d41a1d84d"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-85167CC1",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 1,
+    "produitPrincipal": {
+      "$oid": "846d4161d60ffa49741694aa"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "63a19ca27374c9005dc56582"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "ffa5c85a40598f0608286911"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-A35F9971",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 2,
+    "produitPrincipal": {
+      "$oid": "846d4161d60ffa49741694aa"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "e3960787f3d3a7fbd0036220"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "73dac5373476eea8bcca80e4"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-15D1763C",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 3,
+    "produitPrincipal": {
+      "$oid": "846d4161d60ffa49741694aa"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "cbeacf0e960b8578f1e3f1a5"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6db691b1bd09392217d5c8f5"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-83757815",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 1,
+    "produitPrincipal": {
+      "$oid": "329b7b6449163ffd9e6d51f4"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "30e0ae48ffe1b882a49924c7"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "b09d914ec22e37d4a47de130"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-304EA772",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 2,
+    "produitPrincipal": {
+      "$oid": "329b7b6449163ffd9e6d51f4"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "b3342e6ffae53ceee7f41b3c"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "06d87c664e4b9b4463529087"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-56AEEC7F",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 3,
+    "produitPrincipal": {
+      "$oid": "329b7b6449163ffd9e6d51f4"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "62b3f46237842b7b2acd2c5d"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "d96b0bea822b891828bdc0e3"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_BOOL",
+    "refcaracteristique": "PRODCARAC-804F8D90",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 1,
+    "produitPrincipal": {
+      "$oid": "2fa38f5015521737f0b69bf1"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "d6d0643abfa851e2fbed27ce"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "7c06d904b7be55a8a08b495c"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-91738858",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 2,
+    "produitPrincipal": {
+      "$oid": "2fa38f5015521737f0b69bf1"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "f842601d618b89cd123cd813"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "1bb30c56e293bef7a2167b4e"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-65C8116C",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 3,
+    "produitPrincipal": {
+      "$oid": "2fa38f5015521737f0b69bf1"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "af088ba5073767b42c5d904a"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "1c500161910ad11c1c057a13"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-C21A343E",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 1,
+    "produitPrincipal": {
+      "$oid": "e85a5e009678a4f9c4fa5d37"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "f18453ec531fdf5175f5c020"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5d70b0a7b0e444dc70e17dd5"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-B859F99A",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 2,
+    "produitPrincipal": {
+      "$oid": "e85a5e009678a4f9c4fa5d37"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "f54ba202a7d849a8a5a183dc"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "23a41534c81e5f3a82d979ec"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-0E49E5F1",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 3,
+    "produitPrincipal": {
+      "$oid": "e85a5e009678a4f9c4fa5d37"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "7482f8f1c8cb9b0022b2c684"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "ea9d5bc297e72623e8457363"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-24CE7C71",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 1,
+    "produitPrincipal": {
+      "$oid": "2662b3d55361dec632d70a4e"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "ba8da43f19d3f60235584817"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "d080a15803220f7cdd9feeb7"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_BOOL",
+    "refcaracteristique": "PRODCARAC-581F16A3",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 2,
+    "produitPrincipal": {
+      "$oid": "2662b3d55361dec632d70a4e"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "33604fcb24efc3d622b5120d"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "16f201bf4d365c678ec33793"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-53572DD4",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 3,
+    "produitPrincipal": {
+      "$oid": "2662b3d55361dec632d70a4e"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "6d058b2434e143b7243f0632"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "c515055185ca6bbe025e3712"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-F55BD7EA",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 1,
+    "produitPrincipal": {
+      "$oid": "446d4f5966602eacee083521"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "6b824b648cc8e54345be3b34"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "681bef2a563a8da4570fa2de"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-2145C23D",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 2,
+    "produitPrincipal": {
+      "$oid": "446d4f5966602eacee083521"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "dcb0d62727dabffa19143d9b"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "443b05f61be38ee084af4f35"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-FF14EE5D",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 3,
+    "produitPrincipal": {
+      "$oid": "446d4f5966602eacee083521"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "478515e2ff16f9c7014155cd"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "8414f98e8539ad8883a326ad"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-F1C6F61F",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 1,
+    "produitPrincipal": {
+      "$oid": "19158e481bc84541f782c947"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "1e8765e685b3f079a6b50395"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "0fce920a0a2ef01e4b922778"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-9F9FBF57",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 2,
+    "produitPrincipal": {
+      "$oid": "19158e481bc84541f782c947"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "a5d2212fbb7b5ffa2bbd455c"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "057340ef56bc4cbd3902b5e5"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-D8C66222",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 3,
+    "produitPrincipal": {
+      "$oid": "19158e481bc84541f782c947"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "9e45299a91fbb376a3f02671"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "a4cac495ce75dac98649e201"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-8818F30A",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 1,
+    "produitPrincipal": {
+      "$oid": "4ace1a921a6d9d8cf730da33"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "902c8f95caf8a51d01a4aeea"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "2eeb66a962e74c4218f96660"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-9000EBD8",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 2,
+    "produitPrincipal": {
+      "$oid": "4ace1a921a6d9d8cf730da33"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "be4367eb1ecde7d57fdad58a"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "395c1dbf2fb53442877f5c16"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-FD37699F",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 3,
+    "produitPrincipal": {
+      "$oid": "4ace1a921a6d9d8cf730da33"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "9e3a15921cfdd0e5df0b3d20"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "a18e6b82c4973a77f26d86b7"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-7E04983E",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 1,
+    "produitPrincipal": {
+      "$oid": "416290aaecbe2a318ebb8a6f"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "c90ed83cab177b06c6e375eb"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "c168cf096d3985fcd5c3f282"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_BOOL",
+    "refcaracteristique": "PRODCARAC-662B4C5B",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 2,
+    "produitPrincipal": {
+      "$oid": "416290aaecbe2a318ebb8a6f"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "c9ae7a588311b6bc442cabc2"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "8f2b16fdd8a69730a62094e6"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-0025000E",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 3,
+    "produitPrincipal": {
+      "$oid": "416290aaecbe2a318ebb8a6f"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "0d1f61598173cf5f34275c27"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5db65265a0896f30bd81fa37"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-5E713E60",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 1,
+    "produitPrincipal": {
+      "$oid": "cc74ee952bfc01fdeb566984"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "4aaef90c8795b1b679caa982"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "56a5bbeb26e31d0ed5e15312"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-3194D670",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 2,
+    "produitPrincipal": {
+      "$oid": "cc74ee952bfc01fdeb566984"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "b76605218c8da853e1f653f3"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "dda4267ea8282e0e2a10889c"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-2EFCC0C4",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 3,
+    "produitPrincipal": {
+      "$oid": "cc74ee952bfc01fdeb566984"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "3cd4eef2151c27a3464ec876"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "f7fe1fadfb67cc3335672e86"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_BOOL",
+    "refcaracteristique": "PRODCARAC-5F0BD39A",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 1,
+    "produitPrincipal": {
+      "$oid": "6781e1d4e526d9a68aacd7b7"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "e29d39c6eedcb59838570c56"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "94822bd832909c6327583702"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-F6AD4F9B",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 2,
+    "produitPrincipal": {
+      "$oid": "6781e1d4e526d9a68aacd7b7"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "91190664e8f7ad22d89862d1"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "775233d68e66c543ef3aac5a"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-F6FC2CAF",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 3,
+    "produitPrincipal": {
+      "$oid": "6781e1d4e526d9a68aacd7b7"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "80a75c18f2ba2c1fc34f5629"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "821074384d28919fadf39ecd"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-CC23F1BD",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 1,
+    "produitPrincipal": {
+      "$oid": "1e7991731a1aee6832986b55"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "38460be9bc7731ff757acfd7"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "3dec260d1dad28afc0452629"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-53F384A3",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 2,
+    "produitPrincipal": {
+      "$oid": "1e7991731a1aee6832986b55"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "8a53bd66c69e1b2a3123c4b8"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "762e6060992766bf3e4f036c"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-1154B1D5",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 3,
+    "produitPrincipal": {
+      "$oid": "1e7991731a1aee6832986b55"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "a32d77efeb521d12c30cbb9a"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "c8e18d070d85e58c28a1187e"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-84058935",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 1,
+    "produitPrincipal": {
+      "$oid": "9f4492ebf2e1004d81dcf843"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "55543f1eb5263f3b57429d94"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "229677fed97461bc4114f022"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-8CDB0DA2",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 2,
+    "produitPrincipal": {
+      "$oid": "9f4492ebf2e1004d81dcf843"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "969717050942a7fdfc7369b3"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "d15c466038545d574991f75f"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_BOOL",
+    "refcaracteristique": "PRODCARAC-2878371A",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 3,
+    "produitPrincipal": {
+      "$oid": "9f4492ebf2e1004d81dcf843"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "da1ae7783d41b82234550d4f"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "e39c0278df9c8f9e0caf385b"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-5004716A",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 1,
+    "produitPrincipal": {
+      "$oid": "07df28941ef166741bbba3a6"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "00905f4dc4b95c19703a62be"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6501e6c2eec782c5894d17ab"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-7561CBAD",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 2,
+    "produitPrincipal": {
+      "$oid": "07df28941ef166741bbba3a6"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "61b4086072e8d5dade11d929"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "32f9f4604dcf9a8f82d96cde"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-D59F7692",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 3,
+    "produitPrincipal": {
+      "$oid": "07df28941ef166741bbba3a6"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "6cbd899154e8168cea35d64b"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "12cdee1ac3c950ccd3debdd8"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-48F8AACC",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 1,
+    "produitPrincipal": {
+      "$oid": "fa5e07ecf203eb2367cd5a4d"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "fc3b38e7e7fdd5f38030614e"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "4d7ec5cb2fa8fb2af16ea11f"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-A537DE1B",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 2,
+    "produitPrincipal": {
+      "$oid": "fa5e07ecf203eb2367cd5a4d"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "bfafc71b2f874293caf01501"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "80c88d2273dda5e91853b392"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-1DAC842D",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 3,
+    "produitPrincipal": {
+      "$oid": "fa5e07ecf203eb2367cd5a4d"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "d16bb0569bbc01ecddf90f3f"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "500057ad7a90d09643f1a9d1"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_BOOL",
+    "refcaracteristique": "PRODCARAC-9D3440CF",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 1,
+    "produitPrincipal": {
+      "$oid": "220761c08ca1dca492a66ae6"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "c8e42412327ce1e6035b1052"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "dd2dd37e43edc5c2287dac38"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-741CD824",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 2,
+    "produitPrincipal": {
+      "$oid": "220761c08ca1dca492a66ae6"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "00847772f89d87296f746cfc"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "bd95b55e9e5c5a805a889598"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-F4213459",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 3,
+    "produitPrincipal": {
+      "$oid": "220761c08ca1dca492a66ae6"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "16bb2e68d66bf1881b3b871a"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "99c0216bd3c9af6a0410d2d0"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-F191DC37",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 1,
+    "produitPrincipal": {
+      "$oid": "88fd39f546e7231b4c7e09dd"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "fa4912710ec3392fb6b03f83"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "e0c535a5e8069fa51d79eb5d"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_BOOL",
+    "refcaracteristique": "PRODCARAC-2D77C66C",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 2,
+    "produitPrincipal": {
+      "$oid": "88fd39f546e7231b4c7e09dd"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "db4e00187db26ca23fa25fec"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "49d58e4b03eaf83b576e605c"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-4DE38E84",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 3,
+    "produitPrincipal": {
+      "$oid": "88fd39f546e7231b4c7e09dd"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "80c27e82d267404f6a636cbd"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "18cd1f87db446f319e880ed0"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-9AEF189D",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 1,
+    "produitPrincipal": {
+      "$oid": "1a633e907f887205541772a3"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "42c3efdb96ab020c2efba156"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "d8cd10fdbbde6c0ff4794503"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-84CD523C",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 2,
+    "produitPrincipal": {
+      "$oid": "1a633e907f887205541772a3"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "818847ddd818ab75bc2d01fb"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "9caa99de27566640dc85016c"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-41F30C33",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 3,
+    "produitPrincipal": {
+      "$oid": "1a633e907f887205541772a3"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "aa294b056a98ee0049cee393"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "36ba10bff684c2536e89a75d"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-58285E1D",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 1,
+    "produitPrincipal": {
+      "$oid": "2e7fca1415ba2e502457da4a"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "6f0a06379d9bf46ae61d776a"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "1eea2586e12480056862eb28"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-121BF4D4",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 2,
+    "produitPrincipal": {
+      "$oid": "2e7fca1415ba2e502457da4a"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "df10df0260c789ca1ab57793"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "557c473bf89e509f4f271506"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-D6331D6C",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 3,
+    "produitPrincipal": {
+      "$oid": "2e7fca1415ba2e502457da4a"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "0f758cb832a597d16195d147"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "4ecaea47dac2f910bbb6d990"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_BOOL",
+    "refcaracteristique": "PRODCARAC-177F9DEB",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 1,
+    "produitPrincipal": {
+      "$oid": "c9fea7296bced4680a04c0e2"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "a5b152fe4b15fdf118d7327a"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "663c43061524d445c3953c15"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-9762ED6F",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 2,
+    "produitPrincipal": {
+      "$oid": "c9fea7296bced4680a04c0e2"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "003aeca04ddbafcae00d5a76"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "887b0b91ca1ec5b927175129"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-6546958F",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 3,
+    "produitPrincipal": {
+      "$oid": "c9fea7296bced4680a04c0e2"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "a5903c1a71f46dd9ecc48484"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6184fbd80b4d78dd0c4659c1"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_BOOL",
+    "refcaracteristique": "PRODCARAC-56506082",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 1,
+    "produitPrincipal": {
+      "$oid": "668c2ff2a17409bc7f0d5339"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "fa62ea8aefacb9f83ba377eb"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "1774950b68fa4294ff1d1163"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-47738BB8",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 2,
+    "produitPrincipal": {
+      "$oid": "668c2ff2a17409bc7f0d5339"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "675f1d7128ff10a80f62d6f2"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5722beee3dfa7aab96ec6908"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-5908D9A5",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 3,
+    "produitPrincipal": {
+      "$oid": "668c2ff2a17409bc7f0d5339"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "00caafc43aedc484b8adf941"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "29ace480de48d5e0d46b32a8"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-1739A7F1",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 1,
+    "produitPrincipal": {
+      "$oid": "bb9b87879fe49621af954221"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "d5253f6ea71500dd97477cb5"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "c42f352f392281fb12883cd0"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-4281FEC6",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 2,
+    "produitPrincipal": {
+      "$oid": "bb9b87879fe49621af954221"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "3ea28bea3bb1d21149b7a84d"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "9f03dab3f04c8944f882b90f"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-5E4854DD",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 3,
+    "produitPrincipal": {
+      "$oid": "bb9b87879fe49621af954221"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "ff757d17e4fd2ed9800c4353"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "74ac560b770efb4f2361670f"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-ED728041",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 1,
+    "produitPrincipal": {
+      "$oid": "c73ae325b6bb4a6f2e898950"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "5b9e1740f4e925a76ef22474"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "94c9b0173427e67376642a00"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-474D9170",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 2,
+    "produitPrincipal": {
+      "$oid": "c73ae325b6bb4a6f2e898950"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "40a43d0baa7314fe02c299f3"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "925b520f66cc5a6f9fdabfeb"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-E9031E35",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 3,
+    "produitPrincipal": {
+      "$oid": "c73ae325b6bb4a6f2e898950"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "05781bd368dffcca14915b54"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5e2d5402160226e0ffb12ef3"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-6EB11E77",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 1,
+    "produitPrincipal": {
+      "$oid": "685116c52fa9bdba74debd5b"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "1fae611b829457e92eb75402"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "463bb08dc646b59fb73e375d"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-FF7A0755",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 2,
+    "produitPrincipal": {
+      "$oid": "685116c52fa9bdba74debd5b"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "75256efeb357094b7286fc0e"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6f346b35c05fc91be7473a6d"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-0ED5261C",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 3,
+    "produitPrincipal": {
+      "$oid": "685116c52fa9bdba74debd5b"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "7d7f80e8994d5411f0810285"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "18df2cf48db6cd5918159045"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-EDBBD3D4",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 1,
+    "produitPrincipal": {
+      "$oid": "99ad23f9ff7fcd7c8e079093"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "192173c467572e0688f4511b"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "128928d13779e179f9c86b11"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-83CF3F6F",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 2,
+    "produitPrincipal": {
+      "$oid": "99ad23f9ff7fcd7c8e079093"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "3c049ea1ad587c9246a454c0"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "f94494f06b15002b02a23177"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-D6DFB16C",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 3,
+    "produitPrincipal": {
+      "$oid": "99ad23f9ff7fcd7c8e079093"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "71c1be5fcb650299cc387c59"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "766cd7ef854e1846e04173c1"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-BC023412",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 1,
+    "produitPrincipal": {
+      "$oid": "ac8de817d5692a612f750895"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "cc593a3e0dea5bb82c4e116d"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "d2001cb6ffb1ae5e7feeffa0"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-FC3D2B56",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 2,
+    "produitPrincipal": {
+      "$oid": "ac8de817d5692a612f750895"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "c1534272ed81336fb9da05cf"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "71169a0a522857716b0b90d8"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-6A417DD2",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 3,
+    "produitPrincipal": {
+      "$oid": "ac8de817d5692a612f750895"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "7a92070a004ecb4066fb8fdd"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "43aaa8fc9aca98e752ff9bcb"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-3072A281",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 1,
+    "produitPrincipal": {
+      "$oid": "0f9337ed484a729725198a33"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "40edb5b6bb1a19cca29a75cf"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "43df7e67fa22854e35fe8279"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-FDBD5CAB",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 2,
+    "produitPrincipal": {
+      "$oid": "0f9337ed484a729725198a33"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "0349bba02094dcfc1443aaa5"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "c02daf3c3f5c82e0da3b9795"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-24C45CDF",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 3,
+    "produitPrincipal": {
+      "$oid": "0f9337ed484a729725198a33"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "513223c26ab9ea38ff0a01fb"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6ff9eb34cdc12fcaac4907bd"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-2B827911",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 1,
+    "produitPrincipal": {
+      "$oid": "358ede32d35c1ff877af9e38"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "247c68a100d1d1b5082a94f0"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "123b3f1492d1b8c46163cac8"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-9A8F63E1",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 2,
+    "produitPrincipal": {
+      "$oid": "358ede32d35c1ff877af9e38"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "d21e1bed8699f25d13ec82c2"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "e4c28fe1b887e6a483716ec9"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-5BCCE727",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 3,
+    "produitPrincipal": {
+      "$oid": "358ede32d35c1ff877af9e38"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "d058a9c9273f5320b15c671b"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "58c8529a3621feaa5da5e672"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-95200B39",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 1,
+    "produitPrincipal": {
+      "$oid": "e78075ba2bd54591fba6d87b"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "9ed88c4eafb35c8777a30d66"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "d74bc3316879262d1a227bdf"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-B58DA038",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 2,
+    "produitPrincipal": {
+      "$oid": "e78075ba2bd54591fba6d87b"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "f2eeede553e067b6f9033464"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "1f5a5a7d4047c21da0b76eaf"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-9826EA12",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 3,
+    "produitPrincipal": {
+      "$oid": "e78075ba2bd54591fba6d87b"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "fd1ee18bbbd81c161374e53f"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "4c680177df0a4681f683b61b"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-CEDE7349",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 1,
+    "produitPrincipal": {
+      "$oid": "7e83252da49beaf1c4ca4c20"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "46cb51822504e35630aa2dda"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "c9f7bac38921ebed0e8fe081"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-797D47BE",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 2,
+    "produitPrincipal": {
+      "$oid": "7e83252da49beaf1c4ca4c20"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "21ce872c83685b393970dd8f"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "a8c2421af2009d8c4ab45387"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-60ECAE39",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 3,
+    "produitPrincipal": {
+      "$oid": "7e83252da49beaf1c4ca4c20"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "033e7950368720610d07d129"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "c10f1d511252ce461b3749a8"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-9598547D",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 1,
+    "produitPrincipal": {
+      "$oid": "66bd6f9ff3acc6ec0e4f11c3"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "fb4f2db58e9de805bbde953f"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "591dd8b27e5c95990130bd5c"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-8005B7A5",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 2,
+    "produitPrincipal": {
+      "$oid": "66bd6f9ff3acc6ec0e4f11c3"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "20080ff5f6ddc7db40b28d1d"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "e9d2f509a1d0b1c6ca067156"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-0B8C10D8",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 3,
+    "produitPrincipal": {
+      "$oid": "66bd6f9ff3acc6ec0e4f11c3"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "08ded4ae4b3d742efcd9da8f"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "66a6813fc2403e3d5b1ad353"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-BABE8088",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 1,
+    "produitPrincipal": {
+      "$oid": "9bb1afa6848a869e0d609e11"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "9725b3d40d696580eac4e78c"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "ff0ba533713b8075916c548f"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-52317627",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 2,
+    "produitPrincipal": {
+      "$oid": "9bb1afa6848a869e0d609e11"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "95c6e1389efcda4af0cb0373"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5bad0da7c5479950ca7f7642"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-32EAEAF7",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 3,
+    "produitPrincipal": {
+      "$oid": "9bb1afa6848a869e0d609e11"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "dcc7ae50645516cc8121050c"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "b025087de6cd2ccb98b48307"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-4CE35DF0",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 1,
+    "produitPrincipal": {
+      "$oid": "bc0f81b0ffa5fcba96ec12d1"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "b6fef6b91d413b3e21d77ada"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "1aa429670c3b16d28aa0fe97"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-47324D89",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 2,
+    "produitPrincipal": {
+      "$oid": "bc0f81b0ffa5fcba96ec12d1"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "81441d9305dc16c0d4f01883"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "e6fb2e6a5d0cd1354cddcd5e"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-1A56AE1B",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 3,
+    "produitPrincipal": {
+      "$oid": "bc0f81b0ffa5fcba96ec12d1"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "1fe3b235a36177ac19eaf8ee"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "26f593682815833ec811c7fb"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_BOOL",
+    "refcaracteristique": "PRODCARAC-56950B2E",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 1,
+    "produitPrincipal": {
+      "$oid": "6e66a03a9b9b3d193b88020a"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "07f1dccd823a2ad14ee8a298"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "d2ef3d53c0d64002dc1b2ecc"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-D7358F2F",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 2,
+    "produitPrincipal": {
+      "$oid": "6e66a03a9b9b3d193b88020a"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "9ce5ddf1d6deb0746bc71d9d"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "dfb7bb75210e9ce2940d55aa"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-32CADF42",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 3,
+    "produitPrincipal": {
+      "$oid": "6e66a03a9b9b3d193b88020a"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "a5624acc51a5db7d07b4cbd1"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "7e0949bd2939504138031b85"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-52832084",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 1,
+    "produitPrincipal": {
+      "$oid": "f36f98002c9a5e5eeffc343e"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "770d0207f12eac114fd3cda5"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "ef7364634700e0510a91fa43"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-9CA5401B",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 2,
+    "produitPrincipal": {
+      "$oid": "f36f98002c9a5e5eeffc343e"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "06534bc321e4632a3ec01e38"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6e5772cf0967333557f9bcbd"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-90AFEE86",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 3,
+    "produitPrincipal": {
+      "$oid": "f36f98002c9a5e5eeffc343e"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "a1cfbdfea1c24adfb839acc5"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "9764b82282a9c80ad09fdcc4"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-D1F1F4B0",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 1,
+    "produitPrincipal": {
+      "$oid": "f6f6355ff33dda2642014bde"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "3dfb904aab5699a1e5a8d43c"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "9a68a3344d92414c01e8e88d"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-FEC829BD",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 2,
+    "produitPrincipal": {
+      "$oid": "f6f6355ff33dda2642014bde"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "886174a65f5925a6dabc2916"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "c2086b5edd9bdbf9756f4bc2"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-1399A2B2",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 3,
+    "produitPrincipal": {
+      "$oid": "f6f6355ff33dda2642014bde"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "7c67115b871c09cb183e3168"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "826285275acb5aaa33d32fc1"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-FD562E1A",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 1,
+    "produitPrincipal": {
+      "$oid": "35531411c5b094a68d865dac"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "7601156a8c9ee93bc1d3033d"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6d5754f31443e27c4f8297b3"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-9CE53581",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 2,
+    "produitPrincipal": {
+      "$oid": "35531411c5b094a68d865dac"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "d4a9e516870be59909d2c3a7"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5a6b22eb7d42f6e26046a079"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-3C3E774A",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 3,
+    "produitPrincipal": {
+      "$oid": "35531411c5b094a68d865dac"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "18b733edf46f2d5acecf9b33"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "13cea629b5993b645c17d30f"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-98617EB1",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 1,
+    "produitPrincipal": {
+      "$oid": "44d0b076fcd36d0789368782"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "76578bd7687f9a7baf39f4d6"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "ba17f8ae64a0076d0d2a898e"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-6B45ECB5",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 2,
+    "produitPrincipal": {
+      "$oid": "44d0b076fcd36d0789368782"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "86ab391066bb141ddc7c290d"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "4761bce9e38a6ec96bbd1774"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-AB31937E",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 3,
+    "produitPrincipal": {
+      "$oid": "44d0b076fcd36d0789368782"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "75420790182f59a738620420"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "bfaea7f83ff2c38554ae6319"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_NUM",
+    "refcaracteristique": "PRODCARAC-B96D1067",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 1,
+    "produitPrincipal": {
+      "$oid": "9a023081f34a7e9e3332c3ed"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "8c83d0cb9ae5aa50e1f3b9eb"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "f26e3b22fdc31c75cfb05b7c"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-B9226DC9",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 2,
+    "produitPrincipal": {
+      "$oid": "9a023081f34a7e9e3332c3ed"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "ee54135690b209504606c1d7"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6cbd271d25302518baa35b83"
+    },
+    "etatObjet": "code-1",
+    "natureCaracteristique": "code_TXT",
+    "refcaracteristique": "PRODCARAC-AF4121B1",
+    "affichageUniqEnPrive": false,
+    "ordreCaracteristique": 3,
+    "produitPrincipal": {
+      "$oid": "9a023081f34a7e9e3332c3ed"
+    },
+    "refProduitAssocie": null,
+    "instanceCaracteristique": [
+      {
+        "$oid": "74004be409f5a6caf1bd14bd"
+      }
+    ]
+  }
+]

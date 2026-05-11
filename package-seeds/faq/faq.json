@@ -1,0 +1,152 @@
+[
+  {
+    "_id": {
+      "$oid": "62f4114f99840bd3529e9aa4"
+    },
+    "etatDePublication": "code_3417",
+    "etatObjet": "code-1",
+    "reference": "KB-FAQ-0500",
+    "classeFaq": "Achat & Paiement",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Achat & Paiement",
+        "description": "FAQ — Achat & Paiement",
+        "nomResponsable": "Équipe Kenz Bladi"
+      },
+      {
+        "language": "en",
+        "designation": "Achat & Paiement",
+        "description": "FAQ — Achat & Paiement",
+        "nomResponsable": "Kenz Bladi Team"
+      }
+    ],
+    "refResponsable": {
+      "$oid": "919c56e5b864acd9fbd13368"
+    },
+    "emailResponsable": "support@kenzbladi.ma",
+    "imageRepresentative": "https://source.unsplash.com/featured/1200x800/?atlas,mountains,morocco",
+    "dateOuverture": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateCloture": {
+      "$date": "2027-01-01T00:00:00.000Z"
+    },
+    "nbrQuestion": 2,
+    "nbrParticipants": 160,
+    "nbrVue": 5090,
+    "etatFaq": "code_3417",
+    "questions": [
+      {
+        "$oid": "ff2bb69d9da128f9aa34648c"
+      },
+      {
+        "$oid": "db0acfcd2fad099c6f89c55b"
+      }
+    ],
+    "objetsAssocies": [],
+    "etatObject": [],
+    "objetsConcernes": [],
+    "etats": []
+  },
+  {
+    "_id": {
+      "$oid": "082ce1eae6fbeada5c807562"
+    },
+    "etatDePublication": "code_3417",
+    "etatObjet": "code-1",
+    "reference": "KB-FAQ-0501",
+    "classeFaq": "Livraison",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Livraison",
+        "description": "FAQ — Livraison",
+        "nomResponsable": "Équipe Kenz Bladi"
+      },
+      {
+        "language": "en",
+        "designation": "Livraison",
+        "description": "FAQ — Livraison",
+        "nomResponsable": "Kenz Bladi Team"
+      }
+    ],
+    "refResponsable": {
+      "$oid": "919c56e5b864acd9fbd13368"
+    },
+    "emailResponsable": "support@kenzbladi.ma",
+    "imageRepresentative": "https://source.unsplash.com/featured/1200x800/?medina,morocco,heritage",
+    "dateOuverture": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateCloture": {
+      "$date": "2027-01-01T00:00:00.000Z"
+    },
+    "nbrQuestion": 2,
+    "nbrParticipants": 209,
+    "nbrVue": 5999,
+    "etatFaq": "code_3417",
+    "questions": [
+      {
+        "$oid": "ba24fb9fe91b9034e72cdae0"
+      },
+      {
+        "$oid": "ea0ec4a74d68a1e7ec9cc33f"
+      }
+    ],
+    "objetsAssocies": [],
+    "etatObject": [],
+    "objetsConcernes": [],
+    "etats": []
+  },
+  {
+    "_id": {
+      "$oid": "226911268f74a0c1b113a482"
+    },
+    "etatDePublication": "code_3417",
+    "etatObjet": "code-1",
+    "reference": "KB-FAQ-0502",
+    "classeFaq": "Authenticité & Qualité",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Authenticité & Qualité",
+        "description": "FAQ — Authenticité & Qualité",
+        "nomResponsable": "Équipe Kenz Bladi"
+      },
+      {
+        "language": "en",
+        "designation": "Authenticité & Qualité",
+        "description": "FAQ — Authenticité & Qualité",
+        "nomResponsable": "Kenz Bladi Team"
+      }
+    ],
+    "refResponsable": {
+      "$oid": "919c56e5b864acd9fbd13368"
+    },
+    "emailResponsable": "support@kenzbladi.ma",
+    "imageRepresentative": "https://source.unsplash.com/featured/1200x800/?medina,morocco,heritage",
+    "dateOuverture": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateCloture": {
+      "$date": "2027-01-01T00:00:00.000Z"
+    },
+    "nbrQuestion": 2,
+    "nbrParticipants": 307,
+    "nbrVue": 4116,
+    "etatFaq": "code_3417",
+    "questions": [
+      {
+        "$oid": "d9cde4cef6104294f74a8a63"
+      },
+      {
+        "$oid": "93c5e11e28be66b1f9f2421e"
+      }
+    ],
+    "objetsAssocies": [],
+    "etatObject": [],
+    "objetsConcernes": [],
+    "etats": []
+  }
+]

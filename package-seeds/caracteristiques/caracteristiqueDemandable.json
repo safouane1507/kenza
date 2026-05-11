@@ -1,0 +1,748 @@
+[
+  {
+    "_id": {
+      "$oid": "a920871d6a0c6b573bba8a49"
+    },
+    "etatObjet": "code-1",
+    "reference": "CARAC-REF-INTERNE",
+    "ordre": 1,
+    "translations": [
+      {
+        "language": "fr",
+        "label": "Référence interne",
+        "defaultValeurChar": ""
+      },
+      {
+        "language": "en",
+        "label": "Référence interne",
+        "defaultValeurChar": ""
+      }
+    ],
+    "natureInfo": "code_TXT",
+    "typeInfo": "code_simple_text",
+    "defaultValeurNotChar": null,
+    "minVal": null,
+    "maxVal": null,
+    "unite": null,
+    "operateurs": [
+      "=",
+      "!="
+    ],
+    "groupe": {
+      "$oid": "f29d1ae2084c13a3dab68b85"
+    },
+    "valeurs": [],
+    "etatValidation": "code_3417",
+    "icone": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?morocco,olive,oil,bottle",
+    "instances": []
+  },
+  {
+    "_id": {
+      "$oid": "5a8fe1f08e102b26831601c7"
+    },
+    "etatObjet": "code-1",
+    "reference": "CARAC-MARQUE",
+    "ordre": 2,
+    "translations": [
+      {
+        "language": "fr",
+        "label": "Marque",
+        "defaultValeurChar": ""
+      },
+      {
+        "language": "en",
+        "label": "Marque",
+        "defaultValeurChar": ""
+      }
+    ],
+    "natureInfo": "code_TXT",
+    "typeInfo": "code_simple_text",
+    "defaultValeurNotChar": null,
+    "minVal": null,
+    "maxVal": null,
+    "unite": null,
+    "operateurs": [
+      "=",
+      "!="
+    ],
+    "groupe": {
+      "$oid": "f29d1ae2084c13a3dab68b85"
+    },
+    "valeurs": [],
+    "etatValidation": "code_3417",
+    "icone": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?argan,oil,morocco",
+    "instances": []
+  },
+  {
+    "_id": {
+      "$oid": "f62683528048254664b57107"
+    },
+    "etatObjet": "code-1",
+    "reference": "CARAC-REGION-ORIGINE",
+    "ordre": 3,
+    "translations": [
+      {
+        "language": "fr",
+        "label": "Région d'origine",
+        "defaultValeurChar": ""
+      },
+      {
+        "language": "en",
+        "label": "Région d'origine",
+        "defaultValeurChar": ""
+      }
+    ],
+    "natureInfo": "code_TXT",
+    "typeInfo": "code_select",
+    "defaultValeurNotChar": null,
+    "minVal": null,
+    "maxVal": null,
+    "unite": null,
+    "operateurs": [
+      "=",
+      "!="
+    ],
+    "groupe": {
+      "$oid": "aaaf1baf8012e898245da3c8"
+    },
+    "valeurs": [
+      {
+        "$oid": "0aa970b19917d708308f93ff"
+      },
+      {
+        "$oid": "3100a7c3fa25643904cc1212"
+      },
+      {
+        "$oid": "7196a1b38cf794a9e508780c"
+      },
+      {
+        "$oid": "b96ac7719003e9fb4afd0323"
+      },
+      {
+        "$oid": "9a1db1a796d8351fc3d68488"
+      },
+      {
+        "$oid": "c8a5203b33c873fd91cc3889"
+      },
+      {
+        "$oid": "68b5cc500d6f572f41a8df2b"
+      },
+      {
+        "$oid": "0d223ac0a7178327bd56736c"
+      }
+    ],
+    "etatValidation": "code_3417",
+    "icone": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?medina,morocco,heritage",
+    "instances": []
+  },
+  {
+    "_id": {
+      "$oid": "f00e72319b0a9ff3843af95d"
+    },
+    "etatObjet": "code-1",
+    "reference": "CARAC-ALTITUDE-RECOLTE",
+    "ordre": 4,
+    "translations": [
+      {
+        "language": "fr",
+        "label": "Altitude de récolte",
+        "defaultValeurChar": ""
+      },
+      {
+        "language": "en",
+        "label": "Altitude de récolte",
+        "defaultValeurChar": ""
+      }
+    ],
+    "natureInfo": "code_NUM",
+    "typeInfo": "code_numeric",
+    "defaultValeurNotChar": null,
+    "minVal": null,
+    "maxVal": null,
+    "unite": "m",
+    "operateurs": [
+      "=",
+      "!=",
+      ">",
+      "<"
+    ],
+    "groupe": {
+      "$oid": "aaaf1baf8012e898245da3c8"
+    },
+    "valeurs": [],
+    "etatValidation": "code_3417",
+    "icone": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?argan,oil,morocco",
+    "instances": []
+  },
+  {
+    "_id": {
+      "$oid": "c472eb68d9bf0734600614fb"
+    },
+    "etatObjet": "code-1",
+    "reference": "CARAC-ANNEE-RECOLTE",
+    "ordre": 5,
+    "translations": [
+      {
+        "language": "fr",
+        "label": "Année de récolte",
+        "defaultValeurChar": ""
+      },
+      {
+        "language": "en",
+        "label": "Année de récolte",
+        "defaultValeurChar": ""
+      }
+    ],
+    "natureInfo": "code_NUM",
+    "typeInfo": "code_numeric",
+    "defaultValeurNotChar": null,
+    "minVal": null,
+    "maxVal": null,
+    "unite": "an",
+    "operateurs": [
+      "=",
+      "!=",
+      ">",
+      "<"
+    ],
+    "groupe": {
+      "$oid": "aaaf1baf8012e898245da3c8"
+    },
+    "valeurs": [],
+    "etatValidation": "code_3417",
+    "icone": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?medina,morocco,heritage",
+    "instances": []
+  },
+  {
+    "_id": {
+      "$oid": "b34a1d4227741dd14661adad"
+    },
+    "etatObjet": "code-1",
+    "reference": "CARAC-INGREDIENTS",
+    "ordre": 6,
+    "translations": [
+      {
+        "language": "fr",
+        "label": "Ingrédients",
+        "defaultValeurChar": ""
+      },
+      {
+        "language": "en",
+        "label": "Ingrédients",
+        "defaultValeurChar": ""
+      }
+    ],
+    "natureInfo": "code_TXT",
+    "typeInfo": "code_long_text",
+    "defaultValeurNotChar": null,
+    "minVal": null,
+    "maxVal": null,
+    "unite": null,
+    "operateurs": [
+      "=",
+      "!="
+    ],
+    "groupe": {
+      "$oid": "1ede94640b0b0d4e6862f383"
+    },
+    "valeurs": [],
+    "etatValidation": "code_3417",
+    "icone": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?morocco,olive,oil,bottle",
+    "instances": []
+  },
+  {
+    "_id": {
+      "$oid": "36d0c28a96199f65ce017edc"
+    },
+    "etatObjet": "code-1",
+    "reference": "CARAC-ALLERGENES",
+    "ordre": 7,
+    "translations": [
+      {
+        "language": "fr",
+        "label": "Allergènes",
+        "defaultValeurChar": ""
+      },
+      {
+        "language": "en",
+        "label": "Allergènes",
+        "defaultValeurChar": ""
+      }
+    ],
+    "natureInfo": "code_TXT",
+    "typeInfo": "code_multiselect",
+    "defaultValeurNotChar": null,
+    "minVal": null,
+    "maxVal": null,
+    "unite": null,
+    "operateurs": [
+      "=",
+      "!="
+    ],
+    "groupe": {
+      "$oid": "1ede94640b0b0d4e6862f383"
+    },
+    "valeurs": [
+      {
+        "$oid": "9f759f80fa8f219e51eb9fc8"
+      },
+      {
+        "$oid": "5de030d4d5ed5266e08096b7"
+      },
+      {
+        "$oid": "18040ccae09eaac930e6fc95"
+      },
+      {
+        "$oid": "37745e50c9efec6ffb3199e6"
+      }
+    ],
+    "etatValidation": "code_3417",
+    "icone": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?morocco,olive,oil,bottle",
+    "instances": []
+  },
+  {
+    "_id": {
+      "$oid": "103d5759c8a8db54dc6ab2f1"
+    },
+    "etatObjet": "code-1",
+    "reference": "CARAC-FORMAT",
+    "ordre": 8,
+    "translations": [
+      {
+        "language": "fr",
+        "label": "Format",
+        "defaultValeurChar": ""
+      },
+      {
+        "language": "en",
+        "label": "Format",
+        "defaultValeurChar": ""
+      }
+    ],
+    "natureInfo": "code_TXT",
+    "typeInfo": "code_select",
+    "defaultValeurNotChar": null,
+    "minVal": null,
+    "maxVal": null,
+    "unite": null,
+    "operateurs": [
+      "=",
+      "!="
+    ],
+    "groupe": {
+      "$oid": "e2617492ae8fcf4828ef0918"
+    },
+    "valeurs": [
+      {
+        "$oid": "ada38afea2ffd7db57752434"
+      },
+      {
+        "$oid": "e86d68def87b4ac4302fc89b"
+      },
+      {
+        "$oid": "f4d210fb8b2356e4e51f1773"
+      },
+      {
+        "$oid": "bb1db6c9d266aee53bd5f77e"
+      },
+      {
+        "$oid": "c38858d73ec7375e5b1bf032"
+      },
+      {
+        "$oid": "136066cde7dd94f00e36f71b"
+      }
+    ],
+    "etatValidation": "code_3417",
+    "icone": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?morocco,olive,oil,bottle",
+    "instances": []
+  },
+  {
+    "_id": {
+      "$oid": "8f3b56f72fafe889337c9b9b"
+    },
+    "etatObjet": "code-1",
+    "reference": "CARAC-CONTENANCE",
+    "ordre": 9,
+    "translations": [
+      {
+        "language": "fr",
+        "label": "Contenance",
+        "defaultValeurChar": ""
+      },
+      {
+        "language": "en",
+        "label": "Contenance",
+        "defaultValeurChar": ""
+      }
+    ],
+    "natureInfo": "code_NUM",
+    "typeInfo": "code_numeric",
+    "defaultValeurNotChar": null,
+    "minVal": null,
+    "maxVal": null,
+    "unite": "ml",
+    "operateurs": [
+      "=",
+      "!=",
+      ">",
+      "<"
+    ],
+    "groupe": {
+      "$oid": "e2617492ae8fcf4828ef0918"
+    },
+    "valeurs": [],
+    "etatValidation": "code_3417",
+    "icone": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?medina,morocco,heritage",
+    "instances": []
+  },
+  {
+    "_id": {
+      "$oid": "3309f5851b5841d767e2acce"
+    },
+    "etatObjet": "code-1",
+    "reference": "CARAC-BIO",
+    "ordre": 10,
+    "translations": [
+      {
+        "language": "fr",
+        "label": "Certification Bio",
+        "defaultValeurChar": ""
+      },
+      {
+        "language": "en",
+        "label": "Certification Bio",
+        "defaultValeurChar": ""
+      }
+    ],
+    "natureInfo": "code_BOOL",
+    "typeInfo": "code_boolean",
+    "defaultValeurNotChar": false,
+    "minVal": null,
+    "maxVal": null,
+    "unite": null,
+    "operateurs": [
+      "=",
+      "!="
+    ],
+    "groupe": {
+      "$oid": "2bd80de419e67a827f12f036"
+    },
+    "valeurs": [],
+    "etatValidation": "code_3417",
+    "icone": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?medina,morocco,heritage",
+    "instances": []
+  },
+  {
+    "_id": {
+      "$oid": "c8c8f5298645e9ae8e7024f3"
+    },
+    "etatObjet": "code-1",
+    "reference": "CARAC-IGP",
+    "ordre": 11,
+    "translations": [
+      {
+        "language": "fr",
+        "label": "Indication Géographique Protégée",
+        "defaultValeurChar": ""
+      },
+      {
+        "language": "en",
+        "label": "Indication Géographique Protégée",
+        "defaultValeurChar": ""
+      }
+    ],
+    "natureInfo": "code_BOOL",
+    "typeInfo": "code_boolean",
+    "defaultValeurNotChar": false,
+    "minVal": null,
+    "maxVal": null,
+    "unite": null,
+    "operateurs": [
+      "=",
+      "!="
+    ],
+    "groupe": {
+      "$oid": "2bd80de419e67a827f12f036"
+    },
+    "valeurs": [],
+    "etatValidation": "code_3417",
+    "icone": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?argan,oil,morocco",
+    "instances": []
+  },
+  {
+    "_id": {
+      "$oid": "708a3275c7d61e5a2ec7a854"
+    },
+    "etatObjet": "code-1",
+    "reference": "CARAC-METHODE-FABRICATION",
+    "ordre": 12,
+    "translations": [
+      {
+        "language": "fr",
+        "label": "Méthode de fabrication",
+        "defaultValeurChar": ""
+      },
+      {
+        "language": "en",
+        "label": "Méthode de fabrication",
+        "defaultValeurChar": ""
+      }
+    ],
+    "natureInfo": "code_TXT",
+    "typeInfo": "code_select",
+    "defaultValeurNotChar": null,
+    "minVal": null,
+    "maxVal": null,
+    "unite": null,
+    "operateurs": [
+      "=",
+      "!="
+    ],
+    "groupe": {
+      "$oid": "79ee89c273890e61965c42d9"
+    },
+    "valeurs": [
+      {
+        "$oid": "f2638dd9cb72b9f9d87e2eed"
+      },
+      {
+        "$oid": "08a5a588e63569e03370eba7"
+      },
+      {
+        "$oid": "340bf2d145dd080246b626ae"
+      },
+      {
+        "$oid": "65941ca199e8ae4e0011f1a1"
+      },
+      {
+        "$oid": "b8f4e803023f129ab8aa2270"
+      }
+    ],
+    "etatValidation": "code_3417",
+    "icone": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?morocco,olive,oil,bottle",
+    "instances": []
+  },
+  {
+    "_id": {
+      "$oid": "19dfead577bfddd4c8a99151"
+    },
+    "etatObjet": "code-1",
+    "reference": "CARAC-DUREE-PRODUCTION",
+    "ordre": 13,
+    "translations": [
+      {
+        "language": "fr",
+        "label": "Durée de production",
+        "defaultValeurChar": ""
+      },
+      {
+        "language": "en",
+        "label": "Durée de production",
+        "defaultValeurChar": ""
+      }
+    ],
+    "natureInfo": "code_NUM",
+    "typeInfo": "code_numeric",
+    "defaultValeurNotChar": null,
+    "minVal": null,
+    "maxVal": null,
+    "unite": "j",
+    "operateurs": [
+      "=",
+      "!=",
+      ">",
+      "<"
+    ],
+    "groupe": {
+      "$oid": "79ee89c273890e61965c42d9"
+    },
+    "valeurs": [],
+    "etatValidation": "code_3417",
+    "icone": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?medina,morocco,heritage",
+    "instances": []
+  },
+  {
+    "_id": {
+      "$oid": "0d513c9124ae1d8aa1a0930f"
+    },
+    "etatObjet": "code-1",
+    "reference": "CARAC-POIDS",
+    "ordre": 14,
+    "translations": [
+      {
+        "language": "fr",
+        "label": "Poids",
+        "defaultValeurChar": ""
+      },
+      {
+        "language": "en",
+        "label": "Poids",
+        "defaultValeurChar": ""
+      }
+    ],
+    "natureInfo": "code_NUM",
+    "typeInfo": "code_numeric",
+    "defaultValeurNotChar": null,
+    "minVal": null,
+    "maxVal": null,
+    "unite": "g",
+    "operateurs": [
+      "=",
+      "!=",
+      ">",
+      "<"
+    ],
+    "groupe": {
+      "$oid": "9cbeca40a5fb9030f06e04ad"
+    },
+    "valeurs": [],
+    "etatValidation": "code_3417",
+    "icone": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?medina,morocco,heritage",
+    "instances": []
+  },
+  {
+    "_id": {
+      "$oid": "13f479c5c7313197fe1aaa26"
+    },
+    "etatObjet": "code-1",
+    "reference": "CARAC-LONGUEUR",
+    "ordre": 15,
+    "translations": [
+      {
+        "language": "fr",
+        "label": "Longueur",
+        "defaultValeurChar": ""
+      },
+      {
+        "language": "en",
+        "label": "Longueur",
+        "defaultValeurChar": ""
+      }
+    ],
+    "natureInfo": "code_NUM",
+    "typeInfo": "code_numeric",
+    "defaultValeurNotChar": null,
+    "minVal": null,
+    "maxVal": null,
+    "unite": "cm",
+    "operateurs": [
+      "=",
+      "!=",
+      ">",
+      "<"
+    ],
+    "groupe": {
+      "$oid": "9cbeca40a5fb9030f06e04ad"
+    },
+    "valeurs": [],
+    "etatValidation": "code_3417",
+    "icone": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?medina,morocco,heritage",
+    "instances": []
+  },
+  {
+    "_id": {
+      "$oid": "f35a67b819aaead4e9522a0c"
+    },
+    "etatObjet": "code-1",
+    "reference": "CARAC-DUREE-CONSERVATION",
+    "ordre": 16,
+    "translations": [
+      {
+        "language": "fr",
+        "label": "Durée de conservation",
+        "defaultValeurChar": ""
+      },
+      {
+        "language": "en",
+        "label": "Durée de conservation",
+        "defaultValeurChar": ""
+      }
+    ],
+    "natureInfo": "code_NUM",
+    "typeInfo": "code_numeric",
+    "defaultValeurNotChar": null,
+    "minVal": null,
+    "maxVal": null,
+    "unite": "mois",
+    "operateurs": [
+      "=",
+      "!=",
+      ">",
+      "<"
+    ],
+    "groupe": {
+      "$oid": "5e25344068a406120e477c6b"
+    },
+    "valeurs": [],
+    "etatValidation": "code_3417",
+    "icone": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?argan,oil,morocco",
+    "instances": []
+  },
+  {
+    "_id": {
+      "$oid": "00394919023789dd0f5f91bb"
+    },
+    "etatObjet": "code-1",
+    "reference": "CARAC-MODE-CONSERVATION",
+    "ordre": 17,
+    "translations": [
+      {
+        "language": "fr",
+        "label": "Mode de conservation",
+        "defaultValeurChar": ""
+      },
+      {
+        "language": "en",
+        "label": "Mode de conservation",
+        "defaultValeurChar": ""
+      }
+    ],
+    "natureInfo": "code_TXT",
+    "typeInfo": "code_select",
+    "defaultValeurNotChar": null,
+    "minVal": null,
+    "maxVal": null,
+    "unite": null,
+    "operateurs": [
+      "=",
+      "!="
+    ],
+    "groupe": {
+      "$oid": "5e25344068a406120e477c6b"
+    },
+    "valeurs": [
+      {
+        "$oid": "02432965365d052611dc4be4"
+      },
+      {
+        "$oid": "f2a54c0d6601f48409ebd10d"
+      },
+      {
+        "$oid": "b8a53f52262d097a043b679e"
+      },
+      {
+        "$oid": "c048a2f7967555686d1297af"
+      }
+    ],
+    "etatValidation": "code_3417",
+    "icone": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "imageAssocie": "https://source.unsplash.com/featured/1200x800/?argan,oil,morocco",
+    "instances": []
+  }
+]

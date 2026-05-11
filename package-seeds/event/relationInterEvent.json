@@ -1,0 +1,17 @@
+[
+  {
+    "_id": {
+      "$oid": "13f873b4c1c412b1a15a726f"
+    },
+    "etatObjet": "code-1",
+    "typeRelation": "code_8530",
+    "agendaEventParent": {
+      "$oid": "81e5dc18fae7b36e789984f1"
+    },
+    "agendaEventAssocie": [
+      {
+        "$oid": "1fe6bbf8b819ccfbc937dbdb"
+      }
+    ]
+  }
+]

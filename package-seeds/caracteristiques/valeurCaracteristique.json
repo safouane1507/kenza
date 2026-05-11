@@ -1,0 +1,677 @@
+[
+  {
+    "_id": {
+      "$oid": "0aa970b19917d708308f93ff"
+    },
+    "etatObjet": "code-1",
+    "reference": "VAL-REGION-ORIGINE-01",
+    "ordre": 1,
+    "translations": [
+      {
+        "language": "fr",
+        "valeurChar": "Beni Mellal"
+      },
+      {
+        "language": "en",
+        "valeurChar": "Beni Mellal"
+      }
+    ],
+    "valeurNotChar": null,
+    "default": true,
+    "caracteriristique": {
+      "$oid": "f62683528048254664b57107"
+    },
+    "icone": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "imageRepresentative": "https://source.unsplash.com/featured/1200x800/?morocco,olive,oil,bottle"
+  },
+  {
+    "_id": {
+      "$oid": "3100a7c3fa25643904cc1212"
+    },
+    "etatObjet": "code-1",
+    "reference": "VAL-REGION-ORIGINE-02",
+    "ordre": 2,
+    "translations": [
+      {
+        "language": "fr",
+        "valeurChar": "Souss-Massa"
+      },
+      {
+        "language": "en",
+        "valeurChar": "Souss-Massa"
+      }
+    ],
+    "valeurNotChar": null,
+    "default": false,
+    "caracteriristique": {
+      "$oid": "f62683528048254664b57107"
+    },
+    "icone": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "imageRepresentative": "https://source.unsplash.com/featured/1200x800/?medina,morocco,heritage"
+  },
+  {
+    "_id": {
+      "$oid": "7196a1b38cf794a9e508780c"
+    },
+    "etatObjet": "code-1",
+    "reference": "VAL-REGION-ORIGINE-03",
+    "ordre": 3,
+    "translations": [
+      {
+        "language": "fr",
+        "valeurChar": "Fès-Meknès"
+      },
+      {
+        "language": "en",
+        "valeurChar": "Fès-Meknès"
+      }
+    ],
+    "valeurNotChar": null,
+    "default": false,
+    "caracteriristique": {
+      "$oid": "f62683528048254664b57107"
+    },
+    "icone": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "imageRepresentative": "https://source.unsplash.com/featured/1200x800/?medina,morocco,heritage"
+  },
+  {
+    "_id": {
+      "$oid": "b96ac7719003e9fb4afd0323"
+    },
+    "etatObjet": "code-1",
+    "reference": "VAL-REGION-ORIGINE-04",
+    "ordre": 4,
+    "translations": [
+      {
+        "language": "fr",
+        "valeurChar": "Marrakech-Safi"
+      },
+      {
+        "language": "en",
+        "valeurChar": "Marrakech-Safi"
+      }
+    ],
+    "valeurNotChar": null,
+    "default": false,
+    "caracteriristique": {
+      "$oid": "f62683528048254664b57107"
+    },
+    "icone": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "imageRepresentative": "https://source.unsplash.com/featured/1200x800/?medina,morocco,heritage"
+  },
+  {
+    "_id": {
+      "$oid": "9a1db1a796d8351fc3d68488"
+    },
+    "etatObjet": "code-1",
+    "reference": "VAL-REGION-ORIGINE-05",
+    "ordre": 5,
+    "translations": [
+      {
+        "language": "fr",
+        "valeurChar": "Tadla"
+      },
+      {
+        "language": "en",
+        "valeurChar": "Tadla"
+      }
+    ],
+    "valeurNotChar": null,
+    "default": false,
+    "caracteriristique": {
+      "$oid": "f62683528048254664b57107"
+    },
+    "icone": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "imageRepresentative": "https://source.unsplash.com/featured/1200x800/?morocco,olive,oil,bottle"
+  },
+  {
+    "_id": {
+      "$oid": "c8a5203b33c873fd91cc3889"
+    },
+    "etatObjet": "code-1",
+    "reference": "VAL-REGION-ORIGINE-06",
+    "ordre": 6,
+    "translations": [
+      {
+        "language": "fr",
+        "valeurChar": "Tanger-Tétouan-Al Hoceïma"
+      },
+      {
+        "language": "en",
+        "valeurChar": "Tanger-Tétouan-Al Hoceïma"
+      }
+    ],
+    "valeurNotChar": null,
+    "default": false,
+    "caracteriristique": {
+      "$oid": "f62683528048254664b57107"
+    },
+    "icone": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "imageRepresentative": "https://source.unsplash.com/featured/1200x800/?morocco,olive,oil,bottle"
+  },
+  {
+    "_id": {
+      "$oid": "68b5cc500d6f572f41a8df2b"
+    },
+    "etatObjet": "code-1",
+    "reference": "VAL-REGION-ORIGINE-07",
+    "ordre": 7,
+    "translations": [
+      {
+        "language": "fr",
+        "valeurChar": "Drâa-Tafilalet"
+      },
+      {
+        "language": "en",
+        "valeurChar": "Drâa-Tafilalet"
+      }
+    ],
+    "valeurNotChar": null,
+    "default": false,
+    "caracteriristique": {
+      "$oid": "f62683528048254664b57107"
+    },
+    "icone": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "imageRepresentative": "https://source.unsplash.com/featured/1200x800/?morocco,olive,oil,bottle"
+  },
+  {
+    "_id": {
+      "$oid": "0d223ac0a7178327bd56736c"
+    },
+    "etatObjet": "code-1",
+    "reference": "VAL-REGION-ORIGINE-08",
+    "ordre": 8,
+    "translations": [
+      {
+        "language": "fr",
+        "valeurChar": "Oriental"
+      },
+      {
+        "language": "en",
+        "valeurChar": "Oriental"
+      }
+    ],
+    "valeurNotChar": null,
+    "default": false,
+    "caracteriristique": {
+      "$oid": "f62683528048254664b57107"
+    },
+    "icone": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "imageRepresentative": "https://source.unsplash.com/featured/1200x800/?medina,morocco,heritage"
+  },
+  {
+    "_id": {
+      "$oid": "ada38afea2ffd7db57752434"
+    },
+    "etatObjet": "code-1",
+    "reference": "VAL-FORMAT-01",
+    "ordre": 1,
+    "translations": [
+      {
+        "language": "fr",
+        "valeurChar": "100ml"
+      },
+      {
+        "language": "en",
+        "valeurChar": "100ml"
+      }
+    ],
+    "valeurNotChar": null,
+    "default": true,
+    "caracteriristique": {
+      "$oid": "103d5759c8a8db54dc6ab2f1"
+    },
+    "icone": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "imageRepresentative": "https://source.unsplash.com/featured/1200x800/?morocco,olive,oil,bottle"
+  },
+  {
+    "_id": {
+      "$oid": "e86d68def87b4ac4302fc89b"
+    },
+    "etatObjet": "code-1",
+    "reference": "VAL-FORMAT-02",
+    "ordre": 2,
+    "translations": [
+      {
+        "language": "fr",
+        "valeurChar": "250ml"
+      },
+      {
+        "language": "en",
+        "valeurChar": "250ml"
+      }
+    ],
+    "valeurNotChar": null,
+    "default": false,
+    "caracteriristique": {
+      "$oid": "103d5759c8a8db54dc6ab2f1"
+    },
+    "icone": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "imageRepresentative": "https://source.unsplash.com/featured/1200x800/?medina,morocco,heritage"
+  },
+  {
+    "_id": {
+      "$oid": "f4d210fb8b2356e4e51f1773"
+    },
+    "etatObjet": "code-1",
+    "reference": "VAL-FORMAT-03",
+    "ordre": 3,
+    "translations": [
+      {
+        "language": "fr",
+        "valeurChar": "500ml"
+      },
+      {
+        "language": "en",
+        "valeurChar": "500ml"
+      }
+    ],
+    "valeurNotChar": null,
+    "default": false,
+    "caracteriristique": {
+      "$oid": "103d5759c8a8db54dc6ab2f1"
+    },
+    "icone": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "imageRepresentative": "https://source.unsplash.com/featured/1200x800/?medina,morocco,heritage"
+  },
+  {
+    "_id": {
+      "$oid": "bb1db6c9d266aee53bd5f77e"
+    },
+    "etatObjet": "code-1",
+    "reference": "VAL-FORMAT-04",
+    "ordre": 4,
+    "translations": [
+      {
+        "language": "fr",
+        "valeurChar": "1L"
+      },
+      {
+        "language": "en",
+        "valeurChar": "1L"
+      }
+    ],
+    "valeurNotChar": null,
+    "default": false,
+    "caracteriristique": {
+      "$oid": "103d5759c8a8db54dc6ab2f1"
+    },
+    "icone": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "imageRepresentative": "https://source.unsplash.com/featured/1200x800/?medina,morocco,heritage"
+  },
+  {
+    "_id": {
+      "$oid": "c38858d73ec7375e5b1bf032"
+    },
+    "etatObjet": "code-1",
+    "reference": "VAL-FORMAT-05",
+    "ordre": 5,
+    "translations": [
+      {
+        "language": "fr",
+        "valeurChar": "Pot 250g"
+      },
+      {
+        "language": "en",
+        "valeurChar": "Pot 250g"
+      }
+    ],
+    "valeurNotChar": null,
+    "default": false,
+    "caracteriristique": {
+      "$oid": "103d5759c8a8db54dc6ab2f1"
+    },
+    "icone": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "imageRepresentative": "https://source.unsplash.com/featured/1200x800/?medina,morocco,heritage"
+  },
+  {
+    "_id": {
+      "$oid": "136066cde7dd94f00e36f71b"
+    },
+    "etatObjet": "code-1",
+    "reference": "VAL-FORMAT-06",
+    "ordre": 6,
+    "translations": [
+      {
+        "language": "fr",
+        "valeurChar": "Bocal 500g"
+      },
+      {
+        "language": "en",
+        "valeurChar": "Bocal 500g"
+      }
+    ],
+    "valeurNotChar": null,
+    "default": false,
+    "caracteriristique": {
+      "$oid": "103d5759c8a8db54dc6ab2f1"
+    },
+    "icone": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "imageRepresentative": "https://source.unsplash.com/featured/1200x800/?medina,morocco,heritage"
+  },
+  {
+    "_id": {
+      "$oid": "9f759f80fa8f219e51eb9fc8"
+    },
+    "etatObjet": "code-1",
+    "reference": "VAL-ALLERGENES-01",
+    "ordre": 1,
+    "translations": [
+      {
+        "language": "fr",
+        "valeurChar": "Sans allergène"
+      },
+      {
+        "language": "en",
+        "valeurChar": "Sans allergène"
+      }
+    ],
+    "valeurNotChar": null,
+    "default": true,
+    "caracteriristique": {
+      "$oid": "36d0c28a96199f65ce017edc"
+    },
+    "icone": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "imageRepresentative": "https://source.unsplash.com/featured/1200x800/?morocco,olive,oil,bottle"
+  },
+  {
+    "_id": {
+      "$oid": "5de030d4d5ed5266e08096b7"
+    },
+    "etatObjet": "code-1",
+    "reference": "VAL-ALLERGENES-02",
+    "ordre": 2,
+    "translations": [
+      {
+        "language": "fr",
+        "valeurChar": "Contient fruits à coque"
+      },
+      {
+        "language": "en",
+        "valeurChar": "Contient fruits à coque"
+      }
+    ],
+    "valeurNotChar": null,
+    "default": false,
+    "caracteriristique": {
+      "$oid": "36d0c28a96199f65ce017edc"
+    },
+    "icone": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "imageRepresentative": "https://source.unsplash.com/featured/1200x800/?morocco,olive,oil,bottle"
+  },
+  {
+    "_id": {
+      "$oid": "18040ccae09eaac930e6fc95"
+    },
+    "etatObjet": "code-1",
+    "reference": "VAL-ALLERGENES-03",
+    "ordre": 3,
+    "translations": [
+      {
+        "language": "fr",
+        "valeurChar": "Contient gluten"
+      },
+      {
+        "language": "en",
+        "valeurChar": "Contient gluten"
+      }
+    ],
+    "valeurNotChar": null,
+    "default": false,
+    "caracteriristique": {
+      "$oid": "36d0c28a96199f65ce017edc"
+    },
+    "icone": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "imageRepresentative": "https://source.unsplash.com/featured/1200x800/?morocco,olive,oil,bottle"
+  },
+  {
+    "_id": {
+      "$oid": "37745e50c9efec6ffb3199e6"
+    },
+    "etatObjet": "code-1",
+    "reference": "VAL-ALLERGENES-04",
+    "ordre": 4,
+    "translations": [
+      {
+        "language": "fr",
+        "valeurChar": "Contient lait"
+      },
+      {
+        "language": "en",
+        "valeurChar": "Contient lait"
+      }
+    ],
+    "valeurNotChar": null,
+    "default": false,
+    "caracteriristique": {
+      "$oid": "36d0c28a96199f65ce017edc"
+    },
+    "icone": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "imageRepresentative": "https://source.unsplash.com/featured/1200x800/?medina,morocco,heritage"
+  },
+  {
+    "_id": {
+      "$oid": "f2638dd9cb72b9f9d87e2eed"
+    },
+    "etatObjet": "code-1",
+    "reference": "VAL-METHODE-FABRICATION-01",
+    "ordre": 1,
+    "translations": [
+      {
+        "language": "fr",
+        "valeurChar": "Pression à froid"
+      },
+      {
+        "language": "en",
+        "valeurChar": "Pression à froid"
+      }
+    ],
+    "valeurNotChar": null,
+    "default": true,
+    "caracteriristique": {
+      "$oid": "708a3275c7d61e5a2ec7a854"
+    },
+    "icone": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "imageRepresentative": "https://source.unsplash.com/featured/1200x800/?medina,morocco,heritage"
+  },
+  {
+    "_id": {
+      "$oid": "08a5a588e63569e03370eba7"
+    },
+    "etatObjet": "code-1",
+    "reference": "VAL-METHODE-FABRICATION-02",
+    "ordre": 2,
+    "translations": [
+      {
+        "language": "fr",
+        "valeurChar": "Distillation à la vapeur"
+      },
+      {
+        "language": "en",
+        "valeurChar": "Distillation à la vapeur"
+      }
+    ],
+    "valeurNotChar": null,
+    "default": false,
+    "caracteriristique": {
+      "$oid": "708a3275c7d61e5a2ec7a854"
+    },
+    "icone": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "imageRepresentative": "https://source.unsplash.com/featured/1200x800/?medina,morocco,heritage"
+  },
+  {
+    "_id": {
+      "$oid": "340bf2d145dd080246b626ae"
+    },
+    "etatObjet": "code-1",
+    "reference": "VAL-METHODE-FABRICATION-03",
+    "ordre": 3,
+    "translations": [
+      {
+        "language": "fr",
+        "valeurChar": "Récolte manuelle"
+      },
+      {
+        "language": "en",
+        "valeurChar": "Récolte manuelle"
+      }
+    ],
+    "valeurNotChar": null,
+    "default": false,
+    "caracteriristique": {
+      "$oid": "708a3275c7d61e5a2ec7a854"
+    },
+    "icone": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "imageRepresentative": "https://source.unsplash.com/featured/1200x800/?morocco,olive,oil,bottle"
+  },
+  {
+    "_id": {
+      "$oid": "65941ca199e8ae4e0011f1a1"
+    },
+    "etatObjet": "code-1",
+    "reference": "VAL-METHODE-FABRICATION-04",
+    "ordre": 4,
+    "translations": [
+      {
+        "language": "fr",
+        "valeurChar": "Cuisson au feu de bois"
+      },
+      {
+        "language": "en",
+        "valeurChar": "Cuisson au feu de bois"
+      }
+    ],
+    "valeurNotChar": null,
+    "default": false,
+    "caracteriristique": {
+      "$oid": "708a3275c7d61e5a2ec7a854"
+    },
+    "icone": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "imageRepresentative": "https://source.unsplash.com/featured/1200x800/?morocco,olive,oil,bottle"
+  },
+  {
+    "_id": {
+      "$oid": "b8f4e803023f129ab8aa2270"
+    },
+    "etatObjet": "code-1",
+    "reference": "VAL-METHODE-FABRICATION-05",
+    "ordre": 5,
+    "translations": [
+      {
+        "language": "fr",
+        "valeurChar": "Tissage main"
+      },
+      {
+        "language": "en",
+        "valeurChar": "Tissage main"
+      }
+    ],
+    "valeurNotChar": null,
+    "default": false,
+    "caracteriristique": {
+      "$oid": "708a3275c7d61e5a2ec7a854"
+    },
+    "icone": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "imageRepresentative": "https://source.unsplash.com/featured/1200x800/?morocco,olive,oil,bottle"
+  },
+  {
+    "_id": {
+      "$oid": "02432965365d052611dc4be4"
+    },
+    "etatObjet": "code-1",
+    "reference": "VAL-MODE-CONSERVATION-01",
+    "ordre": 1,
+    "translations": [
+      {
+        "language": "fr",
+        "valeurChar": "Lieu sec et frais"
+      },
+      {
+        "language": "en",
+        "valeurChar": "Lieu sec et frais"
+      }
+    ],
+    "valeurNotChar": null,
+    "default": true,
+    "caracteriristique": {
+      "$oid": "00394919023789dd0f5f91bb"
+    },
+    "icone": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "imageRepresentative": "https://source.unsplash.com/featured/1200x800/?medina,morocco,heritage"
+  },
+  {
+    "_id": {
+      "$oid": "f2a54c0d6601f48409ebd10d"
+    },
+    "etatObjet": "code-1",
+    "reference": "VAL-MODE-CONSERVATION-02",
+    "ordre": 2,
+    "translations": [
+      {
+        "language": "fr",
+        "valeurChar": "Réfrigération"
+      },
+      {
+        "language": "en",
+        "valeurChar": "Réfrigération"
+      }
+    ],
+    "valeurNotChar": null,
+    "default": false,
+    "caracteriristique": {
+      "$oid": "00394919023789dd0f5f91bb"
+    },
+    "icone": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "imageRepresentative": "https://source.unsplash.com/featured/1200x800/?morocco,olive,oil,bottle"
+  },
+  {
+    "_id": {
+      "$oid": "b8a53f52262d097a043b679e"
+    },
+    "etatObjet": "code-1",
+    "reference": "VAL-MODE-CONSERVATION-03",
+    "ordre": 3,
+    "translations": [
+      {
+        "language": "fr",
+        "valeurChar": "Congélation"
+      },
+      {
+        "language": "en",
+        "valeurChar": "Congélation"
+      }
+    ],
+    "valeurNotChar": null,
+    "default": false,
+    "caracteriristique": {
+      "$oid": "00394919023789dd0f5f91bb"
+    },
+    "icone": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "imageRepresentative": "https://source.unsplash.com/featured/1200x800/?medina,morocco,heritage"
+  },
+  {
+    "_id": {
+      "$oid": "c048a2f7967555686d1297af"
+    },
+    "etatObjet": "code-1",
+    "reference": "VAL-MODE-CONSERVATION-04",
+    "ordre": 4,
+    "translations": [
+      {
+        "language": "fr",
+        "valeurChar": "Hors lumière"
+      },
+      {
+        "language": "en",
+        "valeurChar": "Hors lumière"
+      }
+    ],
+    "valeurNotChar": null,
+    "default": false,
+    "caracteriristique": {
+      "$oid": "00394919023789dd0f5f91bb"
+    },
+    "icone": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "imageRepresentative": "https://source.unsplash.com/featured/1200x800/?medina,morocco,heritage"
+  }
+]

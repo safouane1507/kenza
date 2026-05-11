@@ -1,0 +1,3012 @@
+[
+  {
+    "_id": {
+      "$oid": "919c56e5b864acd9fbd13368"
+    },
+    "etatDePublication": "code_3417",
+    "refActorSocioEco": "KB-ACT-1000",
+    "typeStructure": "code_4101",
+    "statutStrcture": "code_4150",
+    "activitePrincipale": {
+      "$oid": "69e8ed38c6121d6a80291de6"
+    },
+    "secteurActivite": {
+      "$oid": "69e8ed38c6121d6a80291de0"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "nomStructure": "Coopérative Aïn Atlas",
+        "slogan": "Huile d'olive AOP du Moyen Atlas",
+        "descriptionActeur": "Coopérative féminine certifiée bio dédiée à la production d'huile d'olive AOP Tyout-Chiadma.",
+        "commentaireInterne": "Acteur premium référencé Kenz Bladi."
+      },
+      {
+        "language": "en",
+        "nomStructure": "Coopérative Aïn Atlas",
+        "slogan": "Huile d'olive AOP du Moyen Atlas",
+        "descriptionActeur": "Coopérative féminine certifiée bio dédiée à la production d'huile d'olive AOP Tyout-Chiadma.",
+        "commentaireInterne": "Premium Kenz Bladi referenced actor."
+      }
+    ],
+    "logo": "https://source.unsplash.com/featured/1200x800/?dates,palm,morocco",
+    "paysOrigine": "MA",
+    "dateCreation": {
+      "$date": "2018-01-01T00:00:00.000Z"
+    },
+    "notation": 4.88,
+    "taille": 80,
+    "etat": "code-1",
+    "email": "contact1@coopérativeaïnatlas.ma",
+    "telephone": "+212689166653",
+    "fixe": "+212513246215",
+    "autreTelephone1": "",
+    "autreTelephone2": "",
+    "siteWeb": "https://coopérativeaïnatlas.ma",
+    "languesParles": [
+      "fr",
+      "ar",
+      "en"
+    ],
+    "isFournisseur": true,
+    "protagoniste": null,
+    "coordonnees": [
+      {
+        "$oid": "e5d4334b943fd96f66429330"
+      }
+    ],
+    "evenement": [],
+    "distinctions": [],
+    "organigrammeStructure": [],
+    "organigrammePersonnel": [],
+    "contenuMMEDIA": [],
+    "histoire": [],
+    "socialMedia": [],
+    "acteursAssocies": [],
+    "promotions": [],
+    "statistiquesDirectes": [],
+    "traceFournisseur": [],
+    "parrainePar": [],
+    "actionnaires": [],
+    "conseilAdministratif": [],
+    "etatObjet": "code-1",
+    "abonnees": [],
+    "rdv": [],
+    "horaire": [],
+    "contrat": [],
+    "inbox": [],
+    "expressions": [],
+    "selection": [],
+    "informationComplementaire": [],
+    "representationMarque": [],
+    "candidatureSpontane": [],
+    "objetsAssocies": [],
+    "notifications": [],
+    "recherches": [],
+    "offres": [],
+    "favories": [],
+    "acteursEcosysteme": null,
+    "caracteristiques": [],
+    "identitesAdministratifs": [],
+    "actionsSocialesSolidaires": [],
+    "temoignage": [],
+    "referencesProfessionnelles": [],
+    "myEservice": [],
+    "catalogue": [
+      {
+        "$oid": "e4f5f7a70ac16a444c109f33"
+      },
+      {
+        "$oid": "0a6b9a90b7ef5293822377e3"
+      }
+    ],
+    "produitService": [
+      {
+        "$oid": "e4f5f7a70ac16a444c109f33"
+      },
+      {
+        "$oid": "0a6b9a90b7ef5293822377e3"
+      }
+    ],
+    "faq": [],
+    "coordonneesGeo": [
+      {
+        "$oid": "e5d4334b943fd96f66429330"
+      }
+    ],
+    "mMEDIA": [],
+    "objetsConcernes": []
+  },
+  {
+    "_id": {
+      "$oid": "7f8c6020d22eacc539e9d195"
+    },
+    "etatDePublication": "code_3417",
+    "refActorSocioEco": "KB-ACT-1001",
+    "typeStructure": "code_4101",
+    "statutStrcture": "code_4150",
+    "activitePrincipale": {
+      "$oid": "69e8ed38c6121d6a80291e37"
+    },
+    "secteurActivite": {
+      "$oid": "69e8ed38c6121d6a80291de0"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "nomStructure": "Argania Souss",
+        "slogan": "L'or liquide des Berbères",
+        "descriptionActeur": "Coopérative d'arganiculture, production éthique d'huile d'argan cosmétique et alimentaire.",
+        "commentaireInterne": "Acteur premium référencé Kenz Bladi."
+      },
+      {
+        "language": "en",
+        "nomStructure": "Argania Souss",
+        "slogan": "L'or liquide des Berbères",
+        "descriptionActeur": "Coopérative d'arganiculture, production éthique d'huile d'argan cosmétique et alimentaire.",
+        "commentaireInterne": "Premium Kenz Bladi referenced actor."
+      }
+    ],
+    "logo": "https://source.unsplash.com/featured/1200x800/?morocco,spices,souk",
+    "paysOrigine": "MA",
+    "dateCreation": {
+      "$date": "2019-02-01T00:00:00.000Z"
+    },
+    "notation": 4.29,
+    "taille": 80,
+    "etat": "code-1",
+    "email": "contact2@arganiasouss.ma",
+    "telephone": "+212627284599",
+    "fixe": "+212581513611",
+    "autreTelephone1": "",
+    "autreTelephone2": "",
+    "siteWeb": "https://arganiasouss.ma",
+    "languesParles": [
+      "fr",
+      "ar",
+      "en"
+    ],
+    "isFournisseur": true,
+    "protagoniste": null,
+    "coordonnees": [
+      {
+        "$oid": "e298181ff3970e0f6ae1b32d"
+      }
+    ],
+    "evenement": [],
+    "distinctions": [],
+    "organigrammeStructure": [],
+    "organigrammePersonnel": [],
+    "contenuMMEDIA": [],
+    "histoire": [],
+    "socialMedia": [],
+    "acteursAssocies": [],
+    "promotions": [],
+    "statistiquesDirectes": [],
+    "traceFournisseur": [],
+    "parrainePar": [],
+    "actionnaires": [],
+    "conseilAdministratif": [],
+    "etatObjet": "code-1",
+    "abonnees": [],
+    "rdv": [],
+    "horaire": [],
+    "contrat": [],
+    "inbox": [],
+    "expressions": [],
+    "selection": [],
+    "informationComplementaire": [],
+    "representationMarque": [],
+    "candidatureSpontane": [],
+    "objetsAssocies": [],
+    "notifications": [],
+    "recherches": [],
+    "offres": [],
+    "favories": [],
+    "acteursEcosysteme": null,
+    "caracteristiques": [],
+    "identitesAdministratifs": [],
+    "actionsSocialesSolidaires": [],
+    "temoignage": [],
+    "referencesProfessionnelles": [],
+    "myEservice": [],
+    "catalogue": [
+      {
+        "$oid": "4ce6f68892a9ceab00b40f8d"
+      },
+      {
+        "$oid": "3d6263c403de355e9dc2cab9"
+      }
+    ],
+    "produitService": [
+      {
+        "$oid": "4ce6f68892a9ceab00b40f8d"
+      },
+      {
+        "$oid": "3d6263c403de355e9dc2cab9"
+      }
+    ],
+    "faq": [],
+    "coordonneesGeo": [
+      {
+        "$oid": "e298181ff3970e0f6ae1b32d"
+      }
+    ],
+    "mMEDIA": [],
+    "objetsConcernes": []
+  },
+  {
+    "_id": {
+      "$oid": "5811fc125d16e52f324b5d56"
+    },
+    "etatDePublication": "code_3417",
+    "refActorSocioEco": "KB-ACT-1002",
+    "typeStructure": "code_4101",
+    "statutStrcture": "code_4150",
+    "activitePrincipale": {
+      "$oid": "69e8ed38c6121d6a80291deb"
+    },
+    "secteurActivite": {
+      "$oid": "69e8ed38c6121d6a80291de0"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "nomStructure": "Miel des Cèdres",
+        "slogan": "Miel d'altitude IGP",
+        "descriptionActeur": "Apiculteurs du Moyen Atlas — miels mono-fleurs d'eucalyptus, lavande, oranger.",
+        "commentaireInterne": "Acteur premium référencé Kenz Bladi."
+      },
+      {
+        "language": "en",
+        "nomStructure": "Miel des Cèdres",
+        "slogan": "Miel d'altitude IGP",
+        "descriptionActeur": "Apiculteurs du Moyen Atlas — miels mono-fleurs d'eucalyptus, lavande, oranger.",
+        "commentaireInterne": "Premium Kenz Bladi referenced actor."
+      }
+    ],
+    "logo": "https://source.unsplash.com/featured/1200x800/?almonds,morocco,terroir",
+    "paysOrigine": "MA",
+    "dateCreation": {
+      "$date": "2020-03-01T00:00:00.000Z"
+    },
+    "notation": 4.19,
+    "taille": 40,
+    "etat": "code-1",
+    "email": "contact3@mieldescèdres.ma",
+    "telephone": "+212684736927",
+    "fixe": "+212553851387",
+    "autreTelephone1": "",
+    "autreTelephone2": "",
+    "siteWeb": "https://mieldescèdres.ma",
+    "languesParles": [
+      "fr",
+      "ar",
+      "en"
+    ],
+    "isFournisseur": true,
+    "protagoniste": null,
+    "coordonnees": [
+      {
+        "$oid": "c7035b62ac4afff7948f0fcb"
+      }
+    ],
+    "evenement": [],
+    "distinctions": [],
+    "organigrammeStructure": [],
+    "organigrammePersonnel": [],
+    "contenuMMEDIA": [],
+    "histoire": [],
+    "socialMedia": [],
+    "acteursAssocies": [],
+    "promotions": [],
+    "statistiquesDirectes": [],
+    "traceFournisseur": [],
+    "parrainePar": [],
+    "actionnaires": [],
+    "conseilAdministratif": [],
+    "etatObjet": "code-1",
+    "abonnees": [],
+    "rdv": [],
+    "horaire": [],
+    "contrat": [],
+    "inbox": [],
+    "expressions": [],
+    "selection": [],
+    "informationComplementaire": [],
+    "representationMarque": [],
+    "candidatureSpontane": [],
+    "objetsAssocies": [],
+    "notifications": [],
+    "recherches": [],
+    "offres": [],
+    "favories": [],
+    "acteursEcosysteme": null,
+    "caracteristiques": [],
+    "identitesAdministratifs": [],
+    "actionsSocialesSolidaires": [],
+    "temoignage": [],
+    "referencesProfessionnelles": [],
+    "myEservice": [],
+    "catalogue": [
+      {
+        "$oid": "e9ce59d1b2d44f6a088ecd7d"
+      },
+      {
+        "$oid": "ed34bb02c63a0f6a29667c49"
+      },
+      {
+        "$oid": "ccc54a0be1b34f436c47a9b7"
+      }
+    ],
+    "produitService": [
+      {
+        "$oid": "e9ce59d1b2d44f6a088ecd7d"
+      },
+      {
+        "$oid": "ed34bb02c63a0f6a29667c49"
+      },
+      {
+        "$oid": "ccc54a0be1b34f436c47a9b7"
+      }
+    ],
+    "faq": [],
+    "coordonneesGeo": [
+      {
+        "$oid": "c7035b62ac4afff7948f0fcb"
+      }
+    ],
+    "mMEDIA": [],
+    "objetsConcernes": []
+  },
+  {
+    "_id": {
+      "$oid": "40bd6fd1aabd7425a437ba8f"
+    },
+    "etatDePublication": "code_3417",
+    "refActorSocioEco": "KB-ACT-1003",
+    "typeStructure": "code_4101",
+    "statutStrcture": "code_4150",
+    "activitePrincipale": {
+      "$oid": "69e8ed38c6121d6a80291e26"
+    },
+    "secteurActivite": {
+      "$oid": "69e8ed38c6121d6a80291de0"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "nomStructure": "Saveurs de l'Oriental",
+        "slogan": "Épices & condiments du Maroc",
+        "descriptionActeur": "Maison spécialisée dans les épices fraîches et mélanges Ras El Hanout traditionnels.",
+        "commentaireInterne": "Acteur premium référencé Kenz Bladi."
+      },
+      {
+        "language": "en",
+        "nomStructure": "Saveurs de l'Oriental",
+        "slogan": "Épices & condiments du Maroc",
+        "descriptionActeur": "Maison spécialisée dans les épices fraîches et mélanges Ras El Hanout traditionnels.",
+        "commentaireInterne": "Premium Kenz Bladi referenced actor."
+      }
+    ],
+    "logo": "https://source.unsplash.com/featured/1200x800/?almonds,morocco,terroir",
+    "paysOrigine": "MA",
+    "dateCreation": {
+      "$date": "2021-04-01T00:00:00.000Z"
+    },
+    "notation": 4.16,
+    "taille": 5,
+    "etat": "code-1",
+    "email": "contact4@saveursdeloriental.ma",
+    "telephone": "+212667600305",
+    "fixe": "+212592015135",
+    "autreTelephone1": "",
+    "autreTelephone2": "",
+    "siteWeb": "https://saveursdeloriental.ma",
+    "languesParles": [
+      "fr",
+      "ar",
+      "en"
+    ],
+    "isFournisseur": true,
+    "protagoniste": null,
+    "coordonnees": [
+      {
+        "$oid": "20806b3d18e443d0debc5bf8"
+      }
+    ],
+    "evenement": [],
+    "distinctions": [],
+    "organigrammeStructure": [],
+    "organigrammePersonnel": [],
+    "contenuMMEDIA": [],
+    "histoire": [],
+    "socialMedia": [],
+    "acteursAssocies": [],
+    "promotions": [],
+    "statistiquesDirectes": [],
+    "traceFournisseur": [],
+    "parrainePar": [],
+    "actionnaires": [],
+    "conseilAdministratif": [],
+    "etatObjet": "code-1",
+    "abonnees": [],
+    "rdv": [],
+    "horaire": [],
+    "contrat": [],
+    "inbox": [],
+    "expressions": [],
+    "selection": [],
+    "informationComplementaire": [],
+    "representationMarque": [],
+    "candidatureSpontane": [],
+    "objetsAssocies": [],
+    "notifications": [],
+    "recherches": [],
+    "offres": [],
+    "favories": [],
+    "acteursEcosysteme": null,
+    "caracteristiques": [],
+    "identitesAdministratifs": [],
+    "actionsSocialesSolidaires": [],
+    "temoignage": [],
+    "referencesProfessionnelles": [],
+    "myEservice": [],
+    "catalogue": [
+      {
+        "$oid": "55f37d6d93c3dc43328c53ae"
+      },
+      {
+        "$oid": "9777eda660a4da612b0e65a8"
+      }
+    ],
+    "produitService": [
+      {
+        "$oid": "55f37d6d93c3dc43328c53ae"
+      },
+      {
+        "$oid": "9777eda660a4da612b0e65a8"
+      }
+    ],
+    "faq": [],
+    "coordonneesGeo": [
+      {
+        "$oid": "20806b3d18e443d0debc5bf8"
+      }
+    ],
+    "mMEDIA": [],
+    "objetsConcernes": []
+  },
+  {
+    "_id": {
+      "$oid": "94ef1a2e14b18b954e01e82a"
+    },
+    "etatDePublication": "code_3417",
+    "refActorSocioEco": "KB-ACT-1004",
+    "typeStructure": "code_4101",
+    "statutStrcture": "code_4150",
+    "activitePrincipale": {
+      "$oid": "69e8ed38c6121d6a80291e37"
+    },
+    "secteurActivite": {
+      "$oid": "69e8ed38c6121d6a80291de0"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "nomStructure": "Dates de Tafilalet",
+        "slogan": "Dattes Mejhoul premium",
+        "descriptionActeur": "Producteur de dattes Mejhoul AOP issues de la palmeraie de Erfoud.",
+        "commentaireInterne": "Acteur premium référencé Kenz Bladi."
+      },
+      {
+        "language": "en",
+        "nomStructure": "Dates de Tafilalet",
+        "slogan": "Dattes Mejhoul premium",
+        "descriptionActeur": "Producteur de dattes Mejhoul AOP issues de la palmeraie de Erfoud.",
+        "commentaireInterne": "Premium Kenz Bladi referenced actor."
+      }
+    ],
+    "logo": "https://source.unsplash.com/featured/1200x800/?almonds,morocco,terroir",
+    "paysOrigine": "MA",
+    "dateCreation": {
+      "$date": "2022-05-01T00:00:00.000Z"
+    },
+    "notation": 4.69,
+    "taille": 25,
+    "etat": "code-1",
+    "email": "contact5@datesdetafilalet.ma",
+    "telephone": "+212655570527",
+    "fixe": "+212518195543",
+    "autreTelephone1": "",
+    "autreTelephone2": "",
+    "siteWeb": "https://datesdetafilalet.ma",
+    "languesParles": [
+      "fr",
+      "ar",
+      "en"
+    ],
+    "isFournisseur": true,
+    "protagoniste": null,
+    "coordonnees": [
+      {
+        "$oid": "24c7be859f11162acccbcb8f"
+      }
+    ],
+    "evenement": [],
+    "distinctions": [],
+    "organigrammeStructure": [],
+    "organigrammePersonnel": [],
+    "contenuMMEDIA": [],
+    "histoire": [],
+    "socialMedia": [],
+    "acteursAssocies": [],
+    "promotions": [],
+    "statistiquesDirectes": [],
+    "traceFournisseur": [],
+    "parrainePar": [],
+    "actionnaires": [],
+    "conseilAdministratif": [],
+    "etatObjet": "code-1",
+    "abonnees": [],
+    "rdv": [],
+    "horaire": [],
+    "contrat": [],
+    "inbox": [],
+    "expressions": [],
+    "selection": [],
+    "informationComplementaire": [],
+    "representationMarque": [],
+    "candidatureSpontane": [],
+    "objetsAssocies": [],
+    "notifications": [],
+    "recherches": [],
+    "offres": [],
+    "favories": [],
+    "acteursEcosysteme": null,
+    "caracteristiques": [],
+    "identitesAdministratifs": [],
+    "actionsSocialesSolidaires": [],
+    "temoignage": [],
+    "referencesProfessionnelles": [],
+    "myEservice": [],
+    "catalogue": [
+      {
+        "$oid": "1478825e3619a2b765482221"
+      },
+      {
+        "$oid": "df28d885880ba78cc2399db4"
+      },
+      {
+        "$oid": "be1275cde9f43405b75b7f27"
+      },
+      {
+        "$oid": "04a0018b18f20a3ee871f325"
+      }
+    ],
+    "produitService": [
+      {
+        "$oid": "1478825e3619a2b765482221"
+      },
+      {
+        "$oid": "df28d885880ba78cc2399db4"
+      },
+      {
+        "$oid": "be1275cde9f43405b75b7f27"
+      },
+      {
+        "$oid": "04a0018b18f20a3ee871f325"
+      }
+    ],
+    "faq": [],
+    "coordonneesGeo": [
+      {
+        "$oid": "24c7be859f11162acccbcb8f"
+      }
+    ],
+    "mMEDIA": [],
+    "objetsConcernes": []
+  },
+  {
+    "_id": {
+      "$oid": "dcea3052bdc1469ed073fc46"
+    },
+    "etatDePublication": "code_3417",
+    "refActorSocioEco": "KB-ACT-1005",
+    "typeStructure": "code_4101",
+    "statutStrcture": "code_4150",
+    "activitePrincipale": {
+      "$oid": "69e8ed38c6121d6a80291e6e"
+    },
+    "secteurActivite": {
+      "$oid": "69e8ed38c6121d6a80291e4f"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "nomStructure": "Bio Souss",
+        "slogan": "Légumes bio direct du producteur",
+        "descriptionActeur": "Coopérative de petits agriculteurs bio de la plaine du Souss.",
+        "commentaireInterne": "Acteur premium référencé Kenz Bladi."
+      },
+      {
+        "language": "en",
+        "nomStructure": "Bio Souss",
+        "slogan": "Légumes bio direct du producteur",
+        "descriptionActeur": "Coopérative de petits agriculteurs bio de la plaine du Souss.",
+        "commentaireInterne": "Premium Kenz Bladi referenced actor."
+      }
+    ],
+    "logo": "https://source.unsplash.com/featured/1200x800/?seasonal,fruits,morocco",
+    "paysOrigine": "MA",
+    "dateCreation": {
+      "$date": "2023-06-01T00:00:00.000Z"
+    },
+    "notation": 4.13,
+    "taille": 5,
+    "etat": "code-1",
+    "email": "contact6@biosouss.ma",
+    "telephone": "+212626574508",
+    "fixe": "+212518854929",
+    "autreTelephone1": "",
+    "autreTelephone2": "",
+    "siteWeb": "https://biosouss.ma",
+    "languesParles": [
+      "fr",
+      "ar",
+      "en"
+    ],
+    "isFournisseur": true,
+    "protagoniste": null,
+    "coordonnees": [
+      {
+        "$oid": "89f80e7cca0a5daf8e91c889"
+      }
+    ],
+    "evenement": [],
+    "distinctions": [],
+    "organigrammeStructure": [],
+    "organigrammePersonnel": [],
+    "contenuMMEDIA": [],
+    "histoire": [],
+    "socialMedia": [],
+    "acteursAssocies": [],
+    "promotions": [],
+    "statistiquesDirectes": [],
+    "traceFournisseur": [],
+    "parrainePar": [],
+    "actionnaires": [],
+    "conseilAdministratif": [],
+    "etatObjet": "code-1",
+    "abonnees": [],
+    "rdv": [],
+    "horaire": [],
+    "contrat": [],
+    "inbox": [],
+    "expressions": [],
+    "selection": [],
+    "informationComplementaire": [],
+    "representationMarque": [],
+    "candidatureSpontane": [],
+    "objetsAssocies": [],
+    "notifications": [],
+    "recherches": [],
+    "offres": [],
+    "favories": [],
+    "acteursEcosysteme": null,
+    "caracteristiques": [],
+    "identitesAdministratifs": [],
+    "actionsSocialesSolidaires": [],
+    "temoignage": [],
+    "referencesProfessionnelles": [],
+    "myEservice": [],
+    "catalogue": [
+      {
+        "$oid": "a3ddb7ae6a7f65934ca3646c"
+      },
+      {
+        "$oid": "e1dfbffe8ef6315a1e4acfcb"
+      }
+    ],
+    "produitService": [
+      {
+        "$oid": "a3ddb7ae6a7f65934ca3646c"
+      },
+      {
+        "$oid": "e1dfbffe8ef6315a1e4acfcb"
+      }
+    ],
+    "faq": [],
+    "coordonneesGeo": [
+      {
+        "$oid": "89f80e7cca0a5daf8e91c889"
+      }
+    ],
+    "mMEDIA": [],
+    "objetsConcernes": []
+  },
+  {
+    "_id": {
+      "$oid": "23952ce440655a634b05769f"
+    },
+    "etatDePublication": "code_3417",
+    "refActorSocioEco": "KB-ACT-1006",
+    "typeStructure": "code_4101",
+    "statutStrcture": "code_4150",
+    "activitePrincipale": {
+      "$oid": "69e8ed38c6121d6a80291e8b"
+    },
+    "secteurActivite": {
+      "$oid": "69e8ed38c6121d6a80291e4f"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "nomStructure": "Panier Berbère",
+        "slogan": "Box hebdomadaires de saison",
+        "descriptionActeur": "Box bio livrées à domicile, agriculture solidaire & paysanne.",
+        "commentaireInterne": "Acteur premium référencé Kenz Bladi."
+      },
+      {
+        "language": "en",
+        "nomStructure": "Panier Berbère",
+        "slogan": "Box hebdomadaires de saison",
+        "descriptionActeur": "Box bio livrées à domicile, agriculture solidaire & paysanne.",
+        "commentaireInterne": "Premium Kenz Bladi referenced actor."
+      }
+    ],
+    "logo": "https://source.unsplash.com/featured/1200x800/?seasonal,fruits,morocco",
+    "paysOrigine": "MA",
+    "dateCreation": {
+      "$date": "2018-07-01T00:00:00.000Z"
+    },
+    "notation": 4.9,
+    "taille": 8,
+    "etat": "code-1",
+    "email": "contact7@panierberbère.ma",
+    "telephone": "+212619628112",
+    "fixe": "+212564902959",
+    "autreTelephone1": "",
+    "autreTelephone2": "",
+    "siteWeb": "https://panierberbère.ma",
+    "languesParles": [
+      "fr",
+      "ar",
+      "en"
+    ],
+    "isFournisseur": true,
+    "protagoniste": null,
+    "coordonnees": [
+      {
+        "$oid": "f5f839d43e6b7b8ba5843478"
+      }
+    ],
+    "evenement": [],
+    "distinctions": [],
+    "organigrammeStructure": [],
+    "organigrammePersonnel": [],
+    "contenuMMEDIA": [],
+    "histoire": [],
+    "socialMedia": [],
+    "acteursAssocies": [],
+    "promotions": [],
+    "statistiquesDirectes": [],
+    "traceFournisseur": [],
+    "parrainePar": [],
+    "actionnaires": [],
+    "conseilAdministratif": [],
+    "etatObjet": "code-1",
+    "abonnees": [],
+    "rdv": [],
+    "horaire": [],
+    "contrat": [],
+    "inbox": [],
+    "expressions": [],
+    "selection": [],
+    "informationComplementaire": [],
+    "representationMarque": [],
+    "candidatureSpontane": [],
+    "objetsAssocies": [],
+    "notifications": [],
+    "recherches": [],
+    "offres": [],
+    "favories": [],
+    "acteursEcosysteme": null,
+    "caracteristiques": [],
+    "identitesAdministratifs": [],
+    "actionsSocialesSolidaires": [],
+    "temoignage": [],
+    "referencesProfessionnelles": [],
+    "myEservice": [],
+    "catalogue": [
+      {
+        "$oid": "a58b00562153ab4013d78ae1"
+      },
+      {
+        "$oid": "7c026ef2ea8df27c55524005"
+      }
+    ],
+    "produitService": [
+      {
+        "$oid": "a58b00562153ab4013d78ae1"
+      },
+      {
+        "$oid": "7c026ef2ea8df27c55524005"
+      }
+    ],
+    "faq": [],
+    "coordonneesGeo": [
+      {
+        "$oid": "f5f839d43e6b7b8ba5843478"
+      }
+    ],
+    "mMEDIA": [],
+    "objetsConcernes": []
+  },
+  {
+    "_id": {
+      "$oid": "6b3356f18784b3e8223ac20c"
+    },
+    "etatDePublication": "code_3417",
+    "refActorSocioEco": "KB-ACT-1007",
+    "typeStructure": "code_4101",
+    "statutStrcture": "code_4150",
+    "activitePrincipale": {
+      "$oid": "69e8ed38c6121d6a80291ef0"
+    },
+    "secteurActivite": {
+      "$oid": "69e8ed38c6121d6a80291ead"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "nomStructure": "Savonnerie Beldi",
+        "slogan": "Savon noir & gants kessa",
+        "descriptionActeur": "Maison artisanale de savons beldi à l'huile d'olive et eucalyptus.",
+        "commentaireInterne": "Acteur premium référencé Kenz Bladi."
+      },
+      {
+        "language": "en",
+        "nomStructure": "Savonnerie Beldi",
+        "slogan": "Savon noir & gants kessa",
+        "descriptionActeur": "Maison artisanale de savons beldi à l'huile d'olive et eucalyptus.",
+        "commentaireInterne": "Premium Kenz Bladi referenced actor."
+      }
+    ],
+    "logo": "https://source.unsplash.com/featured/1200x800/?savon,beldi,argan,soap",
+    "paysOrigine": "MA",
+    "dateCreation": {
+      "$date": "2019-08-01T00:00:00.000Z"
+    },
+    "notation": 4.64,
+    "taille": 25,
+    "etat": "code-1",
+    "email": "contact8@savonneriebeldi.ma",
+    "telephone": "+212667286297",
+    "fixe": "+212539225565",
+    "autreTelephone1": "",
+    "autreTelephone2": "",
+    "siteWeb": "https://savonneriebeldi.ma",
+    "languesParles": [
+      "fr",
+      "ar",
+      "en"
+    ],
+    "isFournisseur": true,
+    "protagoniste": null,
+    "coordonnees": [
+      {
+        "$oid": "51a28b22780dcd5c1e45208d"
+      }
+    ],
+    "evenement": [],
+    "distinctions": [],
+    "organigrammeStructure": [],
+    "organigrammePersonnel": [],
+    "contenuMMEDIA": [],
+    "histoire": [],
+    "socialMedia": [],
+    "acteursAssocies": [],
+    "promotions": [],
+    "statistiquesDirectes": [],
+    "traceFournisseur": [],
+    "parrainePar": [],
+    "actionnaires": [],
+    "conseilAdministratif": [],
+    "etatObjet": "code-1",
+    "abonnees": [],
+    "rdv": [],
+    "horaire": [],
+    "contrat": [],
+    "inbox": [],
+    "expressions": [],
+    "selection": [],
+    "informationComplementaire": [],
+    "representationMarque": [],
+    "candidatureSpontane": [],
+    "objetsAssocies": [],
+    "notifications": [],
+    "recherches": [],
+    "offres": [],
+    "favories": [],
+    "acteursEcosysteme": null,
+    "caracteristiques": [],
+    "identitesAdministratifs": [],
+    "actionsSocialesSolidaires": [],
+    "temoignage": [],
+    "referencesProfessionnelles": [],
+    "myEservice": [],
+    "catalogue": [
+      {
+        "$oid": "98f8e52f7918acc099d800ce"
+      },
+      {
+        "$oid": "dbeb5f07b8f3a44d20a14b9a"
+      },
+      {
+        "$oid": "e9aff9a787f3d8281e527be3"
+      },
+      {
+        "$oid": "625a53f16d0f6dbe6824f9d8"
+      }
+    ],
+    "produitService": [
+      {
+        "$oid": "98f8e52f7918acc099d800ce"
+      },
+      {
+        "$oid": "dbeb5f07b8f3a44d20a14b9a"
+      },
+      {
+        "$oid": "e9aff9a787f3d8281e527be3"
+      },
+      {
+        "$oid": "625a53f16d0f6dbe6824f9d8"
+      }
+    ],
+    "faq": [],
+    "coordonneesGeo": [
+      {
+        "$oid": "51a28b22780dcd5c1e45208d"
+      }
+    ],
+    "mMEDIA": [],
+    "objetsConcernes": []
+  },
+  {
+    "_id": {
+      "$oid": "0352776fb95791e9e6daac74"
+    },
+    "etatDePublication": "code_3417",
+    "refActorSocioEco": "KB-ACT-1008",
+    "typeStructure": "code_4101",
+    "statutStrcture": "code_4150",
+    "activitePrincipale": {
+      "$oid": "69e8ed38c6121d6a80291ef0"
+    },
+    "secteurActivite": {
+      "$oid": "69e8ed38c6121d6a80291ead"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "nomStructure": "Rose de Kelaa",
+        "slogan": "Eau & huile essentielle de rose",
+        "descriptionActeur": "Distillerie de la vallée des roses — extraction par alambic traditionnel.",
+        "commentaireInterne": "Acteur premium référencé Kenz Bladi."
+      },
+      {
+        "language": "en",
+        "nomStructure": "Rose de Kelaa",
+        "slogan": "Eau & huile essentielle de rose",
+        "descriptionActeur": "Distillerie de la vallée des roses — extraction par alambic traditionnel.",
+        "commentaireInterne": "Premium Kenz Bladi referenced actor."
+      }
+    ],
+    "logo": "https://source.unsplash.com/featured/1200x800/?essential,oil,morocco,rose",
+    "paysOrigine": "MA",
+    "dateCreation": {
+      "$date": "2020-09-01T00:00:00.000Z"
+    },
+    "notation": 4.56,
+    "taille": 12,
+    "etat": "code-1",
+    "email": "contact9@rosedekelaa.ma",
+    "telephone": "+212693559785",
+    "fixe": "+212586006750",
+    "autreTelephone1": "",
+    "autreTelephone2": "",
+    "siteWeb": "https://rosedekelaa.ma",
+    "languesParles": [
+      "fr",
+      "ar",
+      "en"
+    ],
+    "isFournisseur": true,
+    "protagoniste": null,
+    "coordonnees": [
+      {
+        "$oid": "c7035b62ac4afff7948f0fcb"
+      }
+    ],
+    "evenement": [],
+    "distinctions": [],
+    "organigrammeStructure": [],
+    "organigrammePersonnel": [],
+    "contenuMMEDIA": [],
+    "histoire": [],
+    "socialMedia": [],
+    "acteursAssocies": [],
+    "promotions": [],
+    "statistiquesDirectes": [],
+    "traceFournisseur": [],
+    "parrainePar": [],
+    "actionnaires": [],
+    "conseilAdministratif": [],
+    "etatObjet": "code-1",
+    "abonnees": [],
+    "rdv": [],
+    "horaire": [],
+    "contrat": [],
+    "inbox": [],
+    "expressions": [],
+    "selection": [],
+    "informationComplementaire": [],
+    "representationMarque": [],
+    "candidatureSpontane": [],
+    "objetsAssocies": [],
+    "notifications": [],
+    "recherches": [],
+    "offres": [],
+    "favories": [],
+    "acteursEcosysteme": null,
+    "caracteristiques": [],
+    "identitesAdministratifs": [],
+    "actionsSocialesSolidaires": [],
+    "temoignage": [],
+    "referencesProfessionnelles": [],
+    "myEservice": [],
+    "catalogue": [
+      {
+        "$oid": "846d4161d60ffa49741694aa"
+      },
+      {
+        "$oid": "329b7b6449163ffd9e6d51f4"
+      }
+    ],
+    "produitService": [
+      {
+        "$oid": "846d4161d60ffa49741694aa"
+      },
+      {
+        "$oid": "329b7b6449163ffd9e6d51f4"
+      }
+    ],
+    "faq": [],
+    "coordonneesGeo": [
+      {
+        "$oid": "c7035b62ac4afff7948f0fcb"
+      }
+    ],
+    "mMEDIA": [],
+    "objetsConcernes": []
+  },
+  {
+    "_id": {
+      "$oid": "a06c92f892440cb6da3f467e"
+    },
+    "etatDePublication": "code_3417",
+    "refActorSocioEco": "KB-ACT-1009",
+    "typeStructure": "code_4101",
+    "statutStrcture": "code_4150",
+    "activitePrincipale": {
+      "$oid": "69e8ed38c6121d6a80291ef0"
+    },
+    "secteurActivite": {
+      "$oid": "69e8ed38c6121d6a80291ead"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "nomStructure": "Atelier Hammam",
+        "slogan": "Rituels du hammam authentique",
+        "descriptionActeur": "Gamme premium ghassoul, savon noir, huile d'argan pour soins corps.",
+        "commentaireInterne": "Acteur premium référencé Kenz Bladi."
+      },
+      {
+        "language": "en",
+        "nomStructure": "Atelier Hammam",
+        "slogan": "Rituels du hammam authentique",
+        "descriptionActeur": "Gamme premium ghassoul, savon noir, huile d'argan pour soins corps.",
+        "commentaireInterne": "Premium Kenz Bladi referenced actor."
+      }
+    ],
+    "logo": "https://source.unsplash.com/featured/1200x800/?essential,oil,morocco,rose",
+    "paysOrigine": "MA",
+    "dateCreation": {
+      "$date": "2021-10-01T00:00:00.000Z"
+    },
+    "notation": 4.34,
+    "taille": 12,
+    "etat": "code-1",
+    "email": "contact10@atelierhammam.ma",
+    "telephone": "+212637501545",
+    "fixe": "+212557808875",
+    "autreTelephone1": "",
+    "autreTelephone2": "",
+    "siteWeb": "https://atelierhammam.ma",
+    "languesParles": [
+      "fr",
+      "ar",
+      "en"
+    ],
+    "isFournisseur": true,
+    "protagoniste": null,
+    "coordonnees": [
+      {
+        "$oid": "138b58bf66a8fabff5541c14"
+      }
+    ],
+    "evenement": [],
+    "distinctions": [],
+    "organigrammeStructure": [],
+    "organigrammePersonnel": [],
+    "contenuMMEDIA": [],
+    "histoire": [],
+    "socialMedia": [],
+    "acteursAssocies": [],
+    "promotions": [],
+    "statistiquesDirectes": [],
+    "traceFournisseur": [],
+    "parrainePar": [],
+    "actionnaires": [],
+    "conseilAdministratif": [],
+    "etatObjet": "code-1",
+    "abonnees": [],
+    "rdv": [],
+    "horaire": [],
+    "contrat": [],
+    "inbox": [],
+    "expressions": [],
+    "selection": [],
+    "informationComplementaire": [],
+    "representationMarque": [],
+    "candidatureSpontane": [],
+    "objetsAssocies": [],
+    "notifications": [],
+    "recherches": [],
+    "offres": [],
+    "favories": [],
+    "acteursEcosysteme": null,
+    "caracteristiques": [],
+    "identitesAdministratifs": [],
+    "actionsSocialesSolidaires": [],
+    "temoignage": [],
+    "referencesProfessionnelles": [],
+    "myEservice": [],
+    "catalogue": [
+      {
+        "$oid": "2fa38f5015521737f0b69bf1"
+      },
+      {
+        "$oid": "e85a5e009678a4f9c4fa5d37"
+      },
+      {
+        "$oid": "2662b3d55361dec632d70a4e"
+      }
+    ],
+    "produitService": [
+      {
+        "$oid": "2fa38f5015521737f0b69bf1"
+      },
+      {
+        "$oid": "e85a5e009678a4f9c4fa5d37"
+      },
+      {
+        "$oid": "2662b3d55361dec632d70a4e"
+      }
+    ],
+    "faq": [],
+    "coordonneesGeo": [
+      {
+        "$oid": "138b58bf66a8fabff5541c14"
+      }
+    ],
+    "mMEDIA": [],
+    "objetsConcernes": []
+  },
+  {
+    "_id": {
+      "$oid": "1aef25c8e0cdc7807fe22049"
+    },
+    "etatDePublication": "code_3417",
+    "refActorSocioEco": "KB-ACT-1010",
+    "typeStructure": "code_4101",
+    "statutStrcture": "code_4150",
+    "activitePrincipale": {
+      "$oid": "69e8ed38c6121d6a80291f6a"
+    },
+    "secteurActivite": {
+      "$oid": "69e8ed38c6121d6a80291f33"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "nomStructure": "Maison Chebakia",
+        "slogan": "Pâtisseries marocaines artisanales",
+        "descriptionActeur": "Boulangerie-pâtisserie spécialisée dans les douceurs traditionnelles du ramadan.",
+        "commentaireInterne": "Acteur premium référencé Kenz Bladi."
+      },
+      {
+        "language": "en",
+        "nomStructure": "Maison Chebakia",
+        "slogan": "Pâtisseries marocaines artisanales",
+        "descriptionActeur": "Boulangerie-pâtisserie spécialisée dans les douceurs traditionnelles du ramadan.",
+        "commentaireInterne": "Premium Kenz Bladi referenced actor."
+      }
+    ],
+    "logo": "https://source.unsplash.com/featured/1200x800/?moroccan,mint,tea",
+    "paysOrigine": "MA",
+    "dateCreation": {
+      "$date": "2022-11-01T00:00:00.000Z"
+    },
+    "notation": 4.45,
+    "taille": 25,
+    "etat": "code-1",
+    "email": "contact11@maisonchebakia.ma",
+    "telephone": "+212693744722",
+    "fixe": "+212540814235",
+    "autreTelephone1": "",
+    "autreTelephone2": "",
+    "siteWeb": "https://maisonchebakia.ma",
+    "languesParles": [
+      "fr",
+      "ar",
+      "en"
+    ],
+    "isFournisseur": true,
+    "protagoniste": null,
+    "coordonnees": [
+      {
+        "$oid": "138b58bf66a8fabff5541c14"
+      }
+    ],
+    "evenement": [],
+    "distinctions": [],
+    "organigrammeStructure": [],
+    "organigrammePersonnel": [],
+    "contenuMMEDIA": [],
+    "histoire": [],
+    "socialMedia": [],
+    "acteursAssocies": [],
+    "promotions": [],
+    "statistiquesDirectes": [],
+    "traceFournisseur": [],
+    "parrainePar": [],
+    "actionnaires": [],
+    "conseilAdministratif": [],
+    "etatObjet": "code-1",
+    "abonnees": [],
+    "rdv": [],
+    "horaire": [],
+    "contrat": [],
+    "inbox": [],
+    "expressions": [],
+    "selection": [],
+    "informationComplementaire": [],
+    "representationMarque": [],
+    "candidatureSpontane": [],
+    "objetsAssocies": [],
+    "notifications": [],
+    "recherches": [],
+    "offres": [],
+    "favories": [],
+    "acteursEcosysteme": null,
+    "caracteristiques": [],
+    "identitesAdministratifs": [],
+    "actionsSocialesSolidaires": [],
+    "temoignage": [],
+    "referencesProfessionnelles": [],
+    "myEservice": [],
+    "catalogue": [
+      {
+        "$oid": "446d4f5966602eacee083521"
+      },
+      {
+        "$oid": "19158e481bc84541f782c947"
+      }
+    ],
+    "produitService": [
+      {
+        "$oid": "446d4f5966602eacee083521"
+      },
+      {
+        "$oid": "19158e481bc84541f782c947"
+      }
+    ],
+    "faq": [],
+    "coordonneesGeo": [
+      {
+        "$oid": "138b58bf66a8fabff5541c14"
+      }
+    ],
+    "mMEDIA": [],
+    "objetsConcernes": []
+  },
+  {
+    "_id": {
+      "$oid": "4ccd1aec6467fabf1cba1b6e"
+    },
+    "etatDePublication": "code_3417",
+    "refActorSocioEco": "KB-ACT-1011",
+    "typeStructure": "code_4101",
+    "statutStrcture": "code_4150",
+    "activitePrincipale": {
+      "$oid": "69e8ed38c6121d6a80291f34"
+    },
+    "secteurActivite": {
+      "$oid": "69e8ed38c6121d6a80291f33"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "nomStructure": "Khobz Dial Dar",
+        "slogan": "Pain au feu de bois",
+        "descriptionActeur": "Boulangerie traditionnelle au four communautaire — khobz, batbout, msemen.",
+        "commentaireInterne": "Acteur premium référencé Kenz Bladi."
+      },
+      {
+        "language": "en",
+        "nomStructure": "Khobz Dial Dar",
+        "slogan": "Pain au feu de bois",
+        "descriptionActeur": "Boulangerie traditionnelle au four communautaire — khobz, batbout, msemen.",
+        "commentaireInterne": "Premium Kenz Bladi referenced actor."
+      }
+    ],
+    "logo": "https://source.unsplash.com/featured/1200x800/?moroccan,mint,tea",
+    "paysOrigine": "MA",
+    "dateCreation": {
+      "$date": "2023-12-01T00:00:00.000Z"
+    },
+    "notation": 4.8,
+    "taille": 80,
+    "etat": "code-1",
+    "email": "contact12@khobzdialdar.ma",
+    "telephone": "+212697558316",
+    "fixe": "+212589025409",
+    "autreTelephone1": "",
+    "autreTelephone2": "",
+    "siteWeb": "https://khobzdialdar.ma",
+    "languesParles": [
+      "fr",
+      "ar",
+      "en"
+    ],
+    "isFournisseur": true,
+    "protagoniste": null,
+    "coordonnees": [
+      {
+        "$oid": "0fda03d07dd5cc145829aa36"
+      }
+    ],
+    "evenement": [],
+    "distinctions": [],
+    "organigrammeStructure": [],
+    "organigrammePersonnel": [],
+    "contenuMMEDIA": [],
+    "histoire": [],
+    "socialMedia": [],
+    "acteursAssocies": [],
+    "promotions": [],
+    "statistiquesDirectes": [],
+    "traceFournisseur": [],
+    "parrainePar": [],
+    "actionnaires": [],
+    "conseilAdministratif": [],
+    "etatObjet": "code-1",
+    "abonnees": [],
+    "rdv": [],
+    "horaire": [],
+    "contrat": [],
+    "inbox": [],
+    "expressions": [],
+    "selection": [],
+    "informationComplementaire": [],
+    "representationMarque": [],
+    "candidatureSpontane": [],
+    "objetsAssocies": [],
+    "notifications": [],
+    "recherches": [],
+    "offres": [],
+    "favories": [],
+    "acteursEcosysteme": null,
+    "caracteristiques": [],
+    "identitesAdministratifs": [],
+    "actionsSocialesSolidaires": [],
+    "temoignage": [],
+    "referencesProfessionnelles": [],
+    "myEservice": [],
+    "catalogue": [
+      {
+        "$oid": "4ace1a921a6d9d8cf730da33"
+      },
+      {
+        "$oid": "416290aaecbe2a318ebb8a6f"
+      },
+      {
+        "$oid": "cc74ee952bfc01fdeb566984"
+      }
+    ],
+    "produitService": [
+      {
+        "$oid": "4ace1a921a6d9d8cf730da33"
+      },
+      {
+        "$oid": "416290aaecbe2a318ebb8a6f"
+      },
+      {
+        "$oid": "cc74ee952bfc01fdeb566984"
+      }
+    ],
+    "faq": [],
+    "coordonneesGeo": [
+      {
+        "$oid": "0fda03d07dd5cc145829aa36"
+      }
+    ],
+    "mMEDIA": [],
+    "objetsConcernes": []
+  },
+  {
+    "_id": {
+      "$oid": "cbba9fbfedb13dc3f8d4e56d"
+    },
+    "etatDePublication": "code_3417",
+    "refActorSocioEco": "KB-ACT-1012",
+    "typeStructure": "code_4101",
+    "statutStrcture": "code_4150",
+    "activitePrincipale": {
+      "$oid": "69e8ed38c6121d6a80291f53"
+    },
+    "secteurActivite": {
+      "$oid": "69e8ed38c6121d6a80291f33"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "nomStructure": "Atay Lmaghribi",
+        "slogan": "Thés & infusions premium",
+        "descriptionActeur": "Sélection de thé vert Chinois, menthe Nanaa et infusions de plantes aromatiques.",
+        "commentaireInterne": "Acteur premium référencé Kenz Bladi."
+      },
+      {
+        "language": "en",
+        "nomStructure": "Atay Lmaghribi",
+        "slogan": "Thés & infusions premium",
+        "descriptionActeur": "Sélection de thé vert Chinois, menthe Nanaa et infusions de plantes aromatiques.",
+        "commentaireInterne": "Premium Kenz Bladi referenced actor."
+      }
+    ],
+    "logo": "https://source.unsplash.com/featured/1200x800/?moroccan,mint,tea",
+    "paysOrigine": "MA",
+    "dateCreation": {
+      "$date": "2018-01-01T00:00:00.000Z"
+    },
+    "notation": 4.39,
+    "taille": 5,
+    "etat": "code-1",
+    "email": "contact13@ataylmaghribi.ma",
+    "telephone": "+212610600828",
+    "fixe": "+212594706071",
+    "autreTelephone1": "",
+    "autreTelephone2": "",
+    "siteWeb": "https://ataylmaghribi.ma",
+    "languesParles": [
+      "fr",
+      "ar",
+      "en"
+    ],
+    "isFournisseur": true,
+    "protagoniste": null,
+    "coordonnees": [
+      {
+        "$oid": "c7035b62ac4afff7948f0fcb"
+      }
+    ],
+    "evenement": [],
+    "distinctions": [],
+    "organigrammeStructure": [],
+    "organigrammePersonnel": [],
+    "contenuMMEDIA": [],
+    "histoire": [],
+    "socialMedia": [],
+    "acteursAssocies": [],
+    "promotions": [],
+    "statistiquesDirectes": [],
+    "traceFournisseur": [],
+    "parrainePar": [],
+    "actionnaires": [],
+    "conseilAdministratif": [],
+    "etatObjet": "code-1",
+    "abonnees": [],
+    "rdv": [],
+    "horaire": [],
+    "contrat": [],
+    "inbox": [],
+    "expressions": [],
+    "selection": [],
+    "informationComplementaire": [],
+    "representationMarque": [],
+    "candidatureSpontane": [],
+    "objetsAssocies": [],
+    "notifications": [],
+    "recherches": [],
+    "offres": [],
+    "favories": [],
+    "acteursEcosysteme": null,
+    "caracteristiques": [],
+    "identitesAdministratifs": [],
+    "actionsSocialesSolidaires": [],
+    "temoignage": [],
+    "referencesProfessionnelles": [],
+    "myEservice": [],
+    "catalogue": [
+      {
+        "$oid": "6781e1d4e526d9a68aacd7b7"
+      },
+      {
+        "$oid": "1e7991731a1aee6832986b55"
+      }
+    ],
+    "produitService": [
+      {
+        "$oid": "6781e1d4e526d9a68aacd7b7"
+      },
+      {
+        "$oid": "1e7991731a1aee6832986b55"
+      }
+    ],
+    "faq": [],
+    "coordonneesGeo": [
+      {
+        "$oid": "c7035b62ac4afff7948f0fcb"
+      }
+    ],
+    "mMEDIA": [],
+    "objetsConcernes": []
+  },
+  {
+    "_id": {
+      "$oid": "7651e4e1c03bca86d2eb60d2"
+    },
+    "etatDePublication": "code_3417",
+    "refActorSocioEco": "KB-ACT-1013",
+    "typeStructure": "code_4101",
+    "statutStrcture": "code_4150",
+    "activitePrincipale": {
+      "$oid": "69e8ed38c6121d6a80291fbb"
+    },
+    "secteurActivite": {
+      "$oid": "69e8ed38c6121d6a80291f82"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "nomStructure": "Tapis du Haut Atlas",
+        "slogan": "Tapis Beni Ourain authentiques",
+        "descriptionActeur": "Coopérative féminine de tisserandes Aït Ouaouzguite — tapis noués main.",
+        "commentaireInterne": "Acteur premium référencé Kenz Bladi."
+      },
+      {
+        "language": "en",
+        "nomStructure": "Tapis du Haut Atlas",
+        "slogan": "Tapis Beni Ourain authentiques",
+        "descriptionActeur": "Coopérative féminine de tisserandes Aït Ouaouzguite — tapis noués main.",
+        "commentaireInterne": "Premium Kenz Bladi referenced actor."
+      }
+    ],
+    "logo": "https://source.unsplash.com/featured/1200x800/?safi,morocco,pottery,ceramic",
+    "paysOrigine": "MA",
+    "dateCreation": {
+      "$date": "2019-02-01T00:00:00.000Z"
+    },
+    "notation": 4.92,
+    "taille": 25,
+    "etat": "code-1",
+    "email": "contact14@tapisduhautatlas.ma",
+    "telephone": "+212633652445",
+    "fixe": "+212578614194",
+    "autreTelephone1": "",
+    "autreTelephone2": "",
+    "siteWeb": "https://tapisduhautatlas.ma",
+    "languesParles": [
+      "fr",
+      "ar",
+      "en"
+    ],
+    "isFournisseur": true,
+    "protagoniste": null,
+    "coordonnees": [
+      {
+        "$oid": "89f80e7cca0a5daf8e91c889"
+      }
+    ],
+    "evenement": [],
+    "distinctions": [],
+    "organigrammeStructure": [],
+    "organigrammePersonnel": [],
+    "contenuMMEDIA": [],
+    "histoire": [],
+    "socialMedia": [],
+    "acteursAssocies": [],
+    "promotions": [],
+    "statistiquesDirectes": [],
+    "traceFournisseur": [],
+    "parrainePar": [],
+    "actionnaires": [],
+    "conseilAdministratif": [],
+    "etatObjet": "code-1",
+    "abonnees": [],
+    "rdv": [],
+    "horaire": [],
+    "contrat": [],
+    "inbox": [],
+    "expressions": [],
+    "selection": [],
+    "informationComplementaire": [],
+    "representationMarque": [],
+    "candidatureSpontane": [],
+    "objetsAssocies": [],
+    "notifications": [],
+    "recherches": [],
+    "offres": [],
+    "favories": [],
+    "acteursEcosysteme": null,
+    "caracteristiques": [],
+    "identitesAdministratifs": [],
+    "actionsSocialesSolidaires": [],
+    "temoignage": [],
+    "referencesProfessionnelles": [],
+    "myEservice": [],
+    "catalogue": [
+      {
+        "$oid": "9f4492ebf2e1004d81dcf843"
+      },
+      {
+        "$oid": "07df28941ef166741bbba3a6"
+      }
+    ],
+    "produitService": [
+      {
+        "$oid": "9f4492ebf2e1004d81dcf843"
+      },
+      {
+        "$oid": "07df28941ef166741bbba3a6"
+      }
+    ],
+    "faq": [],
+    "coordonneesGeo": [
+      {
+        "$oid": "89f80e7cca0a5daf8e91c889"
+      }
+    ],
+    "mMEDIA": [],
+    "objetsConcernes": []
+  },
+  {
+    "_id": {
+      "$oid": "0409a701edc2d9d8df7ff624"
+    },
+    "etatDePublication": "code_3417",
+    "refActorSocioEco": "KB-ACT-1014",
+    "typeStructure": "code_4101",
+    "statutStrcture": "code_4150",
+    "activitePrincipale": {
+      "$oid": "69e8ed38c6121d6a80291fae"
+    },
+    "secteurActivite": {
+      "$oid": "69e8ed38c6121d6a80291f82"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "nomStructure": "Poteries de Safi",
+        "slogan": "Céramiques bleues & vertes",
+        "descriptionActeur": "Maître-potier de Safi — assiettes, tagines et plats peints à la main.",
+        "commentaireInterne": "Acteur premium référencé Kenz Bladi."
+      },
+      {
+        "language": "en",
+        "nomStructure": "Poteries de Safi",
+        "slogan": "Céramiques bleues & vertes",
+        "descriptionActeur": "Maître-potier de Safi — assiettes, tagines et plats peints à la main.",
+        "commentaireInterne": "Premium Kenz Bladi referenced actor."
+      }
+    ],
+    "logo": "https://source.unsplash.com/featured/1200x800/?moroccan,furniture,artisan",
+    "paysOrigine": "MA",
+    "dateCreation": {
+      "$date": "2020-03-01T00:00:00.000Z"
+    },
+    "notation": 4.28,
+    "taille": 8,
+    "etat": "code-1",
+    "email": "contact15@poteriesdesafi.ma",
+    "telephone": "+212638222094",
+    "fixe": "+212517833646",
+    "autreTelephone1": "",
+    "autreTelephone2": "",
+    "siteWeb": "https://poteriesdesafi.ma",
+    "languesParles": [
+      "fr",
+      "ar",
+      "en"
+    ],
+    "isFournisseur": true,
+    "protagoniste": null,
+    "coordonnees": [
+      {
+        "$oid": "24c7be859f11162acccbcb8f"
+      }
+    ],
+    "evenement": [],
+    "distinctions": [],
+    "organigrammeStructure": [],
+    "organigrammePersonnel": [],
+    "contenuMMEDIA": [],
+    "histoire": [],
+    "socialMedia": [],
+    "acteursAssocies": [],
+    "promotions": [],
+    "statistiquesDirectes": [],
+    "traceFournisseur": [],
+    "parrainePar": [],
+    "actionnaires": [],
+    "conseilAdministratif": [],
+    "etatObjet": "code-1",
+    "abonnees": [],
+    "rdv": [],
+    "horaire": [],
+    "contrat": [],
+    "inbox": [],
+    "expressions": [],
+    "selection": [],
+    "informationComplementaire": [],
+    "representationMarque": [],
+    "candidatureSpontane": [],
+    "objetsAssocies": [],
+    "notifications": [],
+    "recherches": [],
+    "offres": [],
+    "favories": [],
+    "acteursEcosysteme": null,
+    "caracteristiques": [],
+    "identitesAdministratifs": [],
+    "actionsSocialesSolidaires": [],
+    "temoignage": [],
+    "referencesProfessionnelles": [],
+    "myEservice": [],
+    "catalogue": [
+      {
+        "$oid": "fa5e07ecf203eb2367cd5a4d"
+      },
+      {
+        "$oid": "220761c08ca1dca492a66ae6"
+      },
+      {
+        "$oid": "88fd39f546e7231b4c7e09dd"
+      }
+    ],
+    "produitService": [
+      {
+        "$oid": "fa5e07ecf203eb2367cd5a4d"
+      },
+      {
+        "$oid": "220761c08ca1dca492a66ae6"
+      },
+      {
+        "$oid": "88fd39f546e7231b4c7e09dd"
+      }
+    ],
+    "faq": [],
+    "coordonneesGeo": [
+      {
+        "$oid": "24c7be859f11162acccbcb8f"
+      }
+    ],
+    "mMEDIA": [],
+    "objetsConcernes": []
+  },
+  {
+    "_id": {
+      "$oid": "26710da1cd6cce68c44c8517"
+    },
+    "etatDePublication": "code_3417",
+    "refActorSocioEco": "KB-ACT-1015",
+    "typeStructure": "code_4101",
+    "statutStrcture": "code_4150",
+    "activitePrincipale": {
+      "$oid": "69e8ed38c6121d6a80291f90"
+    },
+    "secteurActivite": {
+      "$oid": "69e8ed38c6121d6a80291f82"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "nomStructure": "Maroquinerie de Fès",
+        "slogan": "Cuir véritable de la médina",
+        "descriptionActeur": "Atelier familial de maroquinerie tannée aux tanneries Chouara.",
+        "commentaireInterne": "Acteur premium référencé Kenz Bladi."
+      },
+      {
+        "language": "en",
+        "nomStructure": "Maroquinerie de Fès",
+        "slogan": "Cuir véritable de la médina",
+        "descriptionActeur": "Atelier familial de maroquinerie tannée aux tanneries Chouara.",
+        "commentaireInterne": "Premium Kenz Bladi referenced actor."
+      }
+    ],
+    "logo": "https://source.unsplash.com/featured/1200x800/?moroccan,tableware,ceramic",
+    "paysOrigine": "MA",
+    "dateCreation": {
+      "$date": "2021-04-01T00:00:00.000Z"
+    },
+    "notation": 4.27,
+    "taille": 40,
+    "etat": "code-1",
+    "email": "contact16@maroquineriedefès.ma",
+    "telephone": "+212677849040",
+    "fixe": "+212595185506",
+    "autreTelephone1": "",
+    "autreTelephone2": "",
+    "siteWeb": "https://maroquineriedefès.ma",
+    "languesParles": [
+      "fr",
+      "ar",
+      "en"
+    ],
+    "isFournisseur": true,
+    "protagoniste": null,
+    "coordonnees": [
+      {
+        "$oid": "47619f4b14d74e7789b07b09"
+      }
+    ],
+    "evenement": [],
+    "distinctions": [],
+    "organigrammeStructure": [],
+    "organigrammePersonnel": [],
+    "contenuMMEDIA": [],
+    "histoire": [],
+    "socialMedia": [],
+    "acteursAssocies": [],
+    "promotions": [],
+    "statistiquesDirectes": [],
+    "traceFournisseur": [],
+    "parrainePar": [],
+    "actionnaires": [],
+    "conseilAdministratif": [],
+    "etatObjet": "code-1",
+    "abonnees": [],
+    "rdv": [],
+    "horaire": [],
+    "contrat": [],
+    "inbox": [],
+    "expressions": [],
+    "selection": [],
+    "informationComplementaire": [],
+    "representationMarque": [],
+    "candidatureSpontane": [],
+    "objetsAssocies": [],
+    "notifications": [],
+    "recherches": [],
+    "offres": [],
+    "favories": [],
+    "acteursEcosysteme": null,
+    "caracteristiques": [],
+    "identitesAdministratifs": [],
+    "actionsSocialesSolidaires": [],
+    "temoignage": [],
+    "referencesProfessionnelles": [],
+    "myEservice": [],
+    "catalogue": [
+      {
+        "$oid": "1a633e907f887205541772a3"
+      },
+      {
+        "$oid": "2e7fca1415ba2e502457da4a"
+      },
+      {
+        "$oid": "c9fea7296bced4680a04c0e2"
+      }
+    ],
+    "produitService": [
+      {
+        "$oid": "1a633e907f887205541772a3"
+      },
+      {
+        "$oid": "2e7fca1415ba2e502457da4a"
+      },
+      {
+        "$oid": "c9fea7296bced4680a04c0e2"
+      }
+    ],
+    "faq": [],
+    "coordonneesGeo": [
+      {
+        "$oid": "47619f4b14d74e7789b07b09"
+      }
+    ],
+    "mMEDIA": [],
+    "objetsConcernes": []
+  },
+  {
+    "_id": {
+      "$oid": "1d790a6a2492844a8a1624e6"
+    },
+    "etatDePublication": "code_3417",
+    "refActorSocioEco": "KB-ACT-1016",
+    "typeStructure": "code_4101",
+    "statutStrcture": "code_4150",
+    "activitePrincipale": {
+      "$oid": "69e8ed38c6121d6a80291f83"
+    },
+    "secteurActivite": {
+      "$oid": "69e8ed38c6121d6a80291f82"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "nomStructure": "Vannerie de l'Oriental",
+        "slogan": "Paniers en doum & osier",
+        "descriptionActeur": "Artisans tisseurs de paniers, sets de table et chapeaux.",
+        "commentaireInterne": "Acteur premium référencé Kenz Bladi."
+      },
+      {
+        "language": "en",
+        "nomStructure": "Vannerie de l'Oriental",
+        "slogan": "Paniers en doum & osier",
+        "descriptionActeur": "Artisans tisseurs de paniers, sets de table et chapeaux.",
+        "commentaireInterne": "Premium Kenz Bladi referenced actor."
+      }
+    ],
+    "logo": "https://source.unsplash.com/featured/1200x800/?moroccan,furniture,artisan",
+    "paysOrigine": "MA",
+    "dateCreation": {
+      "$date": "2022-05-01T00:00:00.000Z"
+    },
+    "notation": 4.02,
+    "taille": 8,
+    "etat": "code-1",
+    "email": "contact17@vanneriedeloriental.ma",
+    "telephone": "+212624864570",
+    "fixe": "+212586422788",
+    "autreTelephone1": "",
+    "autreTelephone2": "",
+    "siteWeb": "https://vanneriedeloriental.ma",
+    "languesParles": [
+      "fr",
+      "ar",
+      "en"
+    ],
+    "isFournisseur": true,
+    "protagoniste": null,
+    "coordonnees": [
+      {
+        "$oid": "20806b3d18e443d0debc5bf8"
+      }
+    ],
+    "evenement": [],
+    "distinctions": [],
+    "organigrammeStructure": [],
+    "organigrammePersonnel": [],
+    "contenuMMEDIA": [],
+    "histoire": [],
+    "socialMedia": [],
+    "acteursAssocies": [],
+    "promotions": [],
+    "statistiquesDirectes": [],
+    "traceFournisseur": [],
+    "parrainePar": [],
+    "actionnaires": [],
+    "conseilAdministratif": [],
+    "etatObjet": "code-1",
+    "abonnees": [],
+    "rdv": [],
+    "horaire": [],
+    "contrat": [],
+    "inbox": [],
+    "expressions": [],
+    "selection": [],
+    "informationComplementaire": [],
+    "representationMarque": [],
+    "candidatureSpontane": [],
+    "objetsAssocies": [],
+    "notifications": [],
+    "recherches": [],
+    "offres": [],
+    "favories": [],
+    "acteursEcosysteme": null,
+    "caracteristiques": [],
+    "identitesAdministratifs": [],
+    "actionsSocialesSolidaires": [],
+    "temoignage": [],
+    "referencesProfessionnelles": [],
+    "myEservice": [],
+    "catalogue": [
+      {
+        "$oid": "668c2ff2a17409bc7f0d5339"
+      },
+      {
+        "$oid": "bb9b87879fe49621af954221"
+      },
+      {
+        "$oid": "c73ae325b6bb4a6f2e898950"
+      }
+    ],
+    "produitService": [
+      {
+        "$oid": "668c2ff2a17409bc7f0d5339"
+      },
+      {
+        "$oid": "bb9b87879fe49621af954221"
+      },
+      {
+        "$oid": "c73ae325b6bb4a6f2e898950"
+      }
+    ],
+    "faq": [],
+    "coordonneesGeo": [
+      {
+        "$oid": "20806b3d18e443d0debc5bf8"
+      }
+    ],
+    "mMEDIA": [],
+    "objetsConcernes": []
+  },
+  {
+    "_id": {
+      "$oid": "3f768f6d3d4aaa69c7f2e0d7"
+    },
+    "etatDePublication": "code_3417",
+    "refActorSocioEco": "KB-ACT-1017",
+    "typeStructure": "code_4101",
+    "statutStrcture": "code_4150",
+    "activitePrincipale": {
+      "$oid": "69e8ed38c6121d6a80291fe8"
+    },
+    "secteurActivite": {
+      "$oid": "69e8ed38c6121d6a80291fcc"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "nomStructure": "Riad du Terroir",
+        "slogan": "Hébergement écologique au cœur du Maroc",
+        "descriptionActeur": "Maison d'hôtes bio, circuit court, expériences immersives.",
+        "commentaireInterne": "Acteur premium référencé Kenz Bladi."
+      },
+      {
+        "language": "en",
+        "nomStructure": "Riad du Terroir",
+        "slogan": "Hébergement écologique au cœur du Maroc",
+        "descriptionActeur": "Maison d'hôtes bio, circuit court, expériences immersives.",
+        "commentaireInterne": "Premium Kenz Bladi referenced actor."
+      }
+    ],
+    "logo": "https://source.unsplash.com/featured/1200x800/?hiking,morocco,toubkal",
+    "paysOrigine": "MA",
+    "dateCreation": {
+      "$date": "2023-06-01T00:00:00.000Z"
+    },
+    "notation": 4.55,
+    "taille": 80,
+    "etat": "code-1",
+    "email": "contact18@riadduterroir.ma",
+    "telephone": "+212666429670",
+    "fixe": "+212518459311",
+    "autreTelephone1": "",
+    "autreTelephone2": "",
+    "siteWeb": "https://riadduterroir.ma",
+    "languesParles": [
+      "fr",
+      "ar",
+      "en"
+    ],
+    "isFournisseur": true,
+    "protagoniste": null,
+    "coordonnees": [
+      {
+        "$oid": "5638a7814e7569320fcc0246"
+      }
+    ],
+    "evenement": [],
+    "distinctions": [],
+    "organigrammeStructure": [],
+    "organigrammePersonnel": [],
+    "contenuMMEDIA": [],
+    "histoire": [],
+    "socialMedia": [],
+    "acteursAssocies": [],
+    "promotions": [],
+    "statistiquesDirectes": [],
+    "traceFournisseur": [],
+    "parrainePar": [],
+    "actionnaires": [],
+    "conseilAdministratif": [],
+    "etatObjet": "code-1",
+    "abonnees": [],
+    "rdv": [],
+    "horaire": [],
+    "contrat": [],
+    "inbox": [],
+    "expressions": [],
+    "selection": [],
+    "informationComplementaire": [],
+    "representationMarque": [],
+    "candidatureSpontane": [],
+    "objetsAssocies": [],
+    "notifications": [],
+    "recherches": [],
+    "offres": [],
+    "favories": [],
+    "acteursEcosysteme": null,
+    "caracteristiques": [],
+    "identitesAdministratifs": [],
+    "actionsSocialesSolidaires": [],
+    "temoignage": [],
+    "referencesProfessionnelles": [],
+    "myEservice": [],
+    "catalogue": [
+      {
+        "$oid": "685116c52fa9bdba74debd5b"
+      },
+      {
+        "$oid": "99ad23f9ff7fcd7c8e079093"
+      }
+    ],
+    "produitService": [
+      {
+        "$oid": "685116c52fa9bdba74debd5b"
+      },
+      {
+        "$oid": "99ad23f9ff7fcd7c8e079093"
+      }
+    ],
+    "faq": [],
+    "coordonneesGeo": [
+      {
+        "$oid": "5638a7814e7569320fcc0246"
+      }
+    ],
+    "mMEDIA": [],
+    "objetsConcernes": []
+  },
+  {
+    "_id": {
+      "$oid": "f0d883ed905c59ff33f5c3a9"
+    },
+    "etatDePublication": "code_3417",
+    "refActorSocioEco": "KB-ACT-1018",
+    "typeStructure": "code_4101",
+    "statutStrcture": "code_4150",
+    "activitePrincipale": {
+      "$oid": "69e8ed38c6121d6a80291fe8"
+    },
+    "secteurActivite": {
+      "$oid": "69e8ed38c6121d6a80291fcc"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "nomStructure": "Trek Atlas Authentique",
+        "slogan": "Randonnées & bivouacs accompagnés",
+        "descriptionActeur": "Guides de montagne brevetés — Toubkal, M'goun, Saghro.",
+        "commentaireInterne": "Acteur premium référencé Kenz Bladi."
+      },
+      {
+        "language": "en",
+        "nomStructure": "Trek Atlas Authentique",
+        "slogan": "Randonnées & bivouacs accompagnés",
+        "descriptionActeur": "Guides de montagne brevetés — Toubkal, M'goun, Saghro.",
+        "commentaireInterne": "Premium Kenz Bladi referenced actor."
+      }
+    ],
+    "logo": "https://source.unsplash.com/featured/1200x800/?hiking,morocco,toubkal",
+    "paysOrigine": "MA",
+    "dateCreation": {
+      "$date": "2018-07-01T00:00:00.000Z"
+    },
+    "notation": 4.79,
+    "taille": 12,
+    "etat": "code-1",
+    "email": "contact19@trekatlasauthentique.ma",
+    "telephone": "+212631453611",
+    "fixe": "+212577108605",
+    "autreTelephone1": "",
+    "autreTelephone2": "",
+    "siteWeb": "https://trekatlasauthentique.ma",
+    "languesParles": [
+      "fr",
+      "ar",
+      "en"
+    ],
+    "isFournisseur": true,
+    "protagoniste": null,
+    "coordonnees": [
+      {
+        "$oid": "f5f839d43e6b7b8ba5843478"
+      }
+    ],
+    "evenement": [],
+    "distinctions": [],
+    "organigrammeStructure": [],
+    "organigrammePersonnel": [],
+    "contenuMMEDIA": [],
+    "histoire": [],
+    "socialMedia": [],
+    "acteursAssocies": [],
+    "promotions": [],
+    "statistiquesDirectes": [],
+    "traceFournisseur": [],
+    "parrainePar": [],
+    "actionnaires": [],
+    "conseilAdministratif": [],
+    "etatObjet": "code-1",
+    "abonnees": [],
+    "rdv": [],
+    "horaire": [],
+    "contrat": [],
+    "inbox": [],
+    "expressions": [],
+    "selection": [],
+    "informationComplementaire": [],
+    "representationMarque": [],
+    "candidatureSpontane": [],
+    "objetsAssocies": [],
+    "notifications": [],
+    "recherches": [],
+    "offres": [],
+    "favories": [],
+    "acteursEcosysteme": null,
+    "caracteristiques": [],
+    "identitesAdministratifs": [],
+    "actionsSocialesSolidaires": [],
+    "temoignage": [],
+    "referencesProfessionnelles": [],
+    "myEservice": [],
+    "catalogue": [
+      {
+        "$oid": "ac8de817d5692a612f750895"
+      },
+      {
+        "$oid": "0f9337ed484a729725198a33"
+      }
+    ],
+    "produitService": [
+      {
+        "$oid": "ac8de817d5692a612f750895"
+      },
+      {
+        "$oid": "0f9337ed484a729725198a33"
+      }
+    ],
+    "faq": [],
+    "coordonneesGeo": [
+      {
+        "$oid": "f5f839d43e6b7b8ba5843478"
+      }
+    ],
+    "mMEDIA": [],
+    "objetsConcernes": []
+  },
+  {
+    "_id": {
+      "$oid": "ae92e23f2b8459ccb258bc8b"
+    },
+    "etatDePublication": "code_3417",
+    "refActorSocioEco": "KB-ACT-1019",
+    "typeStructure": "code_4101",
+    "statutStrcture": "code_4150",
+    "activitePrincipale": {
+      "$oid": "69e8ed38c6121d6a80292009"
+    },
+    "secteurActivite": {
+      "$oid": "69e8ed38c6121d6a80292008"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "nomStructure": "Caftan & Dar",
+        "slogan": "Caftans haute couture",
+        "descriptionActeur": "Maison de couture marocaine — caftans, takchitas et jelaba sur mesure.",
+        "commentaireInterne": "Acteur premium référencé Kenz Bladi."
+      },
+      {
+        "language": "en",
+        "nomStructure": "Caftan & Dar",
+        "slogan": "Caftans haute couture",
+        "descriptionActeur": "Maison de couture marocaine — caftans, takchitas et jelaba sur mesure.",
+        "commentaireInterne": "Premium Kenz Bladi referenced actor."
+      }
+    ],
+    "logo": "https://source.unsplash.com/featured/1200x800/?babouches,morocco,leather",
+    "paysOrigine": "MA",
+    "dateCreation": {
+      "$date": "2019-08-01T00:00:00.000Z"
+    },
+    "notation": 4.8,
+    "taille": 5,
+    "etat": "code-1",
+    "email": "contact20@caftan&dar.ma",
+    "telephone": "+212637116537",
+    "fixe": "+212565863479",
+    "autreTelephone1": "",
+    "autreTelephone2": "",
+    "siteWeb": "https://caftan&dar.ma",
+    "languesParles": [
+      "fr",
+      "ar",
+      "en"
+    ],
+    "isFournisseur": true,
+    "protagoniste": null,
+    "coordonnees": [
+      {
+        "$oid": "69323205f5d1393e4a09cbb8"
+      }
+    ],
+    "evenement": [],
+    "distinctions": [],
+    "organigrammeStructure": [],
+    "organigrammePersonnel": [],
+    "contenuMMEDIA": [],
+    "histoire": [],
+    "socialMedia": [],
+    "acteursAssocies": [],
+    "promotions": [],
+    "statistiquesDirectes": [],
+    "traceFournisseur": [],
+    "parrainePar": [],
+    "actionnaires": [],
+    "conseilAdministratif": [],
+    "etatObjet": "code-1",
+    "abonnees": [],
+    "rdv": [],
+    "horaire": [],
+    "contrat": [],
+    "inbox": [],
+    "expressions": [],
+    "selection": [],
+    "informationComplementaire": [],
+    "representationMarque": [],
+    "candidatureSpontane": [],
+    "objetsAssocies": [],
+    "notifications": [],
+    "recherches": [],
+    "offres": [],
+    "favories": [],
+    "acteursEcosysteme": null,
+    "caracteristiques": [],
+    "identitesAdministratifs": [],
+    "actionsSocialesSolidaires": [],
+    "temoignage": [],
+    "referencesProfessionnelles": [],
+    "myEservice": [],
+    "catalogue": [
+      {
+        "$oid": "358ede32d35c1ff877af9e38"
+      },
+      {
+        "$oid": "e78075ba2bd54591fba6d87b"
+      }
+    ],
+    "produitService": [
+      {
+        "$oid": "358ede32d35c1ff877af9e38"
+      },
+      {
+        "$oid": "e78075ba2bd54591fba6d87b"
+      }
+    ],
+    "faq": [],
+    "coordonneesGeo": [
+      {
+        "$oid": "69323205f5d1393e4a09cbb8"
+      }
+    ],
+    "mMEDIA": [],
+    "objetsConcernes": []
+  },
+  {
+    "_id": {
+      "$oid": "2b4bf291727aa3cc37eaab5a"
+    },
+    "etatDePublication": "code_3417",
+    "refActorSocioEco": "KB-ACT-1020",
+    "typeStructure": "code_4101",
+    "statutStrcture": "code_4150",
+    "activitePrincipale": {
+      "$oid": "69e8ed38c6121d6a80292032"
+    },
+    "secteurActivite": {
+      "$oid": "69e8ed38c6121d6a80292008"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "nomStructure": "Babouches d'Imintanout",
+        "slogan": "Babouches en cuir véritable",
+        "descriptionActeur": "Atelier de babouches brodées main pour homme et femme.",
+        "commentaireInterne": "Acteur premium référencé Kenz Bladi."
+      },
+      {
+        "language": "en",
+        "nomStructure": "Babouches d'Imintanout",
+        "slogan": "Babouches en cuir véritable",
+        "descriptionActeur": "Atelier de babouches brodées main pour homme et femme.",
+        "commentaireInterne": "Premium Kenz Bladi referenced actor."
+      }
+    ],
+    "logo": "https://source.unsplash.com/featured/1200x800/?kaftan,moroccan,fashion",
+    "paysOrigine": "MA",
+    "dateCreation": {
+      "$date": "2020-09-01T00:00:00.000Z"
+    },
+    "notation": 4.5,
+    "taille": 40,
+    "etat": "code-1",
+    "email": "contact21@babouchesdimintanout.ma",
+    "telephone": "+212650061993",
+    "fixe": "+212595165150",
+    "autreTelephone1": "",
+    "autreTelephone2": "",
+    "siteWeb": "https://babouchesdimintanout.ma",
+    "languesParles": [
+      "fr",
+      "ar",
+      "en"
+    ],
+    "isFournisseur": true,
+    "protagoniste": null,
+    "coordonnees": [
+      {
+        "$oid": "89f80e7cca0a5daf8e91c889"
+      }
+    ],
+    "evenement": [],
+    "distinctions": [],
+    "organigrammeStructure": [],
+    "organigrammePersonnel": [],
+    "contenuMMEDIA": [],
+    "histoire": [],
+    "socialMedia": [],
+    "acteursAssocies": [],
+    "promotions": [],
+    "statistiquesDirectes": [],
+    "traceFournisseur": [],
+    "parrainePar": [],
+    "actionnaires": [],
+    "conseilAdministratif": [],
+    "etatObjet": "code-1",
+    "abonnees": [],
+    "rdv": [],
+    "horaire": [],
+    "contrat": [],
+    "inbox": [],
+    "expressions": [],
+    "selection": [],
+    "informationComplementaire": [],
+    "representationMarque": [],
+    "candidatureSpontane": [],
+    "objetsAssocies": [],
+    "notifications": [],
+    "recherches": [],
+    "offres": [],
+    "favories": [],
+    "acteursEcosysteme": null,
+    "caracteristiques": [],
+    "identitesAdministratifs": [],
+    "actionsSocialesSolidaires": [],
+    "temoignage": [],
+    "referencesProfessionnelles": [],
+    "myEservice": [],
+    "catalogue": [
+      {
+        "$oid": "7e83252da49beaf1c4ca4c20"
+      },
+      {
+        "$oid": "66bd6f9ff3acc6ec0e4f11c3"
+      }
+    ],
+    "produitService": [
+      {
+        "$oid": "7e83252da49beaf1c4ca4c20"
+      },
+      {
+        "$oid": "66bd6f9ff3acc6ec0e4f11c3"
+      }
+    ],
+    "faq": [],
+    "coordonneesGeo": [
+      {
+        "$oid": "89f80e7cca0a5daf8e91c889"
+      }
+    ],
+    "mMEDIA": [],
+    "objetsConcernes": []
+  },
+  {
+    "_id": {
+      "$oid": "eb0e2ff2ca1de66d819e14a0"
+    },
+    "etatDePublication": "code_3417",
+    "refActorSocioEco": "KB-ACT-1021",
+    "typeStructure": "code_4101",
+    "statutStrcture": "code_4150",
+    "activitePrincipale": {
+      "$oid": "69e8ed38c6121d6a80292064"
+    },
+    "secteurActivite": {
+      "$oid": "69e8ed38c6121d6a8029204e"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "nomStructure": "Pêcheurs d'Essaouira",
+        "slogan": "Sardines fraîches & conserves",
+        "descriptionActeur": "Coopérative de pêche artisanale — port d'Essaouira.",
+        "commentaireInterne": "Acteur premium référencé Kenz Bladi."
+      },
+      {
+        "language": "en",
+        "nomStructure": "Pêcheurs d'Essaouira",
+        "slogan": "Sardines fraîches & conserves",
+        "descriptionActeur": "Coopérative de pêche artisanale — port d'Essaouira.",
+        "commentaireInterne": "Premium Kenz Bladi referenced actor."
+      }
+    ],
+    "logo": "https://source.unsplash.com/featured/1200x800/?morocco,sardines,fish,market",
+    "paysOrigine": "MA",
+    "dateCreation": {
+      "$date": "2021-10-01T00:00:00.000Z"
+    },
+    "notation": 4.34,
+    "taille": 12,
+    "etat": "code-1",
+    "email": "contact22@pêcheursdessaouira.ma",
+    "telephone": "+212633938279",
+    "fixe": "+212547492297",
+    "autreTelephone1": "",
+    "autreTelephone2": "",
+    "siteWeb": "https://pêcheursdessaouira.ma",
+    "languesParles": [
+      "fr",
+      "ar",
+      "en"
+    ],
+    "isFournisseur": true,
+    "protagoniste": null,
+    "coordonnees": [
+      {
+        "$oid": "138b58bf66a8fabff5541c14"
+      }
+    ],
+    "evenement": [],
+    "distinctions": [],
+    "organigrammeStructure": [],
+    "organigrammePersonnel": [],
+    "contenuMMEDIA": [],
+    "histoire": [],
+    "socialMedia": [],
+    "acteursAssocies": [],
+    "promotions": [],
+    "statistiquesDirectes": [],
+    "traceFournisseur": [],
+    "parrainePar": [],
+    "actionnaires": [],
+    "conseilAdministratif": [],
+    "etatObjet": "code-1",
+    "abonnees": [],
+    "rdv": [],
+    "horaire": [],
+    "contrat": [],
+    "inbox": [],
+    "expressions": [],
+    "selection": [],
+    "informationComplementaire": [],
+    "representationMarque": [],
+    "candidatureSpontane": [],
+    "objetsAssocies": [],
+    "notifications": [],
+    "recherches": [],
+    "offres": [],
+    "favories": [],
+    "acteursEcosysteme": null,
+    "caracteristiques": [],
+    "identitesAdministratifs": [],
+    "actionsSocialesSolidaires": [],
+    "temoignage": [],
+    "referencesProfessionnelles": [],
+    "myEservice": [],
+    "catalogue": [
+      {
+        "$oid": "9bb1afa6848a869e0d609e11"
+      },
+      {
+        "$oid": "bc0f81b0ffa5fcba96ec12d1"
+      }
+    ],
+    "produitService": [
+      {
+        "$oid": "9bb1afa6848a869e0d609e11"
+      },
+      {
+        "$oid": "bc0f81b0ffa5fcba96ec12d1"
+      }
+    ],
+    "faq": [],
+    "coordonneesGeo": [
+      {
+        "$oid": "138b58bf66a8fabff5541c14"
+      }
+    ],
+    "mMEDIA": [],
+    "objetsConcernes": []
+  },
+  {
+    "_id": {
+      "$oid": "4708b2e0a09ffa1775daea2a"
+    },
+    "etatDePublication": "code_3417",
+    "refActorSocioEco": "KB-ACT-1022",
+    "typeStructure": "code_4101",
+    "statutStrcture": "code_4150",
+    "activitePrincipale": {
+      "$oid": "69e8ed38c6121d6a8029204f"
+    },
+    "secteurActivite": {
+      "$oid": "69e8ed38c6121d6a8029204e"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "nomStructure": "Conserverie Atlantique",
+        "slogan": "Sardines à l'huile d'olive",
+        "descriptionActeur": "Conserverie historique — sardines à l'huile, anchois, makrelle.",
+        "commentaireInterne": "Acteur premium référencé Kenz Bladi."
+      },
+      {
+        "language": "en",
+        "nomStructure": "Conserverie Atlantique",
+        "slogan": "Sardines à l'huile d'olive",
+        "descriptionActeur": "Conserverie historique — sardines à l'huile, anchois, makrelle.",
+        "commentaireInterne": "Premium Kenz Bladi referenced actor."
+      }
+    ],
+    "logo": "https://source.unsplash.com/featured/1200x800/?conserves,morocco,sardines",
+    "paysOrigine": "MA",
+    "dateCreation": {
+      "$date": "2022-11-01T00:00:00.000Z"
+    },
+    "notation": 4.2,
+    "taille": 8,
+    "etat": "code-1",
+    "email": "contact23@conserverieatlantique.ma",
+    "telephone": "+212625849624",
+    "fixe": "+212561299730",
+    "autreTelephone1": "",
+    "autreTelephone2": "",
+    "siteWeb": "https://conserverieatlantique.ma",
+    "languesParles": [
+      "fr",
+      "ar",
+      "en"
+    ],
+    "isFournisseur": true,
+    "protagoniste": null,
+    "coordonnees": [
+      {
+        "$oid": "f5f839d43e6b7b8ba5843478"
+      }
+    ],
+    "evenement": [],
+    "distinctions": [],
+    "organigrammeStructure": [],
+    "organigrammePersonnel": [],
+    "contenuMMEDIA": [],
+    "histoire": [],
+    "socialMedia": [],
+    "acteursAssocies": [],
+    "promotions": [],
+    "statistiquesDirectes": [],
+    "traceFournisseur": [],
+    "parrainePar": [],
+    "actionnaires": [],
+    "conseilAdministratif": [],
+    "etatObjet": "code-1",
+    "abonnees": [],
+    "rdv": [],
+    "horaire": [],
+    "contrat": [],
+    "inbox": [],
+    "expressions": [],
+    "selection": [],
+    "informationComplementaire": [],
+    "representationMarque": [],
+    "candidatureSpontane": [],
+    "objetsAssocies": [],
+    "notifications": [],
+    "recherches": [],
+    "offres": [],
+    "favories": [],
+    "acteursEcosysteme": null,
+    "caracteristiques": [],
+    "identitesAdministratifs": [],
+    "actionsSocialesSolidaires": [],
+    "temoignage": [],
+    "referencesProfessionnelles": [],
+    "myEservice": [],
+    "catalogue": [
+      {
+        "$oid": "6e66a03a9b9b3d193b88020a"
+      },
+      {
+        "$oid": "f36f98002c9a5e5eeffc343e"
+      }
+    ],
+    "produitService": [
+      {
+        "$oid": "6e66a03a9b9b3d193b88020a"
+      },
+      {
+        "$oid": "f36f98002c9a5e5eeffc343e"
+      }
+    ],
+    "faq": [],
+    "coordonneesGeo": [
+      {
+        "$oid": "f5f839d43e6b7b8ba5843478"
+      }
+    ],
+    "mMEDIA": [],
+    "objetsConcernes": []
+  },
+  {
+    "_id": {
+      "$oid": "336cedb752b9710516c75406"
+    },
+    "etatDePublication": "code_3417",
+    "refActorSocioEco": "KB-ACT-1023",
+    "typeStructure": "code_4101",
+    "statutStrcture": "code_4150",
+    "activitePrincipale": {
+      "$oid": "69e8ed38c6121d6a8029204f"
+    },
+    "secteurActivite": {
+      "$oid": "69e8ed38c6121d6a8029204e"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "nomStructure": "Oualidia Coquillages",
+        "slogan": "Huîtres & moules de l'Atlantique",
+        "descriptionActeur": "Aquaculture durable — huîtres creuses, moules, palourdes de la lagune.",
+        "commentaireInterne": "Acteur premium référencé Kenz Bladi."
+      },
+      {
+        "language": "en",
+        "nomStructure": "Oualidia Coquillages",
+        "slogan": "Huîtres & moules de l'Atlantique",
+        "descriptionActeur": "Aquaculture durable — huîtres creuses, moules, palourdes de la lagune.",
+        "commentaireInterne": "Premium Kenz Bladi referenced actor."
+      }
+    ],
+    "logo": "https://source.unsplash.com/featured/1200x800/?conserves,morocco,sardines",
+    "paysOrigine": "MA",
+    "dateCreation": {
+      "$date": "2023-12-01T00:00:00.000Z"
+    },
+    "notation": 4.23,
+    "taille": 5,
+    "etat": "code-1",
+    "email": "contact24@oualidiacoquillages.ma",
+    "telephone": "+212649178375",
+    "fixe": "+212533048000",
+    "autreTelephone1": "",
+    "autreTelephone2": "",
+    "siteWeb": "https://oualidiacoquillages.ma",
+    "languesParles": [
+      "fr",
+      "ar",
+      "en"
+    ],
+    "isFournisseur": true,
+    "protagoniste": null,
+    "coordonnees": [
+      {
+        "$oid": "c7035b62ac4afff7948f0fcb"
+      }
+    ],
+    "evenement": [],
+    "distinctions": [],
+    "organigrammeStructure": [],
+    "organigrammePersonnel": [],
+    "contenuMMEDIA": [],
+    "histoire": [],
+    "socialMedia": [],
+    "acteursAssocies": [],
+    "promotions": [],
+    "statistiquesDirectes": [],
+    "traceFournisseur": [],
+    "parrainePar": [],
+    "actionnaires": [],
+    "conseilAdministratif": [],
+    "etatObjet": "code-1",
+    "abonnees": [],
+    "rdv": [],
+    "horaire": [],
+    "contrat": [],
+    "inbox": [],
+    "expressions": [],
+    "selection": [],
+    "informationComplementaire": [],
+    "representationMarque": [],
+    "candidatureSpontane": [],
+    "objetsAssocies": [],
+    "notifications": [],
+    "recherches": [],
+    "offres": [],
+    "favories": [],
+    "acteursEcosysteme": null,
+    "caracteristiques": [],
+    "identitesAdministratifs": [],
+    "actionsSocialesSolidaires": [],
+    "temoignage": [],
+    "referencesProfessionnelles": [],
+    "myEservice": [],
+    "catalogue": [
+      {
+        "$oid": "f6f6355ff33dda2642014bde"
+      },
+      {
+        "$oid": "35531411c5b094a68d865dac"
+      }
+    ],
+    "produitService": [
+      {
+        "$oid": "f6f6355ff33dda2642014bde"
+      },
+      {
+        "$oid": "35531411c5b094a68d865dac"
+      }
+    ],
+    "faq": [],
+    "coordonneesGeo": [
+      {
+        "$oid": "c7035b62ac4afff7948f0fcb"
+      }
+    ],
+    "mMEDIA": [],
+    "objetsConcernes": []
+  },
+  {
+    "_id": {
+      "$oid": "772982b274ceb391e1069f0f"
+    },
+    "etatDePublication": "code_3417",
+    "refActorSocioEco": "KB-ACT-1024",
+    "typeStructure": "code_4101",
+    "statutStrcture": "code_4150",
+    "activitePrincipale": {
+      "$oid": "69e8ed38c6121d6a80291fdc"
+    },
+    "secteurActivite": {
+      "$oid": "69e8ed38c6121d6a80291fcc"
+    },
+    "translations": [
+      {
+        "language": "fr",
+        "nomStructure": "Patrimoine Vivant",
+        "slogan": "Voyages thématiques de patrimoine",
+        "descriptionActeur": "Circuits autour des médinas, ksours et savoir-faire ancestraux.",
+        "commentaireInterne": "Acteur premium référencé Kenz Bladi."
+      },
+      {
+        "language": "en",
+        "nomStructure": "Patrimoine Vivant",
+        "slogan": "Voyages thématiques de patrimoine",
+        "descriptionActeur": "Circuits autour des médinas, ksours et savoir-faire ancestraux.",
+        "commentaireInterne": "Premium Kenz Bladi referenced actor."
+      }
+    ],
+    "logo": "https://source.unsplash.com/featured/1200x800/?atlas,mountains,morocco",
+    "paysOrigine": "MA",
+    "dateCreation": {
+      "$date": "2018-01-01T00:00:00.000Z"
+    },
+    "notation": 4.2,
+    "taille": 12,
+    "etat": "code-1",
+    "email": "contact25@patrimoinevivant.ma",
+    "telephone": "+212650196424",
+    "fixe": "+212556694464",
+    "autreTelephone1": "",
+    "autreTelephone2": "",
+    "siteWeb": "https://patrimoinevivant.ma",
+    "languesParles": [
+      "fr",
+      "ar",
+      "en"
+    ],
+    "isFournisseur": true,
+    "protagoniste": null,
+    "coordonnees": [
+      {
+        "$oid": "c7035b62ac4afff7948f0fcb"
+      }
+    ],
+    "evenement": [],
+    "distinctions": [],
+    "organigrammeStructure": [],
+    "organigrammePersonnel": [],
+    "contenuMMEDIA": [],
+    "histoire": [],
+    "socialMedia": [],
+    "acteursAssocies": [],
+    "promotions": [],
+    "statistiquesDirectes": [],
+    "traceFournisseur": [],
+    "parrainePar": [],
+    "actionnaires": [],
+    "conseilAdministratif": [],
+    "etatObjet": "code-1",
+    "abonnees": [],
+    "rdv": [],
+    "horaire": [],
+    "contrat": [],
+    "inbox": [],
+    "expressions": [],
+    "selection": [],
+    "informationComplementaire": [],
+    "representationMarque": [],
+    "candidatureSpontane": [],
+    "objetsAssocies": [],
+    "notifications": [],
+    "recherches": [],
+    "offres": [],
+    "favories": [],
+    "acteursEcosysteme": null,
+    "caracteristiques": [],
+    "identitesAdministratifs": [],
+    "actionsSocialesSolidaires": [],
+    "temoignage": [],
+    "referencesProfessionnelles": [],
+    "myEservice": [],
+    "catalogue": [
+      {
+        "$oid": "44d0b076fcd36d0789368782"
+      },
+      {
+        "$oid": "9a023081f34a7e9e3332c3ed"
+      }
+    ],
+    "produitService": [
+      {
+        "$oid": "44d0b076fcd36d0789368782"
+      },
+      {
+        "$oid": "9a023081f34a7e9e3332c3ed"
+      }
+    ],
+    "faq": [],
+    "coordonneesGeo": [
+      {
+        "$oid": "c7035b62ac4afff7948f0fcb"
+      }
+    ],
+    "mMEDIA": [],
+    "objetsConcernes": []
+  }
+]

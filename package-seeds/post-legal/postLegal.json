@@ -1,0 +1,187 @@
+[
+  {
+    "_id": {
+      "$oid": "94f25b5cb96e053f9f2932a4"
+    },
+    "etatDePublication": "code_3417",
+    "etatObjet": "code-1",
+    "categorie": "CGU",
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Conditions générales d'utilisation",
+        "sousTitre": "Sous-titre CGU",
+        "contenu": "Bienvenue sur Kenz Bladi. En utilisant notre plateforme vous acceptez nos CGU…"
+      },
+      {
+        "language": "en",
+        "titre": "Conditions générales d'utilisation",
+        "sousTitre": "Sous-titre CGU",
+        "contenu": "Bienvenue sur Kenz Bladi. En utilisant notre plateforme vous acceptez nos CGU…"
+      },
+      {
+        "language": "ar",
+        "titre": "Conditions générales d'utilisation",
+        "sousTitre": "Sous-titre CGU",
+        "contenu": "Bienvenue sur Kenz Bladi. En utilisant notre plateforme vous acceptez nos CGU…"
+      }
+    ],
+    "datePublication": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "motsCles": [
+      {
+        "$oid": "0fe68b3798f647d8f642b7ca"
+      }
+    ],
+    "etats": []
+  },
+  {
+    "_id": {
+      "$oid": "3b9986d7e99af55b4dcd7b22"
+    },
+    "etatDePublication": "code_3417",
+    "etatObjet": "code-1",
+    "categorie": "CGV",
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Conditions générales de vente",
+        "sousTitre": "Sous-titre CGV",
+        "contenu": "Les présentes CGV régissent les ventes effectuées sur la plateforme Kenz Bladi…"
+      },
+      {
+        "language": "en",
+        "titre": "Conditions générales de vente",
+        "sousTitre": "Sous-titre CGV",
+        "contenu": "Les présentes CGV régissent les ventes effectuées sur la plateforme Kenz Bladi…"
+      },
+      {
+        "language": "ar",
+        "titre": "Conditions générales de vente",
+        "sousTitre": "Sous-titre CGV",
+        "contenu": "Les présentes CGV régissent les ventes effectuées sur la plateforme Kenz Bladi…"
+      }
+    ],
+    "datePublication": {
+      "$date": "2026-01-02T00:00:00.000Z"
+    },
+    "motsCles": [
+      {
+        "$oid": "e481ea6998c3e317ce236393"
+      }
+    ],
+    "etats": []
+  },
+  {
+    "_id": {
+      "$oid": "bf607282c551de1d50891445"
+    },
+    "etatDePublication": "code_3417",
+    "etatObjet": "code-1",
+    "categorie": "RGPD",
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Politique de confidentialité",
+        "sousTitre": "Protection des données",
+        "contenu": "Kenz Bladi respecte le RGPD ainsi que la loi 09-08…"
+      },
+      {
+        "language": "en",
+        "titre": "Politique de confidentialité",
+        "sousTitre": "Protection des données",
+        "contenu": "Kenz Bladi respecte le RGPD ainsi que la loi 09-08…"
+      },
+      {
+        "language": "ar",
+        "titre": "Politique de confidentialité",
+        "sousTitre": "Protection des données",
+        "contenu": "Kenz Bladi respecte le RGPD ainsi que la loi 09-08…"
+      }
+    ],
+    "datePublication": {
+      "$date": "2026-01-03T00:00:00.000Z"
+    },
+    "motsCles": [
+      {
+        "$oid": "41ccb7c7ab17f4d79caf65fd"
+      }
+    ],
+    "etats": []
+  },
+  {
+    "_id": {
+      "$oid": "6da19483ce4ea9e71881dfbf"
+    },
+    "etatDePublication": "code_3417",
+    "etatObjet": "code-1",
+    "categorie": "Cookies",
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Politique des cookies",
+        "sousTitre": "Gestion des traceurs",
+        "contenu": "Notre site utilise des cookies fonctionnels et statistiques."
+      },
+      {
+        "language": "en",
+        "titre": "Politique des cookies",
+        "sousTitre": "Gestion des traceurs",
+        "contenu": "Notre site utilise des cookies fonctionnels et statistiques."
+      },
+      {
+        "language": "ar",
+        "titre": "Politique des cookies",
+        "sousTitre": "Gestion des traceurs",
+        "contenu": "Notre site utilise des cookies fonctionnels et statistiques."
+      }
+    ],
+    "datePublication": {
+      "$date": "2026-01-04T00:00:00.000Z"
+    },
+    "motsCles": [
+      {
+        "$oid": "e481ea6998c3e317ce236393"
+      }
+    ],
+    "etats": []
+  },
+  {
+    "_id": {
+      "$oid": "8fb6f3ada859342026dfa121"
+    },
+    "etatDePublication": "code_3417",
+    "etatObjet": "code-1",
+    "categorie": "Mentions légales",
+    "translations": [
+      {
+        "language": "fr",
+        "titre": "Mentions légales",
+        "sousTitre": "Éditeur du site",
+        "contenu": "Kenz Bladi SARL, RC Casablanca, ICE 002567412000054."
+      },
+      {
+        "language": "en",
+        "titre": "Mentions légales",
+        "sousTitre": "Éditeur du site",
+        "contenu": "Kenz Bladi SARL, RC Casablanca, ICE 002567412000054."
+      },
+      {
+        "language": "ar",
+        "titre": "Mentions légales",
+        "sousTitre": "Éditeur du site",
+        "contenu": "Kenz Bladi SARL, RC Casablanca, ICE 002567412000054."
+      }
+    ],
+    "datePublication": {
+      "$date": "2026-01-05T00:00:00.000Z"
+    },
+    "motsCles": [
+      {
+        "$oid": "41ccb7c7ab17f4d79caf65fd"
+      }
+    ],
+    "etats": []
+  }
+]

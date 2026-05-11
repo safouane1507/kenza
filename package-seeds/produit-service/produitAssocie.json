@@ -1,0 +1,194 @@
+[
+  {
+    "_id": {
+      "$oid": "6066a01e5cb4ec922bb01935"
+    },
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Produit complémentaire"
+      }
+    ],
+    "typeProduitAssocie": "code_3034",
+    "quantiteTotalUnite": 1,
+    "quantiteProduitAssocie": 1,
+    "refProduit": {
+      "$oid": "e4f5f7a70ac16a444c109f33"
+    },
+    "elementProduitAssocie": [
+      {
+        "$oid": "925950062c2247f2e44db555"
+      }
+    ],
+    "caracteristiqueAssocie": []
+  },
+  {
+    "_id": {
+      "$oid": "012e58ff3c0bd1cf9c3ef442"
+    },
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Produit complémentaire"
+      }
+    ],
+    "typeProduitAssocie": "code_3034",
+    "quantiteTotalUnite": 1,
+    "quantiteProduitAssocie": 1,
+    "refProduit": {
+      "$oid": "9777eda660a4da612b0e65a8"
+    },
+    "elementProduitAssocie": [
+      {
+        "$oid": "9728b2ccb30868580f237770"
+      }
+    ],
+    "caracteristiqueAssocie": []
+  },
+  {
+    "_id": {
+      "$oid": "b1df570f30e12de9354d3c5c"
+    },
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Produit complémentaire"
+      }
+    ],
+    "typeProduitAssocie": "code_3034",
+    "quantiteTotalUnite": 1,
+    "quantiteProduitAssocie": 1,
+    "refProduit": {
+      "$oid": "7c026ef2ea8df27c55524005"
+    },
+    "elementProduitAssocie": [
+      {
+        "$oid": "bfe059564a4332a75fd0c131"
+      }
+    ],
+    "caracteristiqueAssocie": []
+  },
+  {
+    "_id": {
+      "$oid": "07244524bebe5ace5cdc965f"
+    },
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Produit complémentaire"
+      }
+    ],
+    "typeProduitAssocie": "code_3034",
+    "quantiteTotalUnite": 1,
+    "quantiteProduitAssocie": 1,
+    "refProduit": {
+      "$oid": "e85a5e009678a4f9c4fa5d37"
+    },
+    "elementProduitAssocie": [
+      {
+        "$oid": "47c2d6c0d0c60f24392d5727"
+      }
+    ],
+    "caracteristiqueAssocie": []
+  },
+  {
+    "_id": {
+      "$oid": "864ebd0189c71b321e7e17a5"
+    },
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Produit complémentaire"
+      }
+    ],
+    "typeProduitAssocie": "code_3034",
+    "quantiteTotalUnite": 1,
+    "quantiteProduitAssocie": 1,
+    "refProduit": {
+      "$oid": "1e7991731a1aee6832986b55"
+    },
+    "elementProduitAssocie": [
+      {
+        "$oid": "a1a5a6223503463b16db06d4"
+      }
+    ],
+    "caracteristiqueAssocie": []
+  },
+  {
+    "_id": {
+      "$oid": "edbb5dc48e4af66ec13a8988"
+    },
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Produit complémentaire"
+      }
+    ],
+    "typeProduitAssocie": "code_3034",
+    "quantiteTotalUnite": 1,
+    "quantiteProduitAssocie": 1,
+    "refProduit": {
+      "$oid": "c9fea7296bced4680a04c0e2"
+    },
+    "elementProduitAssocie": [
+      {
+        "$oid": "7f3178b57373f58afe6da777"
+      }
+    ],
+    "caracteristiqueAssocie": []
+  },
+  {
+    "_id": {
+      "$oid": "95dc8436fe73e1cf3c1b4cca"
+    },
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Produit complémentaire"
+      }
+    ],
+    "typeProduitAssocie": "code_3034",
+    "quantiteTotalUnite": 1,
+    "quantiteProduitAssocie": 1,
+    "refProduit": {
+      "$oid": "358ede32d35c1ff877af9e38"
+    },
+    "elementProduitAssocie": [
+      {
+        "$oid": "f26905be5c4a290e3e846c4f"
+      }
+    ],
+    "caracteristiqueAssocie": []
+  },
+  {
+    "_id": {
+      "$oid": "b1ecaf96d1634ff82153ba21"
+    },
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Produit complémentaire"
+      }
+    ],
+    "typeProduitAssocie": "code_3034",
+    "quantiteTotalUnite": 1,
+    "quantiteProduitAssocie": 1,
+    "refProduit": {
+      "$oid": "f6f6355ff33dda2642014bde"
+    },
+    "elementProduitAssocie": [
+      {
+        "$oid": "6fe855fd33267a234d4917d6"
+      }
+    ],
+    "caracteristiqueAssocie": []
+  }
+]

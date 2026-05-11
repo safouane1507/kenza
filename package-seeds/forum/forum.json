@@ -1,0 +1,126 @@
+[
+  {
+    "_id": {
+      "$oid": "da86e7c8f2d1a41ea7d0b220"
+    },
+    "reference": "KB-FORUM-0800",
+    "categorie": [
+      "actor"
+    ],
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Forum Coopératives",
+        "description": "Espace d'échange entre coopératives partenaires."
+      },
+      {
+        "language": "en",
+        "designation": "Forum Coopératives",
+        "description": "Espace d'échange entre coopératives partenaires."
+      }
+    ],
+    "refresponsable": {
+      "$oid": "42f9eb66b4530d77a93547fc"
+    },
+    "dateOuverture": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateCloture": {
+      "$date": "2027-01-01T00:00:00.000Z"
+    },
+    "imageRepresentative": "https://source.unsplash.com/featured/1200x800/?community,morocco,roundtable",
+    "nombreGlobalDesMembres": 4,
+    "nombreDesMembresActifs": 4,
+    "nombreDesEchanges": 6,
+    "themes": [
+      {
+        "$oid": "fb3d3635bf92fd27f3b6f8a7"
+      },
+      {
+        "$oid": "7fefd37b439e63d2e894b8a0"
+      },
+      {
+        "$oid": "ff72d8d7728282eb98d62cdb"
+      }
+    ],
+    "acteurs": [
+      {
+        "$oid": "3eb750b280f70e0cd9e11971"
+      },
+      {
+        "$oid": "1ed4b3396e342124201a6677"
+      },
+      {
+        "$oid": "7ab9d3bf7513354b1aea5b46"
+      },
+      {
+        "$oid": "34d78702737adb0906124b93"
+      }
+    ],
+    "etatDePublication": "code_3417",
+    "etatObjet": "code-1",
+    "objetsAssocies": []
+  },
+  {
+    "_id": {
+      "$oid": "0e64ec96a4907e71ede5e963"
+    },
+    "reference": "KB-FORUM-0801",
+    "categorie": [
+      "client"
+    ],
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Forum Clients & Conseils",
+        "description": "Conseils, recettes et suggestions des clients."
+      },
+      {
+        "language": "en",
+        "designation": "Forum Clients & Conseils",
+        "description": "Conseils, recettes et suggestions des clients."
+      }
+    ],
+    "refresponsable": {
+      "$oid": "42f9eb66b4530d77a93547fc"
+    },
+    "dateOuverture": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateCloture": {
+      "$date": "2027-01-01T00:00:00.000Z"
+    },
+    "imageRepresentative": "https://source.unsplash.com/featured/1200x800/?community,morocco,roundtable",
+    "nombreGlobalDesMembres": 4,
+    "nombreDesMembresActifs": 4,
+    "nombreDesEchanges": 6,
+    "themes": [
+      {
+        "$oid": "aa00d10bdeaf089bde46d37d"
+      },
+      {
+        "$oid": "dbc40f6e92cd919ca161771c"
+      },
+      {
+        "$oid": "55e872f744f01db7fa696f42"
+      }
+    ],
+    "acteurs": [
+      {
+        "$oid": "65dc1ea3de0f12e56c37532d"
+      },
+      {
+        "$oid": "eaf6d3f5bf0f29702053f9d7"
+      },
+      {
+        "$oid": "1d3468f8a43f4cd21e54696f"
+      },
+      {
+        "$oid": "d64a4b31e38313832e8789f2"
+      }
+    ],
+    "etatDePublication": "code_3417",
+    "etatObjet": "code-1",
+    "objetsAssocies": []
+  }
+]

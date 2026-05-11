@@ -1,0 +1,368 @@
+[
+  {
+    "_id": {
+      "$oid": "4ea241215c24e64d63c355e8"
+    },
+    "etatDePublication": "code_3417",
+    "etatObjet": "code-1",
+    "reference": "KB-IQFAQ-0700",
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Quels modes de paiement acceptez-vous ?",
+        "reponse": "Nous acceptons CMI, virement bancaire, paiement à la livraison et virement instantané M-Wallet.",
+        "nomAuteurQuestion": "Visiteur",
+        "questionReformule": "Quels modes de paiement acceptez-vous ?",
+        "motif": "code_5800"
+      }
+    ],
+    "refAuteurQuestion": null,
+    "emailAuteur": "anonyme@kenzbladi.ma",
+    "dateQuestion": {
+      "$date": "2026-02-02T00:00:00.000Z"
+    },
+    "ordre": 1,
+    "etatQst": "code_3417",
+    "provenance": "code_5701",
+    "nbrVue": 151,
+    "refAuteurReponse": {
+      "$oid": "919c56e5b864acd9fbd13368"
+    },
+    "dateReponse": {
+      "$date": "2026-02-07T00:00:00.000Z"
+    },
+    "etatValidationReponse": "code_3417",
+    "refValidateur": {
+      "$oid": "42f9eb66b4530d77a93547fc"
+    },
+    "dateValidationReponse": {
+      "$date": "2026-02-08T00:00:00.000Z"
+    },
+    "faqDestination": {
+      "$oid": "62f4114f99840bd3529e9aa4"
+    },
+    "objetAssocieReponse": [],
+    "etats": [],
+    "typeObjetConcerne": "produitService",
+    "refObjetConcerne": {
+      "$oid": "e9ce59d1b2d44f6a088ecd7d"
+    },
+    "faqOrigine": {
+      "$oid": "62f4114f99840bd3529e9aa4"
+    },
+    "envoyeReponse": true,
+    "reponceEnvoye": true,
+    "dateEnvoie": {
+      "$date": "2026-02-09T00:00:00.000Z"
+    },
+    "transfere": false,
+    "qestionDestination": {
+      "$oid": "ff2bb69d9da128f9aa34648c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "10a7a842897d154cb5ea4952"
+    },
+    "etatDePublication": "code_3417",
+    "etatObjet": "code-1",
+    "reference": "KB-IQFAQ-0701",
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Puis-je annuler ma commande ?",
+        "reponse": "Oui, jusqu'à 24h avant l'expédition. Au-delà, contactez le service client.",
+        "nomAuteurQuestion": "Visiteur",
+        "questionReformule": "Puis-je annuler ma commande ?",
+        "motif": "code_5800"
+      }
+    ],
+    "refAuteurQuestion": null,
+    "emailAuteur": "anonyme@kenzbladi.ma",
+    "dateQuestion": {
+      "$date": "2026-02-12T00:00:00.000Z"
+    },
+    "ordre": 2,
+    "etatQst": "code_3417",
+    "provenance": "code_5701",
+    "nbrVue": 104,
+    "refAuteurReponse": {
+      "$oid": "919c56e5b864acd9fbd13368"
+    },
+    "dateReponse": {
+      "$date": "2026-02-17T00:00:00.000Z"
+    },
+    "etatValidationReponse": "code_3417",
+    "refValidateur": {
+      "$oid": "42f9eb66b4530d77a93547fc"
+    },
+    "dateValidationReponse": {
+      "$date": "2026-02-18T00:00:00.000Z"
+    },
+    "faqDestination": {
+      "$oid": "62f4114f99840bd3529e9aa4"
+    },
+    "objetAssocieReponse": [],
+    "etats": [],
+    "typeObjetConcerne": "produitService",
+    "refObjetConcerne": {
+      "$oid": "98f8e52f7918acc099d800ce"
+    },
+    "faqOrigine": {
+      "$oid": "62f4114f99840bd3529e9aa4"
+    },
+    "envoyeReponse": true,
+    "reponceEnvoye": true,
+    "dateEnvoie": {
+      "$date": "2026-02-19T00:00:00.000Z"
+    },
+    "transfere": false,
+    "qestionDestination": {
+      "$oid": "db0acfcd2fad099c6f89c55b"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "b1dfe9fde16892d4dd39a252"
+    },
+    "etatDePublication": "code_3417",
+    "etatObjet": "code-1",
+    "reference": "KB-IQFAQ-0702",
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Quels sont les délais ?",
+        "reponse": "2-5 jours ouvrés au Maroc. International selon zone (5-15 jours).",
+        "nomAuteurQuestion": "Visiteur",
+        "questionReformule": "Quels sont les délais ?",
+        "motif": "code_5800"
+      }
+    ],
+    "refAuteurQuestion": null,
+    "emailAuteur": "anonyme@kenzbladi.ma",
+    "dateQuestion": {
+      "$date": "2026-02-02T00:00:00.000Z"
+    },
+    "ordre": 1,
+    "etatQst": "code_3417",
+    "provenance": "code_5701",
+    "nbrVue": 102,
+    "refAuteurReponse": {
+      "$oid": "919c56e5b864acd9fbd13368"
+    },
+    "dateReponse": {
+      "$date": "2026-02-07T00:00:00.000Z"
+    },
+    "etatValidationReponse": "code_3417",
+    "refValidateur": {
+      "$oid": "42f9eb66b4530d77a93547fc"
+    },
+    "dateValidationReponse": {
+      "$date": "2026-02-08T00:00:00.000Z"
+    },
+    "faqDestination": {
+      "$oid": "082ce1eae6fbeada5c807562"
+    },
+    "objetAssocieReponse": [],
+    "etats": [],
+    "typeObjetConcerne": "produitService",
+    "refObjetConcerne": {
+      "$oid": "7e83252da49beaf1c4ca4c20"
+    },
+    "faqOrigine": {
+      "$oid": "082ce1eae6fbeada5c807562"
+    },
+    "envoyeReponse": true,
+    "reponceEnvoye": true,
+    "dateEnvoie": {
+      "$date": "2026-02-09T00:00:00.000Z"
+    },
+    "transfere": false,
+    "qestionDestination": {
+      "$oid": "ba24fb9fe91b9034e72cdae0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "881ae271fa44db7b474ae656"
+    },
+    "etatDePublication": "code_3417",
+    "etatObjet": "code-1",
+    "reference": "KB-IQFAQ-0703",
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Livrez-vous à l'international ?",
+        "reponse": "Oui, en Europe, Afrique du Nord et Amérique du Nord.",
+        "nomAuteurQuestion": "Visiteur",
+        "questionReformule": "Livrez-vous à l'international ?",
+        "motif": "code_5800"
+      }
+    ],
+    "refAuteurQuestion": null,
+    "emailAuteur": "anonyme@kenzbladi.ma",
+    "dateQuestion": {
+      "$date": "2026-02-12T00:00:00.000Z"
+    },
+    "ordre": 2,
+    "etatQst": "code_3417",
+    "provenance": "code_5701",
+    "nbrVue": 107,
+    "refAuteurReponse": {
+      "$oid": "919c56e5b864acd9fbd13368"
+    },
+    "dateReponse": {
+      "$date": "2026-02-17T00:00:00.000Z"
+    },
+    "etatValidationReponse": "code_3417",
+    "refValidateur": {
+      "$oid": "42f9eb66b4530d77a93547fc"
+    },
+    "dateValidationReponse": {
+      "$date": "2026-02-18T00:00:00.000Z"
+    },
+    "faqDestination": {
+      "$oid": "082ce1eae6fbeada5c807562"
+    },
+    "objetAssocieReponse": [],
+    "etats": [],
+    "typeObjetConcerne": "produitService",
+    "refObjetConcerne": {
+      "$oid": "44d0b076fcd36d0789368782"
+    },
+    "faqOrigine": {
+      "$oid": "082ce1eae6fbeada5c807562"
+    },
+    "envoyeReponse": true,
+    "reponceEnvoye": true,
+    "dateEnvoie": {
+      "$date": "2026-02-19T00:00:00.000Z"
+    },
+    "transfere": false,
+    "qestionDestination": {
+      "$oid": "ea0ec4a74d68a1e7ec9cc33f"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "f0dda4d7d25d2c06990810a6"
+    },
+    "etatDePublication": "code_3417",
+    "etatObjet": "code-1",
+    "reference": "KB-IQFAQ-0704",
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Vos produits sont-ils certifiés ?",
+        "reponse": "Tous nos produits sont issus de coopératives certifiées (bio, IGP, AOP).",
+        "nomAuteurQuestion": "Visiteur",
+        "questionReformule": "Vos produits sont-ils certifiés ?",
+        "motif": "code_5800"
+      }
+    ],
+    "refAuteurQuestion": null,
+    "emailAuteur": "anonyme@kenzbladi.ma",
+    "dateQuestion": {
+      "$date": "2026-02-02T00:00:00.000Z"
+    },
+    "ordre": 1,
+    "etatQst": "code_3417",
+    "provenance": "code_5701",
+    "nbrVue": 171,
+    "refAuteurReponse": {
+      "$oid": "919c56e5b864acd9fbd13368"
+    },
+    "dateReponse": {
+      "$date": "2026-02-07T00:00:00.000Z"
+    },
+    "etatValidationReponse": "code_3417",
+    "refValidateur": {
+      "$oid": "42f9eb66b4530d77a93547fc"
+    },
+    "dateValidationReponse": {
+      "$date": "2026-02-08T00:00:00.000Z"
+    },
+    "faqDestination": {
+      "$oid": "226911268f74a0c1b113a482"
+    },
+    "objetAssocieReponse": [],
+    "etats": [],
+    "typeObjetConcerne": "produitService",
+    "refObjetConcerne": {
+      "$oid": "bb9b87879fe49621af954221"
+    },
+    "faqOrigine": {
+      "$oid": "226911268f74a0c1b113a482"
+    },
+    "envoyeReponse": true,
+    "reponceEnvoye": true,
+    "dateEnvoie": {
+      "$date": "2026-02-09T00:00:00.000Z"
+    },
+    "transfere": false,
+    "qestionDestination": {
+      "$oid": "d9cde4cef6104294f74a8a63"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "c54e604527db888244a5927a"
+    },
+    "etatDePublication": "code_3417",
+    "etatObjet": "code-1",
+    "reference": "KB-IQFAQ-0705",
+    "translations": [
+      {
+        "language": "fr",
+        "question": "Comment est garantie l'origine ?",
+        "reponse": "Chaque produit dispose d'un QR code qui retrace la coopérative et la région d'origine.",
+        "nomAuteurQuestion": "Visiteur",
+        "questionReformule": "Comment est garantie l'origine ?",
+        "motif": "code_5800"
+      }
+    ],
+    "refAuteurQuestion": null,
+    "emailAuteur": "anonyme@kenzbladi.ma",
+    "dateQuestion": {
+      "$date": "2026-02-12T00:00:00.000Z"
+    },
+    "ordre": 2,
+    "etatQst": "code_3417",
+    "provenance": "code_5701",
+    "nbrVue": 66,
+    "refAuteurReponse": {
+      "$oid": "919c56e5b864acd9fbd13368"
+    },
+    "dateReponse": {
+      "$date": "2026-02-17T00:00:00.000Z"
+    },
+    "etatValidationReponse": "code_3417",
+    "refValidateur": {
+      "$oid": "42f9eb66b4530d77a93547fc"
+    },
+    "dateValidationReponse": {
+      "$date": "2026-02-18T00:00:00.000Z"
+    },
+    "faqDestination": {
+      "$oid": "226911268f74a0c1b113a482"
+    },
+    "objetAssocieReponse": [],
+    "etats": [],
+    "typeObjetConcerne": "produitService",
+    "refObjetConcerne": {
+      "$oid": "2fa38f5015521737f0b69bf1"
+    },
+    "faqOrigine": {
+      "$oid": "226911268f74a0c1b113a482"
+    },
+    "envoyeReponse": true,
+    "reponceEnvoye": true,
+    "dateEnvoie": {
+      "$date": "2026-02-19T00:00:00.000Z"
+    },
+    "transfere": false,
+    "qestionDestination": {
+      "$oid": "93c5e11e28be66b1f9f2421e"
+    }
+  }
+]

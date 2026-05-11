@@ -1,0 +1,590 @@
+[
+  {
+    "_id": {
+      "$oid": "42f9eb66b4530d77a93547fc"
+    },
+    "etatObjet": "code-1",
+    "taxonomieCategoriePersonne": "69e8ed38c6121d6a80292054",
+    "identifiantInterne": "KB-PER-2000",
+    "salutation": "M.",
+    "translations": [
+      {
+        "language": "fr",
+        "nomPersonne": "El Mansouri",
+        "prenomPersonne": "Karim",
+        "deuxiemePrenom": ""
+      },
+      {
+        "language": "ar",
+        "nomPersonne": "El Mansouri",
+        "prenomPersonne": "Karim",
+        "deuxiemePrenom": ""
+      }
+    ],
+    "dateNaissance": {
+      "$date": "1970-01-01T00:00:00.000Z"
+    },
+    "fonctionPersonne": "Chef de production",
+    "photo": "https://source.unsplash.com/featured/1200x800/?portrait,morocco,artisan",
+    "codeInternationaleTel": "+212",
+    "nTelephonePersonnel": "625326336",
+    "nTelephoneDomicile": "",
+    "nTelephoneWatssap": "685048061",
+    "email": "karim.elmansouri@kenzbladi.ma",
+    "etatValidation": true,
+    "relationOrganisationPersonne": null,
+    "motivation": [],
+    "protagonistePotentie": [
+      {
+        "$oid": "8c1ea98e4f84c852400be0a8"
+      }
+    ],
+    "instanceCaracteristique": [],
+    "coordonneesLieu": [
+      {
+        "$oid": "0fda03d07dd5cc145829aa36"
+      }
+    ],
+    "rubriqueCv": null,
+    "etats": []
+  },
+  {
+    "_id": {
+      "$oid": "14a8602b4765ac42377e8ae9"
+    },
+    "etatObjet": "code-1",
+    "taxonomieCategoriePersonne": "69e8ed38c6121d6a80291f03",
+    "identifiantInterne": "KB-PER-2001",
+    "salutation": "Mme",
+    "translations": [
+      {
+        "language": "fr",
+        "nomPersonne": "Berrada",
+        "prenomPersonne": "Nadia",
+        "deuxiemePrenom": ""
+      },
+      {
+        "language": "ar",
+        "nomPersonne": "Berrada",
+        "prenomPersonne": "Nadia",
+        "deuxiemePrenom": ""
+      }
+    ],
+    "dateNaissance": {
+      "$date": "1971-02-02T00:00:00.000Z"
+    },
+    "fonctionPersonne": "Responsable export",
+    "photo": "https://source.unsplash.com/featured/1200x800/?portrait,morocco,artisan",
+    "codeInternationaleTel": "+212",
+    "nTelephonePersonnel": "659442492",
+    "nTelephoneDomicile": "",
+    "nTelephoneWatssap": "688215149",
+    "email": "nadia.berrada@kenzbladi.ma",
+    "etatValidation": true,
+    "relationOrganisationPersonne": null,
+    "motivation": [],
+    "protagonistePotentie": [
+      {
+        "$oid": "4150aa77ea4286387f3803c0"
+      }
+    ],
+    "instanceCaracteristique": [],
+    "coordonneesLieu": [
+      {
+        "$oid": "138b58bf66a8fabff5541c14"
+      }
+    ],
+    "rubriqueCv": null,
+    "etats": []
+  },
+  {
+    "_id": {
+      "$oid": "f9156e5ba44181694bebeb21"
+    },
+    "etatObjet": "code-1",
+    "taxonomieCategoriePersonne": "69e8ed38c6121d6a80291fda",
+    "identifiantInterne": "KB-PER-2002",
+    "salutation": "M.",
+    "translations": [
+      {
+        "language": "fr",
+        "nomPersonne": "Bennani",
+        "prenomPersonne": "Youssef",
+        "deuxiemePrenom": ""
+      },
+      {
+        "language": "ar",
+        "nomPersonne": "Bennani",
+        "prenomPersonne": "Youssef",
+        "deuxiemePrenom": ""
+      }
+    ],
+    "dateNaissance": {
+      "$date": "1972-03-03T00:00:00.000Z"
+    },
+    "fonctionPersonne": "Directeur",
+    "photo": "https://source.unsplash.com/featured/1200x800/?portrait,morocco,artisan",
+    "codeInternationaleTel": "+212",
+    "nTelephonePersonnel": "693803019",
+    "nTelephoneDomicile": "",
+    "nTelephoneWatssap": "615169794",
+    "email": "youssef.bennani@kenzbladi.ma",
+    "etatValidation": true,
+    "relationOrganisationPersonne": null,
+    "motivation": [],
+    "protagonistePotentie": [
+      {
+        "$oid": "c917fad0328b3c3bd755ee66"
+      }
+    ],
+    "instanceCaracteristique": [],
+    "coordonneesLieu": [
+      {
+        "$oid": "20806b3d18e443d0debc5bf8"
+      }
+    ],
+    "rubriqueCv": null,
+    "etats": []
+  },
+  {
+    "_id": {
+      "$oid": "c1493337226ad1e51b9d9a94"
+    },
+    "etatObjet": "code-1",
+    "taxonomieCategoriePersonne": "69e8ed38c6121d6a80291fa0",
+    "identifiantInterne": "KB-PER-2003",
+    "salutation": "Mme",
+    "translations": [
+      {
+        "language": "fr",
+        "nomPersonne": "Idrissi",
+        "prenomPersonne": "Salma",
+        "deuxiemePrenom": ""
+      },
+      {
+        "language": "ar",
+        "nomPersonne": "Idrissi",
+        "prenomPersonne": "Salma",
+        "deuxiemePrenom": ""
+      }
+    ],
+    "dateNaissance": {
+      "$date": "1973-04-04T00:00:00.000Z"
+    },
+    "fonctionPersonne": "Directeur",
+    "photo": "https://source.unsplash.com/featured/1200x800/?portrait,morocco,artisan",
+    "codeInternationaleTel": "+212",
+    "nTelephonePersonnel": "645277021",
+    "nTelephoneDomicile": "",
+    "nTelephoneWatssap": "664406471",
+    "email": "salma.idrissi@kenzbladi.ma",
+    "etatValidation": true,
+    "relationOrganisationPersonne": null,
+    "motivation": [],
+    "protagonistePotentie": [
+      {
+        "$oid": "d39d9be3529fd733a5a0cd55"
+      }
+    ],
+    "instanceCaracteristique": [],
+    "coordonneesLieu": [
+      {
+        "$oid": "24c7be859f11162acccbcb8f"
+      }
+    ],
+    "rubriqueCv": null,
+    "etats": []
+  },
+  {
+    "_id": {
+      "$oid": "0ac7a2bee81d908c61b69597"
+    },
+    "etatObjet": "code-1",
+    "taxonomieCategoriePersonne": "69e8ed38c6121d6a80291e79",
+    "identifiantInterne": "KB-PER-2004",
+    "salutation": "M.",
+    "translations": [
+      {
+        "language": "fr",
+        "nomPersonne": "Tazi",
+        "prenomPersonne": "Hamza",
+        "deuxiemePrenom": ""
+      },
+      {
+        "language": "ar",
+        "nomPersonne": "Tazi",
+        "prenomPersonne": "Hamza",
+        "deuxiemePrenom": ""
+      }
+    ],
+    "dateNaissance": {
+      "$date": "1974-05-05T00:00:00.000Z"
+    },
+    "fonctionPersonne": "Responsable qualité",
+    "photo": "https://source.unsplash.com/featured/1200x800/?portrait,morocco,artisan",
+    "codeInternationaleTel": "+212",
+    "nTelephonePersonnel": "648111230",
+    "nTelephoneDomicile": "",
+    "nTelephoneWatssap": "686456812",
+    "email": "hamza.tazi@kenzbladi.ma",
+    "etatValidation": true,
+    "relationOrganisationPersonne": null,
+    "motivation": [],
+    "protagonistePotentie": [
+      {
+        "$oid": "30707c74e4d46e9bb56030e2"
+      }
+    ],
+    "instanceCaracteristique": [],
+    "coordonneesLieu": [
+      {
+        "$oid": "f5f839d43e6b7b8ba5843478"
+      }
+    ],
+    "rubriqueCv": null,
+    "etats": []
+  },
+  {
+    "_id": {
+      "$oid": "e27ed0ed627dc1e2fafabe7b"
+    },
+    "etatObjet": "code-1",
+    "taxonomieCategoriePersonne": "69e8ed38c6121d6a80291f98",
+    "identifiantInterne": "KB-PER-2005",
+    "salutation": "Mme",
+    "translations": [
+      {
+        "language": "fr",
+        "nomPersonne": "Ait Lahcen",
+        "prenomPersonne": "Fatima",
+        "deuxiemePrenom": ""
+      },
+      {
+        "language": "ar",
+        "nomPersonne": "Ait Lahcen",
+        "prenomPersonne": "Fatima",
+        "deuxiemePrenom": ""
+      }
+    ],
+    "dateNaissance": {
+      "$date": "1975-06-06T00:00:00.000Z"
+    },
+    "fonctionPersonne": "Responsable qualité",
+    "photo": "https://source.unsplash.com/featured/1200x800/?portrait,morocco,artisan",
+    "codeInternationaleTel": "+212",
+    "nTelephonePersonnel": "671819284",
+    "nTelephoneDomicile": "",
+    "nTelephoneWatssap": "637849193",
+    "email": "fatima.aitlahcen@kenzbladi.ma",
+    "etatValidation": true,
+    "relationOrganisationPersonne": null,
+    "motivation": [],
+    "protagonistePotentie": [
+      {
+        "$oid": "ecabd9e27957c632704df88a"
+      }
+    ],
+    "instanceCaracteristique": [],
+    "coordonneesLieu": [
+      {
+        "$oid": "51a28b22780dcd5c1e45208d"
+      }
+    ],
+    "rubriqueCv": null,
+    "etats": []
+  },
+  {
+    "_id": {
+      "$oid": "88b2de919b9e38cd5dabd50a"
+    },
+    "etatObjet": "code-1",
+    "taxonomieCategoriePersonne": "69e8ed38c6121d6a80291e2f",
+    "identifiantInterne": "KB-PER-2006",
+    "salutation": "M.",
+    "translations": [
+      {
+        "language": "fr",
+        "nomPersonne": "Bouhamidi",
+        "prenomPersonne": "Reda",
+        "deuxiemePrenom": ""
+      },
+      {
+        "language": "ar",
+        "nomPersonne": "Bouhamidi",
+        "prenomPersonne": "Reda",
+        "deuxiemePrenom": ""
+      }
+    ],
+    "dateNaissance": {
+      "$date": "1976-07-07T00:00:00.000Z"
+    },
+    "fonctionPersonne": "Présidente",
+    "photo": "https://source.unsplash.com/featured/1200x800/?portrait,morocco,artisan",
+    "codeInternationaleTel": "+212",
+    "nTelephonePersonnel": "686700052",
+    "nTelephoneDomicile": "",
+    "nTelephoneWatssap": "670461789",
+    "email": "reda.bouhamidi@kenzbladi.ma",
+    "etatValidation": true,
+    "relationOrganisationPersonne": null,
+    "motivation": [],
+    "protagonistePotentie": [
+      {
+        "$oid": "37f56c1a0d1c61c9378213c5"
+      }
+    ],
+    "instanceCaracteristique": [],
+    "coordonneesLieu": [
+      {
+        "$oid": "69323205f5d1393e4a09cbb8"
+      }
+    ],
+    "rubriqueCv": null,
+    "etats": []
+  },
+  {
+    "_id": {
+      "$oid": "8aa85ffcc40b1463dab8bcd4"
+    },
+    "etatObjet": "code-1",
+    "taxonomieCategoriePersonne": "69e8ed38c6121d6a80291fd6",
+    "identifiantInterne": "KB-PER-2007",
+    "salutation": "Mme",
+    "translations": [
+      {
+        "language": "fr",
+        "nomPersonne": "Ziani",
+        "prenomPersonne": "Imane",
+        "deuxiemePrenom": ""
+      },
+      {
+        "language": "ar",
+        "nomPersonne": "Ziani",
+        "prenomPersonne": "Imane",
+        "deuxiemePrenom": ""
+      }
+    ],
+    "dateNaissance": {
+      "$date": "1977-08-08T00:00:00.000Z"
+    },
+    "fonctionPersonne": "Maître artisan",
+    "photo": "https://source.unsplash.com/featured/1200x800/?portrait,morocco,artisan",
+    "codeInternationaleTel": "+212",
+    "nTelephonePersonnel": "680967131",
+    "nTelephoneDomicile": "",
+    "nTelephoneWatssap": "664266728",
+    "email": "imane.ziani@kenzbladi.ma",
+    "etatValidation": true,
+    "relationOrganisationPersonne": null,
+    "motivation": [],
+    "protagonistePotentie": [
+      {
+        "$oid": "cf959ecd9f510b3b8a3ba1c8"
+      }
+    ],
+    "instanceCaracteristique": [],
+    "coordonneesLieu": [
+      {
+        "$oid": "af12805373b13e5325f0b39c"
+      }
+    ],
+    "rubriqueCv": null,
+    "etats": []
+  },
+  {
+    "_id": {
+      "$oid": "6e072854def23bf3d3bcb690"
+    },
+    "etatObjet": "code-1",
+    "taxonomieCategoriePersonne": "69e8ed38c6121d6a80292048",
+    "identifiantInterne": "KB-PER-2008",
+    "salutation": "M.",
+    "translations": [
+      {
+        "language": "fr",
+        "nomPersonne": "Lamrabet",
+        "prenomPersonne": "Anas",
+        "deuxiemePrenom": ""
+      },
+      {
+        "language": "ar",
+        "nomPersonne": "Lamrabet",
+        "prenomPersonne": "Anas",
+        "deuxiemePrenom": ""
+      }
+    ],
+    "dateNaissance": {
+      "$date": "1978-09-09T00:00:00.000Z"
+    },
+    "fonctionPersonne": "Maître artisan",
+    "photo": "https://source.unsplash.com/featured/1200x800/?portrait,morocco,artisan",
+    "codeInternationaleTel": "+212",
+    "nTelephonePersonnel": "698699333",
+    "nTelephoneDomicile": "",
+    "nTelephoneWatssap": "642862563",
+    "email": "anas.lamrabet@kenzbladi.ma",
+    "etatValidation": true,
+    "relationOrganisationPersonne": null,
+    "motivation": [],
+    "protagonistePotentie": [
+      {
+        "$oid": "05ae41400ee66b6937b1c887"
+      }
+    ],
+    "instanceCaracteristique": [],
+    "coordonneesLieu": [
+      {
+        "$oid": "51a28b22780dcd5c1e45208d"
+      }
+    ],
+    "rubriqueCv": null,
+    "etats": []
+  },
+  {
+    "_id": {
+      "$oid": "35f5afd37994dcba07886296"
+    },
+    "etatObjet": "code-1",
+    "taxonomieCategoriePersonne": "69e8ed38c6121d6a80292035",
+    "identifiantInterne": "KB-PER-2009",
+    "salutation": "Mme",
+    "translations": [
+      {
+        "language": "fr",
+        "nomPersonne": "Cherkaoui",
+        "prenomPersonne": "Sara",
+        "deuxiemePrenom": ""
+      },
+      {
+        "language": "ar",
+        "nomPersonne": "Cherkaoui",
+        "prenomPersonne": "Sara",
+        "deuxiemePrenom": ""
+      }
+    ],
+    "dateNaissance": {
+      "$date": "1979-10-10T00:00:00.000Z"
+    },
+    "fonctionPersonne": "Directeur",
+    "photo": "https://source.unsplash.com/featured/1200x800/?portrait,morocco,artisan",
+    "codeInternationaleTel": "+212",
+    "nTelephonePersonnel": "636165033",
+    "nTelephoneDomicile": "",
+    "nTelephoneWatssap": "677653541",
+    "email": "sara.cherkaoui@kenzbladi.ma",
+    "etatValidation": true,
+    "relationOrganisationPersonne": null,
+    "motivation": [],
+    "protagonistePotentie": [
+      {
+        "$oid": "4320c93e802a9bb66d548e77"
+      }
+    ],
+    "instanceCaracteristique": [],
+    "coordonneesLieu": [
+      {
+        "$oid": "c7035b62ac4afff7948f0fcb"
+      }
+    ],
+    "rubriqueCv": null,
+    "etats": []
+  },
+  {
+    "_id": {
+      "$oid": "0e371a6636eda37e91badd21"
+    },
+    "etatObjet": "code-1",
+    "taxonomieCategoriePersonne": "69e8ed38c6121d6a80291fba",
+    "identifiantInterne": "KB-PER-2010",
+    "salutation": "M.",
+    "translations": [
+      {
+        "language": "fr",
+        "nomPersonne": "El Fassi",
+        "prenomPersonne": "Othmane",
+        "deuxiemePrenom": ""
+      },
+      {
+        "language": "ar",
+        "nomPersonne": "El Fassi",
+        "prenomPersonne": "Othmane",
+        "deuxiemePrenom": ""
+      }
+    ],
+    "dateNaissance": {
+      "$date": "1980-11-11T00:00:00.000Z"
+    },
+    "fonctionPersonne": "Chef de production",
+    "photo": "https://source.unsplash.com/featured/1200x800/?portrait,morocco,artisan",
+    "codeInternationaleTel": "+212",
+    "nTelephonePersonnel": "690121001",
+    "nTelephoneDomicile": "",
+    "nTelephoneWatssap": "649111645",
+    "email": "othmane.elfassi@kenzbladi.ma",
+    "etatValidation": true,
+    "relationOrganisationPersonne": null,
+    "motivation": [],
+    "protagonistePotentie": [
+      {
+        "$oid": "c95da845b4f9781f96599ad4"
+      }
+    ],
+    "instanceCaracteristique": [],
+    "coordonneesLieu": [
+      {
+        "$oid": "0fda03d07dd5cc145829aa36"
+      }
+    ],
+    "rubriqueCv": null,
+    "etats": []
+  },
+  {
+    "_id": {
+      "$oid": "da4d0eff9a5e4881b96b1181"
+    },
+    "etatObjet": "code-1",
+    "taxonomieCategoriePersonne": "69e8ed38c6121d6a80292010",
+    "identifiantInterne": "KB-PER-2011",
+    "salutation": "Mme",
+    "translations": [
+      {
+        "language": "fr",
+        "nomPersonne": "Ouazzani",
+        "prenomPersonne": "Zineb",
+        "deuxiemePrenom": ""
+      },
+      {
+        "language": "ar",
+        "nomPersonne": "Ouazzani",
+        "prenomPersonne": "Zineb",
+        "deuxiemePrenom": ""
+      }
+    ],
+    "dateNaissance": {
+      "$date": "1981-12-12T00:00:00.000Z"
+    },
+    "fonctionPersonne": "Responsable qualité",
+    "photo": "https://source.unsplash.com/featured/1200x800/?portrait,morocco,artisan",
+    "codeInternationaleTel": "+212",
+    "nTelephonePersonnel": "635035841",
+    "nTelephoneDomicile": "",
+    "nTelephoneWatssap": "626462053",
+    "email": "zineb.ouazzani@kenzbladi.ma",
+    "etatValidation": true,
+    "relationOrganisationPersonne": null,
+    "motivation": [],
+    "protagonistePotentie": [
+      {
+        "$oid": "680c7a348dd6d20e91134551"
+      }
+    ],
+    "instanceCaracteristique": [],
+    "coordonneesLieu": [
+      {
+        "$oid": "138b58bf66a8fabff5541c14"
+      }
+    ],
+    "rubriqueCv": null,
+    "etats": []
+  }
+]

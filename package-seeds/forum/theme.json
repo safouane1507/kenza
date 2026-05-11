@@ -1,0 +1,260 @@
+[
+  {
+    "_id": {
+      "$oid": "fb3d3635bf92fd27f3b6f8a7"
+    },
+    "etatDePublication": "code_3417",
+    "reference": "KB-FTHEME-0900",
+    "type": [
+      "discussion"
+    ],
+    "translations": [
+      {
+        "language": "fr",
+        "designationTheme": "Thème 1 — Forum Coopératives",
+        "descriptifTheme": "Discussions thématiques."
+      }
+    ],
+    "refResponsableTheme": {
+      "$oid": "42f9eb66b4530d77a93547fc"
+    },
+    "ordre": 1,
+    "imageTheme": "https://source.unsplash.com/featured/1200x800/?medina,morocco,heritage",
+    "dateOuverture": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "datecloture": {
+      "$date": "2027-01-01T00:00:00.000Z"
+    },
+    "nbrParticipants": 17,
+    "nbrEchanges": 258,
+    "participations": [
+      {
+        "$oid": "a98be11f7f48c8a6b5291d63"
+      },
+      {
+        "$oid": "524010d00a76e5aa4dbd3eba"
+      }
+    ],
+    "forum": {
+      "$oid": "da86e7c8f2d1a41ea7d0b220"
+    },
+    "etatObjet": "code-1",
+    "objetsAssocies": []
+  },
+  {
+    "_id": {
+      "$oid": "7fefd37b439e63d2e894b8a0"
+    },
+    "etatDePublication": "code_3417",
+    "reference": "KB-FTHEME-0901",
+    "type": [
+      "discussion"
+    ],
+    "translations": [
+      {
+        "language": "fr",
+        "designationTheme": "Thème 2 — Forum Coopératives",
+        "descriptifTheme": "Discussions thématiques."
+      }
+    ],
+    "refResponsableTheme": {
+      "$oid": "42f9eb66b4530d77a93547fc"
+    },
+    "ordre": 2,
+    "imageTheme": "https://source.unsplash.com/featured/1200x800/?medina,morocco,heritage",
+    "dateOuverture": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "datecloture": {
+      "$date": "2027-01-01T00:00:00.000Z"
+    },
+    "nbrParticipants": 11,
+    "nbrEchanges": 168,
+    "participations": [
+      {
+        "$oid": "4142897781f3f917a18f7ebd"
+      },
+      {
+        "$oid": "a4af50cd3814525f094926ec"
+      }
+    ],
+    "forum": {
+      "$oid": "da86e7c8f2d1a41ea7d0b220"
+    },
+    "etatObjet": "code-1",
+    "objetsAssocies": []
+  },
+  {
+    "_id": {
+      "$oid": "ff72d8d7728282eb98d62cdb"
+    },
+    "etatDePublication": "code_3417",
+    "reference": "KB-FTHEME-0902",
+    "type": [
+      "discussion"
+    ],
+    "translations": [
+      {
+        "language": "fr",
+        "designationTheme": "Thème 3 — Forum Coopératives",
+        "descriptifTheme": "Discussions thématiques."
+      }
+    ],
+    "refResponsableTheme": {
+      "$oid": "42f9eb66b4530d77a93547fc"
+    },
+    "ordre": 3,
+    "imageTheme": "https://source.unsplash.com/featured/1200x800/?medina,morocco,heritage",
+    "dateOuverture": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "datecloture": {
+      "$date": "2027-01-01T00:00:00.000Z"
+    },
+    "nbrParticipants": 29,
+    "nbrEchanges": 82,
+    "participations": [
+      {
+        "$oid": "78dd05f931a5cc346360fef7"
+      },
+      {
+        "$oid": "3104611dab36afd10868e611"
+      }
+    ],
+    "forum": {
+      "$oid": "da86e7c8f2d1a41ea7d0b220"
+    },
+    "etatObjet": "code-1",
+    "objetsAssocies": []
+  },
+  {
+    "_id": {
+      "$oid": "aa00d10bdeaf089bde46d37d"
+    },
+    "etatDePublication": "code_3417",
+    "reference": "KB-FTHEME-0903",
+    "type": [
+      "discussion"
+    ],
+    "translations": [
+      {
+        "language": "fr",
+        "designationTheme": "Thème 1 — Forum Clients & Conseils",
+        "descriptifTheme": "Discussions thématiques."
+      }
+    ],
+    "refResponsableTheme": {
+      "$oid": "42f9eb66b4530d77a93547fc"
+    },
+    "ordre": 1,
+    "imageTheme": "https://source.unsplash.com/featured/1200x800/?medina,morocco,heritage",
+    "dateOuverture": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "datecloture": {
+      "$date": "2027-01-01T00:00:00.000Z"
+    },
+    "nbrParticipants": 49,
+    "nbrEchanges": 271,
+    "participations": [
+      {
+        "$oid": "bdf185b1d3cf4bab7845a4ad"
+      },
+      {
+        "$oid": "4058b3b968608e1f06ee19ac"
+      }
+    ],
+    "forum": {
+      "$oid": "0e64ec96a4907e71ede5e963"
+    },
+    "etatObjet": "code-1",
+    "objetsAssocies": []
+  },
+  {
+    "_id": {
+      "$oid": "dbc40f6e92cd919ca161771c"
+    },
+    "etatDePublication": "code_3417",
+    "reference": "KB-FTHEME-0904",
+    "type": [
+      "discussion"
+    ],
+    "translations": [
+      {
+        "language": "fr",
+        "designationTheme": "Thème 2 — Forum Clients & Conseils",
+        "descriptifTheme": "Discussions thématiques."
+      }
+    ],
+    "refResponsableTheme": {
+      "$oid": "42f9eb66b4530d77a93547fc"
+    },
+    "ordre": 2,
+    "imageTheme": "https://source.unsplash.com/featured/1200x800/?community,morocco,roundtable",
+    "dateOuverture": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "datecloture": {
+      "$date": "2027-01-01T00:00:00.000Z"
+    },
+    "nbrParticipants": 44,
+    "nbrEchanges": 71,
+    "participations": [
+      {
+        "$oid": "f9fdfc3ac1b75694255e1427"
+      },
+      {
+        "$oid": "4cdf8e8b4bde3838c4cd14a6"
+      }
+    ],
+    "forum": {
+      "$oid": "0e64ec96a4907e71ede5e963"
+    },
+    "etatObjet": "code-1",
+    "objetsAssocies": []
+  },
+  {
+    "_id": {
+      "$oid": "55e872f744f01db7fa696f42"
+    },
+    "etatDePublication": "code_3417",
+    "reference": "KB-FTHEME-0905",
+    "type": [
+      "discussion"
+    ],
+    "translations": [
+      {
+        "language": "fr",
+        "designationTheme": "Thème 3 — Forum Clients & Conseils",
+        "descriptifTheme": "Discussions thématiques."
+      }
+    ],
+    "refResponsableTheme": {
+      "$oid": "42f9eb66b4530d77a93547fc"
+    },
+    "ordre": 3,
+    "imageTheme": "https://source.unsplash.com/featured/1200x800/?community,morocco,roundtable",
+    "dateOuverture": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "datecloture": {
+      "$date": "2027-01-01T00:00:00.000Z"
+    },
+    "nbrParticipants": 49,
+    "nbrEchanges": 205,
+    "participations": [
+      {
+        "$oid": "6e074982046f1ea1dec851bb"
+      },
+      {
+        "$oid": "9fdbc4e3183190a75f342f29"
+      }
+    ],
+    "forum": {
+      "$oid": "0e64ec96a4907e71ede5e963"
+    },
+    "etatObjet": "code-1",
+    "objetsAssocies": []
+  }
+]

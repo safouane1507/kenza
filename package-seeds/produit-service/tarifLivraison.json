@@ -1,0 +1,1442 @@
+[
+  {
+    "_id": {
+      "$oid": "24391a2c8defb4cdffd39d6f"
+    },
+    "etatObjet": "code-1",
+    "pays": "MA",
+    "region": "Casablanca-Settat",
+    "province": "",
+    "ville": "Casablanca",
+    "commune": "",
+    "quartier": "",
+    "normaleOuExpress": "code_8830",
+    "class": "standard",
+    "livreursConserne": [],
+    "tarifMin": 25,
+    "tarifMax": 75,
+    "dureeMin": "2",
+    "dureeMax": "5",
+    "uniteDuree": "j",
+    "refProduit": {
+      "$oid": "e4f5f7a70ac16a444c109f33"
+    },
+    "monnaie": "MAD"
+  },
+  {
+    "_id": {
+      "$oid": "c11e6d467d39947e83dc3c2c"
+    },
+    "etatObjet": "code-1",
+    "pays": "MA",
+    "region": "Marrakech-Safi",
+    "province": "",
+    "ville": "Beni Mellal",
+    "commune": "",
+    "quartier": "",
+    "normaleOuExpress": "code_8830",
+    "class": "standard",
+    "livreursConserne": [],
+    "tarifMin": 25,
+    "tarifMax": 75,
+    "dureeMin": "2",
+    "dureeMax": "5",
+    "uniteDuree": "j",
+    "refProduit": {
+      "$oid": "0a6b9a90b7ef5293822377e3"
+    },
+    "monnaie": "MAD"
+  },
+  {
+    "_id": {
+      "$oid": "ac7ad69bea8ec677c07ae231"
+    },
+    "etatObjet": "code-1",
+    "pays": "MA",
+    "region": "Rabat-Salé-Kénitra",
+    "province": "",
+    "ville": "Agadir",
+    "commune": "",
+    "quartier": "",
+    "normaleOuExpress": "code_8830",
+    "class": "standard",
+    "livreursConserne": [],
+    "tarifMin": 25,
+    "tarifMax": 75,
+    "dureeMin": "2",
+    "dureeMax": "5",
+    "uniteDuree": "j",
+    "refProduit": {
+      "$oid": "4ce6f68892a9ceab00b40f8d"
+    },
+    "monnaie": "MAD"
+  },
+  {
+    "_id": {
+      "$oid": "d031b9ac1c57e950adbb3b14"
+    },
+    "etatObjet": "code-1",
+    "pays": "MA",
+    "region": "Rabat-Salé-Kénitra",
+    "province": "",
+    "ville": "Casablanca",
+    "commune": "",
+    "quartier": "",
+    "normaleOuExpress": "code_8830",
+    "class": "standard",
+    "livreursConserne": [],
+    "tarifMin": 25,
+    "tarifMax": 75,
+    "dureeMin": "2",
+    "dureeMax": "5",
+    "uniteDuree": "j",
+    "refProduit": {
+      "$oid": "3d6263c403de355e9dc2cab9"
+    },
+    "monnaie": "MAD"
+  },
+  {
+    "_id": {
+      "$oid": "50e9f7a386e840bf3e57a842"
+    },
+    "etatObjet": "code-1",
+    "pays": "MA",
+    "region": "Rabat-Salé-Kénitra",
+    "province": "",
+    "ville": "Tanger",
+    "commune": "",
+    "quartier": "",
+    "normaleOuExpress": "code_8830",
+    "class": "standard",
+    "livreursConserne": [],
+    "tarifMin": 25,
+    "tarifMax": 75,
+    "dureeMin": "2",
+    "dureeMax": "5",
+    "uniteDuree": "j",
+    "refProduit": {
+      "$oid": "e9ce59d1b2d44f6a088ecd7d"
+    },
+    "monnaie": "MAD"
+  },
+  {
+    "_id": {
+      "$oid": "24bc4c082cea9e2b00a3f8c3"
+    },
+    "etatObjet": "code-1",
+    "pays": "MA",
+    "region": "Rabat-Salé-Kénitra",
+    "province": "",
+    "ville": "Errachidia",
+    "commune": "",
+    "quartier": "",
+    "normaleOuExpress": "code_8830",
+    "class": "standard",
+    "livreursConserne": [],
+    "tarifMin": 25,
+    "tarifMax": 75,
+    "dureeMin": "2",
+    "dureeMax": "5",
+    "uniteDuree": "j",
+    "refProduit": {
+      "$oid": "ed34bb02c63a0f6a29667c49"
+    },
+    "monnaie": "MAD"
+  },
+  {
+    "_id": {
+      "$oid": "5aa1cc21bfaa6fb844b61354"
+    },
+    "etatObjet": "code-1",
+    "pays": "MA",
+    "region": "Casablanca-Settat",
+    "province": "",
+    "ville": "Essaouira",
+    "commune": "",
+    "quartier": "",
+    "normaleOuExpress": "code_8830",
+    "class": "standard",
+    "livreursConserne": [],
+    "tarifMin": 25,
+    "tarifMax": 75,
+    "dureeMin": "2",
+    "dureeMax": "5",
+    "uniteDuree": "j",
+    "refProduit": {
+      "$oid": "ccc54a0be1b34f436c47a9b7"
+    },
+    "monnaie": "MAD"
+  },
+  {
+    "_id": {
+      "$oid": "938ea5173d5a94a20b0834c9"
+    },
+    "etatObjet": "code-1",
+    "pays": "MA",
+    "region": "Marrakech-Safi",
+    "province": "",
+    "ville": "Meknès",
+    "commune": "",
+    "quartier": "",
+    "normaleOuExpress": "code_8830",
+    "class": "standard",
+    "livreursConserne": [],
+    "tarifMin": 25,
+    "tarifMax": 75,
+    "dureeMin": "2",
+    "dureeMax": "5",
+    "uniteDuree": "j",
+    "refProduit": {
+      "$oid": "55f37d6d93c3dc43328c53ae"
+    },
+    "monnaie": "MAD"
+  },
+  {
+    "_id": {
+      "$oid": "fa2137cbe079a3bcf679f230"
+    },
+    "etatObjet": "code-1",
+    "pays": "MA",
+    "region": "Marrakech-Safi",
+    "province": "",
+    "ville": "Meknès",
+    "commune": "",
+    "quartier": "",
+    "normaleOuExpress": "code_8830",
+    "class": "standard",
+    "livreursConserne": [],
+    "tarifMin": 25,
+    "tarifMax": 75,
+    "dureeMin": "2",
+    "dureeMax": "5",
+    "uniteDuree": "j",
+    "refProduit": {
+      "$oid": "9777eda660a4da612b0e65a8"
+    },
+    "monnaie": "MAD"
+  },
+  {
+    "_id": {
+      "$oid": "3e2a4ad6e3d717b113805d4c"
+    },
+    "etatObjet": "code-1",
+    "pays": "MA",
+    "region": "Rabat-Salé-Kénitra",
+    "province": "",
+    "ville": "Rabat",
+    "commune": "",
+    "quartier": "",
+    "normaleOuExpress": "code_8830",
+    "class": "standard",
+    "livreursConserne": [],
+    "tarifMin": 25,
+    "tarifMax": 75,
+    "dureeMin": "2",
+    "dureeMax": "5",
+    "uniteDuree": "j",
+    "refProduit": {
+      "$oid": "1478825e3619a2b765482221"
+    },
+    "monnaie": "MAD"
+  },
+  {
+    "_id": {
+      "$oid": "98eb917d34f429121fdb6c40"
+    },
+    "etatObjet": "code-1",
+    "pays": "MA",
+    "region": "Casablanca-Settat",
+    "province": "",
+    "ville": "Marrakech",
+    "commune": "",
+    "quartier": "",
+    "normaleOuExpress": "code_8830",
+    "class": "standard",
+    "livreursConserne": [],
+    "tarifMin": 25,
+    "tarifMax": 75,
+    "dureeMin": "2",
+    "dureeMax": "5",
+    "uniteDuree": "j",
+    "refProduit": {
+      "$oid": "df28d885880ba78cc2399db4"
+    },
+    "monnaie": "MAD"
+  },
+  {
+    "_id": {
+      "$oid": "da87851a206e7eb0da99d532"
+    },
+    "etatObjet": "code-1",
+    "pays": "MA",
+    "region": "Casablanca-Settat",
+    "province": "",
+    "ville": "Chefchaouen",
+    "commune": "",
+    "quartier": "",
+    "normaleOuExpress": "code_8830",
+    "class": "standard",
+    "livreursConserne": [],
+    "tarifMin": 25,
+    "tarifMax": 75,
+    "dureeMin": "2",
+    "dureeMax": "5",
+    "uniteDuree": "j",
+    "refProduit": {
+      "$oid": "be1275cde9f43405b75b7f27"
+    },
+    "monnaie": "MAD"
+  },
+  {
+    "_id": {
+      "$oid": "f759cba5006f0c91dddb2280"
+    },
+    "etatObjet": "code-1",
+    "pays": "MA",
+    "region": "Rabat-Salé-Kénitra",
+    "province": "",
+    "ville": "Meknès",
+    "commune": "",
+    "quartier": "",
+    "normaleOuExpress": "code_8830",
+    "class": "standard",
+    "livreursConserne": [],
+    "tarifMin": 25,
+    "tarifMax": 75,
+    "dureeMin": "2",
+    "dureeMax": "5",
+    "uniteDuree": "j",
+    "refProduit": {
+      "$oid": "04a0018b18f20a3ee871f325"
+    },
+    "monnaie": "MAD"
+  },
+  {
+    "_id": {
+      "$oid": "8e2bde0c72b992a41ecda891"
+    },
+    "etatObjet": "code-1",
+    "pays": "MA",
+    "region": "Casablanca-Settat",
+    "province": "",
+    "ville": "Meknès",
+    "commune": "",
+    "quartier": "",
+    "normaleOuExpress": "code_8830",
+    "class": "standard",
+    "livreursConserne": [],
+    "tarifMin": 25,
+    "tarifMax": 75,
+    "dureeMin": "2",
+    "dureeMax": "5",
+    "uniteDuree": "j",
+    "refProduit": {
+      "$oid": "a3ddb7ae6a7f65934ca3646c"
+    },
+    "monnaie": "MAD"
+  },
+  {
+    "_id": {
+      "$oid": "230ee2ea9fdfff52eee4c621"
+    },
+    "etatObjet": "code-1",
+    "pays": "MA",
+    "region": "Casablanca-Settat",
+    "province": "",
+    "ville": "Taroudant",
+    "commune": "",
+    "quartier": "",
+    "normaleOuExpress": "code_8830",
+    "class": "standard",
+    "livreursConserne": [],
+    "tarifMin": 25,
+    "tarifMax": 75,
+    "dureeMin": "2",
+    "dureeMax": "5",
+    "uniteDuree": "j",
+    "refProduit": {
+      "$oid": "e1dfbffe8ef6315a1e4acfcb"
+    },
+    "monnaie": "MAD"
+  },
+  {
+    "_id": {
+      "$oid": "6b7d865d097cade926ee3d84"
+    },
+    "etatObjet": "code-1",
+    "pays": "MA",
+    "region": "Marrakech-Safi",
+    "province": "",
+    "ville": "Agadir",
+    "commune": "",
+    "quartier": "",
+    "normaleOuExpress": "code_8830",
+    "class": "standard",
+    "livreursConserne": [],
+    "tarifMin": 25,
+    "tarifMax": 75,
+    "dureeMin": "2",
+    "dureeMax": "5",
+    "uniteDuree": "j",
+    "refProduit": {
+      "$oid": "a58b00562153ab4013d78ae1"
+    },
+    "monnaie": "MAD"
+  },
+  {
+    "_id": {
+      "$oid": "61a66c0f5d6f149b1d6726a5"
+    },
+    "etatObjet": "code-1",
+    "pays": "MA",
+    "region": "Rabat-Salé-Kénitra",
+    "province": "",
+    "ville": "Beni Mellal",
+    "commune": "",
+    "quartier": "",
+    "normaleOuExpress": "code_8830",
+    "class": "standard",
+    "livreursConserne": [],
+    "tarifMin": 25,
+    "tarifMax": 75,
+    "dureeMin": "2",
+    "dureeMax": "5",
+    "uniteDuree": "j",
+    "refProduit": {
+      "$oid": "7c026ef2ea8df27c55524005"
+    },
+    "monnaie": "MAD"
+  },
+  {
+    "_id": {
+      "$oid": "9308e8f2a5f0ebaf32382821"
+    },
+    "etatObjet": "code-1",
+    "pays": "MA",
+    "region": "Rabat-Salé-Kénitra",
+    "province": "",
+    "ville": "Chefchaouen",
+    "commune": "",
+    "quartier": "",
+    "normaleOuExpress": "code_8830",
+    "class": "standard",
+    "livreursConserne": [],
+    "tarifMin": 25,
+    "tarifMax": 75,
+    "dureeMin": "2",
+    "dureeMax": "5",
+    "uniteDuree": "j",
+    "refProduit": {
+      "$oid": "98f8e52f7918acc099d800ce"
+    },
+    "monnaie": "MAD"
+  },
+  {
+    "_id": {
+      "$oid": "e0d74f866c01b181e0983c9e"
+    },
+    "etatObjet": "code-1",
+    "pays": "MA",
+    "region": "Marrakech-Safi",
+    "province": "",
+    "ville": "Agadir",
+    "commune": "",
+    "quartier": "",
+    "normaleOuExpress": "code_8830",
+    "class": "standard",
+    "livreursConserne": [],
+    "tarifMin": 25,
+    "tarifMax": 75,
+    "dureeMin": "2",
+    "dureeMax": "5",
+    "uniteDuree": "j",
+    "refProduit": {
+      "$oid": "dbeb5f07b8f3a44d20a14b9a"
+    },
+    "monnaie": "MAD"
+  },
+  {
+    "_id": {
+      "$oid": "a99d93f1c61ad662178215c1"
+    },
+    "etatObjet": "code-1",
+    "pays": "MA",
+    "region": "Casablanca-Settat",
+    "province": "",
+    "ville": "Agadir",
+    "commune": "",
+    "quartier": "",
+    "normaleOuExpress": "code_8830",
+    "class": "standard",
+    "livreursConserne": [],
+    "tarifMin": 25,
+    "tarifMax": 75,
+    "dureeMin": "2",
+    "dureeMax": "5",
+    "uniteDuree": "j",
+    "refProduit": {
+      "$oid": "e9aff9a787f3d8281e527be3"
+    },
+    "monnaie": "MAD"
+  },
+  {
+    "_id": {
+      "$oid": "fd8965b6ea7f50b5c50cf186"
+    },
+    "etatObjet": "code-1",
+    "pays": "MA",
+    "region": "Rabat-Salé-Kénitra",
+    "province": "",
+    "ville": "Errachidia",
+    "commune": "",
+    "quartier": "",
+    "normaleOuExpress": "code_8830",
+    "class": "standard",
+    "livreursConserne": [],
+    "tarifMin": 25,
+    "tarifMax": 75,
+    "dureeMin": "2",
+    "dureeMax": "5",
+    "uniteDuree": "j",
+    "refProduit": {
+      "$oid": "625a53f16d0f6dbe6824f9d8"
+    },
+    "monnaie": "MAD"
+  },
+  {
+    "_id": {
+      "$oid": "6e583ed3ffeb1e1e0f70107b"
+    },
+    "etatObjet": "code-1",
+    "pays": "MA",
+    "region": "Rabat-Salé-Kénitra",
+    "province": "",
+    "ville": "Agadir",
+    "commune": "",
+    "quartier": "",
+    "normaleOuExpress": "code_8830",
+    "class": "standard",
+    "livreursConserne": [],
+    "tarifMin": 25,
+    "tarifMax": 75,
+    "dureeMin": "2",
+    "dureeMax": "5",
+    "uniteDuree": "j",
+    "refProduit": {
+      "$oid": "846d4161d60ffa49741694aa"
+    },
+    "monnaie": "MAD"
+  },
+  {
+    "_id": {
+      "$oid": "68f971062fe0e9c992ca861a"
+    },
+    "etatObjet": "code-1",
+    "pays": "MA",
+    "region": "Marrakech-Safi",
+    "province": "",
+    "ville": "Marrakech",
+    "commune": "",
+    "quartier": "",
+    "normaleOuExpress": "code_8830",
+    "class": "standard",
+    "livreursConserne": [],
+    "tarifMin": 25,
+    "tarifMax": 75,
+    "dureeMin": "2",
+    "dureeMax": "5",
+    "uniteDuree": "j",
+    "refProduit": {
+      "$oid": "329b7b6449163ffd9e6d51f4"
+    },
+    "monnaie": "MAD"
+  },
+  {
+    "_id": {
+      "$oid": "1503ba6ff49506e1918640e2"
+    },
+    "etatObjet": "code-1",
+    "pays": "MA",
+    "region": "Casablanca-Settat",
+    "province": "",
+    "ville": "Meknès",
+    "commune": "",
+    "quartier": "",
+    "normaleOuExpress": "code_8830",
+    "class": "standard",
+    "livreursConserne": [],
+    "tarifMin": 25,
+    "tarifMax": 75,
+    "dureeMin": "2",
+    "dureeMax": "5",
+    "uniteDuree": "j",
+    "refProduit": {
+      "$oid": "2fa38f5015521737f0b69bf1"
+    },
+    "monnaie": "MAD"
+  },
+  {
+    "_id": {
+      "$oid": "69c5bb202736b1615d9afe18"
+    },
+    "etatObjet": "code-1",
+    "pays": "MA",
+    "region": "Rabat-Salé-Kénitra",
+    "province": "",
+    "ville": "Fès",
+    "commune": "",
+    "quartier": "",
+    "normaleOuExpress": "code_8830",
+    "class": "standard",
+    "livreursConserne": [],
+    "tarifMin": 25,
+    "tarifMax": 75,
+    "dureeMin": "2",
+    "dureeMax": "5",
+    "uniteDuree": "j",
+    "refProduit": {
+      "$oid": "e85a5e009678a4f9c4fa5d37"
+    },
+    "monnaie": "MAD"
+  },
+  {
+    "_id": {
+      "$oid": "eb478e30dc9c8ab08ef271f0"
+    },
+    "etatObjet": "code-1",
+    "pays": "MA",
+    "region": "Casablanca-Settat",
+    "province": "",
+    "ville": "Chefchaouen",
+    "commune": "",
+    "quartier": "",
+    "normaleOuExpress": "code_8830",
+    "class": "standard",
+    "livreursConserne": [],
+    "tarifMin": 25,
+    "tarifMax": 75,
+    "dureeMin": "2",
+    "dureeMax": "5",
+    "uniteDuree": "j",
+    "refProduit": {
+      "$oid": "2662b3d55361dec632d70a4e"
+    },
+    "monnaie": "MAD"
+  },
+  {
+    "_id": {
+      "$oid": "095d99f6081c121810d588b2"
+    },
+    "etatObjet": "code-1",
+    "pays": "MA",
+    "region": "Marrakech-Safi",
+    "province": "",
+    "ville": "Errachidia",
+    "commune": "",
+    "quartier": "",
+    "normaleOuExpress": "code_8830",
+    "class": "standard",
+    "livreursConserne": [],
+    "tarifMin": 25,
+    "tarifMax": 75,
+    "dureeMin": "2",
+    "dureeMax": "5",
+    "uniteDuree": "j",
+    "refProduit": {
+      "$oid": "446d4f5966602eacee083521"
+    },
+    "monnaie": "MAD"
+  },
+  {
+    "_id": {
+      "$oid": "c58a60cbbbf002e5ee81cebf"
+    },
+    "etatObjet": "code-1",
+    "pays": "MA",
+    "region": "Casablanca-Settat",
+    "province": "",
+    "ville": "Agadir",
+    "commune": "",
+    "quartier": "",
+    "normaleOuExpress": "code_8830",
+    "class": "standard",
+    "livreursConserne": [],
+    "tarifMin": 25,
+    "tarifMax": 75,
+    "dureeMin": "2",
+    "dureeMax": "5",
+    "uniteDuree": "j",
+    "refProduit": {
+      "$oid": "19158e481bc84541f782c947"
+    },
+    "monnaie": "MAD"
+  },
+  {
+    "_id": {
+      "$oid": "2574446c11e801a1c9eff2e4"
+    },
+    "etatObjet": "code-1",
+    "pays": "MA",
+    "region": "Marrakech-Safi",
+    "province": "",
+    "ville": "Ouarzazate",
+    "commune": "",
+    "quartier": "",
+    "normaleOuExpress": "code_8830",
+    "class": "standard",
+    "livreursConserne": [],
+    "tarifMin": 25,
+    "tarifMax": 75,
+    "dureeMin": "2",
+    "dureeMax": "5",
+    "uniteDuree": "j",
+    "refProduit": {
+      "$oid": "4ace1a921a6d9d8cf730da33"
+    },
+    "monnaie": "MAD"
+  },
+  {
+    "_id": {
+      "$oid": "932ff484335fc1561a149287"
+    },
+    "etatObjet": "code-1",
+    "pays": "MA",
+    "region": "Rabat-Salé-Kénitra",
+    "province": "",
+    "ville": "Casablanca",
+    "commune": "",
+    "quartier": "",
+    "normaleOuExpress": "code_8830",
+    "class": "standard",
+    "livreursConserne": [],
+    "tarifMin": 25,
+    "tarifMax": 75,
+    "dureeMin": "2",
+    "dureeMax": "5",
+    "uniteDuree": "j",
+    "refProduit": {
+      "$oid": "416290aaecbe2a318ebb8a6f"
+    },
+    "monnaie": "MAD"
+  },
+  {
+    "_id": {
+      "$oid": "2d2dfa50eddcffcb62927f56"
+    },
+    "etatObjet": "code-1",
+    "pays": "MA",
+    "region": "Casablanca-Settat",
+    "province": "",
+    "ville": "Taroudant",
+    "commune": "",
+    "quartier": "",
+    "normaleOuExpress": "code_8830",
+    "class": "standard",
+    "livreursConserne": [],
+    "tarifMin": 25,
+    "tarifMax": 75,
+    "dureeMin": "2",
+    "dureeMax": "5",
+    "uniteDuree": "j",
+    "refProduit": {
+      "$oid": "cc74ee952bfc01fdeb566984"
+    },
+    "monnaie": "MAD"
+  },
+  {
+    "_id": {
+      "$oid": "24cf888340a3e11663966d17"
+    },
+    "etatObjet": "code-1",
+    "pays": "MA",
+    "region": "Marrakech-Safi",
+    "province": "",
+    "ville": "Meknès",
+    "commune": "",
+    "quartier": "",
+    "normaleOuExpress": "code_8830",
+    "class": "standard",
+    "livreursConserne": [],
+    "tarifMin": 25,
+    "tarifMax": 75,
+    "dureeMin": "2",
+    "dureeMax": "5",
+    "uniteDuree": "j",
+    "refProduit": {
+      "$oid": "6781e1d4e526d9a68aacd7b7"
+    },
+    "monnaie": "MAD"
+  },
+  {
+    "_id": {
+      "$oid": "e03cf57594591e17102583bb"
+    },
+    "etatObjet": "code-1",
+    "pays": "MA",
+    "region": "Marrakech-Safi",
+    "province": "",
+    "ville": "Rabat",
+    "commune": "",
+    "quartier": "",
+    "normaleOuExpress": "code_8830",
+    "class": "standard",
+    "livreursConserne": [],
+    "tarifMin": 25,
+    "tarifMax": 75,
+    "dureeMin": "2",
+    "dureeMax": "5",
+    "uniteDuree": "j",
+    "refProduit": {
+      "$oid": "1e7991731a1aee6832986b55"
+    },
+    "monnaie": "MAD"
+  },
+  {
+    "_id": {
+      "$oid": "5257f70a1b4ce63efa9d8a7e"
+    },
+    "etatObjet": "code-1",
+    "pays": "MA",
+    "region": "Marrakech-Safi",
+    "province": "",
+    "ville": "Marrakech",
+    "commune": "",
+    "quartier": "",
+    "normaleOuExpress": "code_8830",
+    "class": "standard",
+    "livreursConserne": [],
+    "tarifMin": 25,
+    "tarifMax": 75,
+    "dureeMin": "2",
+    "dureeMax": "5",
+    "uniteDuree": "j",
+    "refProduit": {
+      "$oid": "9f4492ebf2e1004d81dcf843"
+    },
+    "monnaie": "MAD"
+  },
+  {
+    "_id": {
+      "$oid": "4ae35f705cd0e85a431e5c8c"
+    },
+    "etatObjet": "code-1",
+    "pays": "MA",
+    "region": "Marrakech-Safi",
+    "province": "",
+    "ville": "Casablanca",
+    "commune": "",
+    "quartier": "",
+    "normaleOuExpress": "code_8830",
+    "class": "standard",
+    "livreursConserne": [],
+    "tarifMin": 25,
+    "tarifMax": 75,
+    "dureeMin": "2",
+    "dureeMax": "5",
+    "uniteDuree": "j",
+    "refProduit": {
+      "$oid": "07df28941ef166741bbba3a6"
+    },
+    "monnaie": "MAD"
+  },
+  {
+    "_id": {
+      "$oid": "c08d4f116a251cf9f41263e1"
+    },
+    "etatObjet": "code-1",
+    "pays": "MA",
+    "region": "Casablanca-Settat",
+    "province": "",
+    "ville": "Errachidia",
+    "commune": "",
+    "quartier": "",
+    "normaleOuExpress": "code_8830",
+    "class": "standard",
+    "livreursConserne": [],
+    "tarifMin": 25,
+    "tarifMax": 75,
+    "dureeMin": "2",
+    "dureeMax": "5",
+    "uniteDuree": "j",
+    "refProduit": {
+      "$oid": "fa5e07ecf203eb2367cd5a4d"
+    },
+    "monnaie": "MAD"
+  },
+  {
+    "_id": {
+      "$oid": "1fa53278eeb66e1e784d20a4"
+    },
+    "etatObjet": "code-1",
+    "pays": "MA",
+    "region": "Rabat-Salé-Kénitra",
+    "province": "",
+    "ville": "Errachidia",
+    "commune": "",
+    "quartier": "",
+    "normaleOuExpress": "code_8830",
+    "class": "standard",
+    "livreursConserne": [],
+    "tarifMin": 25,
+    "tarifMax": 75,
+    "dureeMin": "2",
+    "dureeMax": "5",
+    "uniteDuree": "j",
+    "refProduit": {
+      "$oid": "220761c08ca1dca492a66ae6"
+    },
+    "monnaie": "MAD"
+  },
+  {
+    "_id": {
+      "$oid": "9ce7fdf9a236f435ddc9dd82"
+    },
+    "etatObjet": "code-1",
+    "pays": "MA",
+    "region": "Rabat-Salé-Kénitra",
+    "province": "",
+    "ville": "Meknès",
+    "commune": "",
+    "quartier": "",
+    "normaleOuExpress": "code_8830",
+    "class": "standard",
+    "livreursConserne": [],
+    "tarifMin": 25,
+    "tarifMax": 75,
+    "dureeMin": "2",
+    "dureeMax": "5",
+    "uniteDuree": "j",
+    "refProduit": {
+      "$oid": "88fd39f546e7231b4c7e09dd"
+    },
+    "monnaie": "MAD"
+  },
+  {
+    "_id": {
+      "$oid": "925cc2684955ec9874beb9e0"
+    },
+    "etatObjet": "code-1",
+    "pays": "MA",
+    "region": "Casablanca-Settat",
+    "province": "",
+    "ville": "Beni Mellal",
+    "commune": "",
+    "quartier": "",
+    "normaleOuExpress": "code_8830",
+    "class": "standard",
+    "livreursConserne": [],
+    "tarifMin": 25,
+    "tarifMax": 75,
+    "dureeMin": "2",
+    "dureeMax": "5",
+    "uniteDuree": "j",
+    "refProduit": {
+      "$oid": "1a633e907f887205541772a3"
+    },
+    "monnaie": "MAD"
+  },
+  {
+    "_id": {
+      "$oid": "4185d7cd10ecfa496a1b2e06"
+    },
+    "etatObjet": "code-1",
+    "pays": "MA",
+    "region": "Rabat-Salé-Kénitra",
+    "province": "",
+    "ville": "Ouarzazate",
+    "commune": "",
+    "quartier": "",
+    "normaleOuExpress": "code_8830",
+    "class": "standard",
+    "livreursConserne": [],
+    "tarifMin": 25,
+    "tarifMax": 75,
+    "dureeMin": "2",
+    "dureeMax": "5",
+    "uniteDuree": "j",
+    "refProduit": {
+      "$oid": "2e7fca1415ba2e502457da4a"
+    },
+    "monnaie": "MAD"
+  },
+  {
+    "_id": {
+      "$oid": "beee1d96d1cccf3cd6c4f0f6"
+    },
+    "etatObjet": "code-1",
+    "pays": "MA",
+    "region": "Casablanca-Settat",
+    "province": "",
+    "ville": "Marrakech",
+    "commune": "",
+    "quartier": "",
+    "normaleOuExpress": "code_8830",
+    "class": "standard",
+    "livreursConserne": [],
+    "tarifMin": 25,
+    "tarifMax": 75,
+    "dureeMin": "2",
+    "dureeMax": "5",
+    "uniteDuree": "j",
+    "refProduit": {
+      "$oid": "c9fea7296bced4680a04c0e2"
+    },
+    "monnaie": "MAD"
+  },
+  {
+    "_id": {
+      "$oid": "754ef8010f1ff7201813ccb3"
+    },
+    "etatObjet": "code-1",
+    "pays": "MA",
+    "region": "Casablanca-Settat",
+    "province": "",
+    "ville": "Errachidia",
+    "commune": "",
+    "quartier": "",
+    "normaleOuExpress": "code_8830",
+    "class": "standard",
+    "livreursConserne": [],
+    "tarifMin": 25,
+    "tarifMax": 75,
+    "dureeMin": "2",
+    "dureeMax": "5",
+    "uniteDuree": "j",
+    "refProduit": {
+      "$oid": "668c2ff2a17409bc7f0d5339"
+    },
+    "monnaie": "MAD"
+  },
+  {
+    "_id": {
+      "$oid": "1cd8efb7f0575d0a3ce754ba"
+    },
+    "etatObjet": "code-1",
+    "pays": "MA",
+    "region": "Casablanca-Settat",
+    "province": "",
+    "ville": "Taroudant",
+    "commune": "",
+    "quartier": "",
+    "normaleOuExpress": "code_8830",
+    "class": "standard",
+    "livreursConserne": [],
+    "tarifMin": 25,
+    "tarifMax": 75,
+    "dureeMin": "2",
+    "dureeMax": "5",
+    "uniteDuree": "j",
+    "refProduit": {
+      "$oid": "bb9b87879fe49621af954221"
+    },
+    "monnaie": "MAD"
+  },
+  {
+    "_id": {
+      "$oid": "45c135122a48a192f928d84d"
+    },
+    "etatObjet": "code-1",
+    "pays": "MA",
+    "region": "Rabat-Salé-Kénitra",
+    "province": "",
+    "ville": "Casablanca",
+    "commune": "",
+    "quartier": "",
+    "normaleOuExpress": "code_8830",
+    "class": "standard",
+    "livreursConserne": [],
+    "tarifMin": 25,
+    "tarifMax": 75,
+    "dureeMin": "2",
+    "dureeMax": "5",
+    "uniteDuree": "j",
+    "refProduit": {
+      "$oid": "c73ae325b6bb4a6f2e898950"
+    },
+    "monnaie": "MAD"
+  },
+  {
+    "_id": {
+      "$oid": "bafedf747c4c3369909356f1"
+    },
+    "etatObjet": "code-1",
+    "pays": "MA",
+    "region": "Marrakech-Safi",
+    "province": "",
+    "ville": "Errachidia",
+    "commune": "",
+    "quartier": "",
+    "normaleOuExpress": "code_8830",
+    "class": "standard",
+    "livreursConserne": [],
+    "tarifMin": 25,
+    "tarifMax": 75,
+    "dureeMin": "2",
+    "dureeMax": "5",
+    "uniteDuree": "j",
+    "refProduit": {
+      "$oid": "685116c52fa9bdba74debd5b"
+    },
+    "monnaie": "MAD"
+  },
+  {
+    "_id": {
+      "$oid": "d6fd05a73be2cd9c750d4ce5"
+    },
+    "etatObjet": "code-1",
+    "pays": "MA",
+    "region": "Rabat-Salé-Kénitra",
+    "province": "",
+    "ville": "Beni Mellal",
+    "commune": "",
+    "quartier": "",
+    "normaleOuExpress": "code_8830",
+    "class": "standard",
+    "livreursConserne": [],
+    "tarifMin": 25,
+    "tarifMax": 75,
+    "dureeMin": "2",
+    "dureeMax": "5",
+    "uniteDuree": "j",
+    "refProduit": {
+      "$oid": "99ad23f9ff7fcd7c8e079093"
+    },
+    "monnaie": "MAD"
+  },
+  {
+    "_id": {
+      "$oid": "6230d9e301ec1736c40cae90"
+    },
+    "etatObjet": "code-1",
+    "pays": "MA",
+    "region": "Marrakech-Safi",
+    "province": "",
+    "ville": "Ouarzazate",
+    "commune": "",
+    "quartier": "",
+    "normaleOuExpress": "code_8830",
+    "class": "standard",
+    "livreursConserne": [],
+    "tarifMin": 25,
+    "tarifMax": 75,
+    "dureeMin": "2",
+    "dureeMax": "5",
+    "uniteDuree": "j",
+    "refProduit": {
+      "$oid": "ac8de817d5692a612f750895"
+    },
+    "monnaie": "MAD"
+  },
+  {
+    "_id": {
+      "$oid": "68a9a31284335f044ed2bd5b"
+    },
+    "etatObjet": "code-1",
+    "pays": "MA",
+    "region": "Marrakech-Safi",
+    "province": "",
+    "ville": "Rabat",
+    "commune": "",
+    "quartier": "",
+    "normaleOuExpress": "code_8830",
+    "class": "standard",
+    "livreursConserne": [],
+    "tarifMin": 25,
+    "tarifMax": 75,
+    "dureeMin": "2",
+    "dureeMax": "5",
+    "uniteDuree": "j",
+    "refProduit": {
+      "$oid": "0f9337ed484a729725198a33"
+    },
+    "monnaie": "MAD"
+  },
+  {
+    "_id": {
+      "$oid": "c6114921abae59e5249e984f"
+    },
+    "etatObjet": "code-1",
+    "pays": "MA",
+    "region": "Marrakech-Safi",
+    "province": "",
+    "ville": "Tétouan",
+    "commune": "",
+    "quartier": "",
+    "normaleOuExpress": "code_8830",
+    "class": "standard",
+    "livreursConserne": [],
+    "tarifMin": 25,
+    "tarifMax": 75,
+    "dureeMin": "2",
+    "dureeMax": "5",
+    "uniteDuree": "j",
+    "refProduit": {
+      "$oid": "358ede32d35c1ff877af9e38"
+    },
+    "monnaie": "MAD"
+  },
+  {
+    "_id": {
+      "$oid": "b854916f7a02ee2a46394c6b"
+    },
+    "etatObjet": "code-1",
+    "pays": "MA",
+    "region": "Casablanca-Settat",
+    "province": "",
+    "ville": "Essaouira",
+    "commune": "",
+    "quartier": "",
+    "normaleOuExpress": "code_8830",
+    "class": "standard",
+    "livreursConserne": [],
+    "tarifMin": 25,
+    "tarifMax": 75,
+    "dureeMin": "2",
+    "dureeMax": "5",
+    "uniteDuree": "j",
+    "refProduit": {
+      "$oid": "e78075ba2bd54591fba6d87b"
+    },
+    "monnaie": "MAD"
+  },
+  {
+    "_id": {
+      "$oid": "dba5c901291f4cba8efbf3aa"
+    },
+    "etatObjet": "code-1",
+    "pays": "MA",
+    "region": "Rabat-Salé-Kénitra",
+    "province": "",
+    "ville": "Taroudant",
+    "commune": "",
+    "quartier": "",
+    "normaleOuExpress": "code_8830",
+    "class": "standard",
+    "livreursConserne": [],
+    "tarifMin": 25,
+    "tarifMax": 75,
+    "dureeMin": "2",
+    "dureeMax": "5",
+    "uniteDuree": "j",
+    "refProduit": {
+      "$oid": "7e83252da49beaf1c4ca4c20"
+    },
+    "monnaie": "MAD"
+  },
+  {
+    "_id": {
+      "$oid": "d4af0aaef49b9a698e0a67af"
+    },
+    "etatObjet": "code-1",
+    "pays": "MA",
+    "region": "Casablanca-Settat",
+    "province": "",
+    "ville": "Agadir",
+    "commune": "",
+    "quartier": "",
+    "normaleOuExpress": "code_8830",
+    "class": "standard",
+    "livreursConserne": [],
+    "tarifMin": 25,
+    "tarifMax": 75,
+    "dureeMin": "2",
+    "dureeMax": "5",
+    "uniteDuree": "j",
+    "refProduit": {
+      "$oid": "66bd6f9ff3acc6ec0e4f11c3"
+    },
+    "monnaie": "MAD"
+  },
+  {
+    "_id": {
+      "$oid": "1d12ccb0e253fee5b26f6dd9"
+    },
+    "etatObjet": "code-1",
+    "pays": "MA",
+    "region": "Marrakech-Safi",
+    "province": "",
+    "ville": "Tanger",
+    "commune": "",
+    "quartier": "",
+    "normaleOuExpress": "code_8830",
+    "class": "standard",
+    "livreursConserne": [],
+    "tarifMin": 25,
+    "tarifMax": 75,
+    "dureeMin": "2",
+    "dureeMax": "5",
+    "uniteDuree": "j",
+    "refProduit": {
+      "$oid": "9bb1afa6848a869e0d609e11"
+    },
+    "monnaie": "MAD"
+  },
+  {
+    "_id": {
+      "$oid": "01a75b37af51c58df3f93ba4"
+    },
+    "etatObjet": "code-1",
+    "pays": "MA",
+    "region": "Casablanca-Settat",
+    "province": "",
+    "ville": "Fès",
+    "commune": "",
+    "quartier": "",
+    "normaleOuExpress": "code_8830",
+    "class": "standard",
+    "livreursConserne": [],
+    "tarifMin": 25,
+    "tarifMax": 75,
+    "dureeMin": "2",
+    "dureeMax": "5",
+    "uniteDuree": "j",
+    "refProduit": {
+      "$oid": "bc0f81b0ffa5fcba96ec12d1"
+    },
+    "monnaie": "MAD"
+  },
+  {
+    "_id": {
+      "$oid": "e14dcb1e63835bd0fe71b282"
+    },
+    "etatObjet": "code-1",
+    "pays": "MA",
+    "region": "Casablanca-Settat",
+    "province": "",
+    "ville": "Tanger",
+    "commune": "",
+    "quartier": "",
+    "normaleOuExpress": "code_8830",
+    "class": "standard",
+    "livreursConserne": [],
+    "tarifMin": 25,
+    "tarifMax": 75,
+    "dureeMin": "2",
+    "dureeMax": "5",
+    "uniteDuree": "j",
+    "refProduit": {
+      "$oid": "6e66a03a9b9b3d193b88020a"
+    },
+    "monnaie": "MAD"
+  },
+  {
+    "_id": {
+      "$oid": "68ae8ffba49e2d24e79f40ea"
+    },
+    "etatObjet": "code-1",
+    "pays": "MA",
+    "region": "Rabat-Salé-Kénitra",
+    "province": "",
+    "ville": "Beni Mellal",
+    "commune": "",
+    "quartier": "",
+    "normaleOuExpress": "code_8830",
+    "class": "standard",
+    "livreursConserne": [],
+    "tarifMin": 25,
+    "tarifMax": 75,
+    "dureeMin": "2",
+    "dureeMax": "5",
+    "uniteDuree": "j",
+    "refProduit": {
+      "$oid": "f36f98002c9a5e5eeffc343e"
+    },
+    "monnaie": "MAD"
+  },
+  {
+    "_id": {
+      "$oid": "47b24e369e50bbaa230841e6"
+    },
+    "etatObjet": "code-1",
+    "pays": "MA",
+    "region": "Casablanca-Settat",
+    "province": "",
+    "ville": "Tétouan",
+    "commune": "",
+    "quartier": "",
+    "normaleOuExpress": "code_8830",
+    "class": "standard",
+    "livreursConserne": [],
+    "tarifMin": 25,
+    "tarifMax": 75,
+    "dureeMin": "2",
+    "dureeMax": "5",
+    "uniteDuree": "j",
+    "refProduit": {
+      "$oid": "f6f6355ff33dda2642014bde"
+    },
+    "monnaie": "MAD"
+  },
+  {
+    "_id": {
+      "$oid": "73e1d8922b229c2774b9a73f"
+    },
+    "etatObjet": "code-1",
+    "pays": "MA",
+    "region": "Rabat-Salé-Kénitra",
+    "province": "",
+    "ville": "Fès",
+    "commune": "",
+    "quartier": "",
+    "normaleOuExpress": "code_8830",
+    "class": "standard",
+    "livreursConserne": [],
+    "tarifMin": 25,
+    "tarifMax": 75,
+    "dureeMin": "2",
+    "dureeMax": "5",
+    "uniteDuree": "j",
+    "refProduit": {
+      "$oid": "35531411c5b094a68d865dac"
+    },
+    "monnaie": "MAD"
+  },
+  {
+    "_id": {
+      "$oid": "ca334ce4146c8485860ca8a8"
+    },
+    "etatObjet": "code-1",
+    "pays": "MA",
+    "region": "Marrakech-Safi",
+    "province": "",
+    "ville": "Meknès",
+    "commune": "",
+    "quartier": "",
+    "normaleOuExpress": "code_8830",
+    "class": "standard",
+    "livreursConserne": [],
+    "tarifMin": 25,
+    "tarifMax": 75,
+    "dureeMin": "2",
+    "dureeMax": "5",
+    "uniteDuree": "j",
+    "refProduit": {
+      "$oid": "44d0b076fcd36d0789368782"
+    },
+    "monnaie": "MAD"
+  },
+  {
+    "_id": {
+      "$oid": "1f1fd14b3184a471afda513f"
+    },
+    "etatObjet": "code-1",
+    "pays": "MA",
+    "region": "Marrakech-Safi",
+    "province": "",
+    "ville": "Chefchaouen",
+    "commune": "",
+    "quartier": "",
+    "normaleOuExpress": "code_8830",
+    "class": "standard",
+    "livreursConserne": [],
+    "tarifMin": 25,
+    "tarifMax": 75,
+    "dureeMin": "2",
+    "dureeMax": "5",
+    "uniteDuree": "j",
+    "refProduit": {
+      "$oid": "9a023081f34a7e9e3332c3ed"
+    },
+    "monnaie": "MAD"
+  }
+]

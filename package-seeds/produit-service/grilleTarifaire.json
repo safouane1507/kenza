@@ -1,0 +1,3722 @@
+[
+  {
+    "_id": {
+      "$oid": "4fa82a09bde52c867605d8b7"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 1,
+    "quantiteSup": 5,
+    "tarifUnitaireHT": 220,
+    "tarifUnitairePublic": 264.0,
+    "gainsParUnite": 39.6,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "e4f5f7a70ac16a444c109f33"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "e75345f30a6bd4a14dafc25e"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 6,
+    "quantiteSup": 100,
+    "tarifUnitaireHT": 202.4,
+    "tarifUnitairePublic": 242.88,
+    "gainsParUnite": 36.43,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "e4f5f7a70ac16a444c109f33"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "29294ac7d719fd5089be69c1"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 1,
+    "quantiteSup": 5,
+    "tarifUnitaireHT": 90,
+    "tarifUnitairePublic": 108.0,
+    "gainsParUnite": 16.2,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "0a6b9a90b7ef5293822377e3"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "0576fbb6dea29a340b15df08"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 6,
+    "quantiteSup": 100,
+    "tarifUnitaireHT": 82.8,
+    "tarifUnitairePublic": 99.36,
+    "gainsParUnite": 14.9,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "0a6b9a90b7ef5293822377e3"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "1c2a510df03e2ec544435613"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 1,
+    "quantiteSup": 5,
+    "tarifUnitaireHT": 120,
+    "tarifUnitairePublic": 144.0,
+    "gainsParUnite": 21.6,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "4ce6f68892a9ceab00b40f8d"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "7721f8921ed9c54ecf37dcfb"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 6,
+    "quantiteSup": 100,
+    "tarifUnitaireHT": 110.4,
+    "tarifUnitairePublic": 132.48,
+    "gainsParUnite": 19.87,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "4ce6f68892a9ceab00b40f8d"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "57dbeae94dd52c0f451e78ab"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 1,
+    "quantiteSup": 5,
+    "tarifUnitaireHT": 280,
+    "tarifUnitairePublic": 336.0,
+    "gainsParUnite": 50.4,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "3d6263c403de355e9dc2cab9"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "9f1437fcd5184f6deccd2967"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 6,
+    "quantiteSup": 100,
+    "tarifUnitaireHT": 257.6,
+    "tarifUnitairePublic": 309.12,
+    "gainsParUnite": 46.37,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "3d6263c403de355e9dc2cab9"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "6d93cfd686cada4bcf522c94"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 1,
+    "quantiteSup": 5,
+    "tarifUnitaireHT": 120,
+    "tarifUnitairePublic": 144.0,
+    "gainsParUnite": 21.6,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "e9ce59d1b2d44f6a088ecd7d"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "0fbb0b84883c51a301ffcda4"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 6,
+    "quantiteSup": 100,
+    "tarifUnitaireHT": 110.4,
+    "tarifUnitairePublic": 132.48,
+    "gainsParUnite": 19.87,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "e9ce59d1b2d44f6a088ecd7d"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "8d1f40b98b520f4fba27f2eb"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 1,
+    "quantiteSup": 5,
+    "tarifUnitaireHT": 160,
+    "tarifUnitairePublic": 192.0,
+    "gainsParUnite": 28.8,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "ed34bb02c63a0f6a29667c49"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "9b344e1809a74bc01687138e"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 6,
+    "quantiteSup": 100,
+    "tarifUnitaireHT": 147.2,
+    "tarifUnitairePublic": 176.64,
+    "gainsParUnite": 26.5,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "ed34bb02c63a0f6a29667c49"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "c34ed40572ab9f62e3e06286"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 1,
+    "quantiteSup": 5,
+    "tarifUnitaireHT": 220,
+    "tarifUnitairePublic": 264.0,
+    "gainsParUnite": 39.6,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "ccc54a0be1b34f436c47a9b7"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "e852afeac25a13fab7093646"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 6,
+    "quantiteSup": 100,
+    "tarifUnitaireHT": 202.4,
+    "tarifUnitairePublic": 242.88,
+    "gainsParUnite": 36.43,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "ccc54a0be1b34f436c47a9b7"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "e92b124826f518f61eb7f2d1"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 1,
+    "quantiteSup": 5,
+    "tarifUnitaireHT": 280,
+    "tarifUnitairePublic": 336.0,
+    "gainsParUnite": 50.4,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "55f37d6d93c3dc43328c53ae"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "a7fce50bc3c67e157621bae4"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 6,
+    "quantiteSup": 100,
+    "tarifUnitaireHT": 257.6,
+    "tarifUnitairePublic": 309.12,
+    "gainsParUnite": 46.37,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "55f37d6d93c3dc43328c53ae"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "9a978bb7b2f3da10a7dbbc53"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 1,
+    "quantiteSup": 5,
+    "tarifUnitaireHT": 180,
+    "tarifUnitairePublic": 216.0,
+    "gainsParUnite": 32.4,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "9777eda660a4da612b0e65a8"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "ddc47f5dc3968155d1af4aa8"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 6,
+    "quantiteSup": 100,
+    "tarifUnitaireHT": 165.6,
+    "tarifUnitairePublic": 198.72,
+    "gainsParUnite": 29.81,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "9777eda660a4da612b0e65a8"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "95288889400766b06e80a6b9"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 1,
+    "quantiteSup": 5,
+    "tarifUnitaireHT": 180,
+    "tarifUnitairePublic": 216.0,
+    "gainsParUnite": 32.4,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "1478825e3619a2b765482221"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "74d3cebf2dc01e8f4551ce89"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 6,
+    "quantiteSup": 100,
+    "tarifUnitaireHT": 165.6,
+    "tarifUnitairePublic": 198.72,
+    "gainsParUnite": 29.81,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "1478825e3619a2b765482221"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "b41a1fe63b49900e06bc8b14"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 1,
+    "quantiteSup": 5,
+    "tarifUnitaireHT": 90,
+    "tarifUnitairePublic": 108.0,
+    "gainsParUnite": 16.2,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "df28d885880ba78cc2399db4"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "3d10133545e78f8138eacf4d"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 6,
+    "quantiteSup": 100,
+    "tarifUnitaireHT": 82.8,
+    "tarifUnitairePublic": 99.36,
+    "gainsParUnite": 14.9,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "df28d885880ba78cc2399db4"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "5d87abc8b8102e1ceb9c80b8"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 1,
+    "quantiteSup": 5,
+    "tarifUnitaireHT": 120,
+    "tarifUnitairePublic": 144.0,
+    "gainsParUnite": 21.6,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "be1275cde9f43405b75b7f27"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "bfedc890cc5827bd8562be6e"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 6,
+    "quantiteSup": 100,
+    "tarifUnitaireHT": 110.4,
+    "tarifUnitairePublic": 132.48,
+    "gainsParUnite": 19.87,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "be1275cde9f43405b75b7f27"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "3070e1417aa000e54d764584"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 1,
+    "quantiteSup": 5,
+    "tarifUnitaireHT": 280,
+    "tarifUnitairePublic": 336.0,
+    "gainsParUnite": 50.4,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "04a0018b18f20a3ee871f325"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "74524aa457b280d2bc98c9f6"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 6,
+    "quantiteSup": 100,
+    "tarifUnitaireHT": 257.6,
+    "tarifUnitairePublic": 309.12,
+    "gainsParUnite": 46.37,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "04a0018b18f20a3ee871f325"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "41bfa7dcc89178b7292bac01"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 1,
+    "quantiteSup": 5,
+    "tarifUnitaireHT": 230,
+    "tarifUnitairePublic": 276.0,
+    "gainsParUnite": 41.4,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "a3ddb7ae6a7f65934ca3646c"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "dd46fa2fba4cbe7b7a898014"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 6,
+    "quantiteSup": 100,
+    "tarifUnitaireHT": 211.6,
+    "tarifUnitairePublic": 253.92,
+    "gainsParUnite": 38.09,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "a3ddb7ae6a7f65934ca3646c"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "5738d9b947a1c40b94905ebc"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 1,
+    "quantiteSup": 5,
+    "tarifUnitaireHT": 70,
+    "tarifUnitairePublic": 84.0,
+    "gainsParUnite": 12.6,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "e1dfbffe8ef6315a1e4acfcb"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "051d2f788ae2930ad3918f34"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 6,
+    "quantiteSup": 100,
+    "tarifUnitaireHT": 64.4,
+    "tarifUnitairePublic": 77.28,
+    "gainsParUnite": 11.59,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "e1dfbffe8ef6315a1e4acfcb"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "cdaf431336ba33a269ece82f"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 1,
+    "quantiteSup": 5,
+    "tarifUnitaireHT": 200,
+    "tarifUnitairePublic": 240.0,
+    "gainsParUnite": 36.0,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "a58b00562153ab4013d78ae1"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "72b060be46c0e428f916e105"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 6,
+    "quantiteSup": 100,
+    "tarifUnitaireHT": 184.0,
+    "tarifUnitairePublic": 220.8,
+    "gainsParUnite": 33.12,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "a58b00562153ab4013d78ae1"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "dcaada8d3403285de18df458"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 1,
+    "quantiteSup": 5,
+    "tarifUnitaireHT": 230,
+    "tarifUnitairePublic": 276.0,
+    "gainsParUnite": 41.4,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "7c026ef2ea8df27c55524005"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "51d8847b8fef83dcd43daf60"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 6,
+    "quantiteSup": 100,
+    "tarifUnitaireHT": 211.6,
+    "tarifUnitairePublic": 253.92,
+    "gainsParUnite": 38.09,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "7c026ef2ea8df27c55524005"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "5cb6a758a113cc2ef5bfc609"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 1,
+    "quantiteSup": 5,
+    "tarifUnitaireHT": 320,
+    "tarifUnitairePublic": 384.0,
+    "gainsParUnite": 57.6,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "98f8e52f7918acc099d800ce"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "91719a8159cb879284b4efcf"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 6,
+    "quantiteSup": 100,
+    "tarifUnitaireHT": 294.4,
+    "tarifUnitairePublic": 353.28,
+    "gainsParUnite": 52.99,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "98f8e52f7918acc099d800ce"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "757681ec37120b3ebc4e0a55"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 1,
+    "quantiteSup": 5,
+    "tarifUnitaireHT": 110,
+    "tarifUnitairePublic": 132.0,
+    "gainsParUnite": 19.8,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "dbeb5f07b8f3a44d20a14b9a"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "138fed48e5f4a88f71866fb1"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 6,
+    "quantiteSup": 100,
+    "tarifUnitaireHT": 101.2,
+    "tarifUnitairePublic": 121.44,
+    "gainsParUnite": 18.22,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "dbeb5f07b8f3a44d20a14b9a"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "85fbe8a9bfdb9e68370ad927"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 1,
+    "quantiteSup": 5,
+    "tarifUnitaireHT": 60,
+    "tarifUnitairePublic": 72.0,
+    "gainsParUnite": 10.8,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "e9aff9a787f3d8281e527be3"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "edadbee6696b0c37f838bf61"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 6,
+    "quantiteSup": 100,
+    "tarifUnitaireHT": 55.2,
+    "tarifUnitairePublic": 66.24,
+    "gainsParUnite": 9.94,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "e9aff9a787f3d8281e527be3"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "319e7b0ba370ead4f2f727fa"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 1,
+    "quantiteSup": 5,
+    "tarifUnitaireHT": 240,
+    "tarifUnitairePublic": 288.0,
+    "gainsParUnite": 43.2,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "625a53f16d0f6dbe6824f9d8"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "a988cec40105e30c367eca1c"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 6,
+    "quantiteSup": 100,
+    "tarifUnitaireHT": 220.8,
+    "tarifUnitairePublic": 264.96,
+    "gainsParUnite": 39.74,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "625a53f16d0f6dbe6824f9d8"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "71c66a2354ac157b2e5b92b4"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 1,
+    "quantiteSup": 5,
+    "tarifUnitaireHT": 60,
+    "tarifUnitairePublic": 72.0,
+    "gainsParUnite": 10.8,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "846d4161d60ffa49741694aa"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "fb54d88a079d285ceaa88241"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 6,
+    "quantiteSup": 100,
+    "tarifUnitaireHT": 55.2,
+    "tarifUnitairePublic": 66.24,
+    "gainsParUnite": 9.94,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "846d4161d60ffa49741694aa"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "93898a84f29bed5f7ea1f4fc"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 1,
+    "quantiteSup": 5,
+    "tarifUnitaireHT": 240,
+    "tarifUnitairePublic": 288.0,
+    "gainsParUnite": 43.2,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "329b7b6449163ffd9e6d51f4"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "b7f0bec1dfae61fe4fce3749"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 6,
+    "quantiteSup": 100,
+    "tarifUnitaireHT": 220.8,
+    "tarifUnitairePublic": 264.96,
+    "gainsParUnite": 39.74,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "329b7b6449163ffd9e6d51f4"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "39855cd66bcfdb684b836a6c"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 1,
+    "quantiteSup": 5,
+    "tarifUnitaireHT": 320,
+    "tarifUnitairePublic": 384.0,
+    "gainsParUnite": 57.6,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "2fa38f5015521737f0b69bf1"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "044b7b9a1ae42d6cbc6d0e06"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 6,
+    "quantiteSup": 100,
+    "tarifUnitaireHT": 294.4,
+    "tarifUnitairePublic": 353.28,
+    "gainsParUnite": 52.99,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "2fa38f5015521737f0b69bf1"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "dae58e280ce512a551b3655a"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 1,
+    "quantiteSup": 5,
+    "tarifUnitaireHT": 240,
+    "tarifUnitairePublic": 288.0,
+    "gainsParUnite": 43.2,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "e85a5e009678a4f9c4fa5d37"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "85099d4b0827cb3ed2b08a2c"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 6,
+    "quantiteSup": 100,
+    "tarifUnitaireHT": 220.8,
+    "tarifUnitairePublic": 264.96,
+    "gainsParUnite": 39.74,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "e85a5e009678a4f9c4fa5d37"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "2ecddc187447d3de5be51cc1"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 1,
+    "quantiteSup": 5,
+    "tarifUnitaireHT": 110,
+    "tarifUnitairePublic": 132.0,
+    "gainsParUnite": 19.8,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "2662b3d55361dec632d70a4e"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "5a4924bd4d39456a9b166cef"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 6,
+    "quantiteSup": 100,
+    "tarifUnitaireHT": 101.2,
+    "tarifUnitairePublic": 121.44,
+    "gainsParUnite": 18.22,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "2662b3d55361dec632d70a4e"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "2e897c0588b70b39b886253b"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 1,
+    "quantiteSup": 5,
+    "tarifUnitaireHT": 120,
+    "tarifUnitairePublic": 144.0,
+    "gainsParUnite": 21.6,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "446d4f5966602eacee083521"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "a1a92b6d1f8bc5baeadeed51"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 6,
+    "quantiteSup": 100,
+    "tarifUnitaireHT": 110.4,
+    "tarifUnitairePublic": 132.48,
+    "gainsParUnite": 19.87,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "446d4f5966602eacee083521"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "6f7a9e1419be65dc620361c0"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 1,
+    "quantiteSup": 5,
+    "tarifUnitaireHT": 95,
+    "tarifUnitairePublic": 114.0,
+    "gainsParUnite": 17.1,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "19158e481bc84541f782c947"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "f6c92ee0eaccfe50fa2ac42b"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 6,
+    "quantiteSup": 100,
+    "tarifUnitaireHT": 87.4,
+    "tarifUnitairePublic": 104.88,
+    "gainsParUnite": 15.73,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "19158e481bc84541f782c947"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "441294c8abcae36aeccffdd2"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 1,
+    "quantiteSup": 5,
+    "tarifUnitaireHT": 95,
+    "tarifUnitairePublic": 114.0,
+    "gainsParUnite": 17.1,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "4ace1a921a6d9d8cf730da33"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "f497ab03484b45599a0b62eb"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 6,
+    "quantiteSup": 100,
+    "tarifUnitaireHT": 87.4,
+    "tarifUnitairePublic": 104.88,
+    "gainsParUnite": 15.73,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "4ace1a921a6d9d8cf730da33"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "553038215b85a2894198cd44"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 1,
+    "quantiteSup": 5,
+    "tarifUnitaireHT": 40,
+    "tarifUnitairePublic": 48.0,
+    "gainsParUnite": 7.2,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "416290aaecbe2a318ebb8a6f"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "b6e238b1b51eb3a8338a3238"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 6,
+    "quantiteSup": 100,
+    "tarifUnitaireHT": 36.8,
+    "tarifUnitairePublic": 44.16,
+    "gainsParUnite": 6.62,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "416290aaecbe2a318ebb8a6f"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "f0338210bd59ed2be03033c1"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 1,
+    "quantiteSup": 5,
+    "tarifUnitaireHT": 120,
+    "tarifUnitairePublic": 144.0,
+    "gainsParUnite": 21.6,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "cc74ee952bfc01fdeb566984"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "f13b9bbe4dea53f42afcc7fe"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 6,
+    "quantiteSup": 100,
+    "tarifUnitaireHT": 110.4,
+    "tarifUnitairePublic": 132.48,
+    "gainsParUnite": 19.87,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "cc74ee952bfc01fdeb566984"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "003d942dbac9a20c998bf2ad"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 1,
+    "quantiteSup": 5,
+    "tarifUnitaireHT": 95,
+    "tarifUnitairePublic": 114.0,
+    "gainsParUnite": 17.1,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "6781e1d4e526d9a68aacd7b7"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "a79a9a65b289f9d4371b6e64"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 6,
+    "quantiteSup": 100,
+    "tarifUnitaireHT": 87.4,
+    "tarifUnitairePublic": 104.88,
+    "gainsParUnite": 15.73,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "6781e1d4e526d9a68aacd7b7"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "6a32c10db9ebc2edabf3fdaa"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 1,
+    "quantiteSup": 5,
+    "tarifUnitaireHT": 120,
+    "tarifUnitairePublic": 144.0,
+    "gainsParUnite": 21.6,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "1e7991731a1aee6832986b55"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "174cd790e1f034d2501156e8"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 6,
+    "quantiteSup": 100,
+    "tarifUnitaireHT": 110.4,
+    "tarifUnitairePublic": 132.48,
+    "gainsParUnite": 19.87,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "1e7991731a1aee6832986b55"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "12ded2e5edc189d86d092941"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 1,
+    "quantiteSup": 5,
+    "tarifUnitaireHT": 320,
+    "tarifUnitairePublic": 384.0,
+    "gainsParUnite": 57.6,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "9f4492ebf2e1004d81dcf843"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "19ee4a1ab766137a6d841e48"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 6,
+    "quantiteSup": 100,
+    "tarifUnitaireHT": 294.4,
+    "tarifUnitairePublic": 353.28,
+    "gainsParUnite": 52.99,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "9f4492ebf2e1004d81dcf843"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "fdaf3e54668a4740f7cd8539"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 1,
+    "quantiteSup": 5,
+    "tarifUnitaireHT": 4800,
+    "tarifUnitairePublic": 5760.0,
+    "gainsParUnite": 864.0,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "07df28941ef166741bbba3a6"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "c1d5a9ad571ed01007e686d5"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 6,
+    "quantiteSup": 100,
+    "tarifUnitaireHT": 4416.0,
+    "tarifUnitairePublic": 5299.2,
+    "gainsParUnite": 794.88,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "07df28941ef166741bbba3a6"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "e04acf6cf59cadf6508d650f"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 1,
+    "quantiteSup": 5,
+    "tarifUnitaireHT": 4800,
+    "tarifUnitairePublic": 5760.0,
+    "gainsParUnite": 864.0,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "fa5e07ecf203eb2367cd5a4d"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "cce847a876431f25f27051b5"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 6,
+    "quantiteSup": 100,
+    "tarifUnitaireHT": 4416.0,
+    "tarifUnitairePublic": 5299.2,
+    "gainsParUnite": 794.88,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "fa5e07ecf203eb2367cd5a4d"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "b87978593807ebad17dc4e71"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 1,
+    "quantiteSup": 5,
+    "tarifUnitaireHT": 95,
+    "tarifUnitairePublic": 114.0,
+    "gainsParUnite": 17.1,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "220761c08ca1dca492a66ae6"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "4d784a426ab5a853d1a8b367"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 6,
+    "quantiteSup": 100,
+    "tarifUnitaireHT": 87.4,
+    "tarifUnitairePublic": 104.88,
+    "gainsParUnite": 15.73,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "220761c08ca1dca492a66ae6"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "a68081040b6d536753b09169"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 1,
+    "quantiteSup": 5,
+    "tarifUnitaireHT": 280,
+    "tarifUnitairePublic": 336.0,
+    "gainsParUnite": 50.4,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "88fd39f546e7231b4c7e09dd"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "008ae8108c6e6c8e9b0d3ff4"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 6,
+    "quantiteSup": 100,
+    "tarifUnitaireHT": 257.6,
+    "tarifUnitairePublic": 309.12,
+    "gainsParUnite": 46.37,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "88fd39f546e7231b4c7e09dd"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "c4649be060f0d9ce7e4d9bf9"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 1,
+    "quantiteSup": 5,
+    "tarifUnitaireHT": 95,
+    "tarifUnitairePublic": 114.0,
+    "gainsParUnite": 17.1,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "1a633e907f887205541772a3"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "a4d7caddc9c22d4e8007c9e2"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 6,
+    "quantiteSup": 100,
+    "tarifUnitaireHT": 87.4,
+    "tarifUnitairePublic": 104.88,
+    "gainsParUnite": 15.73,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "1a633e907f887205541772a3"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "736d2ae203ead3b280dc1b6e"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 1,
+    "quantiteSup": 5,
+    "tarifUnitaireHT": 4800,
+    "tarifUnitairePublic": 5760.0,
+    "gainsParUnite": 864.0,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "2e7fca1415ba2e502457da4a"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "0f5021e2a6d81ba1229bb7a5"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 6,
+    "quantiteSup": 100,
+    "tarifUnitaireHT": 4416.0,
+    "tarifUnitairePublic": 5299.2,
+    "gainsParUnite": 794.88,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "2e7fca1415ba2e502457da4a"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "27374d504f01870f0fed4075"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 1,
+    "quantiteSup": 5,
+    "tarifUnitaireHT": 850,
+    "tarifUnitairePublic": 1020.0,
+    "gainsParUnite": 153.0,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "c9fea7296bced4680a04c0e2"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "528c09d20f354ec69f861995"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 6,
+    "quantiteSup": 100,
+    "tarifUnitaireHT": 782.0,
+    "tarifUnitairePublic": 938.4,
+    "gainsParUnite": 140.76,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "c9fea7296bced4680a04c0e2"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "2e59e4fe4957c076d2c42f70"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 1,
+    "quantiteSup": 5,
+    "tarifUnitaireHT": 95,
+    "tarifUnitairePublic": 114.0,
+    "gainsParUnite": 17.1,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "668c2ff2a17409bc7f0d5339"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "3639291455b773febdd54e5c"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 6,
+    "quantiteSup": 100,
+    "tarifUnitaireHT": 87.4,
+    "tarifUnitairePublic": 104.88,
+    "gainsParUnite": 15.73,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "668c2ff2a17409bc7f0d5339"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "bf41500802ed207cd62300d5"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 1,
+    "quantiteSup": 5,
+    "tarifUnitaireHT": 280,
+    "tarifUnitairePublic": 336.0,
+    "gainsParUnite": 50.4,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "bb9b87879fe49621af954221"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "0983682bc7369478d3067698"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 6,
+    "quantiteSup": 100,
+    "tarifUnitaireHT": 257.6,
+    "tarifUnitairePublic": 309.12,
+    "gainsParUnite": 46.37,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "bb9b87879fe49621af954221"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "dbc5149466c0f4b7662725eb"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 1,
+    "quantiteSup": 5,
+    "tarifUnitaireHT": 850,
+    "tarifUnitairePublic": 1020.0,
+    "gainsParUnite": 153.0,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "c73ae325b6bb4a6f2e898950"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "ec26e49cd128e07c0dabb712"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 6,
+    "quantiteSup": 100,
+    "tarifUnitaireHT": 782.0,
+    "tarifUnitairePublic": 938.4,
+    "gainsParUnite": 140.76,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "c73ae325b6bb4a6f2e898950"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "add31c1dce4dfb3a0d0ac9fd"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 1,
+    "quantiteSup": 5,
+    "tarifUnitaireHT": 3800,
+    "tarifUnitairePublic": 4560.0,
+    "gainsParUnite": 684.0,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "685116c52fa9bdba74debd5b"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "edc760e808562bc56aafea9b"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 6,
+    "quantiteSup": 100,
+    "tarifUnitaireHT": 3496.0,
+    "tarifUnitairePublic": 4195.2,
+    "gainsParUnite": 629.28,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "685116c52fa9bdba74debd5b"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "047ebf95235737dad1e10e0f"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 1,
+    "quantiteSup": 5,
+    "tarifUnitaireHT": 2400,
+    "tarifUnitairePublic": 2880.0,
+    "gainsParUnite": 432.0,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "99ad23f9ff7fcd7c8e079093"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "e122424ca20e6d6e5be2e0ca"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 6,
+    "quantiteSup": 100,
+    "tarifUnitaireHT": 2208.0,
+    "tarifUnitairePublic": 2649.6,
+    "gainsParUnite": 397.44,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "99ad23f9ff7fcd7c8e079093"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "8a54e51131c10ad5be7c5c0b"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 1,
+    "quantiteSup": 5,
+    "tarifUnitaireHT": 2400,
+    "tarifUnitairePublic": 2880.0,
+    "gainsParUnite": 432.0,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "ac8de817d5692a612f750895"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "9602c1eaf63db15bede11ba0"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 6,
+    "quantiteSup": 100,
+    "tarifUnitaireHT": 2208.0,
+    "tarifUnitairePublic": 2649.6,
+    "gainsParUnite": 397.44,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "ac8de817d5692a612f750895"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "5fb1255b0f66fbab3465c097"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 1,
+    "quantiteSup": 5,
+    "tarifUnitaireHT": 3800,
+    "tarifUnitairePublic": 4560.0,
+    "gainsParUnite": 684.0,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "0f9337ed484a729725198a33"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "e81eee319ea4f951072e9b4a"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 6,
+    "quantiteSup": 100,
+    "tarifUnitaireHT": 3496.0,
+    "tarifUnitairePublic": 4195.2,
+    "gainsParUnite": 629.28,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "0f9337ed484a729725198a33"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "c934230fb7ecbdc4a36415fa"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 1,
+    "quantiteSup": 5,
+    "tarifUnitaireHT": 4500,
+    "tarifUnitairePublic": 5400.0,
+    "gainsParUnite": 810.0,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "358ede32d35c1ff877af9e38"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "fdea539f07a82a6479a145e1"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 6,
+    "quantiteSup": 100,
+    "tarifUnitaireHT": 4140.0,
+    "tarifUnitairePublic": 4968.0,
+    "gainsParUnite": 745.2,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "358ede32d35c1ff877af9e38"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "093268c946ce3ce07a540f29"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 1,
+    "quantiteSup": 5,
+    "tarifUnitaireHT": 380,
+    "tarifUnitairePublic": 456.0,
+    "gainsParUnite": 68.4,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "e78075ba2bd54591fba6d87b"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "58482858b82f7343ec8eeffe"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 6,
+    "quantiteSup": 100,
+    "tarifUnitaireHT": 349.6,
+    "tarifUnitairePublic": 419.52,
+    "gainsParUnite": 62.93,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "e78075ba2bd54591fba6d87b"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "d7ce72d6c0be6edb49bbc262"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 1,
+    "quantiteSup": 5,
+    "tarifUnitaireHT": 4500,
+    "tarifUnitairePublic": 5400.0,
+    "gainsParUnite": 810.0,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "7e83252da49beaf1c4ca4c20"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "60a127bacfd99350fa6883df"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 6,
+    "quantiteSup": 100,
+    "tarifUnitaireHT": 4140.0,
+    "tarifUnitairePublic": 4968.0,
+    "gainsParUnite": 745.2,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "7e83252da49beaf1c4ca4c20"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "1aa3338fc66ee846e0de44dc"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 1,
+    "quantiteSup": 5,
+    "tarifUnitaireHT": 380,
+    "tarifUnitairePublic": 456.0,
+    "gainsParUnite": 68.4,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "66bd6f9ff3acc6ec0e4f11c3"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "1d4f2f4868042a9444fc5658"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 6,
+    "quantiteSup": 100,
+    "tarifUnitaireHT": 349.6,
+    "tarifUnitairePublic": 419.52,
+    "gainsParUnite": 62.93,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "66bd6f9ff3acc6ec0e4f11c3"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "4c7c8a61b953dcc2629290fb"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 1,
+    "quantiteSup": 5,
+    "tarifUnitaireHT": 220,
+    "tarifUnitairePublic": 264.0,
+    "gainsParUnite": 39.6,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "9bb1afa6848a869e0d609e11"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "ce9dc0370200b6953349d8d6"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 6,
+    "quantiteSup": 100,
+    "tarifUnitaireHT": 202.4,
+    "tarifUnitairePublic": 242.88,
+    "gainsParUnite": 36.43,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "9bb1afa6848a869e0d609e11"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "102059062682f78a461636ee"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 1,
+    "quantiteSup": 5,
+    "tarifUnitaireHT": 55,
+    "tarifUnitairePublic": 66.0,
+    "gainsParUnite": 9.9,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "bc0f81b0ffa5fcba96ec12d1"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "d37ec91598d16f6eaa7c4e88"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 6,
+    "quantiteSup": 100,
+    "tarifUnitaireHT": 50.6,
+    "tarifUnitairePublic": 60.72,
+    "gainsParUnite": 9.11,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "bc0f81b0ffa5fcba96ec12d1"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "ce3358ee75360bd0dcefbc52"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 1,
+    "quantiteSup": 5,
+    "tarifUnitaireHT": 220,
+    "tarifUnitairePublic": 264.0,
+    "gainsParUnite": 39.6,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "6e66a03a9b9b3d193b88020a"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "8fd1544d3a3cbd31f99e018a"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 6,
+    "quantiteSup": 100,
+    "tarifUnitaireHT": 202.4,
+    "tarifUnitairePublic": 242.88,
+    "gainsParUnite": 36.43,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "6e66a03a9b9b3d193b88020a"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "15b7535db3fd97d6546b82b8"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 1,
+    "quantiteSup": 5,
+    "tarifUnitaireHT": 55,
+    "tarifUnitairePublic": 66.0,
+    "gainsParUnite": 9.9,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "f36f98002c9a5e5eeffc343e"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "f8236188480c74933ea984b3"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 6,
+    "quantiteSup": 100,
+    "tarifUnitaireHT": 50.6,
+    "tarifUnitairePublic": 60.72,
+    "gainsParUnite": 9.11,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "f36f98002c9a5e5eeffc343e"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "5c08951fecba735b2c405907"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 1,
+    "quantiteSup": 5,
+    "tarifUnitaireHT": 220,
+    "tarifUnitairePublic": 264.0,
+    "gainsParUnite": 39.6,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "f6f6355ff33dda2642014bde"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "ab15c7fb90b96b63796349f9"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 6,
+    "quantiteSup": 100,
+    "tarifUnitaireHT": 202.4,
+    "tarifUnitairePublic": 242.88,
+    "gainsParUnite": 36.43,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "f6f6355ff33dda2642014bde"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "b4ca43030e9f4323eb80d067"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 1,
+    "quantiteSup": 5,
+    "tarifUnitaireHT": 55,
+    "tarifUnitairePublic": 66.0,
+    "gainsParUnite": 9.9,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "35531411c5b094a68d865dac"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "83d39fc7d46a993a0f5dab27"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 6,
+    "quantiteSup": 100,
+    "tarifUnitaireHT": 50.6,
+    "tarifUnitairePublic": 60.72,
+    "gainsParUnite": 9.11,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "35531411c5b094a68d865dac"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "6bf004f7af8da6dbf1b6b457"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 1,
+    "quantiteSup": 5,
+    "tarifUnitaireHT": 3800,
+    "tarifUnitairePublic": 4560.0,
+    "gainsParUnite": 684.0,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "44d0b076fcd36d0789368782"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "0bd4a54b8123582da2bfa0c4"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 6,
+    "quantiteSup": 100,
+    "tarifUnitaireHT": 3496.0,
+    "tarifUnitairePublic": 4195.2,
+    "gainsParUnite": 629.28,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "44d0b076fcd36d0789368782"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "25aaa0bb55739066b6c781d3"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 1,
+    "quantiteSup": 5,
+    "tarifUnitaireHT": 2400,
+    "tarifUnitairePublic": 2880.0,
+    "gainsParUnite": 432.0,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "9a023081f34a7e9e3332c3ed"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  },
+  {
+    "_id": {
+      "$oid": "a7c96d2772dba1d143ffea52"
+    },
+    "etatObjet": "code-1",
+    "dateDebut": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateFin": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "quantiteInf": 6,
+    "quantiteSup": 100,
+    "tarifUnitaireHT": 2208.0,
+    "tarifUnitairePublic": 2649.6,
+    "gainsParUnite": 397.44,
+    "monnaie": "MAD",
+    "translations": [
+      {
+        "language": "fr",
+        "commentaire": "Tarif premium référence"
+      }
+    ],
+    "actif": true,
+    "produitAssocie": {
+      "$oid": "9a023081f34a7e9e3332c3ed"
+    },
+    "serviceSpecial": null,
+    "applicationAssocie": [],
+    "instanceProduitServiceReservation": null
+  }
+]

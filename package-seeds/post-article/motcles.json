@@ -1,0 +1,420 @@
+[
+  {
+    "_id": {
+      "$oid": "5a1f6e13da12aaeacc5305e6"
+    },
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "motsCles": "terroir",
+        "descriptif": "Tag — terroir"
+      }
+    ],
+    "image": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "lien": "https://kenzbladi.ma/tags/terroir",
+    "nbrClics": 751,
+    "postArticle": null,
+    "section": null,
+    "expressions": [],
+    "objetsConcernes": [],
+    "typeMotCle": "code_3501",
+    "position": "code_3601"
+  },
+  {
+    "_id": {
+      "$oid": "d00d8ea0b332b5621829efa1"
+    },
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "motsCles": "huile-olive",
+        "descriptif": "Tag — huile-olive"
+      }
+    ],
+    "image": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "lien": "https://kenzbladi.ma/tags/huile-olive",
+    "nbrClics": 800,
+    "postArticle": null,
+    "section": null,
+    "expressions": [],
+    "objetsConcernes": [],
+    "typeMotCle": "code_3501",
+    "position": "code_3601"
+  },
+  {
+    "_id": {
+      "$oid": "068e37c8e55f25340ddec278"
+    },
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "motsCles": "argan",
+        "descriptif": "Tag — argan"
+      }
+    ],
+    "image": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "lien": "https://kenzbladi.ma/tags/argan",
+    "nbrClics": 231,
+    "postArticle": null,
+    "section": null,
+    "expressions": [],
+    "objetsConcernes": [],
+    "typeMotCle": "code_3501",
+    "position": "code_3601"
+  },
+  {
+    "_id": {
+      "$oid": "4a18270ba7734a031c115283"
+    },
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "motsCles": "miel",
+        "descriptif": "Tag — miel"
+      }
+    ],
+    "image": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "lien": "https://kenzbladi.ma/tags/miel",
+    "nbrClics": 797,
+    "postArticle": null,
+    "section": null,
+    "expressions": [],
+    "objetsConcernes": [],
+    "typeMotCle": "code_3501",
+    "position": "code_3601"
+  },
+  {
+    "_id": {
+      "$oid": "967bf9f88ad976200d6a3ab5"
+    },
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "motsCles": "épices",
+        "descriptif": "Tag — épices"
+      }
+    ],
+    "image": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "lien": "https://kenzbladi.ma/tags/épices",
+    "nbrClics": 120,
+    "postArticle": null,
+    "section": null,
+    "expressions": [],
+    "objetsConcernes": [],
+    "typeMotCle": "code_3501",
+    "position": "code_3601"
+  },
+  {
+    "_id": {
+      "$oid": "41ccb7c7ab17f4d79caf65fd"
+    },
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "motsCles": "dattes",
+        "descriptif": "Tag — dattes"
+      }
+    ],
+    "image": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "lien": "https://kenzbladi.ma/tags/dattes",
+    "nbrClics": 228,
+    "postArticle": null,
+    "section": null,
+    "expressions": [],
+    "objetsConcernes": [],
+    "typeMotCle": "code_3501",
+    "position": "code_3601"
+  },
+  {
+    "_id": {
+      "$oid": "ffef07e0631c9e4507aa7b37"
+    },
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "motsCles": "bio",
+        "descriptif": "Tag — bio"
+      }
+    ],
+    "image": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "lien": "https://kenzbladi.ma/tags/bio",
+    "nbrClics": 349,
+    "postArticle": null,
+    "section": null,
+    "expressions": [],
+    "objetsConcernes": [],
+    "typeMotCle": "code_3501",
+    "position": "code_3601"
+  },
+  {
+    "_id": {
+      "$oid": "328dcc0c84f9d6686573ab3f"
+    },
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "motsCles": "patrimoine",
+        "descriptif": "Tag — patrimoine"
+      }
+    ],
+    "image": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "lien": "https://kenzbladi.ma/tags/patrimoine",
+    "nbrClics": 608,
+    "postArticle": null,
+    "section": null,
+    "expressions": [],
+    "objetsConcernes": [],
+    "typeMotCle": "code_3501",
+    "position": "code_3601"
+  },
+  {
+    "_id": {
+      "$oid": "41242c699e9e43932fa963f1"
+    },
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "motsCles": "berbère",
+        "descriptif": "Tag — berbère"
+      }
+    ],
+    "image": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "lien": "https://kenzbladi.ma/tags/berbère",
+    "nbrClics": 542,
+    "postArticle": null,
+    "section": null,
+    "expressions": [],
+    "objetsConcernes": [],
+    "typeMotCle": "code_3501",
+    "position": "code_3601"
+  },
+  {
+    "_id": {
+      "$oid": "e481ea6998c3e317ce236393"
+    },
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "motsCles": "AOP",
+        "descriptif": "Tag — AOP"
+      }
+    ],
+    "image": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "lien": "https://kenzbladi.ma/tags/AOP",
+    "nbrClics": 712,
+    "postArticle": null,
+    "section": null,
+    "expressions": [],
+    "objetsConcernes": [],
+    "typeMotCle": "code_3501",
+    "position": "code_3601"
+  },
+  {
+    "_id": {
+      "$oid": "10e854863ef03b9430cec588"
+    },
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "motsCles": "IGP",
+        "descriptif": "Tag — IGP"
+      }
+    ],
+    "image": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "lien": "https://kenzbladi.ma/tags/IGP",
+    "nbrClics": 349,
+    "postArticle": null,
+    "section": null,
+    "expressions": [],
+    "objetsConcernes": [],
+    "typeMotCle": "code_3501",
+    "position": "code_3601"
+  },
+  {
+    "_id": {
+      "$oid": "7c4e8ce9c62e11aeec8dd857"
+    },
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "motsCles": "savoir-faire",
+        "descriptif": "Tag — savoir-faire"
+      }
+    ],
+    "image": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "lien": "https://kenzbladi.ma/tags/savoir-faire",
+    "nbrClics": 366,
+    "postArticle": null,
+    "section": null,
+    "expressions": [],
+    "objetsConcernes": [],
+    "typeMotCle": "code_3501",
+    "position": "code_3601"
+  },
+  {
+    "_id": {
+      "$oid": "82efb0c170589a620944008e"
+    },
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "motsCles": "artisanat",
+        "descriptif": "Tag — artisanat"
+      }
+    ],
+    "image": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "lien": "https://kenzbladi.ma/tags/artisanat",
+    "nbrClics": 265,
+    "postArticle": null,
+    "section": null,
+    "expressions": [],
+    "objetsConcernes": [],
+    "typeMotCle": "code_3501",
+    "position": "code_3601"
+  },
+  {
+    "_id": {
+      "$oid": "51f63f64c90f768de38a485a"
+    },
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "motsCles": "tapis",
+        "descriptif": "Tag — tapis"
+      }
+    ],
+    "image": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "lien": "https://kenzbladi.ma/tags/tapis",
+    "nbrClics": 663,
+    "postArticle": null,
+    "section": null,
+    "expressions": [],
+    "objetsConcernes": [],
+    "typeMotCle": "code_3501",
+    "position": "code_3601"
+  },
+  {
+    "_id": {
+      "$oid": "07de03f542549e4218532032"
+    },
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "motsCles": "caftan",
+        "descriptif": "Tag — caftan"
+      }
+    ],
+    "image": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "lien": "https://kenzbladi.ma/tags/caftan",
+    "nbrClics": 690,
+    "postArticle": null,
+    "section": null,
+    "expressions": [],
+    "objetsConcernes": [],
+    "typeMotCle": "code_3501",
+    "position": "code_3601"
+  },
+  {
+    "_id": {
+      "$oid": "972958707625ce697b86b052"
+    },
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "motsCles": "hammam",
+        "descriptif": "Tag — hammam"
+      }
+    ],
+    "image": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "lien": "https://kenzbladi.ma/tags/hammam",
+    "nbrClics": 377,
+    "postArticle": null,
+    "section": null,
+    "expressions": [],
+    "objetsConcernes": [],
+    "typeMotCle": "code_3501",
+    "position": "code_3601"
+  },
+  {
+    "_id": {
+      "$oid": "c13ba49cf4672e61be1e2eea"
+    },
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "motsCles": "tourisme",
+        "descriptif": "Tag — tourisme"
+      }
+    ],
+    "image": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "lien": "https://kenzbladi.ma/tags/tourisme",
+    "nbrClics": 41,
+    "postArticle": null,
+    "section": null,
+    "expressions": [],
+    "objetsConcernes": [],
+    "typeMotCle": "code_3501",
+    "position": "code_3601"
+  },
+  {
+    "_id": {
+      "$oid": "0fe68b3798f647d8f642b7ca"
+    },
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "motsCles": "écologique",
+        "descriptif": "Tag — écologique"
+      }
+    ],
+    "image": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "lien": "https://kenzbladi.ma/tags/écologique",
+    "nbrClics": 331,
+    "postArticle": null,
+    "section": null,
+    "expressions": [],
+    "objetsConcernes": [],
+    "typeMotCle": "code_3501",
+    "position": "code_3601"
+  },
+  {
+    "_id": {
+      "$oid": "30b736b9f6847a2a8ce980a5"
+    },
+    "etatObjet": "code-1",
+    "translations": [
+      {
+        "language": "fr",
+        "motsCles": "féminine",
+        "descriptif": "Tag — féminine"
+      }
+    ],
+    "image": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "lien": "https://kenzbladi.ma/tags/féminine",
+    "nbrClics": 320,
+    "postArticle": null,
+    "section": null,
+    "expressions": [],
+    "objetsConcernes": [],
+    "typeMotCle": "code_3501",
+    "position": "code_3601"
+  }
+]

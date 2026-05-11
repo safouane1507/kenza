@@ -1,0 +1,250 @@
+[
+  {
+    "_id": {
+      "$oid": "3eb750b280f70e0cd9e11971"
+    },
+    "etatDePublication": "code_3417",
+    "type": "code_9101",
+    "reference": "KB-AF-1000",
+    "translations": [
+      {
+        "language": "fr",
+        "nom": "Coopérative Aïn Atlas",
+        "apropos": "Membre actif du forum"
+      }
+    ],
+    "refMembre": {
+      "$oid": "919c56e5b864acd9fbd13368"
+    },
+    "pseudoAuteur": "user1",
+    "emailAuteur": "forum.user1@kenzbladi.ma",
+    "passWord": "*",
+    "imageAuteur": "https://source.unsplash.com/featured/1200x800/?portrait,morocco,artisan",
+    "etatMembre": "code_9201",
+    "froum": [
+      {
+        "$oid": "da86e7c8f2d1a41ea7d0b220"
+      }
+    ],
+    "participation": [],
+    "etatObjet": "code-1",
+    "objetsAssocies": []
+  },
+  {
+    "_id": {
+      "$oid": "1ed4b3396e342124201a6677"
+    },
+    "etatDePublication": "code_3417",
+    "type": "code_9101",
+    "reference": "KB-AF-1001",
+    "translations": [
+      {
+        "language": "fr",
+        "nom": "Argania Souss",
+        "apropos": "Membre actif du forum"
+      }
+    ],
+    "refMembre": {
+      "$oid": "7f8c6020d22eacc539e9d195"
+    },
+    "pseudoAuteur": "user2",
+    "emailAuteur": "forum.user2@kenzbladi.ma",
+    "passWord": "*",
+    "imageAuteur": "https://source.unsplash.com/featured/1200x800/?portrait,morocco,artisan",
+    "etatMembre": "code_9201",
+    "froum": [
+      {
+        "$oid": "da86e7c8f2d1a41ea7d0b220"
+      }
+    ],
+    "participation": [],
+    "etatObjet": "code-1",
+    "objetsAssocies": []
+  },
+  {
+    "_id": {
+      "$oid": "7ab9d3bf7513354b1aea5b46"
+    },
+    "etatDePublication": "code_3417",
+    "type": "code_9101",
+    "reference": "KB-AF-1002",
+    "translations": [
+      {
+        "language": "fr",
+        "nom": "Miel des Cèdres",
+        "apropos": "Membre actif du forum"
+      }
+    ],
+    "refMembre": {
+      "$oid": "5811fc125d16e52f324b5d56"
+    },
+    "pseudoAuteur": "user3",
+    "emailAuteur": "forum.user3@kenzbladi.ma",
+    "passWord": "*",
+    "imageAuteur": "https://source.unsplash.com/featured/1200x800/?portrait,morocco,artisan",
+    "etatMembre": "code_9201",
+    "froum": [
+      {
+        "$oid": "da86e7c8f2d1a41ea7d0b220"
+      }
+    ],
+    "participation": [],
+    "etatObjet": "code-1",
+    "objetsAssocies": []
+  },
+  {
+    "_id": {
+      "$oid": "34d78702737adb0906124b93"
+    },
+    "etatDePublication": "code_3417",
+    "type": "code_9101",
+    "reference": "KB-AF-1003",
+    "translations": [
+      {
+        "language": "fr",
+        "nom": "Saveurs de l'Oriental",
+        "apropos": "Membre actif du forum"
+      }
+    ],
+    "refMembre": {
+      "$oid": "40bd6fd1aabd7425a437ba8f"
+    },
+    "pseudoAuteur": "user4",
+    "emailAuteur": "forum.user4@kenzbladi.ma",
+    "passWord": "*",
+    "imageAuteur": "https://source.unsplash.com/featured/1200x800/?portrait,morocco,artisan",
+    "etatMembre": "code_9201",
+    "froum": [
+      {
+        "$oid": "da86e7c8f2d1a41ea7d0b220"
+      }
+    ],
+    "participation": [],
+    "etatObjet": "code-1",
+    "objetsAssocies": []
+  },
+  {
+    "_id": {
+      "$oid": "65dc1ea3de0f12e56c37532d"
+    },
+    "etatDePublication": "code_3417",
+    "type": "code_9102",
+    "reference": "KB-AF-1004",
+    "translations": [
+      {
+        "language": "fr",
+        "nom": "Karim",
+        "apropos": "Membre actif du forum"
+      }
+    ],
+    "refMembre": {
+      "$oid": "42f9eb66b4530d77a93547fc"
+    },
+    "pseudoAuteur": "user1",
+    "emailAuteur": "forum.user1@kenzbladi.ma",
+    "passWord": "*",
+    "imageAuteur": "https://source.unsplash.com/featured/1200x800/?portrait,morocco,artisan",
+    "etatMembre": "code_9201",
+    "froum": [
+      {
+        "$oid": "0e64ec96a4907e71ede5e963"
+      }
+    ],
+    "participation": [],
+    "etatObjet": "code-1",
+    "objetsAssocies": []
+  },
+  {
+    "_id": {
+      "$oid": "eaf6d3f5bf0f29702053f9d7"
+    },
+    "etatDePublication": "code_3417",
+    "type": "code_9102",
+    "reference": "KB-AF-1005",
+    "translations": [
+      {
+        "language": "fr",
+        "nom": "Nadia",
+        "apropos": "Membre actif du forum"
+      }
+    ],
+    "refMembre": {
+      "$oid": "14a8602b4765ac42377e8ae9"
+    },
+    "pseudoAuteur": "user2",
+    "emailAuteur": "forum.user2@kenzbladi.ma",
+    "passWord": "*",
+    "imageAuteur": "https://source.unsplash.com/featured/1200x800/?portrait,morocco,artisan",
+    "etatMembre": "code_9201",
+    "froum": [
+      {
+        "$oid": "0e64ec96a4907e71ede5e963"
+      }
+    ],
+    "participation": [],
+    "etatObjet": "code-1",
+    "objetsAssocies": []
+  },
+  {
+    "_id": {
+      "$oid": "1d3468f8a43f4cd21e54696f"
+    },
+    "etatDePublication": "code_3417",
+    "type": "code_9102",
+    "reference": "KB-AF-1006",
+    "translations": [
+      {
+        "language": "fr",
+        "nom": "Youssef",
+        "apropos": "Membre actif du forum"
+      }
+    ],
+    "refMembre": {
+      "$oid": "f9156e5ba44181694bebeb21"
+    },
+    "pseudoAuteur": "user3",
+    "emailAuteur": "forum.user3@kenzbladi.ma",
+    "passWord": "*",
+    "imageAuteur": "https://source.unsplash.com/featured/1200x800/?portrait,morocco,artisan",
+    "etatMembre": "code_9201",
+    "froum": [
+      {
+        "$oid": "0e64ec96a4907e71ede5e963"
+      }
+    ],
+    "participation": [],
+    "etatObjet": "code-1",
+    "objetsAssocies": []
+  },
+  {
+    "_id": {
+      "$oid": "d64a4b31e38313832e8789f2"
+    },
+    "etatDePublication": "code_3417",
+    "type": "code_9102",
+    "reference": "KB-AF-1007",
+    "translations": [
+      {
+        "language": "fr",
+        "nom": "Salma",
+        "apropos": "Membre actif du forum"
+      }
+    ],
+    "refMembre": {
+      "$oid": "c1493337226ad1e51b9d9a94"
+    },
+    "pseudoAuteur": "user4",
+    "emailAuteur": "forum.user4@kenzbladi.ma",
+    "passWord": "*",
+    "imageAuteur": "https://source.unsplash.com/featured/1200x800/?portrait,morocco,artisan",
+    "etatMembre": "code_9201",
+    "froum": [
+      {
+        "$oid": "0e64ec96a4907e71ede5e963"
+      }
+    ],
+    "participation": [],
+    "etatObjet": "code-1",
+    "objetsAssocies": []
+  }
+]

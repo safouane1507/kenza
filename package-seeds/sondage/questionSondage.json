@@ -1,0 +1,145 @@
+[
+  {
+    "_id": {
+      "$oid": "d04840e6d7a3bd1d365149a9"
+    },
+    "etatObjet": "code-1",
+    "reference": "KB-QSOND-1200",
+    "ordre": 1,
+    "translations": [
+      {
+        "language": "fr",
+        "labelQuestion": "Quel produit du terroir consommez-vous le plus ?",
+        "commentaire": ""
+      }
+    ],
+    "imageRepresentative": "https://source.unsplash.com/featured/1200x800/?medina,morocco,heritage",
+    "etatValidation": "code_3417",
+    "choix": [
+      {
+        "$oid": "7f8a552eee78d769ae64ace1"
+      },
+      {
+        "$oid": "501cdfa170fd3c032c7807e3"
+      },
+      {
+        "$oid": "325922409b7335ab5f7cc739"
+      },
+      {
+        "$oid": "06ab858e1b4822876975d557"
+      },
+      {
+        "$oid": "a2a5e5a95b542a6197fed633"
+      }
+    ],
+    "sondage": {
+      "$oid": "be0c6e2feb15edfd298353b6"
+    },
+    "objetsAssocies": []
+  },
+  {
+    "_id": {
+      "$oid": "0804a24ff3df61358c310a0f"
+    },
+    "etatObjet": "code-1",
+    "reference": "KB-QSOND-1201",
+    "ordre": 2,
+    "translations": [
+      {
+        "language": "fr",
+        "labelQuestion": "Quelle région marocaine préférez-vous explorer culinairement ?",
+        "commentaire": ""
+      }
+    ],
+    "imageRepresentative": "https://source.unsplash.com/featured/1200x800/?medina,morocco,heritage",
+    "etatValidation": "code_3417",
+    "choix": [
+      {
+        "$oid": "ad73d96750b9fce144030643"
+      },
+      {
+        "$oid": "338ef8d65fc361855b690114"
+      },
+      {
+        "$oid": "c0cdf58297a0980c1ae224cf"
+      },
+      {
+        "$oid": "839eb3c9cf34877d4ebaf823"
+      }
+    ],
+    "sondage": {
+      "$oid": "be0c6e2feb15edfd298353b6"
+    },
+    "objetsAssocies": []
+  },
+  {
+    "_id": {
+      "$oid": "f76326fe9f1f000cebcc4108"
+    },
+    "etatObjet": "code-1",
+    "reference": "KB-QSOND-1202",
+    "ordre": 1,
+    "translations": [
+      {
+        "language": "fr",
+        "labelQuestion": "Quel type d'hébergement vous tente le plus ?",
+        "commentaire": ""
+      }
+    ],
+    "imageRepresentative": "https://source.unsplash.com/featured/1200x800/?medina,morocco,heritage",
+    "etatValidation": "code_3417",
+    "choix": [
+      {
+        "$oid": "9b1ffb4f11e59524d59099a1"
+      },
+      {
+        "$oid": "6b4a4edf189e926d950e455b"
+      },
+      {
+        "$oid": "7d802b56a97597b3d3ef7a3d"
+      },
+      {
+        "$oid": "2709e5120c610503f61d9486"
+      }
+    ],
+    "sondage": {
+      "$oid": "3be0af78551b756b6a5b3f7f"
+    },
+    "objetsAssocies": []
+  },
+  {
+    "_id": {
+      "$oid": "f897c8e9fc6201869fcbf21d"
+    },
+    "etatObjet": "code-1",
+    "reference": "KB-QSOND-1203",
+    "ordre": 2,
+    "translations": [
+      {
+        "language": "fr",
+        "labelQuestion": "Quelle activité rêveriez-vous d'expérimenter ?",
+        "commentaire": ""
+      }
+    ],
+    "imageRepresentative": "https://source.unsplash.com/featured/1200x800/?medina,morocco,heritage",
+    "etatValidation": "code_3417",
+    "choix": [
+      {
+        "$oid": "ceb8605d87d2c026f3671030"
+      },
+      {
+        "$oid": "c65993c2b227de8ca0868bb2"
+      },
+      {
+        "$oid": "d90e660d321762f89e061447"
+      },
+      {
+        "$oid": "7c960a5684cb6ec7ab6136f2"
+      }
+    ],
+    "sondage": {
+      "$oid": "3be0af78551b756b6a5b3f7f"
+    },
+    "objetsAssocies": []
+  }
+]

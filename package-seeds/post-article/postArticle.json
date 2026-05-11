@@ -1,0 +1,614 @@
+[
+  {
+    "_id": {
+      "$oid": "de23bf7ee0a47bc164f93f01"
+    },
+    "etatObjet": "code-1",
+    "codeArticle": "KB-ART-1500",
+    "typeAuteur": [
+      "code_3401"
+    ],
+    "classificationArticle": "69e8ed38c6121d6a80291ff6",
+    "translations": [
+      {
+        "language": "fr",
+        "titreArticle": "L'huile d'olive marocaine, trésor du terroir",
+        "sousTitreArticle": "Plongée dans la production AOP de la région du Tadla.",
+        "resumeArticle": "Le Maroc compte plus de 1 million d'hectares d'oliveraies. La variété Picholine, locale, donne une huile fruitée et puissante…",
+        "contenuArticle": "Le Maroc compte plus de 1 million d'hectares d'oliveraies. La variété Picholine, locale, donne une huile fruitée et puissante…",
+        "etiquetteAffichage": "L'huile d'olive marocaine, trésor du terroir"
+      },
+      {
+        "language": "en",
+        "titreArticle": "L'huile d'olive marocaine, trésor du terroir",
+        "sousTitreArticle": "Plongée dans la production AOP de la région du Tadla.",
+        "resumeArticle": "Le Maroc compte plus de 1 million d'hectares d'oliveraies. La variété Picholine, locale, donne une huile fruitée et puissante…",
+        "contenuArticle": "Le Maroc compte plus de 1 million d'hectares d'oliveraies. La variété Picholine, locale, donne une huile fruitée et puissante…",
+        "etiquetteAffichage": "L'huile d'olive marocaine, trésor du terroir"
+      }
+    ],
+    "typeContenu": "code_3303",
+    "photoArticle": "https://source.unsplash.com/featured/1200x800/?editorial,morocco,kenz",
+    "dateCreationArticle": {
+      "$date": "2026-01-05T00:00:00.000Z"
+    },
+    "datePublication": {
+      "$date": "2026-01-08T00:00:00.000Z"
+    },
+    "dateArret": null,
+    "causeArret": null,
+    "auteurArret": null,
+    "telechargeable": true,
+    "partageable": true,
+    "enregistrable": true,
+    "langueParDefaut": null,
+    "provenonceInterne": "code_3450",
+    "payant": false,
+    "droitLibre": true,
+    "publicationAutorise": true,
+    "preuveAutorisation": "",
+    "dateEnregistrement": {
+      "$date": "2026-01-05T00:00:00.000Z"
+    },
+    "dateValidation": {
+      "$date": "2026-01-07T00:00:00.000Z"
+    },
+    "etatDePublication": "code_3417",
+    "sections": [
+      {
+        "$oid": "210a70580de3c1e90d83c12a"
+      },
+      {
+        "$oid": "36ca128a2cc7779ce7019d1d"
+      }
+    ],
+    "documentsgeneres": [],
+    "demandesArretPublication": [],
+    "relationInterArticle": [],
+    "relationParent": null,
+    "rubriques": [
+      {
+        "$oid": "f023af9b5b54c25579eb1069"
+      }
+    ],
+    "motscles": [
+      {
+        "$oid": "82efb0c170589a620944008e"
+      },
+      {
+        "$oid": "41ccb7c7ab17f4d79caf65fd"
+      },
+      {
+        "$oid": "ffef07e0631c9e4507aa7b37"
+      }
+    ],
+    "personneAuteur": [
+      {
+        "$oid": "42f9eb66b4530d77a93547fc"
+      }
+    ],
+    "organisationAuteur": [
+      {
+        "$oid": "88fa990b78d6486e5f464d75"
+      }
+    ],
+    "etatObject": [],
+    "statistiquesDirectes": [],
+    "referenceEtDocumentsAppuis": [],
+    "objetsAssoccies": [],
+    "blog": [],
+    "referenceDocumentAppuisPreuve": [],
+    "objetsConcernes": [],
+    "articleInformationnel": false
+  },
+  {
+    "_id": {
+      "$oid": "95875118a035445907afbf45"
+    },
+    "etatObjet": "code-1",
+    "codeArticle": "KB-ART-1501",
+    "typeAuteur": [
+      "code_3401"
+    ],
+    "classificationArticle": "69e8ed38c6121d6a80292086",
+    "translations": [
+      {
+        "language": "fr",
+        "titreArticle": "Argan : entre tradition féminine et industrie cosmétique",
+        "sousTitreArticle": "Comment les coopératives berbères révolutionnent la filière argan.",
+        "resumeArticle": "L'arganier, endémique du Sud-Ouest marocain, est au cœur d'une économie féminine puissante…",
+        "contenuArticle": "L'arganier, endémique du Sud-Ouest marocain, est au cœur d'une économie féminine puissante…",
+        "etiquetteAffichage": "Argan"
+      },
+      {
+        "language": "en",
+        "titreArticle": "Argan : entre tradition féminine et industrie cosmétique",
+        "sousTitreArticle": "Comment les coopératives berbères révolutionnent la filière argan.",
+        "resumeArticle": "L'arganier, endémique du Sud-Ouest marocain, est au cœur d'une économie féminine puissante…",
+        "contenuArticle": "L'arganier, endémique du Sud-Ouest marocain, est au cœur d'une économie féminine puissante…",
+        "etiquetteAffichage": "Argan"
+      }
+    ],
+    "typeContenu": "code_3303",
+    "photoArticle": "https://source.unsplash.com/featured/1200x800/?editorial,morocco,kenz",
+    "dateCreationArticle": {
+      "$date": "2026-01-12T00:00:00.000Z"
+    },
+    "datePublication": {
+      "$date": "2026-01-15T00:00:00.000Z"
+    },
+    "dateArret": null,
+    "causeArret": null,
+    "auteurArret": null,
+    "telechargeable": true,
+    "partageable": true,
+    "enregistrable": true,
+    "langueParDefaut": null,
+    "provenonceInterne": "code_3450",
+    "payant": false,
+    "droitLibre": true,
+    "publicationAutorise": true,
+    "preuveAutorisation": "",
+    "dateEnregistrement": {
+      "$date": "2026-01-12T00:00:00.000Z"
+    },
+    "dateValidation": {
+      "$date": "2026-01-14T00:00:00.000Z"
+    },
+    "etatDePublication": "code_3417",
+    "sections": [
+      {
+        "$oid": "ba63eb917c83d56d1432007d"
+      },
+      {
+        "$oid": "0bc5470235caef3ae53f20c8"
+      }
+    ],
+    "documentsgeneres": [],
+    "demandesArretPublication": [],
+    "relationInterArticle": [],
+    "relationParent": null,
+    "rubriques": [
+      {
+        "$oid": "6cb487821f17af32f6efd6fc"
+      }
+    ],
+    "motscles": [
+      {
+        "$oid": "30b736b9f6847a2a8ce980a5"
+      },
+      {
+        "$oid": "c13ba49cf4672e61be1e2eea"
+      },
+      {
+        "$oid": "068e37c8e55f25340ddec278"
+      }
+    ],
+    "personneAuteur": [
+      {
+        "$oid": "42f9eb66b4530d77a93547fc"
+      }
+    ],
+    "organisationAuteur": [
+      {
+        "$oid": "88fa990b78d6486e5f464d75"
+      }
+    ],
+    "etatObject": [],
+    "statistiquesDirectes": [],
+    "referenceEtDocumentsAppuis": [],
+    "objetsAssoccies": [],
+    "blog": [],
+    "referenceDocumentAppuisPreuve": [],
+    "objetsConcernes": [],
+    "articleInformationnel": false
+  },
+  {
+    "_id": {
+      "$oid": "d6a30d2387de675f1502355a"
+    },
+    "etatObjet": "code-1",
+    "codeArticle": "KB-ART-1502",
+    "typeAuteur": [
+      "code_3401"
+    ],
+    "classificationArticle": "69e8ed38c6121d6a80291eef",
+    "translations": [
+      {
+        "language": "fr",
+        "titreArticle": "Le hammam beldi : un rituel millénaire",
+        "sousTitreArticle": "Du savon noir au gant kessa, le rituel du hammam expliqué.",
+        "resumeArticle": "Le hammam est plus qu'un bain : c'est une pratique sociale et thérapeutique.",
+        "contenuArticle": "Le hammam est plus qu'un bain : c'est une pratique sociale et thérapeutique.",
+        "etiquetteAffichage": "Le hammam beldi"
+      },
+      {
+        "language": "en",
+        "titreArticle": "Le hammam beldi : un rituel millénaire",
+        "sousTitreArticle": "Du savon noir au gant kessa, le rituel du hammam expliqué.",
+        "resumeArticle": "Le hammam est plus qu'un bain : c'est une pratique sociale et thérapeutique.",
+        "contenuArticle": "Le hammam est plus qu'un bain : c'est une pratique sociale et thérapeutique.",
+        "etiquetteAffichage": "Le hammam beldi"
+      }
+    ],
+    "typeContenu": "code_3303",
+    "photoArticle": "https://source.unsplash.com/featured/1200x800/?hammam,morocco,spa",
+    "dateCreationArticle": {
+      "$date": "2026-01-19T00:00:00.000Z"
+    },
+    "datePublication": {
+      "$date": "2026-01-22T00:00:00.000Z"
+    },
+    "dateArret": null,
+    "causeArret": null,
+    "auteurArret": null,
+    "telechargeable": true,
+    "partageable": true,
+    "enregistrable": true,
+    "langueParDefaut": null,
+    "provenonceInterne": "code_3450",
+    "payant": false,
+    "droitLibre": true,
+    "publicationAutorise": true,
+    "preuveAutorisation": "",
+    "dateEnregistrement": {
+      "$date": "2026-01-19T00:00:00.000Z"
+    },
+    "dateValidation": {
+      "$date": "2026-01-21T00:00:00.000Z"
+    },
+    "etatDePublication": "code_3417",
+    "sections": [
+      {
+        "$oid": "8c96cdac70282a00cd814bd2"
+      },
+      {
+        "$oid": "43a5b9f31f9e5fe1a9ed002c"
+      }
+    ],
+    "documentsgeneres": [],
+    "demandesArretPublication": [],
+    "relationInterArticle": [],
+    "relationParent": null,
+    "rubriques": [
+      {
+        "$oid": "0f3e7f94501d5f0d367eb0f2"
+      }
+    ],
+    "motscles": [
+      {
+        "$oid": "41ccb7c7ab17f4d79caf65fd"
+      },
+      {
+        "$oid": "4a18270ba7734a031c115283"
+      },
+      {
+        "$oid": "c13ba49cf4672e61be1e2eea"
+      }
+    ],
+    "personneAuteur": [
+      {
+        "$oid": "42f9eb66b4530d77a93547fc"
+      }
+    ],
+    "organisationAuteur": [
+      {
+        "$oid": "88fa990b78d6486e5f464d75"
+      }
+    ],
+    "etatObject": [],
+    "statistiquesDirectes": [],
+    "referenceEtDocumentsAppuis": [],
+    "objetsAssoccies": [],
+    "blog": [],
+    "referenceDocumentAppuisPreuve": [],
+    "objetsConcernes": [],
+    "articleInformationnel": false
+  },
+  {
+    "_id": {
+      "$oid": "46a3e6b23659ed8d10fd433f"
+    },
+    "etatObjet": "code-1",
+    "codeArticle": "KB-ART-1503",
+    "typeAuteur": [
+      "code_3401"
+    ],
+    "classificationArticle": "69e8ed38c6121d6a80291f84",
+    "translations": [
+      {
+        "language": "fr",
+        "titreArticle": "Tapis Beni Ourain : la signature berbère",
+        "sousTitreArticle": "L'art du nouage Beni Ourain dans le Moyen Atlas.",
+        "resumeArticle": "Tissés main par les femmes Aït Khebbach, ces tapis sont reconnus mondialement…",
+        "contenuArticle": "Tissés main par les femmes Aït Khebbach, ces tapis sont reconnus mondialement…",
+        "etiquetteAffichage": "Tapis Beni Ourain"
+      },
+      {
+        "language": "en",
+        "titreArticle": "Tapis Beni Ourain : la signature berbère",
+        "sousTitreArticle": "L'art du nouage Beni Ourain dans le Moyen Atlas.",
+        "resumeArticle": "Tissés main par les femmes Aït Khebbach, ces tapis sont reconnus mondialement…",
+        "contenuArticle": "Tissés main par les femmes Aït Khebbach, ces tapis sont reconnus mondialement…",
+        "etiquetteAffichage": "Tapis Beni Ourain"
+      }
+    ],
+    "typeContenu": "code_3303",
+    "photoArticle": "https://source.unsplash.com/featured/1200x800/?morocco,berber,carpet,handmade",
+    "dateCreationArticle": {
+      "$date": "2026-01-26T00:00:00.000Z"
+    },
+    "datePublication": {
+      "$date": "2026-01-29T00:00:00.000Z"
+    },
+    "dateArret": null,
+    "causeArret": null,
+    "auteurArret": null,
+    "telechargeable": true,
+    "partageable": true,
+    "enregistrable": true,
+    "langueParDefaut": null,
+    "provenonceInterne": "code_3450",
+    "payant": false,
+    "droitLibre": true,
+    "publicationAutorise": true,
+    "preuveAutorisation": "",
+    "dateEnregistrement": {
+      "$date": "2026-01-26T00:00:00.000Z"
+    },
+    "dateValidation": {
+      "$date": "2026-01-28T00:00:00.000Z"
+    },
+    "etatDePublication": "code_3417",
+    "sections": [
+      {
+        "$oid": "badb780f094a2bc9808792e1"
+      },
+      {
+        "$oid": "74202c991afd4addf8c93c94"
+      }
+    ],
+    "documentsgeneres": [],
+    "demandesArretPublication": [],
+    "relationInterArticle": [],
+    "relationParent": null,
+    "rubriques": [
+      {
+        "$oid": "e2895ff8636d96ce721a54f2"
+      }
+    ],
+    "motscles": [
+      {
+        "$oid": "ffef07e0631c9e4507aa7b37"
+      },
+      {
+        "$oid": "4a18270ba7734a031c115283"
+      },
+      {
+        "$oid": "967bf9f88ad976200d6a3ab5"
+      }
+    ],
+    "personneAuteur": [
+      {
+        "$oid": "42f9eb66b4530d77a93547fc"
+      }
+    ],
+    "organisationAuteur": [
+      {
+        "$oid": "88fa990b78d6486e5f464d75"
+      }
+    ],
+    "etatObject": [],
+    "statistiquesDirectes": [],
+    "referenceEtDocumentsAppuis": [],
+    "objetsAssoccies": [],
+    "blog": [],
+    "referenceDocumentAppuisPreuve": [],
+    "objetsConcernes": [],
+    "articleInformationnel": false
+  },
+  {
+    "_id": {
+      "$oid": "35878a0a5bf3df366fc96d51"
+    },
+    "etatObjet": "code-1",
+    "codeArticle": "KB-ART-1504",
+    "typeAuteur": [
+      "code_3401"
+    ],
+    "classificationArticle": "69e8ed38c6121d6a80291f20",
+    "translations": [
+      {
+        "language": "fr",
+        "titreArticle": "Voyage au cœur de la palmeraie de Erfoud",
+        "sousTitreArticle": "Itinéraire d'un séjour dans le pays des dattes.",
+        "resumeArticle": "Erfoud, porte du Tafilalet, abrite l'une des plus grandes palmeraies du monde.",
+        "contenuArticle": "Erfoud, porte du Tafilalet, abrite l'une des plus grandes palmeraies du monde.",
+        "etiquetteAffichage": "Voyage au cœur de la palmeraie de Erfoud"
+      },
+      {
+        "language": "en",
+        "titreArticle": "Voyage au cœur de la palmeraie de Erfoud",
+        "sousTitreArticle": "Itinéraire d'un séjour dans le pays des dattes.",
+        "resumeArticle": "Erfoud, porte du Tafilalet, abrite l'une des plus grandes palmeraies du monde.",
+        "contenuArticle": "Erfoud, porte du Tafilalet, abrite l'une des plus grandes palmeraies du monde.",
+        "etiquetteAffichage": "Voyage au cœur de la palmeraie de Erfoud"
+      }
+    ],
+    "typeContenu": "code_3303",
+    "photoArticle": "https://source.unsplash.com/featured/1200x800/?editorial,morocco,kenz",
+    "dateCreationArticle": {
+      "$date": "2026-02-02T00:00:00.000Z"
+    },
+    "datePublication": {
+      "$date": "2026-02-05T00:00:00.000Z"
+    },
+    "dateArret": null,
+    "causeArret": null,
+    "auteurArret": null,
+    "telechargeable": true,
+    "partageable": true,
+    "enregistrable": true,
+    "langueParDefaut": null,
+    "provenonceInterne": "code_3450",
+    "payant": false,
+    "droitLibre": true,
+    "publicationAutorise": true,
+    "preuveAutorisation": "",
+    "dateEnregistrement": {
+      "$date": "2026-02-02T00:00:00.000Z"
+    },
+    "dateValidation": {
+      "$date": "2026-02-04T00:00:00.000Z"
+    },
+    "etatDePublication": "code_3417",
+    "sections": [
+      {
+        "$oid": "c496d4689ba91f168c0bd73f"
+      },
+      {
+        "$oid": "de69e2316a19f6b6634a2166"
+      }
+    ],
+    "documentsgeneres": [],
+    "demandesArretPublication": [],
+    "relationInterArticle": [],
+    "relationParent": null,
+    "rubriques": [
+      {
+        "$oid": "e9ecc37cfa2796d447cd4569"
+      }
+    ],
+    "motscles": [
+      {
+        "$oid": "ffef07e0631c9e4507aa7b37"
+      },
+      {
+        "$oid": "d00d8ea0b332b5621829efa1"
+      },
+      {
+        "$oid": "0fe68b3798f647d8f642b7ca"
+      }
+    ],
+    "personneAuteur": [
+      {
+        "$oid": "42f9eb66b4530d77a93547fc"
+      }
+    ],
+    "organisationAuteur": [
+      {
+        "$oid": "88fa990b78d6486e5f464d75"
+      }
+    ],
+    "etatObject": [],
+    "statistiquesDirectes": [],
+    "referenceEtDocumentsAppuis": [],
+    "objetsAssoccies": [],
+    "blog": [],
+    "referenceDocumentAppuisPreuve": [],
+    "objetsConcernes": [],
+    "articleInformationnel": false
+  },
+  {
+    "_id": {
+      "$oid": "f16e311fd35be4115f99ab3d"
+    },
+    "etatObjet": "code-1",
+    "codeArticle": "KB-ART-1505",
+    "typeAuteur": [
+      "code_3401"
+    ],
+    "classificationArticle": "69e8ed38c6121d6a80291e21",
+    "translations": [
+      {
+        "language": "fr",
+        "titreArticle": "Caftans : la haute couture marocaine",
+        "sousTitreArticle": "Du Sfifa au tissage de Fès, le caftan dans tous ses détails.",
+        "resumeArticle": "Le caftan est l'emblème de la mode marocaine, porté lors des grandes occasions.",
+        "contenuArticle": "Le caftan est l'emblème de la mode marocaine, porté lors des grandes occasions.",
+        "etiquetteAffichage": "Caftans"
+      },
+      {
+        "language": "en",
+        "titreArticle": "Caftans : la haute couture marocaine",
+        "sousTitreArticle": "Du Sfifa au tissage de Fès, le caftan dans tous ses détails.",
+        "resumeArticle": "Le caftan est l'emblème de la mode marocaine, porté lors des grandes occasions.",
+        "contenuArticle": "Le caftan est l'emblème de la mode marocaine, porté lors des grandes occasions.",
+        "etiquetteAffichage": "Caftans"
+      }
+    ],
+    "typeContenu": "code_3303",
+    "photoArticle": "https://source.unsplash.com/featured/1200x800/?editorial,morocco,kenz",
+    "dateCreationArticle": {
+      "$date": "2026-02-09T00:00:00.000Z"
+    },
+    "datePublication": {
+      "$date": "2026-02-12T00:00:00.000Z"
+    },
+    "dateArret": null,
+    "causeArret": null,
+    "auteurArret": null,
+    "telechargeable": true,
+    "partageable": true,
+    "enregistrable": true,
+    "langueParDefaut": null,
+    "provenonceInterne": "code_3450",
+    "payant": false,
+    "droitLibre": true,
+    "publicationAutorise": true,
+    "preuveAutorisation": "",
+    "dateEnregistrement": {
+      "$date": "2026-02-09T00:00:00.000Z"
+    },
+    "dateValidation": {
+      "$date": "2026-02-11T00:00:00.000Z"
+    },
+    "etatDePublication": "code_3417",
+    "sections": [
+      {
+        "$oid": "36c119a9b9e946290459fde5"
+      },
+      {
+        "$oid": "45b5e267d9a34fcad3616040"
+      }
+    ],
+    "documentsgeneres": [],
+    "demandesArretPublication": [],
+    "relationInterArticle": [],
+    "relationParent": null,
+    "rubriques": [
+      {
+        "$oid": "f023af9b5b54c25579eb1069"
+      }
+    ],
+    "motscles": [
+      {
+        "$oid": "30b736b9f6847a2a8ce980a5"
+      },
+      {
+        "$oid": "41ccb7c7ab17f4d79caf65fd"
+      },
+      {
+        "$oid": "41242c699e9e43932fa963f1"
+      }
+    ],
+    "personneAuteur": [
+      {
+        "$oid": "42f9eb66b4530d77a93547fc"
+      }
+    ],
+    "organisationAuteur": [
+      {
+        "$oid": "88fa990b78d6486e5f464d75"
+      }
+    ],
+    "etatObject": [],
+    "statistiquesDirectes": [],
+    "referenceEtDocumentsAppuis": [],
+    "objetsAssoccies": [],
+    "blog": [],
+    "referenceDocumentAppuisPreuve": [],
+    "objetsConcernes": [],
+    "articleInformationnel": false
+  }
+]

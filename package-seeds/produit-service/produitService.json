@@ -1,0 +1,3246 @@
+[
+  {
+    "_id": {
+      "$oid": "e4f5f7a70ac16a444c109f33"
+    },
+    "etatObjet": "code-1",
+    "etatCreation": "etatDeCreation.published",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Huile d'Argan Alimentaire 250ml",
+        "description": "Huile d'argan torréfiée pour la cuisine."
+      },
+      {
+        "language": "en",
+        "designation": "Huile d'Argan Alimentaire 250ml",
+        "description": "Huile d'argan torréfiée pour la cuisine."
+      }
+    ],
+    "photo": "https://source.unsplash.com/featured/1200x800/?argan,oil,morocco",
+    "caracteristiqueAssocie": [
+      {
+        "$oid": "b5f54b2de1d30f7614ddfb38"
+      },
+      {
+        "$oid": "931fdf68fec765064b4143b5"
+      },
+      {
+        "$oid": "f0aa9ccacb2dd9af89022859"
+      }
+    ],
+    "elementProduitAssocie": [],
+    "produitAssocie": [
+      {
+        "$oid": "6066a01e5cb4ec922bb01935"
+      }
+    ],
+    "codageProduitAssocie": [
+      {
+        "$oid": "8ebbd2e711c00bac978a1cb1"
+      }
+    ],
+    "grilleAssocie": [
+      {
+        "$oid": "4fa82a09bde52c867605d8b7"
+      },
+      {
+        "$oid": "e75345f30a6bd4a14dafc25e"
+      }
+    ],
+    "typeRelation": [
+      {
+        "$oid": "315dbf73eb8b91c7b04fe2bd"
+      }
+    ],
+    "refTaxonomie": {
+      "$oid": "69e8ed38c6121d6a80291de8"
+    },
+    "refActeurPro": {
+      "$oid": "919c56e5b864acd9fbd13368"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "0a6b9a90b7ef5293822377e3"
+    },
+    "etatObjet": "code-1",
+    "etatCreation": "etatDeCreation.published",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Ras El Hanout Royal 100g",
+        "description": "Mélange d'épices haut de gamme (35 ingrédients)."
+      },
+      {
+        "language": "en",
+        "designation": "Ras El Hanout Royal 100g",
+        "description": "Mélange d'épices haut de gamme (35 ingrédients)."
+      }
+    ],
+    "photo": "https://source.unsplash.com/featured/1200x800/?morocco,spices,souk",
+    "caracteristiqueAssocie": [
+      {
+        "$oid": "9101e760d682010e2076c9c3"
+      },
+      {
+        "$oid": "e47ad20a0211c5fbdbb1baa4"
+      },
+      {
+        "$oid": "61971c67efd9c29a46f3532d"
+      }
+    ],
+    "elementProduitAssocie": [],
+    "produitAssocie": [],
+    "codageProduitAssocie": [
+      {
+        "$oid": "22dd55a50bb951e045c8c108"
+      }
+    ],
+    "grilleAssocie": [
+      {
+        "$oid": "29294ac7d719fd5089be69c1"
+      },
+      {
+        "$oid": "0576fbb6dea29a340b15df08"
+      }
+    ],
+    "typeRelation": [],
+    "refTaxonomie": {
+      "$oid": "69e8ed38c6121d6a80291de7"
+    },
+    "refActeurPro": {
+      "$oid": "919c56e5b864acd9fbd13368"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "4ce6f68892a9ceab00b40f8d"
+    },
+    "etatObjet": "code-1",
+    "etatCreation": "etatDeCreation.published",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Huile d'Olive Vierge Extra AOP",
+        "description": "Huile pressée à froid issue de variétés Picholine et Haouzia."
+      },
+      {
+        "language": "en",
+        "designation": "Huile d'Olive Vierge Extra AOP",
+        "description": "Huile pressée à froid issue de variétés Picholine et Haouzia."
+      }
+    ],
+    "photo": "https://source.unsplash.com/featured/1200x800/?morocco,olive,oil,bottle",
+    "caracteristiqueAssocie": [
+      {
+        "$oid": "aba683f48a782f37b5e89aa6"
+      },
+      {
+        "$oid": "27a79bfb0635881a8bf9d20e"
+      },
+      {
+        "$oid": "0836d11061da3401793f57c2"
+      }
+    ],
+    "elementProduitAssocie": [],
+    "produitAssocie": [],
+    "codageProduitAssocie": [
+      {
+        "$oid": "7e64f4b0051a3fed39715a8a"
+      }
+    ],
+    "grilleAssocie": [
+      {
+        "$oid": "1c2a510df03e2ec544435613"
+      },
+      {
+        "$oid": "7721f8921ed9c54ecf37dcfb"
+      }
+    ],
+    "typeRelation": [],
+    "refTaxonomie": {
+      "$oid": "69e8ed38c6121d6a80291e49"
+    },
+    "refActeurPro": {
+      "$oid": "7f8c6020d22eacc539e9d195"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "3d6263c403de355e9dc2cab9"
+    },
+    "etatObjet": "code-1",
+    "etatCreation": "etatDeCreation.published",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Dattes Mejhoul Premium 1kg",
+        "description": "Dattes Mejhoul AOP de la palmeraie de Erfoud."
+      },
+      {
+        "language": "en",
+        "designation": "Dattes Mejhoul Premium 1kg",
+        "description": "Dattes Mejhoul AOP de la palmeraie de Erfoud."
+      }
+    ],
+    "photo": "https://source.unsplash.com/featured/1200x800/?dates,palm,morocco",
+    "caracteristiqueAssocie": [
+      {
+        "$oid": "4a09c6713a129bceca89788f"
+      },
+      {
+        "$oid": "9c95ad75d6abdcb108b75f8e"
+      },
+      {
+        "$oid": "a4eee9288dbe181dc55a6998"
+      }
+    ],
+    "elementProduitAssocie": [],
+    "produitAssocie": [],
+    "codageProduitAssocie": [
+      {
+        "$oid": "ca4a8eb9ee32d97e60fed2dd"
+      }
+    ],
+    "grilleAssocie": [
+      {
+        "$oid": "57dbeae94dd52c0f451e78ab"
+      },
+      {
+        "$oid": "9f1437fcd5184f6deccd2967"
+      }
+    ],
+    "typeRelation": [],
+    "refTaxonomie": {
+      "$oid": "69e8ed38c6121d6a80291e40"
+    },
+    "refActeurPro": {
+      "$oid": "7f8c6020d22eacc539e9d195"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "e9ce59d1b2d44f6a088ecd7d"
+    },
+    "etatObjet": "code-1",
+    "etatCreation": "etatDeCreation.published",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Huile d'Olive Vierge Extra AOP",
+        "description": "Huile pressée à froid issue de variétés Picholine et Haouzia."
+      },
+      {
+        "language": "en",
+        "designation": "Huile d'Olive Vierge Extra AOP",
+        "description": "Huile pressée à froid issue de variétés Picholine et Haouzia."
+      }
+    ],
+    "photo": "https://source.unsplash.com/featured/1200x800/?morocco,olive,oil,bottle",
+    "caracteristiqueAssocie": [
+      {
+        "$oid": "d0b85583af4b3f3fbbe2a6c1"
+      },
+      {
+        "$oid": "88149578b4d86f4e761c4f0f"
+      },
+      {
+        "$oid": "d42e14578af4177ce433c239"
+      }
+    ],
+    "elementProduitAssocie": [],
+    "produitAssocie": [],
+    "codageProduitAssocie": [
+      {
+        "$oid": "c2d980a757c89921cd750c2a"
+      }
+    ],
+    "grilleAssocie": [
+      {
+        "$oid": "6d93cfd686cada4bcf522c94"
+      },
+      {
+        "$oid": "0fbb0b84883c51a301ffcda4"
+      }
+    ],
+    "typeRelation": [],
+    "refTaxonomie": {
+      "$oid": "69e8ed38c6121d6a80291e07"
+    },
+    "refActeurPro": {
+      "$oid": "5811fc125d16e52f324b5d56"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "ed34bb02c63a0f6a29667c49"
+    },
+    "etatObjet": "code-1",
+    "etatCreation": "etatDeCreation.published",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Amandes Marcona 500g",
+        "description": "Amandes douces de la région de Tadla."
+      },
+      {
+        "language": "en",
+        "designation": "Amandes Marcona 500g",
+        "description": "Amandes douces de la région de Tadla."
+      }
+    ],
+    "photo": "https://source.unsplash.com/featured/1200x800/?almonds,morocco,terroir",
+    "caracteristiqueAssocie": [
+      {
+        "$oid": "dfde588bb75a1c028cc35651"
+      },
+      {
+        "$oid": "bd467c8ffedff2c04e3ad6b1"
+      },
+      {
+        "$oid": "3cd7cee4aa2e0750a1e880ca"
+      }
+    ],
+    "elementProduitAssocie": [],
+    "produitAssocie": [],
+    "codageProduitAssocie": [
+      {
+        "$oid": "3801cdf49786ef2f1233acfd"
+      }
+    ],
+    "grilleAssocie": [
+      {
+        "$oid": "8d1f40b98b520f4fba27f2eb"
+      },
+      {
+        "$oid": "9b344e1809a74bc01687138e"
+      }
+    ],
+    "typeRelation": [],
+    "refTaxonomie": {
+      "$oid": "69e8ed38c6121d6a80291e04"
+    },
+    "refActeurPro": {
+      "$oid": "5811fc125d16e52f324b5d56"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "ccc54a0be1b34f436c47a9b7"
+    },
+    "etatObjet": "code-1",
+    "etatCreation": "etatDeCreation.published",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Huile d'Argan Alimentaire 250ml",
+        "description": "Huile d'argan torréfiée pour la cuisine."
+      },
+      {
+        "language": "en",
+        "designation": "Huile d'Argan Alimentaire 250ml",
+        "description": "Huile d'argan torréfiée pour la cuisine."
+      }
+    ],
+    "photo": "https://source.unsplash.com/featured/1200x800/?argan,oil,morocco",
+    "caracteristiqueAssocie": [
+      {
+        "$oid": "3516b92a51b166592c1872fc"
+      },
+      {
+        "$oid": "6c95c770f6d8fe60bd60e053"
+      },
+      {
+        "$oid": "a9f205edc9b4206643681924"
+      }
+    ],
+    "elementProduitAssocie": [],
+    "produitAssocie": [],
+    "codageProduitAssocie": [
+      {
+        "$oid": "4ede391250e070e874577117"
+      }
+    ],
+    "grilleAssocie": [
+      {
+        "$oid": "c34ed40572ab9f62e3e06286"
+      },
+      {
+        "$oid": "e852afeac25a13fab7093646"
+      }
+    ],
+    "typeRelation": [],
+    "refTaxonomie": {
+      "$oid": "69e8ed38c6121d6a80291def"
+    },
+    "refActeurPro": {
+      "$oid": "5811fc125d16e52f324b5d56"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "55f37d6d93c3dc43328c53ae"
+    },
+    "etatObjet": "code-1",
+    "etatCreation": "etatDeCreation.published",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Dattes Mejhoul Premium 1kg",
+        "description": "Dattes Mejhoul AOP de la palmeraie de Erfoud."
+      },
+      {
+        "language": "en",
+        "designation": "Dattes Mejhoul Premium 1kg",
+        "description": "Dattes Mejhoul AOP de la palmeraie de Erfoud."
+      }
+    ],
+    "photo": "https://source.unsplash.com/featured/1200x800/?dates,palm,morocco",
+    "caracteristiqueAssocie": [
+      {
+        "$oid": "aaf7b71ba02e55b98be2dba9"
+      },
+      {
+        "$oid": "1e1e4a0f667ac28823fc0c6b"
+      },
+      {
+        "$oid": "b1cb211e132e630d464b8587"
+      }
+    ],
+    "elementProduitAssocie": [],
+    "produitAssocie": [],
+    "codageProduitAssocie": [
+      {
+        "$oid": "b8bea69aefe5ad9abd7cfc80"
+      }
+    ],
+    "grilleAssocie": [
+      {
+        "$oid": "e92b124826f518f61eb7f2d1"
+      },
+      {
+        "$oid": "a7fce50bc3c67e157621bae4"
+      }
+    ],
+    "typeRelation": [],
+    "refTaxonomie": {
+      "$oid": "69e8ed38c6121d6a80291e2b"
+    },
+    "refActeurPro": {
+      "$oid": "40bd6fd1aabd7425a437ba8f"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "9777eda660a4da612b0e65a8"
+    },
+    "etatObjet": "code-1",
+    "etatCreation": "etatDeCreation.published",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Miel d'Eucalyptus 500g",
+        "description": "Miel mono-fleur récolté dans le Moyen Atlas."
+      },
+      {
+        "language": "en",
+        "designation": "Miel d'Eucalyptus 500g",
+        "description": "Miel mono-fleur récolté dans le Moyen Atlas."
+      }
+    ],
+    "photo": "https://source.unsplash.com/featured/1200x800/?honey,jar,morocco,artisan",
+    "caracteristiqueAssocie": [
+      {
+        "$oid": "6c21ffcad739463c3be4cbf2"
+      },
+      {
+        "$oid": "fa71faa640442cbe6cf95487"
+      },
+      {
+        "$oid": "3a229fe78529c71cdd4c5488"
+      }
+    ],
+    "elementProduitAssocie": [],
+    "produitAssocie": [
+      {
+        "$oid": "012e58ff3c0bd1cf9c3ef442"
+      }
+    ],
+    "codageProduitAssocie": [
+      {
+        "$oid": "c755ce3464358653d8d255f2"
+      }
+    ],
+    "grilleAssocie": [
+      {
+        "$oid": "9a978bb7b2f3da10a7dbbc53"
+      },
+      {
+        "$oid": "ddc47f5dc3968155d1af4aa8"
+      }
+    ],
+    "typeRelation": [
+      {
+        "$oid": "0ca58593394febc612b2018a"
+      }
+    ],
+    "refTaxonomie": {
+      "$oid": "69e8ed38c6121d6a80291e35"
+    },
+    "refActeurPro": {
+      "$oid": "40bd6fd1aabd7425a437ba8f"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "1478825e3619a2b765482221"
+    },
+    "etatObjet": "code-1",
+    "etatCreation": "etatDeCreation.published",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Miel d'Eucalyptus 500g",
+        "description": "Miel mono-fleur récolté dans le Moyen Atlas."
+      },
+      {
+        "language": "en",
+        "designation": "Miel d'Eucalyptus 500g",
+        "description": "Miel mono-fleur récolté dans le Moyen Atlas."
+      }
+    ],
+    "photo": "https://source.unsplash.com/featured/1200x800/?honey,jar,morocco,artisan",
+    "caracteristiqueAssocie": [
+      {
+        "$oid": "04166f054d6f94d6dc401d44"
+      },
+      {
+        "$oid": "f8a40e162556855dd9ceb84a"
+      },
+      {
+        "$oid": "24ec4c79b6bcc2cab676ede9"
+      }
+    ],
+    "elementProduitAssocie": [],
+    "produitAssocie": [],
+    "codageProduitAssocie": [
+      {
+        "$oid": "8ee5381cb61ea752fe222a96"
+      }
+    ],
+    "grilleAssocie": [
+      {
+        "$oid": "95288889400766b06e80a6b9"
+      },
+      {
+        "$oid": "74d3cebf2dc01e8f4551ce89"
+      }
+    ],
+    "typeRelation": [],
+    "refTaxonomie": {
+      "$oid": "69e8ed38c6121d6a80291e43"
+    },
+    "refActeurPro": {
+      "$oid": "94ef1a2e14b18b954e01e82a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "df28d885880ba78cc2399db4"
+    },
+    "etatObjet": "code-1",
+    "etatCreation": "etatDeCreation.published",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Ras El Hanout Royal 100g",
+        "description": "Mélange d'épices haut de gamme (35 ingrédients)."
+      },
+      {
+        "language": "en",
+        "designation": "Ras El Hanout Royal 100g",
+        "description": "Mélange d'épices haut de gamme (35 ingrédients)."
+      }
+    ],
+    "photo": "https://source.unsplash.com/featured/1200x800/?morocco,spices,souk",
+    "caracteristiqueAssocie": [
+      {
+        "$oid": "67d5c0bbf30fc5981ad40dbe"
+      },
+      {
+        "$oid": "6d06a3d17307e61bc170da4c"
+      },
+      {
+        "$oid": "f6132505a65f89dea2b7a1d6"
+      }
+    ],
+    "elementProduitAssocie": [],
+    "produitAssocie": [],
+    "codageProduitAssocie": [
+      {
+        "$oid": "2e8e1f2fc73c3f828edf2edb"
+      }
+    ],
+    "grilleAssocie": [
+      {
+        "$oid": "b41a1fe63b49900e06bc8b14"
+      },
+      {
+        "$oid": "3d10133545e78f8138eacf4d"
+      }
+    ],
+    "typeRelation": [],
+    "refTaxonomie": {
+      "$oid": "69e8ed38c6121d6a80291e41"
+    },
+    "refActeurPro": {
+      "$oid": "94ef1a2e14b18b954e01e82a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "be1275cde9f43405b75b7f27"
+    },
+    "etatObjet": "code-1",
+    "etatCreation": "etatDeCreation.published",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Huile d'Olive Vierge Extra AOP",
+        "description": "Huile pressée à froid issue de variétés Picholine et Haouzia."
+      },
+      {
+        "language": "en",
+        "designation": "Huile d'Olive Vierge Extra AOP",
+        "description": "Huile pressée à froid issue de variétés Picholine et Haouzia."
+      }
+    ],
+    "photo": "https://source.unsplash.com/featured/1200x800/?morocco,olive,oil,bottle",
+    "caracteristiqueAssocie": [
+      {
+        "$oid": "2d11c5717f1abb8c1b26e40d"
+      },
+      {
+        "$oid": "fe474b1362b0c667afe21eb6"
+      },
+      {
+        "$oid": "3d699a1a0a703d6c94f96dee"
+      }
+    ],
+    "elementProduitAssocie": [],
+    "produitAssocie": [],
+    "codageProduitAssocie": [
+      {
+        "$oid": "b72a6d53c872cd30edf4eb95"
+      }
+    ],
+    "grilleAssocie": [
+      {
+        "$oid": "5d87abc8b8102e1ceb9c80b8"
+      },
+      {
+        "$oid": "bfedc890cc5827bd8562be6e"
+      }
+    ],
+    "typeRelation": [],
+    "refTaxonomie": {
+      "$oid": "69e8ed38c6121d6a80291e4b"
+    },
+    "refActeurPro": {
+      "$oid": "94ef1a2e14b18b954e01e82a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "04a0018b18f20a3ee871f325"
+    },
+    "etatObjet": "code-1",
+    "etatCreation": "etatDeCreation.published",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Dattes Mejhoul Premium 1kg",
+        "description": "Dattes Mejhoul AOP de la palmeraie de Erfoud."
+      },
+      {
+        "language": "en",
+        "designation": "Dattes Mejhoul Premium 1kg",
+        "description": "Dattes Mejhoul AOP de la palmeraie de Erfoud."
+      }
+    ],
+    "photo": "https://source.unsplash.com/featured/1200x800/?dates,palm,morocco",
+    "caracteristiqueAssocie": [
+      {
+        "$oid": "0e1113c98ca8812a3d13309c"
+      },
+      {
+        "$oid": "65412341b6f23625e7fa91b3"
+      },
+      {
+        "$oid": "6bbba4656a30e2db7409d5e0"
+      }
+    ],
+    "elementProduitAssocie": [],
+    "produitAssocie": [],
+    "codageProduitAssocie": [
+      {
+        "$oid": "42e4a5edb1308a9a49acd399"
+      }
+    ],
+    "grilleAssocie": [
+      {
+        "$oid": "3070e1417aa000e54d764584"
+      },
+      {
+        "$oid": "74524aa457b280d2bc98c9f6"
+      }
+    ],
+    "typeRelation": [],
+    "refTaxonomie": {
+      "$oid": "69e8ed38c6121d6a80291e48"
+    },
+    "refActeurPro": {
+      "$oid": "94ef1a2e14b18b954e01e82a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "a3ddb7ae6a7f65934ca3646c"
+    },
+    "etatObjet": "code-1",
+    "etatCreation": "etatDeCreation.published",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Box Légumes Bio Hebdo 5kg",
+        "description": "Panier hebdomadaire de légumes de saison."
+      },
+      {
+        "language": "en",
+        "designation": "Box Légumes Bio Hebdo 5kg",
+        "description": "Panier hebdomadaire de légumes de saison."
+      }
+    ],
+    "photo": "https://source.unsplash.com/featured/1200x800/?organic,vegetables,morocco",
+    "caracteristiqueAssocie": [
+      {
+        "$oid": "5fee926c878aa3e2acb2b9ca"
+      },
+      {
+        "$oid": "40387f2a3ef504c1c59c13ba"
+      },
+      {
+        "$oid": "eed300c27d6330752fc3fb41"
+      }
+    ],
+    "elementProduitAssocie": [],
+    "produitAssocie": [],
+    "codageProduitAssocie": [
+      {
+        "$oid": "6d8a842ccec7c7595be9866c"
+      }
+    ],
+    "grilleAssocie": [
+      {
+        "$oid": "41bfa7dcc89178b7292bac01"
+      },
+      {
+        "$oid": "dd46fa2fba4cbe7b7a898014"
+      }
+    ],
+    "typeRelation": [],
+    "refTaxonomie": {
+      "$oid": "69e8ed38c6121d6a80291e89"
+    },
+    "refActeurPro": {
+      "$oid": "dcea3052bdc1469ed073fc46"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "e1dfbffe8ef6315a1e4acfcb"
+    },
+    "etatObjet": "code-1",
+    "etatCreation": "etatDeCreation.published",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Couscous Beldi 1kg",
+        "description": "Couscous semoule complète."
+      },
+      {
+        "language": "en",
+        "designation": "Couscous Beldi 1kg",
+        "description": "Couscous semoule complète."
+      }
+    ],
+    "photo": "https://source.unsplash.com/featured/1200x800/?couscous,morocco",
+    "caracteristiqueAssocie": [
+      {
+        "$oid": "5f73a7a85ea29ed1ed3c167c"
+      },
+      {
+        "$oid": "23d0cf7b9db43834aec86de8"
+      },
+      {
+        "$oid": "d2ec85d6d65b6b600fe4a19c"
+      }
+    ],
+    "elementProduitAssocie": [],
+    "produitAssocie": [],
+    "codageProduitAssocie": [
+      {
+        "$oid": "a6e26fc9dea372b6c3cbac9d"
+      }
+    ],
+    "grilleAssocie": [
+      {
+        "$oid": "5738d9b947a1c40b94905ebc"
+      },
+      {
+        "$oid": "051d2f788ae2930ad3918f34"
+      }
+    ],
+    "typeRelation": [],
+    "refTaxonomie": {
+      "$oid": "69e8ed38c6121d6a80291e84"
+    },
+    "refActeurPro": {
+      "$oid": "dcea3052bdc1469ed073fc46"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "a58b00562153ab4013d78ae1"
+    },
+    "etatObjet": "code-1",
+    "etatCreation": "etatDeCreation.published",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Box Fruits de Saison 4kg",
+        "description": "Mélange de fruits cultivés localement."
+      },
+      {
+        "language": "en",
+        "designation": "Box Fruits de Saison 4kg",
+        "description": "Mélange de fruits cultivés localement."
+      }
+    ],
+    "photo": "https://source.unsplash.com/featured/1200x800/?seasonal,fruits,morocco",
+    "caracteristiqueAssocie": [
+      {
+        "$oid": "edd8b980e46d06ef3f23885a"
+      },
+      {
+        "$oid": "b4306d8ac2a3440be720479c"
+      },
+      {
+        "$oid": "2703e17a823cbe9e0da8e712"
+      }
+    ],
+    "elementProduitAssocie": [],
+    "produitAssocie": [],
+    "codageProduitAssocie": [
+      {
+        "$oid": "fcbef765937ef0fcee7f3eba"
+      }
+    ],
+    "grilleAssocie": [
+      {
+        "$oid": "cdaf431336ba33a269ece82f"
+      },
+      {
+        "$oid": "72b060be46c0e428f916e105"
+      }
+    ],
+    "typeRelation": [],
+    "refTaxonomie": {
+      "$oid": "69e8ed38c6121d6a80291e90"
+    },
+    "refActeurPro": {
+      "$oid": "23952ce440655a634b05769f"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "7c026ef2ea8df27c55524005"
+    },
+    "etatObjet": "code-1",
+    "etatCreation": "etatDeCreation.published",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Box Légumes Bio Hebdo 5kg",
+        "description": "Panier hebdomadaire de légumes de saison."
+      },
+      {
+        "language": "en",
+        "designation": "Box Légumes Bio Hebdo 5kg",
+        "description": "Panier hebdomadaire de légumes de saison."
+      }
+    ],
+    "photo": "https://source.unsplash.com/featured/1200x800/?organic,vegetables,morocco",
+    "caracteristiqueAssocie": [
+      {
+        "$oid": "966fa8ccd722429b7bb67a96"
+      },
+      {
+        "$oid": "12c36523f28eb79aae502204"
+      },
+      {
+        "$oid": "2224cfd55f45a58d49bab455"
+      }
+    ],
+    "elementProduitAssocie": [],
+    "produitAssocie": [
+      {
+        "$oid": "b1df570f30e12de9354d3c5c"
+      }
+    ],
+    "codageProduitAssocie": [
+      {
+        "$oid": "6680057d452a0b8bb98912f3"
+      }
+    ],
+    "grilleAssocie": [
+      {
+        "$oid": "dcaada8d3403285de18df458"
+      },
+      {
+        "$oid": "51d8847b8fef83dcd43daf60"
+      }
+    ],
+    "typeRelation": [
+      {
+        "$oid": "651abb88d9fc3c2255a84355"
+      }
+    ],
+    "refTaxonomie": {
+      "$oid": "69e8ed38c6121d6a80291e9d"
+    },
+    "refActeurPro": {
+      "$oid": "23952ce440655a634b05769f"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "98f8e52f7918acc099d800ce"
+    },
+    "etatObjet": "code-1",
+    "etatCreation": "etatDeCreation.published",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Coffret Hammam Premium",
+        "description": "Savon beldi + ghassoul + gant kessa."
+      },
+      {
+        "language": "en",
+        "designation": "Coffret Hammam Premium",
+        "description": "Savon beldi + ghassoul + gant kessa."
+      }
+    ],
+    "photo": "https://source.unsplash.com/featured/1200x800/?hammam,morocco,spa",
+    "caracteristiqueAssocie": [
+      {
+        "$oid": "6f31093a353f39bf25626acc"
+      },
+      {
+        "$oid": "a830491b186861a2fc3ba469"
+      },
+      {
+        "$oid": "b39e8269742096e73c2f90c0"
+      }
+    ],
+    "elementProduitAssocie": [],
+    "produitAssocie": [],
+    "codageProduitAssocie": [
+      {
+        "$oid": "7b28d0a404c4465eec93c1e9"
+      }
+    ],
+    "grilleAssocie": [
+      {
+        "$oid": "5cb6a758a113cc2ef5bfc609"
+      },
+      {
+        "$oid": "91719a8159cb879284b4efcf"
+      }
+    ],
+    "typeRelation": [],
+    "refTaxonomie": {
+      "$oid": "69e8ed38c6121d6a80291ef4"
+    },
+    "refActeurPro": {
+      "$oid": "6b3356f18784b3e8223ac20c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "dbeb5f07b8f3a44d20a14b9a"
+    },
+    "etatObjet": "code-1",
+    "etatCreation": "etatDeCreation.published",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Eau Florale de Rose 200ml",
+        "description": "Distillée artisanalement — vallée du Dadès."
+      },
+      {
+        "language": "en",
+        "designation": "Eau Florale de Rose 200ml",
+        "description": "Distillée artisanalement — vallée du Dadès."
+      }
+    ],
+    "photo": "https://source.unsplash.com/featured/1200x800/?essential,oil,morocco,rose",
+    "caracteristiqueAssocie": [
+      {
+        "$oid": "8eb6728f269d6b48688ad12d"
+      },
+      {
+        "$oid": "196c6e8722e4d0bd2c608c28"
+      },
+      {
+        "$oid": "57158b5a1591f31ead82af85"
+      }
+    ],
+    "elementProduitAssocie": [],
+    "produitAssocie": [],
+    "codageProduitAssocie": [
+      {
+        "$oid": "902a5023f3be8afba66f3df0"
+      }
+    ],
+    "grilleAssocie": [
+      {
+        "$oid": "757681ec37120b3ebc4e0a55"
+      },
+      {
+        "$oid": "138fed48e5f4a88f71866fb1"
+      }
+    ],
+    "typeRelation": [],
+    "refTaxonomie": {
+      "$oid": "69e8ed38c6121d6a80291f0f"
+    },
+    "refActeurPro": {
+      "$oid": "6b3356f18784b3e8223ac20c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "e9aff9a787f3d8281e527be3"
+    },
+    "etatObjet": "code-1",
+    "etatCreation": "etatDeCreation.published",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Savon Beldi Pur 200g",
+        "description": "Savon noir à l'huile d'olive — exfoliant."
+      },
+      {
+        "language": "en",
+        "designation": "Savon Beldi Pur 200g",
+        "description": "Savon noir à l'huile d'olive — exfoliant."
+      }
+    ],
+    "photo": "https://source.unsplash.com/featured/1200x800/?savon,beldi,argan,soap",
+    "caracteristiqueAssocie": [
+      {
+        "$oid": "f3d5c18d7388d7c6e4002bb4"
+      },
+      {
+        "$oid": "e331ddad30ab8257f1c86f22"
+      },
+      {
+        "$oid": "02a49838f14ae4c66616b0ee"
+      }
+    ],
+    "elementProduitAssocie": [],
+    "produitAssocie": [],
+    "codageProduitAssocie": [
+      {
+        "$oid": "9380770293f778fa9070c261"
+      }
+    ],
+    "grilleAssocie": [
+      {
+        "$oid": "85fbe8a9bfdb9e68370ad927"
+      },
+      {
+        "$oid": "edadbee6696b0c37f838bf61"
+      }
+    ],
+    "typeRelation": [],
+    "refTaxonomie": {
+      "$oid": "69e8ed38c6121d6a80291f11"
+    },
+    "refActeurPro": {
+      "$oid": "6b3356f18784b3e8223ac20c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625a53f16d0f6dbe6824f9d8"
+    },
+    "etatObjet": "code-1",
+    "etatCreation": "etatDeCreation.published",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Crème Visage Argan 50ml",
+        "description": "Soin hydratant à l'huile d'argan bio."
+      },
+      {
+        "language": "en",
+        "designation": "Crème Visage Argan 50ml",
+        "description": "Soin hydratant à l'huile d'argan bio."
+      }
+    ],
+    "photo": "https://source.unsplash.com/featured/1200x800/?morocco,beauty,natural",
+    "caracteristiqueAssocie": [
+      {
+        "$oid": "476a6acdff7a2114c51d20ec"
+      },
+      {
+        "$oid": "9c84be699759a84e2cc071c9"
+      },
+      {
+        "$oid": "b64cac613242e7ef26318884"
+      }
+    ],
+    "elementProduitAssocie": [],
+    "produitAssocie": [],
+    "codageProduitAssocie": [
+      {
+        "$oid": "dafb345b100ba3beeb665c5e"
+      }
+    ],
+    "grilleAssocie": [
+      {
+        "$oid": "319e7b0ba370ead4f2f727fa"
+      },
+      {
+        "$oid": "a988cec40105e30c367eca1c"
+      }
+    ],
+    "typeRelation": [],
+    "refTaxonomie": {
+      "$oid": "69e8ed38c6121d6a80291f09"
+    },
+    "refActeurPro": {
+      "$oid": "6b3356f18784b3e8223ac20c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "846d4161d60ffa49741694aa"
+    },
+    "etatObjet": "code-1",
+    "etatCreation": "etatDeCreation.published",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Savon Beldi Pur 200g",
+        "description": "Savon noir à l'huile d'olive — exfoliant."
+      },
+      {
+        "language": "en",
+        "designation": "Savon Beldi Pur 200g",
+        "description": "Savon noir à l'huile d'olive — exfoliant."
+      }
+    ],
+    "photo": "https://source.unsplash.com/featured/1200x800/?savon,beldi,argan,soap",
+    "caracteristiqueAssocie": [
+      {
+        "$oid": "367752450b3dbb0d41a1d84d"
+      },
+      {
+        "$oid": "ffa5c85a40598f0608286911"
+      },
+      {
+        "$oid": "73dac5373476eea8bcca80e4"
+      }
+    ],
+    "elementProduitAssocie": [],
+    "produitAssocie": [],
+    "codageProduitAssocie": [
+      {
+        "$oid": "fcaa4d3655d8389459109f40"
+      }
+    ],
+    "grilleAssocie": [
+      {
+        "$oid": "71c66a2354ac157b2e5b92b4"
+      },
+      {
+        "$oid": "fb54d88a079d285ceaa88241"
+      }
+    ],
+    "typeRelation": [],
+    "refTaxonomie": {
+      "$oid": "69e8ed38c6121d6a80291f0a"
+    },
+    "refActeurPro": {
+      "$oid": "0352776fb95791e9e6daac74"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "329b7b6449163ffd9e6d51f4"
+    },
+    "etatObjet": "code-1",
+    "etatCreation": "etatDeCreation.published",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Crème Visage Argan 50ml",
+        "description": "Soin hydratant à l'huile d'argan bio."
+      },
+      {
+        "language": "en",
+        "designation": "Crème Visage Argan 50ml",
+        "description": "Soin hydratant à l'huile d'argan bio."
+      }
+    ],
+    "photo": "https://source.unsplash.com/featured/1200x800/?morocco,beauty,natural",
+    "caracteristiqueAssocie": [
+      {
+        "$oid": "6db691b1bd09392217d5c8f5"
+      },
+      {
+        "$oid": "b09d914ec22e37d4a47de130"
+      },
+      {
+        "$oid": "06d87c664e4b9b4463529087"
+      }
+    ],
+    "elementProduitAssocie": [],
+    "produitAssocie": [],
+    "codageProduitAssocie": [
+      {
+        "$oid": "1aff0f6e7d8fe595269fbecb"
+      }
+    ],
+    "grilleAssocie": [
+      {
+        "$oid": "93898a84f29bed5f7ea1f4fc"
+      },
+      {
+        "$oid": "b7f0bec1dfae61fe4fce3749"
+      }
+    ],
+    "typeRelation": [],
+    "refTaxonomie": {
+      "$oid": "69e8ed38c6121d6a80291f16"
+    },
+    "refActeurPro": {
+      "$oid": "0352776fb95791e9e6daac74"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "2fa38f5015521737f0b69bf1"
+    },
+    "etatObjet": "code-1",
+    "etatCreation": "etatDeCreation.published",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Coffret Hammam Premium",
+        "description": "Savon beldi + ghassoul + gant kessa."
+      },
+      {
+        "language": "en",
+        "designation": "Coffret Hammam Premium",
+        "description": "Savon beldi + ghassoul + gant kessa."
+      }
+    ],
+    "photo": "https://source.unsplash.com/featured/1200x800/?hammam,morocco,spa",
+    "caracteristiqueAssocie": [
+      {
+        "$oid": "d96b0bea822b891828bdc0e3"
+      },
+      {
+        "$oid": "7c06d904b7be55a8a08b495c"
+      },
+      {
+        "$oid": "1bb30c56e293bef7a2167b4e"
+      }
+    ],
+    "elementProduitAssocie": [],
+    "produitAssocie": [],
+    "codageProduitAssocie": [
+      {
+        "$oid": "a10fd56d5235780a4c76b0ab"
+      }
+    ],
+    "grilleAssocie": [
+      {
+        "$oid": "39855cd66bcfdb684b836a6c"
+      },
+      {
+        "$oid": "044b7b9a1ae42d6cbc6d0e06"
+      }
+    ],
+    "typeRelation": [],
+    "refTaxonomie": {
+      "$oid": "69e8ed38c6121d6a80291f23"
+    },
+    "refActeurPro": {
+      "$oid": "a06c92f892440cb6da3f467e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "e85a5e009678a4f9c4fa5d37"
+    },
+    "etatObjet": "code-1",
+    "etatCreation": "etatDeCreation.published",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Crème Visage Argan 50ml",
+        "description": "Soin hydratant à l'huile d'argan bio."
+      },
+      {
+        "language": "en",
+        "designation": "Crème Visage Argan 50ml",
+        "description": "Soin hydratant à l'huile d'argan bio."
+      }
+    ],
+    "photo": "https://source.unsplash.com/featured/1200x800/?morocco,beauty,natural",
+    "caracteristiqueAssocie": [
+      {
+        "$oid": "1c500161910ad11c1c057a13"
+      },
+      {
+        "$oid": "5d70b0a7b0e444dc70e17dd5"
+      },
+      {
+        "$oid": "23a41534c81e5f3a82d979ec"
+      }
+    ],
+    "elementProduitAssocie": [],
+    "produitAssocie": [
+      {
+        "$oid": "07244524bebe5ace5cdc965f"
+      }
+    ],
+    "codageProduitAssocie": [
+      {
+        "$oid": "97bf98152d222898d44814e8"
+      }
+    ],
+    "grilleAssocie": [
+      {
+        "$oid": "dae58e280ce512a551b3655a"
+      },
+      {
+        "$oid": "85099d4b0827cb3ed2b08a2c"
+      }
+    ],
+    "typeRelation": [
+      {
+        "$oid": "116e6ca9944a82405b338930"
+      }
+    ],
+    "refTaxonomie": {
+      "$oid": "69e8ed38c6121d6a80291f22"
+    },
+    "refActeurPro": {
+      "$oid": "a06c92f892440cb6da3f467e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "2662b3d55361dec632d70a4e"
+    },
+    "etatObjet": "code-1",
+    "etatCreation": "etatDeCreation.published",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Eau Florale de Rose 200ml",
+        "description": "Distillée artisanalement — vallée du Dadès."
+      },
+      {
+        "language": "en",
+        "designation": "Eau Florale de Rose 200ml",
+        "description": "Distillée artisanalement — vallée du Dadès."
+      }
+    ],
+    "photo": "https://source.unsplash.com/featured/1200x800/?essential,oil,morocco,rose",
+    "caracteristiqueAssocie": [
+      {
+        "$oid": "ea9d5bc297e72623e8457363"
+      },
+      {
+        "$oid": "d080a15803220f7cdd9feeb7"
+      },
+      {
+        "$oid": "16f201bf4d365c678ec33793"
+      }
+    ],
+    "elementProduitAssocie": [],
+    "produitAssocie": [],
+    "codageProduitAssocie": [
+      {
+        "$oid": "7a7dcbaeaa8e0b3d4a35ce4e"
+      }
+    ],
+    "grilleAssocie": [
+      {
+        "$oid": "2ecddc187447d3de5be51cc1"
+      },
+      {
+        "$oid": "5a4924bd4d39456a9b166cef"
+      }
+    ],
+    "typeRelation": [],
+    "refTaxonomie": {
+      "$oid": "69e8ed38c6121d6a80291ef9"
+    },
+    "refActeurPro": {
+      "$oid": "a06c92f892440cb6da3f467e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "446d4f5966602eacee083521"
+    },
+    "etatObjet": "code-1",
+    "etatCreation": "etatDeCreation.published",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Chebakia 500g",
+        "description": "Pâtisserie au miel et sésame, faite main."
+      },
+      {
+        "language": "en",
+        "designation": "Chebakia 500g",
+        "description": "Pâtisserie au miel et sésame, faite main."
+      }
+    ],
+    "photo": "https://source.unsplash.com/featured/1200x800/?moroccan,patisserie,sweets",
+    "caracteristiqueAssocie": [
+      {
+        "$oid": "c515055185ca6bbe025e3712"
+      },
+      {
+        "$oid": "681bef2a563a8da4570fa2de"
+      },
+      {
+        "$oid": "443b05f61be38ee084af4f35"
+      }
+    ],
+    "elementProduitAssocie": [],
+    "produitAssocie": [],
+    "codageProduitAssocie": [
+      {
+        "$oid": "9b75600b2c0e0b36c77562ad"
+      }
+    ],
+    "grilleAssocie": [
+      {
+        "$oid": "2e897c0588b70b39b886253b"
+      },
+      {
+        "$oid": "a1a92b6d1f8bc5baeadeed51"
+      }
+    ],
+    "typeRelation": [],
+    "refTaxonomie": {
+      "$oid": "69e8ed38c6121d6a80291f6e"
+    },
+    "refActeurPro": {
+      "$oid": "1aef25c8e0cdc7807fe22049"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "19158e481bc84541f782c947"
+    },
+    "etatObjet": "code-1",
+    "etatCreation": "etatDeCreation.published",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Thé Vert Menthe Premium 250g",
+        "description": "Thé vert Chinois + menthe Nanaa fraîche."
+      },
+      {
+        "language": "en",
+        "designation": "Thé Vert Menthe Premium 250g",
+        "description": "Thé vert Chinois + menthe Nanaa fraîche."
+      }
+    ],
+    "photo": "https://source.unsplash.com/featured/1200x800/?moroccan,mint,tea",
+    "caracteristiqueAssocie": [
+      {
+        "$oid": "8414f98e8539ad8883a326ad"
+      },
+      {
+        "$oid": "0fce920a0a2ef01e4b922778"
+      },
+      {
+        "$oid": "057340ef56bc4cbd3902b5e5"
+      }
+    ],
+    "elementProduitAssocie": [],
+    "produitAssocie": [],
+    "codageProduitAssocie": [
+      {
+        "$oid": "c0fdc2a0a0bf42ea5d95ea1d"
+      }
+    ],
+    "grilleAssocie": [
+      {
+        "$oid": "6f7a9e1419be65dc620361c0"
+      },
+      {
+        "$oid": "f6c92ee0eaccfe50fa2ac42b"
+      }
+    ],
+    "typeRelation": [],
+    "refTaxonomie": {
+      "$oid": "69e8ed38c6121d6a80291f6d"
+    },
+    "refActeurPro": {
+      "$oid": "1aef25c8e0cdc7807fe22049"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "4ace1a921a6d9d8cf730da33"
+    },
+    "etatObjet": "code-1",
+    "etatCreation": "etatDeCreation.published",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Thé Vert Menthe Premium 250g",
+        "description": "Thé vert Chinois + menthe Nanaa fraîche."
+      },
+      {
+        "language": "en",
+        "designation": "Thé Vert Menthe Premium 250g",
+        "description": "Thé vert Chinois + menthe Nanaa fraîche."
+      }
+    ],
+    "photo": "https://source.unsplash.com/featured/1200x800/?moroccan,mint,tea",
+    "caracteristiqueAssocie": [
+      {
+        "$oid": "a4cac495ce75dac98649e201"
+      },
+      {
+        "$oid": "2eeb66a962e74c4218f96660"
+      },
+      {
+        "$oid": "395c1dbf2fb53442877f5c16"
+      }
+    ],
+    "elementProduitAssocie": [],
+    "produitAssocie": [],
+    "codageProduitAssocie": [
+      {
+        "$oid": "a84650d5d300275be2a91598"
+      }
+    ],
+    "grilleAssocie": [
+      {
+        "$oid": "441294c8abcae36aeccffdd2"
+      },
+      {
+        "$oid": "f497ab03484b45599a0b62eb"
+      }
+    ],
+    "typeRelation": [],
+    "refTaxonomie": {
+      "$oid": "69e8ed38c6121d6a80291f3f"
+    },
+    "refActeurPro": {
+      "$oid": "4ccd1aec6467fabf1cba1b6e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "416290aaecbe2a318ebb8a6f"
+    },
+    "etatObjet": "code-1",
+    "etatCreation": "etatDeCreation.published",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Pain Khobz Beldi (lot de 4)",
+        "description": "Pain au four de bois communautaire."
+      },
+      {
+        "language": "en",
+        "designation": "Pain Khobz Beldi (lot de 4)",
+        "description": "Pain au four de bois communautaire."
+      }
+    ],
+    "photo": "https://source.unsplash.com/featured/1200x800/?moroccan,bread,khobz",
+    "caracteristiqueAssocie": [
+      {
+        "$oid": "a18e6b82c4973a77f26d86b7"
+      },
+      {
+        "$oid": "c168cf096d3985fcd5c3f282"
+      },
+      {
+        "$oid": "8f2b16fdd8a69730a62094e6"
+      }
+    ],
+    "elementProduitAssocie": [],
+    "produitAssocie": [],
+    "codageProduitAssocie": [
+      {
+        "$oid": "b92bfce8de3de486ab1946f1"
+      }
+    ],
+    "grilleAssocie": [
+      {
+        "$oid": "553038215b85a2894198cd44"
+      },
+      {
+        "$oid": "b6e238b1b51eb3a8338a3238"
+      }
+    ],
+    "typeRelation": [],
+    "refTaxonomie": {
+      "$oid": "69e8ed38c6121d6a80291f3b"
+    },
+    "refActeurPro": {
+      "$oid": "4ccd1aec6467fabf1cba1b6e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "cc74ee952bfc01fdeb566984"
+    },
+    "etatObjet": "code-1",
+    "etatCreation": "etatDeCreation.published",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Chebakia 500g",
+        "description": "Pâtisserie au miel et sésame, faite main."
+      },
+      {
+        "language": "en",
+        "designation": "Chebakia 500g",
+        "description": "Pâtisserie au miel et sésame, faite main."
+      }
+    ],
+    "photo": "https://source.unsplash.com/featured/1200x800/?moroccan,patisserie,sweets",
+    "caracteristiqueAssocie": [
+      {
+        "$oid": "5db65265a0896f30bd81fa37"
+      },
+      {
+        "$oid": "56a5bbeb26e31d0ed5e15312"
+      },
+      {
+        "$oid": "dda4267ea8282e0e2a10889c"
+      }
+    ],
+    "elementProduitAssocie": [],
+    "produitAssocie": [],
+    "codageProduitAssocie": [
+      {
+        "$oid": "583e7f393cf2cb7343f7dc6f"
+      }
+    ],
+    "grilleAssocie": [
+      {
+        "$oid": "f0338210bd59ed2be03033c1"
+      },
+      {
+        "$oid": "f13b9bbe4dea53f42afcc7fe"
+      }
+    ],
+    "typeRelation": [],
+    "refTaxonomie": {
+      "$oid": "69e8ed38c6121d6a80291f37"
+    },
+    "refActeurPro": {
+      "$oid": "4ccd1aec6467fabf1cba1b6e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6781e1d4e526d9a68aacd7b7"
+    },
+    "etatObjet": "code-1",
+    "etatCreation": "etatDeCreation.published",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Thé Vert Menthe Premium 250g",
+        "description": "Thé vert Chinois + menthe Nanaa fraîche."
+      },
+      {
+        "language": "en",
+        "designation": "Thé Vert Menthe Premium 250g",
+        "description": "Thé vert Chinois + menthe Nanaa fraîche."
+      }
+    ],
+    "photo": "https://source.unsplash.com/featured/1200x800/?moroccan,mint,tea",
+    "caracteristiqueAssocie": [
+      {
+        "$oid": "f7fe1fadfb67cc3335672e86"
+      },
+      {
+        "$oid": "94822bd832909c6327583702"
+      },
+      {
+        "$oid": "775233d68e66c543ef3aac5a"
+      }
+    ],
+    "elementProduitAssocie": [],
+    "produitAssocie": [],
+    "codageProduitAssocie": [
+      {
+        "$oid": "e969eca5f81d8159fd5b6f04"
+      }
+    ],
+    "grilleAssocie": [
+      {
+        "$oid": "003d942dbac9a20c998bf2ad"
+      },
+      {
+        "$oid": "a79a9a65b289f9d4371b6e64"
+      }
+    ],
+    "typeRelation": [],
+    "refTaxonomie": {
+      "$oid": "69e8ed38c6121d6a80291f5e"
+    },
+    "refActeurPro": {
+      "$oid": "cbba9fbfedb13dc3f8d4e56d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "1e7991731a1aee6832986b55"
+    },
+    "etatObjet": "code-1",
+    "etatCreation": "etatDeCreation.published",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Chebakia 500g",
+        "description": "Pâtisserie au miel et sésame, faite main."
+      },
+      {
+        "language": "en",
+        "designation": "Chebakia 500g",
+        "description": "Pâtisserie au miel et sésame, faite main."
+      }
+    ],
+    "photo": "https://source.unsplash.com/featured/1200x800/?moroccan,patisserie,sweets",
+    "caracteristiqueAssocie": [
+      {
+        "$oid": "821074384d28919fadf39ecd"
+      },
+      {
+        "$oid": "3dec260d1dad28afc0452629"
+      },
+      {
+        "$oid": "762e6060992766bf3e4f036c"
+      }
+    ],
+    "elementProduitAssocie": [],
+    "produitAssocie": [
+      {
+        "$oid": "864ebd0189c71b321e7e17a5"
+      }
+    ],
+    "codageProduitAssocie": [
+      {
+        "$oid": "f26a77718746d91c19323e9f"
+      }
+    ],
+    "grilleAssocie": [
+      {
+        "$oid": "6a32c10db9ebc2edabf3fdaa"
+      },
+      {
+        "$oid": "174cd790e1f034d2501156e8"
+      }
+    ],
+    "typeRelation": [
+      {
+        "$oid": "6e83cb6b1db8984721eeb096"
+      }
+    ],
+    "refTaxonomie": {
+      "$oid": "69e8ed38c6121d6a80291f5d"
+    },
+    "refActeurPro": {
+      "$oid": "cbba9fbfedb13dc3f8d4e56d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "9f4492ebf2e1004d81dcf843"
+    },
+    "etatObjet": "code-1",
+    "etatCreation": "etatDeCreation.published",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Coussin Sabra Brodé",
+        "description": "Tissé main soie de cactus."
+      },
+      {
+        "language": "en",
+        "designation": "Coussin Sabra Brodé",
+        "description": "Tissé main soie de cactus."
+      }
+    ],
+    "photo": "https://source.unsplash.com/featured/1200x800/?moroccan,textile,handwoven",
+    "caracteristiqueAssocie": [
+      {
+        "$oid": "c8e18d070d85e58c28a1187e"
+      },
+      {
+        "$oid": "229677fed97461bc4114f022"
+      },
+      {
+        "$oid": "d15c466038545d574991f75f"
+      }
+    ],
+    "elementProduitAssocie": [],
+    "produitAssocie": [],
+    "codageProduitAssocie": [
+      {
+        "$oid": "5ca946dbd3df046c05640ee7"
+      }
+    ],
+    "grilleAssocie": [
+      {
+        "$oid": "12ded2e5edc189d86d092941"
+      },
+      {
+        "$oid": "19ee4a1ab766137a6d841e48"
+      }
+    ],
+    "typeRelation": [],
+    "refTaxonomie": {
+      "$oid": "69e8ed38c6121d6a80291fbe"
+    },
+    "refActeurPro": {
+      "$oid": "7651e4e1c03bca86d2eb60d2"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "07df28941ef166741bbba3a6"
+    },
+    "etatObjet": "code-1",
+    "etatCreation": "etatDeCreation.published",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Tapis Beni Ourain 200x300cm",
+        "description": "Tapis berbère noué main, laine vierge."
+      },
+      {
+        "language": "en",
+        "designation": "Tapis Beni Ourain 200x300cm",
+        "description": "Tapis berbère noué main, laine vierge."
+      }
+    ],
+    "photo": "https://source.unsplash.com/featured/1200x800/?morocco,berber,carpet,handmade",
+    "caracteristiqueAssocie": [
+      {
+        "$oid": "e39c0278df9c8f9e0caf385b"
+      },
+      {
+        "$oid": "6501e6c2eec782c5894d17ab"
+      },
+      {
+        "$oid": "32f9f4604dcf9a8f82d96cde"
+      }
+    ],
+    "elementProduitAssocie": [],
+    "produitAssocie": [],
+    "codageProduitAssocie": [
+      {
+        "$oid": "81e95fdef6a44e91911d408b"
+      }
+    ],
+    "grilleAssocie": [
+      {
+        "$oid": "fdaf3e54668a4740f7cd8539"
+      },
+      {
+        "$oid": "c1d5a9ad571ed01007e686d5"
+      }
+    ],
+    "typeRelation": [],
+    "refTaxonomie": {
+      "$oid": "69e8ed38c6121d6a80291fbf"
+    },
+    "refActeurPro": {
+      "$oid": "7651e4e1c03bca86d2eb60d2"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "fa5e07ecf203eb2367cd5a4d"
+    },
+    "etatObjet": "code-1",
+    "etatCreation": "etatDeCreation.published",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Tapis Beni Ourain 200x300cm",
+        "description": "Tapis berbère noué main, laine vierge."
+      },
+      {
+        "language": "en",
+        "designation": "Tapis Beni Ourain 200x300cm",
+        "description": "Tapis berbère noué main, laine vierge."
+      }
+    ],
+    "photo": "https://source.unsplash.com/featured/1200x800/?morocco,berber,carpet,handmade",
+    "caracteristiqueAssocie": [
+      {
+        "$oid": "12cdee1ac3c950ccd3debdd8"
+      },
+      {
+        "$oid": "4d7ec5cb2fa8fb2af16ea11f"
+      },
+      {
+        "$oid": "80c88d2273dda5e91853b392"
+      }
+    ],
+    "elementProduitAssocie": [],
+    "produitAssocie": [],
+    "codageProduitAssocie": [
+      {
+        "$oid": "30619b193ae1efc96175f25b"
+      }
+    ],
+    "grilleAssocie": [
+      {
+        "$oid": "e04acf6cf59cadf6508d650f"
+      },
+      {
+        "$oid": "cce847a876431f25f27051b5"
+      }
+    ],
+    "typeRelation": [],
+    "refTaxonomie": {
+      "$oid": "69e8ed38c6121d6a80291fb1"
+    },
+    "refActeurPro": {
+      "$oid": "0409a701edc2d9d8df7ff624"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "220761c08ca1dca492a66ae6"
+    },
+    "etatObjet": "code-1",
+    "etatCreation": "etatDeCreation.published",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Panier doum tressé main",
+        "description": "Panier de marché en doum naturel."
+      },
+      {
+        "language": "en",
+        "designation": "Panier doum tressé main",
+        "description": "Panier de marché en doum naturel."
+      }
+    ],
+    "photo": "https://source.unsplash.com/featured/1200x800/?morocco,basket,vannerie",
+    "caracteristiqueAssocie": [
+      {
+        "$oid": "500057ad7a90d09643f1a9d1"
+      },
+      {
+        "$oid": "dd2dd37e43edc5c2287dac38"
+      },
+      {
+        "$oid": "bd95b55e9e5c5a805a889598"
+      }
+    ],
+    "elementProduitAssocie": [],
+    "produitAssocie": [],
+    "codageProduitAssocie": [
+      {
+        "$oid": "fb7357aa65446f3613e15586"
+      }
+    ],
+    "grilleAssocie": [
+      {
+        "$oid": "b87978593807ebad17dc4e71"
+      },
+      {
+        "$oid": "4d784a426ab5a853d1a8b367"
+      }
+    ],
+    "typeRelation": [],
+    "refTaxonomie": {
+      "$oid": "69e8ed38c6121d6a80291fb0"
+    },
+    "refActeurPro": {
+      "$oid": "0409a701edc2d9d8df7ff624"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "88fd39f546e7231b4c7e09dd"
+    },
+    "etatObjet": "code-1",
+    "etatCreation": "etatDeCreation.published",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Tagine Décoratif Safi 30cm",
+        "description": "Céramique peinte main — Safi."
+      },
+      {
+        "language": "en",
+        "designation": "Tagine Décoratif Safi 30cm",
+        "description": "Céramique peinte main — Safi."
+      }
+    ],
+    "photo": "https://source.unsplash.com/featured/1200x800/?safi,morocco,pottery,ceramic",
+    "caracteristiqueAssocie": [
+      {
+        "$oid": "99c0216bd3c9af6a0410d2d0"
+      },
+      {
+        "$oid": "e0c535a5e8069fa51d79eb5d"
+      },
+      {
+        "$oid": "49d58e4b03eaf83b576e605c"
+      }
+    ],
+    "elementProduitAssocie": [],
+    "produitAssocie": [],
+    "codageProduitAssocie": [
+      {
+        "$oid": "de778a53abde2a23c998c4e3"
+      }
+    ],
+    "grilleAssocie": [
+      {
+        "$oid": "a68081040b6d536753b09169"
+      },
+      {
+        "$oid": "008ae8108c6e6c8e9b0d3ff4"
+      }
+    ],
+    "typeRelation": [],
+    "refTaxonomie": {
+      "$oid": "69e8ed38c6121d6a80291faf"
+    },
+    "refActeurPro": {
+      "$oid": "0409a701edc2d9d8df7ff624"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "1a633e907f887205541772a3"
+    },
+    "etatObjet": "code-1",
+    "etatCreation": "etatDeCreation.published",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Panier doum tressé main",
+        "description": "Panier de marché en doum naturel."
+      },
+      {
+        "language": "en",
+        "designation": "Panier doum tressé main",
+        "description": "Panier de marché en doum naturel."
+      }
+    ],
+    "photo": "https://source.unsplash.com/featured/1200x800/?morocco,basket,vannerie",
+    "caracteristiqueAssocie": [
+      {
+        "$oid": "18cd1f87db446f319e880ed0"
+      },
+      {
+        "$oid": "d8cd10fdbbde6c0ff4794503"
+      },
+      {
+        "$oid": "9caa99de27566640dc85016c"
+      }
+    ],
+    "elementProduitAssocie": [],
+    "produitAssocie": [],
+    "codageProduitAssocie": [
+      {
+        "$oid": "9288c5de323e8cf8d0509f0d"
+      }
+    ],
+    "grilleAssocie": [
+      {
+        "$oid": "c4649be060f0d9ce7e4d9bf9"
+      },
+      {
+        "$oid": "a4d7caddc9c22d4e8007c9e2"
+      }
+    ],
+    "typeRelation": [],
+    "refTaxonomie": {
+      "$oid": "69e8ed38c6121d6a80291f96"
+    },
+    "refActeurPro": {
+      "$oid": "26710da1cd6cce68c44c8517"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "2e7fca1415ba2e502457da4a"
+    },
+    "etatObjet": "code-1",
+    "etatCreation": "etatDeCreation.published",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Tapis Beni Ourain 200x300cm",
+        "description": "Tapis berbère noué main, laine vierge."
+      },
+      {
+        "language": "en",
+        "designation": "Tapis Beni Ourain 200x300cm",
+        "description": "Tapis berbère noué main, laine vierge."
+      }
+    ],
+    "photo": "https://source.unsplash.com/featured/1200x800/?morocco,berber,carpet,handmade",
+    "caracteristiqueAssocie": [
+      {
+        "$oid": "36ba10bff684c2536e89a75d"
+      },
+      {
+        "$oid": "1eea2586e12480056862eb28"
+      },
+      {
+        "$oid": "557c473bf89e509f4f271506"
+      }
+    ],
+    "elementProduitAssocie": [],
+    "produitAssocie": [],
+    "codageProduitAssocie": [
+      {
+        "$oid": "9f39813198d6cc4712c03a0d"
+      }
+    ],
+    "grilleAssocie": [
+      {
+        "$oid": "736d2ae203ead3b280dc1b6e"
+      },
+      {
+        "$oid": "0f5021e2a6d81ba1229bb7a5"
+      }
+    ],
+    "typeRelation": [],
+    "refTaxonomie": {
+      "$oid": "69e8ed38c6121d6a80291f93"
+    },
+    "refActeurPro": {
+      "$oid": "26710da1cd6cce68c44c8517"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "c9fea7296bced4680a04c0e2"
+    },
+    "etatObjet": "code-1",
+    "etatCreation": "etatDeCreation.published",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Pouf Cuir Marrakech",
+        "description": "Pouf en cuir tanné Chouara."
+      },
+      {
+        "language": "en",
+        "designation": "Pouf Cuir Marrakech",
+        "description": "Pouf en cuir tanné Chouara."
+      }
+    ],
+    "photo": "https://source.unsplash.com/featured/1200x800/?fes,leather,morocco",
+    "caracteristiqueAssocie": [
+      {
+        "$oid": "4ecaea47dac2f910bbb6d990"
+      },
+      {
+        "$oid": "663c43061524d445c3953c15"
+      },
+      {
+        "$oid": "887b0b91ca1ec5b927175129"
+      }
+    ],
+    "elementProduitAssocie": [],
+    "produitAssocie": [
+      {
+        "$oid": "edbb5dc48e4af66ec13a8988"
+      }
+    ],
+    "codageProduitAssocie": [
+      {
+        "$oid": "c94841e50df447f88dc757bd"
+      }
+    ],
+    "grilleAssocie": [
+      {
+        "$oid": "27374d504f01870f0fed4075"
+      },
+      {
+        "$oid": "528c09d20f354ec69f861995"
+      }
+    ],
+    "typeRelation": [
+      {
+        "$oid": "92fcc1865e93bd8e21dc4cb7"
+      }
+    ],
+    "refTaxonomie": {
+      "$oid": "69e8ed38c6121d6a80291f9b"
+    },
+    "refActeurPro": {
+      "$oid": "26710da1cd6cce68c44c8517"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "668c2ff2a17409bc7f0d5339"
+    },
+    "etatObjet": "code-1",
+    "etatCreation": "etatDeCreation.published",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Panier doum tressé main",
+        "description": "Panier de marché en doum naturel."
+      },
+      {
+        "language": "en",
+        "designation": "Panier doum tressé main",
+        "description": "Panier de marché en doum naturel."
+      }
+    ],
+    "photo": "https://source.unsplash.com/featured/1200x800/?morocco,basket,vannerie",
+    "caracteristiqueAssocie": [
+      {
+        "$oid": "6184fbd80b4d78dd0c4659c1"
+      },
+      {
+        "$oid": "1774950b68fa4294ff1d1163"
+      },
+      {
+        "$oid": "5722beee3dfa7aab96ec6908"
+      }
+    ],
+    "elementProduitAssocie": [],
+    "produitAssocie": [],
+    "codageProduitAssocie": [
+      {
+        "$oid": "5bef49019574453027afb183"
+      }
+    ],
+    "grilleAssocie": [
+      {
+        "$oid": "2e59e4fe4957c076d2c42f70"
+      },
+      {
+        "$oid": "3639291455b773febdd54e5c"
+      }
+    ],
+    "typeRelation": [],
+    "refTaxonomie": {
+      "$oid": "69e8ed38c6121d6a80291f8f"
+    },
+    "refActeurPro": {
+      "$oid": "1d790a6a2492844a8a1624e6"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "bb9b87879fe49621af954221"
+    },
+    "etatObjet": "code-1",
+    "etatCreation": "etatDeCreation.published",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Tagine Décoratif Safi 30cm",
+        "description": "Céramique peinte main — Safi."
+      },
+      {
+        "language": "en",
+        "designation": "Tagine Décoratif Safi 30cm",
+        "description": "Céramique peinte main — Safi."
+      }
+    ],
+    "photo": "https://source.unsplash.com/featured/1200x800/?safi,morocco,pottery,ceramic",
+    "caracteristiqueAssocie": [
+      {
+        "$oid": "29ace480de48d5e0d46b32a8"
+      },
+      {
+        "$oid": "c42f352f392281fb12883cd0"
+      },
+      {
+        "$oid": "9f03dab3f04c8944f882b90f"
+      }
+    ],
+    "elementProduitAssocie": [],
+    "produitAssocie": [],
+    "codageProduitAssocie": [
+      {
+        "$oid": "c2586c2a15c82acc2186ed08"
+      }
+    ],
+    "grilleAssocie": [
+      {
+        "$oid": "bf41500802ed207cd62300d5"
+      },
+      {
+        "$oid": "0983682bc7369478d3067698"
+      }
+    ],
+    "typeRelation": [],
+    "refTaxonomie": {
+      "$oid": "69e8ed38c6121d6a80291f8a"
+    },
+    "refActeurPro": {
+      "$oid": "1d790a6a2492844a8a1624e6"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "c73ae325b6bb4a6f2e898950"
+    },
+    "etatObjet": "code-1",
+    "etatCreation": "etatDeCreation.published",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Pouf Cuir Marrakech",
+        "description": "Pouf en cuir tanné Chouara."
+      },
+      {
+        "language": "en",
+        "designation": "Pouf Cuir Marrakech",
+        "description": "Pouf en cuir tanné Chouara."
+      }
+    ],
+    "photo": "https://source.unsplash.com/featured/1200x800/?fes,leather,morocco",
+    "caracteristiqueAssocie": [
+      {
+        "$oid": "74ac560b770efb4f2361670f"
+      },
+      {
+        "$oid": "94c9b0173427e67376642a00"
+      },
+      {
+        "$oid": "925b520f66cc5a6f9fdabfeb"
+      }
+    ],
+    "elementProduitAssocie": [],
+    "produitAssocie": [],
+    "codageProduitAssocie": [
+      {
+        "$oid": "52355c81770427da84468224"
+      }
+    ],
+    "grilleAssocie": [
+      {
+        "$oid": "dbc5149466c0f4b7662725eb"
+      },
+      {
+        "$oid": "ec26e49cd128e07c0dabb712"
+      }
+    ],
+    "typeRelation": [],
+    "refTaxonomie": {
+      "$oid": "69e8ed38c6121d6a80291f84"
+    },
+    "refActeurPro": {
+      "$oid": "1d790a6a2492844a8a1624e6"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "685116c52fa9bdba74debd5b"
+    },
+    "etatObjet": "code-1",
+    "etatCreation": "etatDeCreation.published",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Trek Toubkal 4 jours",
+        "description": "Ascension du Toubkal avec guide breveté."
+      },
+      {
+        "language": "en",
+        "designation": "Trek Toubkal 4 jours",
+        "description": "Ascension du Toubkal avec guide breveté."
+      }
+    ],
+    "photo": "https://source.unsplash.com/featured/1200x800/?hiking,morocco,toubkal",
+    "caracteristiqueAssocie": [
+      {
+        "$oid": "5e2d5402160226e0ffb12ef3"
+      },
+      {
+        "$oid": "463bb08dc646b59fb73e375d"
+      },
+      {
+        "$oid": "6f346b35c05fc91be7473a6d"
+      }
+    ],
+    "elementProduitAssocie": [],
+    "produitAssocie": [],
+    "codageProduitAssocie": [
+      {
+        "$oid": "617b4368a66138f94a0c6e35"
+      }
+    ],
+    "grilleAssocie": [
+      {
+        "$oid": "add31c1dce4dfb3a0d0ac9fd"
+      },
+      {
+        "$oid": "edc760e808562bc56aafea9b"
+      }
+    ],
+    "typeRelation": [],
+    "refTaxonomie": {
+      "$oid": "69e8ed38c6121d6a80291ff0"
+    },
+    "refActeurPro": {
+      "$oid": "3f768f6d3d4aaa69c7f2e0d7"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "99ad23f9ff7fcd7c8e079093"
+    },
+    "etatObjet": "code-1",
+    "etatCreation": "etatDeCreation.published",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Séjour Riad Atlas 3 nuits",
+        "description": "Riad écologique vallée du Dadès, demi-pension."
+      },
+      {
+        "language": "en",
+        "designation": "Séjour Riad Atlas 3 nuits",
+        "description": "Riad écologique vallée du Dadès, demi-pension."
+      }
+    ],
+    "photo": "https://source.unsplash.com/featured/1200x800/?morocco,riad,kasbah",
+    "caracteristiqueAssocie": [
+      {
+        "$oid": "18df2cf48db6cd5918159045"
+      },
+      {
+        "$oid": "128928d13779e179f9c86b11"
+      },
+      {
+        "$oid": "f94494f06b15002b02a23177"
+      }
+    ],
+    "elementProduitAssocie": [],
+    "produitAssocie": [],
+    "codageProduitAssocie": [
+      {
+        "$oid": "3872383f634b45bbcb477e8b"
+      }
+    ],
+    "grilleAssocie": [
+      {
+        "$oid": "047ebf95235737dad1e10e0f"
+      },
+      {
+        "$oid": "e122424ca20e6d6e5be2e0ca"
+      }
+    ],
+    "typeRelation": [],
+    "refTaxonomie": {
+      "$oid": "69e8ed38c6121d6a80291ff2"
+    },
+    "refActeurPro": {
+      "$oid": "3f768f6d3d4aaa69c7f2e0d7"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "ac8de817d5692a612f750895"
+    },
+    "etatObjet": "code-1",
+    "etatCreation": "etatDeCreation.published",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Séjour Riad Atlas 3 nuits",
+        "description": "Riad écologique vallée du Dadès, demi-pension."
+      },
+      {
+        "language": "en",
+        "designation": "Séjour Riad Atlas 3 nuits",
+        "description": "Riad écologique vallée du Dadès, demi-pension."
+      }
+    ],
+    "photo": "https://source.unsplash.com/featured/1200x800/?morocco,riad,kasbah",
+    "caracteristiqueAssocie": [
+      {
+        "$oid": "766cd7ef854e1846e04173c1"
+      },
+      {
+        "$oid": "d2001cb6ffb1ae5e7feeffa0"
+      },
+      {
+        "$oid": "71169a0a522857716b0b90d8"
+      }
+    ],
+    "elementProduitAssocie": [],
+    "produitAssocie": [],
+    "codageProduitAssocie": [
+      {
+        "$oid": "882e708e3dfb0cc0896cf43e"
+      }
+    ],
+    "grilleAssocie": [
+      {
+        "$oid": "8a54e51131c10ad5be7c5c0b"
+      },
+      {
+        "$oid": "9602c1eaf63db15bede11ba0"
+      }
+    ],
+    "typeRelation": [],
+    "refTaxonomie": {
+      "$oid": "69e8ed38c6121d6a80291fec"
+    },
+    "refActeurPro": {
+      "$oid": "f0d883ed905c59ff33f5c3a9"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "0f9337ed484a729725198a33"
+    },
+    "etatObjet": "code-1",
+    "etatCreation": "etatDeCreation.published",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Trek Toubkal 4 jours",
+        "description": "Ascension du Toubkal avec guide breveté."
+      },
+      {
+        "language": "en",
+        "designation": "Trek Toubkal 4 jours",
+        "description": "Ascension du Toubkal avec guide breveté."
+      }
+    ],
+    "photo": "https://source.unsplash.com/featured/1200x800/?hiking,morocco,toubkal",
+    "caracteristiqueAssocie": [
+      {
+        "$oid": "43aaa8fc9aca98e752ff9bcb"
+      },
+      {
+        "$oid": "43df7e67fa22854e35fe8279"
+      },
+      {
+        "$oid": "c02daf3c3f5c82e0da3b9795"
+      }
+    ],
+    "elementProduitAssocie": [],
+    "produitAssocie": [],
+    "codageProduitAssocie": [
+      {
+        "$oid": "601e0bd2ae7474f894db73c5"
+      }
+    ],
+    "grilleAssocie": [
+      {
+        "$oid": "5fb1255b0f66fbab3465c097"
+      },
+      {
+        "$oid": "e81eee319ea4f951072e9b4a"
+      }
+    ],
+    "typeRelation": [],
+    "refTaxonomie": {
+      "$oid": "69e8ed38c6121d6a80291fed"
+    },
+    "refActeurPro": {
+      "$oid": "f0d883ed905c59ff33f5c3a9"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "358ede32d35c1ff877af9e38"
+    },
+    "etatObjet": "code-1",
+    "etatCreation": "etatDeCreation.published",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Caftan Brodé Royal",
+        "description": "Caftan haute couture — broderie Sfifa."
+      },
+      {
+        "language": "en",
+        "designation": "Caftan Brodé Royal",
+        "description": "Caftan haute couture — broderie Sfifa."
+      }
+    ],
+    "photo": "https://source.unsplash.com/featured/1200x800/?kaftan,moroccan,fashion",
+    "caracteristiqueAssocie": [
+      {
+        "$oid": "6ff9eb34cdc12fcaac4907bd"
+      },
+      {
+        "$oid": "123b3f1492d1b8c46163cac8"
+      },
+      {
+        "$oid": "e4c28fe1b887e6a483716ec9"
+      }
+    ],
+    "elementProduitAssocie": [],
+    "produitAssocie": [
+      {
+        "$oid": "95dc8436fe73e1cf3c1b4cca"
+      }
+    ],
+    "codageProduitAssocie": [
+      {
+        "$oid": "72e3bd7b237638653a645600"
+      }
+    ],
+    "grilleAssocie": [
+      {
+        "$oid": "c934230fb7ecbdc4a36415fa"
+      },
+      {
+        "$oid": "fdea539f07a82a6479a145e1"
+      }
+    ],
+    "typeRelation": [
+      {
+        "$oid": "e6c291466bdf4bb1b5479275"
+      }
+    ],
+    "refTaxonomie": {
+      "$oid": "69e8ed38c6121d6a8029201b"
+    },
+    "refActeurPro": {
+      "$oid": "ae92e23f2b8459ccb258bc8b"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "e78075ba2bd54591fba6d87b"
+    },
+    "etatObjet": "code-1",
+    "etatCreation": "etatDeCreation.published",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Babouches Cuir Femme",
+        "description": "Babouches en cuir brodées main."
+      },
+      {
+        "language": "en",
+        "designation": "Babouches Cuir Femme",
+        "description": "Babouches en cuir brodées main."
+      }
+    ],
+    "photo": "https://source.unsplash.com/featured/1200x800/?babouches,morocco,leather",
+    "caracteristiqueAssocie": [
+      {
+        "$oid": "58c8529a3621feaa5da5e672"
+      },
+      {
+        "$oid": "d74bc3316879262d1a227bdf"
+      },
+      {
+        "$oid": "1f5a5a7d4047c21da0b76eaf"
+      }
+    ],
+    "elementProduitAssocie": [],
+    "produitAssocie": [],
+    "codageProduitAssocie": [
+      {
+        "$oid": "8df6c2255880a9b0525c6a7e"
+      }
+    ],
+    "grilleAssocie": [
+      {
+        "$oid": "093268c946ce3ce07a540f29"
+      },
+      {
+        "$oid": "58482858b82f7343ec8eeffe"
+      }
+    ],
+    "typeRelation": [],
+    "refTaxonomie": {
+      "$oid": "69e8ed38c6121d6a80292019"
+    },
+    "refActeurPro": {
+      "$oid": "ae92e23f2b8459ccb258bc8b"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "7e83252da49beaf1c4ca4c20"
+    },
+    "etatObjet": "code-1",
+    "etatCreation": "etatDeCreation.published",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Caftan Brodé Royal",
+        "description": "Caftan haute couture — broderie Sfifa."
+      },
+      {
+        "language": "en",
+        "designation": "Caftan Brodé Royal",
+        "description": "Caftan haute couture — broderie Sfifa."
+      }
+    ],
+    "photo": "https://source.unsplash.com/featured/1200x800/?kaftan,moroccan,fashion",
+    "caracteristiqueAssocie": [
+      {
+        "$oid": "4c680177df0a4681f683b61b"
+      },
+      {
+        "$oid": "c9f7bac38921ebed0e8fe081"
+      },
+      {
+        "$oid": "a8c2421af2009d8c4ab45387"
+      }
+    ],
+    "elementProduitAssocie": [],
+    "produitAssocie": [],
+    "codageProduitAssocie": [
+      {
+        "$oid": "48ae1a7d3f6d05cc19523058"
+      }
+    ],
+    "grilleAssocie": [
+      {
+        "$oid": "d7ce72d6c0be6edb49bbc262"
+      },
+      {
+        "$oid": "60a127bacfd99350fa6883df"
+      }
+    ],
+    "typeRelation": [],
+    "refTaxonomie": {
+      "$oid": "69e8ed38c6121d6a8029203c"
+    },
+    "refActeurPro": {
+      "$oid": "2b4bf291727aa3cc37eaab5a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "66bd6f9ff3acc6ec0e4f11c3"
+    },
+    "etatObjet": "code-1",
+    "etatCreation": "etatDeCreation.published",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Babouches Cuir Femme",
+        "description": "Babouches en cuir brodées main."
+      },
+      {
+        "language": "en",
+        "designation": "Babouches Cuir Femme",
+        "description": "Babouches en cuir brodées main."
+      }
+    ],
+    "photo": "https://source.unsplash.com/featured/1200x800/?babouches,morocco,leather",
+    "caracteristiqueAssocie": [
+      {
+        "$oid": "c10f1d511252ce461b3749a8"
+      },
+      {
+        "$oid": "591dd8b27e5c95990130bd5c"
+      },
+      {
+        "$oid": "e9d2f509a1d0b1c6ca067156"
+      }
+    ],
+    "elementProduitAssocie": [],
+    "produitAssocie": [],
+    "codageProduitAssocie": [
+      {
+        "$oid": "8673b567e727334e5ae9b59e"
+      }
+    ],
+    "grilleAssocie": [
+      {
+        "$oid": "1aa3338fc66ee846e0de44dc"
+      },
+      {
+        "$oid": "1d4f2f4868042a9444fc5658"
+      }
+    ],
+    "typeRelation": [],
+    "refTaxonomie": {
+      "$oid": "69e8ed38c6121d6a80292044"
+    },
+    "refActeurPro": {
+      "$oid": "2b4bf291727aa3cc37eaab5a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "9bb1afa6848a869e0d609e11"
+    },
+    "etatObjet": "code-1",
+    "etatCreation": "etatDeCreation.published",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Huîtres Oualidia x12",
+        "description": "Huîtres creuses fraîches."
+      },
+      {
+        "language": "en",
+        "designation": "Huîtres Oualidia x12",
+        "description": "Huîtres creuses fraîches."
+      }
+    ],
+    "photo": "https://source.unsplash.com/featured/1200x800/?oysters,oualidia,morocco",
+    "caracteristiqueAssocie": [
+      {
+        "$oid": "66a6813fc2403e3d5b1ad353"
+      },
+      {
+        "$oid": "ff0ba533713b8075916c548f"
+      },
+      {
+        "$oid": "5bad0da7c5479950ca7f7642"
+      }
+    ],
+    "elementProduitAssocie": [],
+    "produitAssocie": [],
+    "codageProduitAssocie": [
+      {
+        "$oid": "5989c693c8ebd1ff698270d2"
+      }
+    ],
+    "grilleAssocie": [
+      {
+        "$oid": "4c7c8a61b953dcc2629290fb"
+      },
+      {
+        "$oid": "ce9dc0370200b6953349d8d6"
+      }
+    ],
+    "typeRelation": [],
+    "refTaxonomie": {
+      "$oid": "69e8ed38c6121d6a8029206c"
+    },
+    "refActeurPro": {
+      "$oid": "eb0e2ff2ca1de66d819e14a0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "bc0f81b0ffa5fcba96ec12d1"
+    },
+    "etatObjet": "code-1",
+    "etatCreation": "etatDeCreation.published",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Sardines à l'huile d'olive 250g",
+        "description": "Conserves artisanales d'Essaouira."
+      },
+      {
+        "language": "en",
+        "designation": "Sardines à l'huile d'olive 250g",
+        "description": "Conserves artisanales d'Essaouira."
+      }
+    ],
+    "photo": "https://source.unsplash.com/featured/1200x800/?conserves,morocco,sardines",
+    "caracteristiqueAssocie": [
+      {
+        "$oid": "b025087de6cd2ccb98b48307"
+      },
+      {
+        "$oid": "1aa429670c3b16d28aa0fe97"
+      },
+      {
+        "$oid": "e6fb2e6a5d0cd1354cddcd5e"
+      }
+    ],
+    "elementProduitAssocie": [],
+    "produitAssocie": [],
+    "codageProduitAssocie": [
+      {
+        "$oid": "9b91e84c047d9323ff84945b"
+      }
+    ],
+    "grilleAssocie": [
+      {
+        "$oid": "102059062682f78a461636ee"
+      },
+      {
+        "$oid": "d37ec91598d16f6eaa7c4e88"
+      }
+    ],
+    "typeRelation": [],
+    "refTaxonomie": {
+      "$oid": "69e8ed38c6121d6a8029206a"
+    },
+    "refActeurPro": {
+      "$oid": "eb0e2ff2ca1de66d819e14a0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6e66a03a9b9b3d193b88020a"
+    },
+    "etatObjet": "code-1",
+    "etatCreation": "etatDeCreation.published",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Huîtres Oualidia x12",
+        "description": "Huîtres creuses fraîches."
+      },
+      {
+        "language": "en",
+        "designation": "Huîtres Oualidia x12",
+        "description": "Huîtres creuses fraîches."
+      }
+    ],
+    "photo": "https://source.unsplash.com/featured/1200x800/?oysters,oualidia,morocco",
+    "caracteristiqueAssocie": [
+      {
+        "$oid": "26f593682815833ec811c7fb"
+      },
+      {
+        "$oid": "d2ef3d53c0d64002dc1b2ecc"
+      },
+      {
+        "$oid": "dfb7bb75210e9ce2940d55aa"
+      }
+    ],
+    "elementProduitAssocie": [],
+    "produitAssocie": [],
+    "codageProduitAssocie": [
+      {
+        "$oid": "293037fb77fe95664ced026a"
+      }
+    ],
+    "grilleAssocie": [
+      {
+        "$oid": "ce3358ee75360bd0dcefbc52"
+      },
+      {
+        "$oid": "8fd1544d3a3cbd31f99e018a"
+      }
+    ],
+    "typeRelation": [],
+    "refTaxonomie": {
+      "$oid": "69e8ed38c6121d6a80292058"
+    },
+    "refActeurPro": {
+      "$oid": "4708b2e0a09ffa1775daea2a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "f36f98002c9a5e5eeffc343e"
+    },
+    "etatObjet": "code-1",
+    "etatCreation": "etatDeCreation.published",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Sardines à l'huile d'olive 250g",
+        "description": "Conserves artisanales d'Essaouira."
+      },
+      {
+        "language": "en",
+        "designation": "Sardines à l'huile d'olive 250g",
+        "description": "Conserves artisanales d'Essaouira."
+      }
+    ],
+    "photo": "https://source.unsplash.com/featured/1200x800/?conserves,morocco,sardines",
+    "caracteristiqueAssocie": [
+      {
+        "$oid": "7e0949bd2939504138031b85"
+      },
+      {
+        "$oid": "ef7364634700e0510a91fa43"
+      },
+      {
+        "$oid": "6e5772cf0967333557f9bcbd"
+      }
+    ],
+    "elementProduitAssocie": [],
+    "produitAssocie": [],
+    "codageProduitAssocie": [
+      {
+        "$oid": "fdaed4152b8b1a449aa806c0"
+      }
+    ],
+    "grilleAssocie": [
+      {
+        "$oid": "15b7535db3fd97d6546b82b8"
+      },
+      {
+        "$oid": "f8236188480c74933ea984b3"
+      }
+    ],
+    "typeRelation": [],
+    "refTaxonomie": {
+      "$oid": "69e8ed38c6121d6a80292063"
+    },
+    "refActeurPro": {
+      "$oid": "4708b2e0a09ffa1775daea2a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "f6f6355ff33dda2642014bde"
+    },
+    "etatObjet": "code-1",
+    "etatCreation": "etatDeCreation.published",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Huîtres Oualidia x12",
+        "description": "Huîtres creuses fraîches."
+      },
+      {
+        "language": "en",
+        "designation": "Huîtres Oualidia x12",
+        "description": "Huîtres creuses fraîches."
+      }
+    ],
+    "photo": "https://source.unsplash.com/featured/1200x800/?oysters,oualidia,morocco",
+    "caracteristiqueAssocie": [
+      {
+        "$oid": "9764b82282a9c80ad09fdcc4"
+      },
+      {
+        "$oid": "9a68a3344d92414c01e8e88d"
+      },
+      {
+        "$oid": "c2086b5edd9bdbf9756f4bc2"
+      }
+    ],
+    "elementProduitAssocie": [],
+    "produitAssocie": [
+      {
+        "$oid": "b1ecaf96d1634ff82153ba21"
+      }
+    ],
+    "codageProduitAssocie": [
+      {
+        "$oid": "e3643743c58920c60f75aa9c"
+      }
+    ],
+    "grilleAssocie": [
+      {
+        "$oid": "5c08951fecba735b2c405907"
+      },
+      {
+        "$oid": "ab15c7fb90b96b63796349f9"
+      }
+    ],
+    "typeRelation": [
+      {
+        "$oid": "263b6dfe6333514c8d6298c0"
+      }
+    ],
+    "refTaxonomie": {
+      "$oid": "69e8ed38c6121d6a8029205a"
+    },
+    "refActeurPro": {
+      "$oid": "336cedb752b9710516c75406"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "35531411c5b094a68d865dac"
+    },
+    "etatObjet": "code-1",
+    "etatCreation": "etatDeCreation.published",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Sardines à l'huile d'olive 250g",
+        "description": "Conserves artisanales d'Essaouira."
+      },
+      {
+        "language": "en",
+        "designation": "Sardines à l'huile d'olive 250g",
+        "description": "Conserves artisanales d'Essaouira."
+      }
+    ],
+    "photo": "https://source.unsplash.com/featured/1200x800/?conserves,morocco,sardines",
+    "caracteristiqueAssocie": [
+      {
+        "$oid": "826285275acb5aaa33d32fc1"
+      },
+      {
+        "$oid": "6d5754f31443e27c4f8297b3"
+      },
+      {
+        "$oid": "5a6b22eb7d42f6e26046a079"
+      }
+    ],
+    "elementProduitAssocie": [],
+    "produitAssocie": [],
+    "codageProduitAssocie": [
+      {
+        "$oid": "bdbea7472311541783454e36"
+      }
+    ],
+    "grilleAssocie": [
+      {
+        "$oid": "b4ca43030e9f4323eb80d067"
+      },
+      {
+        "$oid": "83d39fc7d46a993a0f5dab27"
+      }
+    ],
+    "typeRelation": [],
+    "refTaxonomie": {
+      "$oid": "69e8ed38c6121d6a80292052"
+    },
+    "refActeurPro": {
+      "$oid": "336cedb752b9710516c75406"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "44d0b076fcd36d0789368782"
+    },
+    "etatObjet": "code-1",
+    "etatCreation": "etatDeCreation.published",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Trek Toubkal 4 jours",
+        "description": "Ascension du Toubkal avec guide breveté."
+      },
+      {
+        "language": "en",
+        "designation": "Trek Toubkal 4 jours",
+        "description": "Ascension du Toubkal avec guide breveté."
+      }
+    ],
+    "photo": "https://source.unsplash.com/featured/1200x800/?hiking,morocco,toubkal",
+    "caracteristiqueAssocie": [
+      {
+        "$oid": "13cea629b5993b645c17d30f"
+      },
+      {
+        "$oid": "ba17f8ae64a0076d0d2a898e"
+      },
+      {
+        "$oid": "4761bce9e38a6ec96bbd1774"
+      }
+    ],
+    "elementProduitAssocie": [],
+    "produitAssocie": [],
+    "codageProduitAssocie": [
+      {
+        "$oid": "474aa3633aab71af0e556a33"
+      }
+    ],
+    "grilleAssocie": [
+      {
+        "$oid": "6bf004f7af8da6dbf1b6b457"
+      },
+      {
+        "$oid": "0bd4a54b8123582da2bfa0c4"
+      }
+    ],
+    "typeRelation": [],
+    "refTaxonomie": {
+      "$oid": "69e8ed38c6121d6a80291fdf"
+    },
+    "refActeurPro": {
+      "$oid": "772982b274ceb391e1069f0f"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "9a023081f34a7e9e3332c3ed"
+    },
+    "etatObjet": "code-1",
+    "etatCreation": "etatDeCreation.published",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Séjour Riad Atlas 3 nuits",
+        "description": "Riad écologique vallée du Dadès, demi-pension."
+      },
+      {
+        "language": "en",
+        "designation": "Séjour Riad Atlas 3 nuits",
+        "description": "Riad écologique vallée du Dadès, demi-pension."
+      }
+    ],
+    "photo": "https://source.unsplash.com/featured/1200x800/?morocco,riad,kasbah",
+    "caracteristiqueAssocie": [
+      {
+        "$oid": "bfaea7f83ff2c38554ae6319"
+      },
+      {
+        "$oid": "f26e3b22fdc31c75cfb05b7c"
+      },
+      {
+        "$oid": "6cbd271d25302518baa35b83"
+      }
+    ],
+    "elementProduitAssocie": [],
+    "produitAssocie": [],
+    "codageProduitAssocie": [
+      {
+        "$oid": "ce253d20f3e180a724e700d1"
+      }
+    ],
+    "grilleAssocie": [
+      {
+        "$oid": "25aaa0bb55739066b6c781d3"
+      },
+      {
+        "$oid": "a7c96d2772dba1d143ffea52"
+      }
+    ],
+    "typeRelation": [],
+    "refTaxonomie": {
+      "$oid": "69e8ed38c6121d6a80291fe1"
+    },
+    "refActeurPro": {
+      "$oid": "772982b274ceb391e1069f0f"
+    }
+  }
+]

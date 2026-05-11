@@ -1,0 +1,122 @@
+[
+  {
+    "_id": {
+      "$oid": "315dbf73eb8b91c7b04fe2bd"
+    },
+    "etatObjet": "code-1",
+    "produitPrincipal": {
+      "$oid": "e4f5f7a70ac16a444c109f33"
+    },
+    "produitAssocie": [
+      {
+        "$oid": "0a6b9a90b7ef5293822377e3"
+      }
+    ],
+    "typeRelation": "code_3034"
+  },
+  {
+    "_id": {
+      "$oid": "0ca58593394febc612b2018a"
+    },
+    "etatObjet": "code-1",
+    "produitPrincipal": {
+      "$oid": "9777eda660a4da612b0e65a8"
+    },
+    "produitAssocie": [
+      {
+        "$oid": "1478825e3619a2b765482221"
+      }
+    ],
+    "typeRelation": "code_3034"
+  },
+  {
+    "_id": {
+      "$oid": "651abb88d9fc3c2255a84355"
+    },
+    "etatObjet": "code-1",
+    "produitPrincipal": {
+      "$oid": "7c026ef2ea8df27c55524005"
+    },
+    "produitAssocie": [
+      {
+        "$oid": "98f8e52f7918acc099d800ce"
+      }
+    ],
+    "typeRelation": "code_3034"
+  },
+  {
+    "_id": {
+      "$oid": "116e6ca9944a82405b338930"
+    },
+    "etatObjet": "code-1",
+    "produitPrincipal": {
+      "$oid": "e85a5e009678a4f9c4fa5d37"
+    },
+    "produitAssocie": [
+      {
+        "$oid": "2662b3d55361dec632d70a4e"
+      }
+    ],
+    "typeRelation": "code_3034"
+  },
+  {
+    "_id": {
+      "$oid": "6e83cb6b1db8984721eeb096"
+    },
+    "etatObjet": "code-1",
+    "produitPrincipal": {
+      "$oid": "1e7991731a1aee6832986b55"
+    },
+    "produitAssocie": [
+      {
+        "$oid": "9f4492ebf2e1004d81dcf843"
+      }
+    ],
+    "typeRelation": "code_3034"
+  },
+  {
+    "_id": {
+      "$oid": "92fcc1865e93bd8e21dc4cb7"
+    },
+    "etatObjet": "code-1",
+    "produitPrincipal": {
+      "$oid": "c9fea7296bced4680a04c0e2"
+    },
+    "produitAssocie": [
+      {
+        "$oid": "668c2ff2a17409bc7f0d5339"
+      }
+    ],
+    "typeRelation": "code_3034"
+  },
+  {
+    "_id": {
+      "$oid": "e6c291466bdf4bb1b5479275"
+    },
+    "etatObjet": "code-1",
+    "produitPrincipal": {
+      "$oid": "358ede32d35c1ff877af9e38"
+    },
+    "produitAssocie": [
+      {
+        "$oid": "e78075ba2bd54591fba6d87b"
+      }
+    ],
+    "typeRelation": "code_3034"
+  },
+  {
+    "_id": {
+      "$oid": "263b6dfe6333514c8d6298c0"
+    },
+    "etatObjet": "code-1",
+    "produitPrincipal": {
+      "$oid": "f6f6355ff33dda2642014bde"
+    },
+    "produitAssocie": [
+      {
+        "$oid": "35531411c5b094a68d865dac"
+      }
+    ],
+    "typeRelation": "code_3034"
+  }
+]

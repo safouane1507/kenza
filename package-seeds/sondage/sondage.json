@@ -1,0 +1,104 @@
+[
+  {
+    "_id": {
+      "$oid": "be0c6e2feb15edfd298353b6"
+    },
+    "reference": "KB-SOND-1100",
+    "themeSondage": "69e8ed38c6121d6a80291e95",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Vos préférences produits du terroir 2026",
+        "description": "Aidez-nous à mieux connaître vos préférences pour offrir une sélection parfaite."
+      },
+      {
+        "language": "en",
+        "designation": "Vos préférences produits du terroir 2026",
+        "description": "Aidez-nous à mieux connaître vos préférences pour offrir une sélection parfaite."
+      }
+    ],
+    "proprietaire": {
+      "$oid": "919c56e5b864acd9fbd13368"
+    },
+    "acteurs": {
+      "responsable": {
+        "$oid": "42f9eb66b4530d77a93547fc"
+      },
+      "validateur": {
+        "$oid": "14a8602b4765ac42377e8ae9"
+      },
+      "createur": {
+        "$oid": "f9156e5ba44181694bebeb21"
+      }
+    },
+    "dateOuverture": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateCloture": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "imageRepresentative": "https://source.unsplash.com/featured/1200x800/?atlas,mountains,morocco",
+    "nbrParticipant": 1672,
+    "questionSondage": [
+      {
+        "$oid": "d04840e6d7a3bd1d365149a9"
+      },
+      {
+        "$oid": "0804a24ff3df61358c310a0f"
+      }
+    ],
+    "etatObjet": "code-1",
+    "etatDePublication": "code_3417"
+  },
+  {
+    "_id": {
+      "$oid": "3be0af78551b756b6a5b3f7f"
+    },
+    "reference": "KB-SOND-1101",
+    "themeSondage": "69e8ed38c6121d6a8029202b",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Tourisme rural — vos attentes",
+        "description": "Comment imaginez-vous votre prochaine escapade rurale ?"
+      },
+      {
+        "language": "en",
+        "designation": "Tourisme rural — vos attentes",
+        "description": "Comment imaginez-vous votre prochaine escapade rurale ?"
+      }
+    ],
+    "proprietaire": {
+      "$oid": "919c56e5b864acd9fbd13368"
+    },
+    "acteurs": {
+      "responsable": {
+        "$oid": "42f9eb66b4530d77a93547fc"
+      },
+      "validateur": {
+        "$oid": "14a8602b4765ac42377e8ae9"
+      },
+      "createur": {
+        "$oid": "f9156e5ba44181694bebeb21"
+      }
+    },
+    "dateOuverture": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "dateCloture": {
+      "$date": "2026-12-31T00:00:00.000Z"
+    },
+    "imageRepresentative": "https://source.unsplash.com/featured/1200x800/?atlas,mountains,morocco",
+    "nbrParticipant": 3810,
+    "questionSondage": [
+      {
+        "$oid": "f76326fe9f1f000cebcc4108"
+      },
+      {
+        "$oid": "f897c8e9fc6201869fcbf21d"
+      }
+    ],
+    "etatObjet": "code-1",
+    "etatDePublication": "code_3417"
+  }
+]

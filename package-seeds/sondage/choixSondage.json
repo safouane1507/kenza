@@ -1,0 +1,308 @@
+[
+  {
+    "_id": {
+      "$oid": "7f8a552eee78d769ae64ace1"
+    },
+    "etatObjet": "code-1",
+    "reference": "KB-CSOND-1300",
+    "ordre": 1,
+    "translations": [
+      {
+        "language": "fr",
+        "valeurChoix": "Huile d'olive"
+      }
+    ],
+    "nombreReponse": 549,
+    "questionSondage": {
+      "$oid": "d04840e6d7a3bd1d365149a9"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "501cdfa170fd3c032c7807e3"
+    },
+    "etatObjet": "code-1",
+    "reference": "KB-CSOND-1301",
+    "ordre": 2,
+    "translations": [
+      {
+        "language": "fr",
+        "valeurChoix": "Huile d'argan"
+      }
+    ],
+    "nombreReponse": 408,
+    "questionSondage": {
+      "$oid": "d04840e6d7a3bd1d365149a9"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "325922409b7335ab5f7cc739"
+    },
+    "etatObjet": "code-1",
+    "reference": "KB-CSOND-1302",
+    "ordre": 3,
+    "translations": [
+      {
+        "language": "fr",
+        "valeurChoix": "Miel"
+      }
+    ],
+    "nombreReponse": 147,
+    "questionSondage": {
+      "$oid": "d04840e6d7a3bd1d365149a9"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "06ab858e1b4822876975d557"
+    },
+    "etatObjet": "code-1",
+    "reference": "KB-CSOND-1303",
+    "ordre": 4,
+    "translations": [
+      {
+        "language": "fr",
+        "valeurChoix": "Épices"
+      }
+    ],
+    "nombreReponse": 405,
+    "questionSondage": {
+      "$oid": "d04840e6d7a3bd1d365149a9"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "a2a5e5a95b542a6197fed633"
+    },
+    "etatObjet": "code-1",
+    "reference": "KB-CSOND-1304",
+    "ordre": 5,
+    "translations": [
+      {
+        "language": "fr",
+        "valeurChoix": "Dattes"
+      }
+    ],
+    "nombreReponse": 217,
+    "questionSondage": {
+      "$oid": "d04840e6d7a3bd1d365149a9"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "ad73d96750b9fce144030643"
+    },
+    "etatObjet": "code-1",
+    "reference": "KB-CSOND-1305",
+    "ordre": 1,
+    "translations": [
+      {
+        "language": "fr",
+        "valeurChoix": "Souss-Massa"
+      }
+    ],
+    "nombreReponse": 278,
+    "questionSondage": {
+      "$oid": "0804a24ff3df61358c310a0f"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "338ef8d65fc361855b690114"
+    },
+    "etatObjet": "code-1",
+    "reference": "KB-CSOND-1306",
+    "ordre": 2,
+    "translations": [
+      {
+        "language": "fr",
+        "valeurChoix": "Fès-Meknès"
+      }
+    ],
+    "nombreReponse": 79,
+    "questionSondage": {
+      "$oid": "0804a24ff3df61358c310a0f"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "c0cdf58297a0980c1ae224cf"
+    },
+    "etatObjet": "code-1",
+    "reference": "KB-CSOND-1307",
+    "ordre": 3,
+    "translations": [
+      {
+        "language": "fr",
+        "valeurChoix": "Marrakech-Safi"
+      }
+    ],
+    "nombreReponse": 380,
+    "questionSondage": {
+      "$oid": "0804a24ff3df61358c310a0f"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "839eb3c9cf34877d4ebaf823"
+    },
+    "etatObjet": "code-1",
+    "reference": "KB-CSOND-1308",
+    "ordre": 4,
+    "translations": [
+      {
+        "language": "fr",
+        "valeurChoix": "Drâa-Tafilalet"
+      }
+    ],
+    "nombreReponse": 510,
+    "questionSondage": {
+      "$oid": "0804a24ff3df61358c310a0f"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "9b1ffb4f11e59524d59099a1"
+    },
+    "etatObjet": "code-1",
+    "reference": "KB-CSOND-1309",
+    "ordre": 1,
+    "translations": [
+      {
+        "language": "fr",
+        "valeurChoix": "Riad"
+      }
+    ],
+    "nombreReponse": 388,
+    "questionSondage": {
+      "$oid": "f76326fe9f1f000cebcc4108"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6b4a4edf189e926d950e455b"
+    },
+    "etatObjet": "code-1",
+    "reference": "KB-CSOND-1310",
+    "ordre": 2,
+    "translations": [
+      {
+        "language": "fr",
+        "valeurChoix": "Kasbah"
+      }
+    ],
+    "nombreReponse": 128,
+    "questionSondage": {
+      "$oid": "f76326fe9f1f000cebcc4108"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "7d802b56a97597b3d3ef7a3d"
+    },
+    "etatObjet": "code-1",
+    "reference": "KB-CSOND-1311",
+    "ordre": 3,
+    "translations": [
+      {
+        "language": "fr",
+        "valeurChoix": "Bivouac désert"
+      }
+    ],
+    "nombreReponse": 738,
+    "questionSondage": {
+      "$oid": "f76326fe9f1f000cebcc4108"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "2709e5120c610503f61d9486"
+    },
+    "etatObjet": "code-1",
+    "reference": "KB-CSOND-1312",
+    "ordre": 4,
+    "translations": [
+      {
+        "language": "fr",
+        "valeurChoix": "Auberge berbère"
+      }
+    ],
+    "nombreReponse": 529,
+    "questionSondage": {
+      "$oid": "f76326fe9f1f000cebcc4108"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "ceb8605d87d2c026f3671030"
+    },
+    "etatObjet": "code-1",
+    "reference": "KB-CSOND-1313",
+    "ordre": 1,
+    "translations": [
+      {
+        "language": "fr",
+        "valeurChoix": "Trek Atlas"
+      }
+    ],
+    "nombreReponse": 610,
+    "questionSondage": {
+      "$oid": "f897c8e9fc6201869fcbf21d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "c65993c2b227de8ca0868bb2"
+    },
+    "etatObjet": "code-1",
+    "reference": "KB-CSOND-1314",
+    "ordre": 2,
+    "translations": [
+      {
+        "language": "fr",
+        "valeurChoix": "Cueillette des roses"
+      }
+    ],
+    "nombreReponse": 659,
+    "questionSondage": {
+      "$oid": "f897c8e9fc6201869fcbf21d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "d90e660d321762f89e061447"
+    },
+    "etatObjet": "code-1",
+    "reference": "KB-CSOND-1315",
+    "ordre": 3,
+    "translations": [
+      {
+        "language": "fr",
+        "valeurChoix": "Atelier poterie"
+      }
+    ],
+    "nombreReponse": 659,
+    "questionSondage": {
+      "$oid": "f897c8e9fc6201869fcbf21d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "7c960a5684cb6ec7ab6136f2"
+    },
+    "etatObjet": "code-1",
+    "reference": "KB-CSOND-1316",
+    "ordre": 4,
+    "translations": [
+      {
+        "language": "fr",
+        "valeurChoix": "Cuisine traditionnelle"
+      }
+    ],
+    "nombreReponse": 440,
+    "questionSondage": {
+      "$oid": "f897c8e9fc6201869fcbf21d"
+    }
+  }
+]

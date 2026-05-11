@@ -1,0 +1,98 @@
+[
+  {
+    "_id": {
+      "$oid": "3affaa52e151db1011cfe3e9"
+    },
+    "etatObjet": "code-1",
+    "phaseEvenement": "code_8701",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Stand officiel Kenz Bladi",
+        "description": "Espace exposants — produits du terroir."
+      }
+    ],
+    "agendaEvent": {
+      "$oid": "81e5dc18fae7b36e789984f1"
+    },
+    "lieuConcerne": [
+      {
+        "$oid": "e298181ff3970e0f6ae1b32d"
+      }
+    ],
+    "objetAssocie": [],
+    "referenceDocumentsAppuisPreuve": []
+  },
+  {
+    "_id": {
+      "$oid": "208e8b07825db2d4aebe8cbd"
+    },
+    "etatObjet": "code-1",
+    "phaseEvenement": "code_8701",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Stand officiel Kenz Bladi",
+        "description": "Espace exposants — produits du terroir."
+      }
+    ],
+    "agendaEvent": {
+      "$oid": "946e536e9fe171ad79a06409"
+    },
+    "lieuConcerne": [
+      {
+        "$oid": "5638a7814e7569320fcc0246"
+      }
+    ],
+    "objetAssocie": [],
+    "referenceDocumentsAppuisPreuve": []
+  },
+  {
+    "_id": {
+      "$oid": "eafb26209dd1662718df9b4e"
+    },
+    "etatObjet": "code-1",
+    "phaseEvenement": "code_8701",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Stand officiel Kenz Bladi",
+        "description": "Espace exposants — produits du terroir."
+      }
+    ],
+    "agendaEvent": {
+      "$oid": "5d002d1b6fd364b86cdbfdbe"
+    },
+    "lieuConcerne": [
+      {
+        "$oid": "c7035b62ac4afff7948f0fcb"
+      }
+    ],
+    "objetAssocie": [],
+    "referenceDocumentsAppuisPreuve": []
+  },
+  {
+    "_id": {
+      "$oid": "32b464d0f4ce4a892ed6257e"
+    },
+    "etatObjet": "code-1",
+    "phaseEvenement": "code_8701",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Stand officiel Kenz Bladi",
+        "description": "Espace exposants — produits du terroir."
+      }
+    ],
+    "agendaEvent": {
+      "$oid": "1fe6bbf8b819ccfbc937dbdb"
+    },
+    "lieuConcerne": [
+      {
+        "$oid": "f5f839d43e6b7b8ba5843478"
+      }
+    ],
+    "objetAssocie": [],
+    "referenceDocumentsAppuisPreuve": []
+  }
+]

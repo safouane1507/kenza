@@ -1,0 +1,525 @@
+[
+  {
+    "_id": {
+      "$oid": "f29d1ae2084c13a3dab68b85"
+    },
+    "etatObjet": "code-1",
+    "reference": "GROUP-IDENTITE-PRODUIT",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Identité produit",
+        "description": "Champs descriptifs de base du produit"
+      },
+      {
+        "language": "en",
+        "designation": "Identité produit",
+        "description": "Champs descriptifs de base du produit"
+      }
+    ],
+    "etatValidation": "code_3417",
+    "caracteristiques": [
+      {
+        "$oid": "a920871d6a0c6b573bba8a49"
+      },
+      {
+        "$oid": "5a8fe1f08e102b26831601c7"
+      }
+    ],
+    "parent": null,
+    "sousGroupe": [],
+    "domainsConcernes": [
+      {
+        "domaine": "69e8ed38c6121d6a80291e08",
+        "typeRelation": "code_2200",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": "69e8ed38c6121d6a80291f9f",
+        "typeRelation": "code_2200",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": "69e8ed38c6121d6a80291f83",
+        "typeRelation": "code_2200",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": "69e8ed38c6121d6a80291ffe",
+        "typeRelation": "code_2200",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": "69e8ed38c6121d6a80291ef0",
+        "typeRelation": "code_2200",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": "69e8ed38c6121d6a80291f82",
+        "typeRelation": "code_2200",
+        "taxonomieConcerne": []
+      }
+    ],
+    "icone": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "imageRepresentative": "https://source.unsplash.com/featured/1200x800/?atlas,mountains,morocco",
+    "objetsAssocies": []
+  },
+  {
+    "_id": {
+      "$oid": "aaaf1baf8012e898245da3c8"
+    },
+    "etatObjet": "code-1",
+    "reference": "GROUP-ORIGINE-TERROIR",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Origine & Terroir",
+        "description": "Provenance, région, IGP/AOP, altitude de production"
+      },
+      {
+        "language": "en",
+        "designation": "Origine & Terroir",
+        "description": "Provenance, région, IGP/AOP, altitude de production"
+      }
+    ],
+    "etatValidation": "code_3417",
+    "caracteristiques": [
+      {
+        "$oid": "f62683528048254664b57107"
+      },
+      {
+        "$oid": "f00e72319b0a9ff3843af95d"
+      },
+      {
+        "$oid": "c472eb68d9bf0734600614fb"
+      }
+    ],
+    "parent": null,
+    "sousGroupe": [],
+    "domainsConcernes": [
+      {
+        "domaine": "69e8ed38c6121d6a80292032",
+        "typeRelation": "code_2200",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": "69e8ed38c6121d6a80291fb4",
+        "typeRelation": "code_2200",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": "69e8ed38c6121d6a80291f53",
+        "typeRelation": "code_2200",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": "69e8ed38c6121d6a80291ed4",
+        "typeRelation": "code_2200",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": "69e8ed38c6121d6a80291fc7",
+        "typeRelation": "code_2200",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": "69e8ed38c6121d6a8029204e",
+        "typeRelation": "code_2200",
+        "taxonomieConcerne": []
+      }
+    ],
+    "icone": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "imageRepresentative": "https://source.unsplash.com/featured/1200x800/?savon,beldi,argan,soap",
+    "objetsAssocies": []
+  },
+  {
+    "_id": {
+      "$oid": "1ede94640b0b0d4e6862f383"
+    },
+    "etatObjet": "code-1",
+    "reference": "GROUP-COMPOSITION",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Composition & Ingrédients",
+        "description": "Liste d'ingrédients, allergènes, additifs"
+      },
+      {
+        "language": "en",
+        "designation": "Composition & Ingrédients",
+        "description": "Liste d'ingrédients, allergènes, additifs"
+      }
+    ],
+    "etatValidation": "code_3417",
+    "caracteristiques": [
+      {
+        "$oid": "b34a1d4227741dd14661adad"
+      },
+      {
+        "$oid": "36d0c28a96199f65ce017edc"
+      }
+    ],
+    "parent": null,
+    "sousGroupe": [],
+    "domainsConcernes": [
+      {
+        "domaine": "69e8ed38c6121d6a80291f7f",
+        "typeRelation": "code_2200",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": "69e8ed38c6121d6a80291f9f",
+        "typeRelation": "code_2200",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": "69e8ed38c6121d6a80291e6e",
+        "typeRelation": "code_2200",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": "69e8ed38c6121d6a80291fe8",
+        "typeRelation": "code_2200",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": "69e8ed38c6121d6a80291f34",
+        "typeRelation": "code_2200",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": "69e8ed38c6121d6a80291fcc",
+        "typeRelation": "code_2200",
+        "taxonomieConcerne": []
+      }
+    ],
+    "icone": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "imageRepresentative": "https://source.unsplash.com/featured/1200x800/?medina,morocco,heritage",
+    "objetsAssocies": []
+  },
+  {
+    "_id": {
+      "$oid": "e2617492ae8fcf4828ef0918"
+    },
+    "etatObjet": "code-1",
+    "reference": "GROUP-CONDITIONNEMENT",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Conditionnement",
+        "description": "Format, contenance, matériau d'emballage"
+      },
+      {
+        "language": "en",
+        "designation": "Conditionnement",
+        "description": "Format, contenance, matériau d'emballage"
+      }
+    ],
+    "etatValidation": "code_3417",
+    "caracteristiques": [
+      {
+        "$oid": "103d5759c8a8db54dc6ab2f1"
+      },
+      {
+        "$oid": "8f3b56f72fafe889337c9b9b"
+      }
+    ],
+    "parent": null,
+    "sousGroupe": [],
+    "domainsConcernes": [
+      {
+        "domaine": "69e8ed38c6121d6a80291e26",
+        "typeRelation": "code_2200",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": "69e8ed38c6121d6a80291e37",
+        "typeRelation": "code_2200",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": "69e8ed38c6121d6a8029207e",
+        "typeRelation": "code_2200",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": "69e8ed38c6121d6a80291ead",
+        "typeRelation": "code_2200",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": "69e8ed38c6121d6a80291fdc",
+        "typeRelation": "code_2200",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": "69e8ed38c6121d6a80291e08",
+        "typeRelation": "code_2200",
+        "taxonomieConcerne": []
+      }
+    ],
+    "icone": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "imageRepresentative": "https://source.unsplash.com/featured/1200x800/?atlas,mountains,morocco",
+    "objetsAssocies": []
+  },
+  {
+    "_id": {
+      "$oid": "2bd80de419e67a827f12f036"
+    },
+    "etatObjet": "code-1",
+    "reference": "GROUP-CERTIFICATIONS",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Certifications & Labels",
+        "description": "Bio, IGP, AOP, équitable, halal"
+      },
+      {
+        "language": "en",
+        "designation": "Certifications & Labels",
+        "description": "Bio, IGP, AOP, équitable, halal"
+      }
+    ],
+    "etatValidation": "code_3417",
+    "caracteristiques": [
+      {
+        "$oid": "3309f5851b5841d767e2acce"
+      },
+      {
+        "$oid": "c8c8f5298645e9ae8e7024f3"
+      }
+    ],
+    "parent": null,
+    "sousGroupe": [],
+    "domainsConcernes": [
+      {
+        "domaine": "69e8ed38c6121d6a80291ead",
+        "typeRelation": "code_2200",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": "69e8ed38c6121d6a80291e4f",
+        "typeRelation": "code_2200",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": "69e8ed38c6121d6a80292064",
+        "typeRelation": "code_2200",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": "69e8ed38c6121d6a80291e26",
+        "typeRelation": "code_2200",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": "69e8ed38c6121d6a80291f53",
+        "typeRelation": "code_2200",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": "69e8ed38c6121d6a80292009",
+        "typeRelation": "code_2200",
+        "taxonomieConcerne": []
+      }
+    ],
+    "icone": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "imageRepresentative": "https://source.unsplash.com/featured/1200x800/?atlas,mountains,morocco",
+    "objetsAssocies": []
+  },
+  {
+    "_id": {
+      "$oid": "79ee89c273890e61965c42d9"
+    },
+    "etatObjet": "code-1",
+    "reference": "GROUP-SAVOIR-FAIRE",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Savoir-faire",
+        "description": "Méthode artisanale, durée de production, séchage, fumage"
+      },
+      {
+        "language": "en",
+        "designation": "Savoir-faire",
+        "description": "Méthode artisanale, durée de production, séchage, fumage"
+      }
+    ],
+    "etatValidation": "code_3417",
+    "caracteristiques": [
+      {
+        "$oid": "708a3275c7d61e5a2ec7a854"
+      },
+      {
+        "$oid": "19dfead577bfddd4c8a99151"
+      }
+    ],
+    "parent": null,
+    "sousGroupe": [],
+    "domainsConcernes": [
+      {
+        "domaine": "69e8ed38c6121d6a80291f83",
+        "typeRelation": "code_2200",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": "69e8ed38c6121d6a80291deb",
+        "typeRelation": "code_2200",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": "69e8ed38c6121d6a80291ffe",
+        "typeRelation": "code_2200",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": "69e8ed38c6121d6a80291f34",
+        "typeRelation": "code_2200",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": "69e8ed38c6121d6a80291f9f",
+        "typeRelation": "code_2200",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": "69e8ed38c6121d6a80291ef0",
+        "typeRelation": "code_2200",
+        "taxonomieConcerne": []
+      }
+    ],
+    "icone": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "imageRepresentative": "https://source.unsplash.com/featured/1200x800/?atlas,mountains,morocco",
+    "objetsAssocies": []
+  },
+  {
+    "_id": {
+      "$oid": "9cbeca40a5fb9030f06e04ad"
+    },
+    "etatObjet": "code-1",
+    "reference": "GROUP-DIMENSIONS-POIDS",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Dimensions & Poids",
+        "description": "Largeur, longueur, hauteur, poids"
+      },
+      {
+        "language": "en",
+        "designation": "Dimensions & Poids",
+        "description": "Largeur, longueur, hauteur, poids"
+      }
+    ],
+    "etatValidation": "code_3417",
+    "caracteristiques": [
+      {
+        "$oid": "0d513c9124ae1d8aa1a0930f"
+      },
+      {
+        "$oid": "13f479c5c7313197fe1aaa26"
+      }
+    ],
+    "parent": null,
+    "sousGroupe": [],
+    "domainsConcernes": [
+      {
+        "domaine": "69e8ed38c6121d6a80292064",
+        "typeRelation": "code_2200",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": "69e8ed38c6121d6a80292071",
+        "typeRelation": "code_2200",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": "69e8ed38c6121d6a80291e9e",
+        "typeRelation": "code_2200",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": "69e8ed38c6121d6a80291e26",
+        "typeRelation": "code_2200",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": "69e8ed38c6121d6a80292008",
+        "typeRelation": "code_2200",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": "69e8ed38c6121d6a80291f33",
+        "typeRelation": "code_2200",
+        "taxonomieConcerne": []
+      }
+    ],
+    "icone": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "imageRepresentative": "https://source.unsplash.com/featured/1200x800/?medina,morocco,heritage",
+    "objetsAssocies": []
+  },
+  {
+    "_id": {
+      "$oid": "5e25344068a406120e477c6b"
+    },
+    "etatObjet": "code-1",
+    "reference": "GROUP-ENTRETIEN-CONSERVATION",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Entretien & Conservation",
+        "description": "Mode de conservation et d'entretien"
+      },
+      {
+        "language": "en",
+        "designation": "Entretien & Conservation",
+        "description": "Mode de conservation et d'entretien"
+      }
+    ],
+    "etatValidation": "code_3417",
+    "caracteristiques": [
+      {
+        "$oid": "f35a67b819aaead4e9522a0c"
+      },
+      {
+        "$oid": "00394919023789dd0f5f91bb"
+      }
+    ],
+    "parent": null,
+    "sousGroupe": [],
+    "domainsConcernes": [
+      {
+        "domaine": "69e8ed38c6121d6a80291f6a",
+        "typeRelation": "code_2200",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": "69e8ed38c6121d6a80291f82",
+        "typeRelation": "code_2200",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": "69e8ed38c6121d6a80291eae",
+        "typeRelation": "code_2200",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": "69e8ed38c6121d6a80292064",
+        "typeRelation": "code_2200",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": "69e8ed38c6121d6a80291f33",
+        "typeRelation": "code_2200",
+        "taxonomieConcerne": []
+      },
+      {
+        "domaine": "69e8ed38c6121d6a80291e9e",
+        "typeRelation": "code_2200",
+        "taxonomieConcerne": []
+      }
+    ],
+    "icone": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "imageRepresentative": "https://source.unsplash.com/featured/1200x800/?atlas,mountains,morocco",
+    "objetsAssocies": []
+  }
+]

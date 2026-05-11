@@ -1,0 +1,686 @@
+[
+  {
+    "_id": {
+      "$oid": "8c1ea98e4f84c852400be0a8"
+    },
+    "etatObjet": "code-1",
+    "refProtagoniste": "KB-PRO-3000",
+    "classe": "code_5410",
+    "taxoProtagoniste": "69e8ed38c6121d6a80291e43",
+    "translations": [
+      {
+        "language": "fr",
+        "label": "Karim El Mansouri",
+        "description": "Protagoniste actif de la coopérative."
+      }
+    ],
+    "ordreAffichage": 1,
+    "protagonsiteIntiateurFondateur": "code_5509",
+    "dateEnregistrement": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "etatProtagoniste": "code_3417",
+    "participation": [],
+    "origineParticipation": null,
+    "documentsLegals": [],
+    "personneConcernee": {
+      "$oid": "42f9eb66b4530d77a93547fc"
+    },
+    "relationInterneProtagoniste": [],
+    "organisationConcernee": {
+      "$oid": "9ee61edf331712db2db81648"
+    },
+    "autorisationAffichage": null,
+    "roleEtMission": [],
+    "moment": [],
+    "etats": [],
+    "opportinutes": [],
+    "risques": [],
+    "criteresConditions": [],
+    "echangesCommunications": [],
+    "incidents": [],
+    "elementsBudgets": [],
+    "activites": [],
+    "objetsAssocies": [],
+    "caracteristiques": [],
+    "referentiels": [],
+    "instructions": [],
+    "reglesActivations": [],
+    "produitService": [],
+    "coordonneesLieu": [
+      {
+        "$oid": "0fda03d07dd5cc145829aa36"
+      }
+    ],
+    "instancesOffres": [],
+    "typePersonne": "code_338",
+    "objetsConcernes": []
+  },
+  {
+    "_id": {
+      "$oid": "4150aa77ea4286387f3803c0"
+    },
+    "etatObjet": "code-1",
+    "refProtagoniste": "KB-PRO-3001",
+    "classe": "code_5410",
+    "taxoProtagoniste": "69e8ed38c6121d6a80291f3e",
+    "translations": [
+      {
+        "language": "fr",
+        "label": "Nadia Berrada",
+        "description": "Protagoniste actif de la coopérative."
+      }
+    ],
+    "ordreAffichage": 2,
+    "protagonsiteIntiateurFondateur": "code_5509",
+    "dateEnregistrement": {
+      "$date": "2024-01-09T00:00:00.000Z"
+    },
+    "etatProtagoniste": "code_3417",
+    "participation": [],
+    "origineParticipation": null,
+    "documentsLegals": [],
+    "personneConcernee": {
+      "$oid": "14a8602b4765ac42377e8ae9"
+    },
+    "relationInterneProtagoniste": [],
+    "organisationConcernee": {
+      "$oid": "b12803695779e12388199792"
+    },
+    "autorisationAffichage": null,
+    "roleEtMission": [],
+    "moment": [],
+    "etats": [],
+    "opportinutes": [],
+    "risques": [],
+    "criteresConditions": [],
+    "echangesCommunications": [],
+    "incidents": [],
+    "elementsBudgets": [],
+    "activites": [],
+    "objetsAssocies": [],
+    "caracteristiques": [],
+    "referentiels": [],
+    "instructions": [],
+    "reglesActivations": [],
+    "produitService": [],
+    "coordonneesLieu": [
+      {
+        "$oid": "138b58bf66a8fabff5541c14"
+      }
+    ],
+    "instancesOffres": [],
+    "typePersonne": "code_338",
+    "objetsConcernes": []
+  },
+  {
+    "_id": {
+      "$oid": "c917fad0328b3c3bd755ee66"
+    },
+    "etatObjet": "code-1",
+    "refProtagoniste": "KB-PRO-3002",
+    "classe": "code_5410",
+    "taxoProtagoniste": "69e8ed38c6121d6a80291ee5",
+    "translations": [
+      {
+        "language": "fr",
+        "label": "Youssef Bennani",
+        "description": "Protagoniste actif de la coopérative."
+      }
+    ],
+    "ordreAffichage": 3,
+    "protagonsiteIntiateurFondateur": "code_5509",
+    "dateEnregistrement": {
+      "$date": "2024-01-17T00:00:00.000Z"
+    },
+    "etatProtagoniste": "code_3417",
+    "participation": [],
+    "origineParticipation": null,
+    "documentsLegals": [],
+    "personneConcernee": {
+      "$oid": "f9156e5ba44181694bebeb21"
+    },
+    "relationInterneProtagoniste": [],
+    "organisationConcernee": {
+      "$oid": "89c2fcc35ad399f84d1ed565"
+    },
+    "autorisationAffichage": null,
+    "roleEtMission": [],
+    "moment": [],
+    "etats": [],
+    "opportinutes": [],
+    "risques": [],
+    "criteresConditions": [],
+    "echangesCommunications": [],
+    "incidents": [],
+    "elementsBudgets": [],
+    "activites": [],
+    "objetsAssocies": [],
+    "caracteristiques": [],
+    "referentiels": [],
+    "instructions": [],
+    "reglesActivations": [],
+    "produitService": [],
+    "coordonneesLieu": [
+      {
+        "$oid": "20806b3d18e443d0debc5bf8"
+      }
+    ],
+    "instancesOffres": [],
+    "typePersonne": "code_338",
+    "objetsConcernes": []
+  },
+  {
+    "_id": {
+      "$oid": "d39d9be3529fd733a5a0cd55"
+    },
+    "etatObjet": "code-1",
+    "refProtagoniste": "KB-PRO-3003",
+    "classe": "code_5410",
+    "taxoProtagoniste": "69e8ed38c6121d6a80291e9c",
+    "translations": [
+      {
+        "language": "fr",
+        "label": "Salma Idrissi",
+        "description": "Protagoniste actif de la coopérative."
+      }
+    ],
+    "ordreAffichage": 4,
+    "protagonsiteIntiateurFondateur": "code_5509",
+    "dateEnregistrement": {
+      "$date": "2024-01-25T00:00:00.000Z"
+    },
+    "etatProtagoniste": "code_3417",
+    "participation": [],
+    "origineParticipation": null,
+    "documentsLegals": [],
+    "personneConcernee": {
+      "$oid": "c1493337226ad1e51b9d9a94"
+    },
+    "relationInterneProtagoniste": [],
+    "organisationConcernee": {
+      "$oid": "89c2fcc35ad399f84d1ed565"
+    },
+    "autorisationAffichage": null,
+    "roleEtMission": [],
+    "moment": [],
+    "etats": [],
+    "opportinutes": [],
+    "risques": [],
+    "criteresConditions": [],
+    "echangesCommunications": [],
+    "incidents": [],
+    "elementsBudgets": [],
+    "activites": [],
+    "objetsAssocies": [],
+    "caracteristiques": [],
+    "referentiels": [],
+    "instructions": [],
+    "reglesActivations": [],
+    "produitService": [],
+    "coordonneesLieu": [
+      {
+        "$oid": "24c7be859f11162acccbcb8f"
+      }
+    ],
+    "instancesOffres": [],
+    "typePersonne": "code_338",
+    "objetsConcernes": []
+  },
+  {
+    "_id": {
+      "$oid": "30707c74e4d46e9bb56030e2"
+    },
+    "etatObjet": "code-1",
+    "refProtagoniste": "KB-PRO-3004",
+    "classe": "code_5410",
+    "taxoProtagoniste": "69e8ed38c6121d6a80291f6b",
+    "translations": [
+      {
+        "language": "fr",
+        "label": "Hamza Tazi",
+        "description": "Protagoniste actif de la coopérative."
+      }
+    ],
+    "ordreAffichage": 5,
+    "protagonsiteIntiateurFondateur": "code_5509",
+    "dateEnregistrement": {
+      "$date": "2024-02-02T00:00:00.000Z"
+    },
+    "etatProtagoniste": "code_3417",
+    "participation": [],
+    "origineParticipation": null,
+    "documentsLegals": [],
+    "personneConcernee": {
+      "$oid": "0ac7a2bee81d908c61b69597"
+    },
+    "relationInterneProtagoniste": [],
+    "organisationConcernee": {
+      "$oid": "867789143b8eee574a9b47b8"
+    },
+    "autorisationAffichage": null,
+    "roleEtMission": [],
+    "moment": [],
+    "etats": [],
+    "opportinutes": [],
+    "risques": [],
+    "criteresConditions": [],
+    "echangesCommunications": [],
+    "incidents": [],
+    "elementsBudgets": [],
+    "activites": [],
+    "objetsAssocies": [],
+    "caracteristiques": [],
+    "referentiels": [],
+    "instructions": [],
+    "reglesActivations": [],
+    "produitService": [],
+    "coordonneesLieu": [
+      {
+        "$oid": "f5f839d43e6b7b8ba5843478"
+      }
+    ],
+    "instancesOffres": [],
+    "typePersonne": "code_338",
+    "objetsConcernes": []
+  },
+  {
+    "_id": {
+      "$oid": "ecabd9e27957c632704df88a"
+    },
+    "etatObjet": "code-1",
+    "refProtagoniste": "KB-PRO-3005",
+    "classe": "code_5410",
+    "taxoProtagoniste": "69e8ed38c6121d6a80291e0b",
+    "translations": [
+      {
+        "language": "fr",
+        "label": "Fatima Ait Lahcen",
+        "description": "Protagoniste actif de la coopérative."
+      }
+    ],
+    "ordreAffichage": 6,
+    "protagonsiteIntiateurFondateur": "code_5509",
+    "dateEnregistrement": {
+      "$date": "2024-02-10T00:00:00.000Z"
+    },
+    "etatProtagoniste": "code_3417",
+    "participation": [],
+    "origineParticipation": null,
+    "documentsLegals": [],
+    "personneConcernee": {
+      "$oid": "e27ed0ed627dc1e2fafabe7b"
+    },
+    "relationInterneProtagoniste": [],
+    "organisationConcernee": {
+      "$oid": "20b4b06bcc1c423a7df32e37"
+    },
+    "autorisationAffichage": null,
+    "roleEtMission": [],
+    "moment": [],
+    "etats": [],
+    "opportinutes": [],
+    "risques": [],
+    "criteresConditions": [],
+    "echangesCommunications": [],
+    "incidents": [],
+    "elementsBudgets": [],
+    "activites": [],
+    "objetsAssocies": [],
+    "caracteristiques": [],
+    "referentiels": [],
+    "instructions": [],
+    "reglesActivations": [],
+    "produitService": [],
+    "coordonneesLieu": [
+      {
+        "$oid": "51a28b22780dcd5c1e45208d"
+      }
+    ],
+    "instancesOffres": [],
+    "typePersonne": "code_338",
+    "objetsConcernes": []
+  },
+  {
+    "_id": {
+      "$oid": "37f56c1a0d1c61c9378213c5"
+    },
+    "etatObjet": "code-1",
+    "refProtagoniste": "KB-PRO-3006",
+    "classe": "code_5410",
+    "taxoProtagoniste": "69e8ed38c6121d6a80291f96",
+    "translations": [
+      {
+        "language": "fr",
+        "label": "Reda Bouhamidi",
+        "description": "Protagoniste actif de la coopérative."
+      }
+    ],
+    "ordreAffichage": 7,
+    "protagonsiteIntiateurFondateur": "code_5509",
+    "dateEnregistrement": {
+      "$date": "2024-02-18T00:00:00.000Z"
+    },
+    "etatProtagoniste": "code_3417",
+    "participation": [],
+    "origineParticipation": null,
+    "documentsLegals": [],
+    "personneConcernee": {
+      "$oid": "88b2de919b9e38cd5dabd50a"
+    },
+    "relationInterneProtagoniste": [],
+    "organisationConcernee": {
+      "$oid": "bdd62512382a9120dd5a87a2"
+    },
+    "autorisationAffichage": null,
+    "roleEtMission": [],
+    "moment": [],
+    "etats": [],
+    "opportinutes": [],
+    "risques": [],
+    "criteresConditions": [],
+    "echangesCommunications": [],
+    "incidents": [],
+    "elementsBudgets": [],
+    "activites": [],
+    "objetsAssocies": [],
+    "caracteristiques": [],
+    "referentiels": [],
+    "instructions": [],
+    "reglesActivations": [],
+    "produitService": [],
+    "coordonneesLieu": [
+      {
+        "$oid": "69323205f5d1393e4a09cbb8"
+      }
+    ],
+    "instancesOffres": [],
+    "typePersonne": "code_338",
+    "objetsConcernes": []
+  },
+  {
+    "_id": {
+      "$oid": "cf959ecd9f510b3b8a3ba1c8"
+    },
+    "etatObjet": "code-1",
+    "refProtagoniste": "KB-PRO-3007",
+    "classe": "code_5410",
+    "taxoProtagoniste": "69e8ed38c6121d6a80291fd3",
+    "translations": [
+      {
+        "language": "fr",
+        "label": "Imane Ziani",
+        "description": "Protagoniste actif de la coopérative."
+      }
+    ],
+    "ordreAffichage": 8,
+    "protagonsiteIntiateurFondateur": "code_5509",
+    "dateEnregistrement": {
+      "$date": "2024-02-26T00:00:00.000Z"
+    },
+    "etatProtagoniste": "code_3417",
+    "participation": [],
+    "origineParticipation": null,
+    "documentsLegals": [],
+    "personneConcernee": {
+      "$oid": "8aa85ffcc40b1463dab8bcd4"
+    },
+    "relationInterneProtagoniste": [],
+    "organisationConcernee": {
+      "$oid": "9ee61edf331712db2db81648"
+    },
+    "autorisationAffichage": null,
+    "roleEtMission": [],
+    "moment": [],
+    "etats": [],
+    "opportinutes": [],
+    "risques": [],
+    "criteresConditions": [],
+    "echangesCommunications": [],
+    "incidents": [],
+    "elementsBudgets": [],
+    "activites": [],
+    "objetsAssocies": [],
+    "caracteristiques": [],
+    "referentiels": [],
+    "instructions": [],
+    "reglesActivations": [],
+    "produitService": [],
+    "coordonneesLieu": [
+      {
+        "$oid": "af12805373b13e5325f0b39c"
+      }
+    ],
+    "instancesOffres": [],
+    "typePersonne": "code_338",
+    "objetsConcernes": []
+  },
+  {
+    "_id": {
+      "$oid": "05ae41400ee66b6937b1c887"
+    },
+    "etatObjet": "code-1",
+    "refProtagoniste": "KB-PRO-3008",
+    "classe": "code_5410",
+    "taxoProtagoniste": "69e8ed38c6121d6a80291f3d",
+    "translations": [
+      {
+        "language": "fr",
+        "label": "Anas Lamrabet",
+        "description": "Protagoniste actif de la coopérative."
+      }
+    ],
+    "ordreAffichage": 9,
+    "protagonsiteIntiateurFondateur": "code_5509",
+    "dateEnregistrement": {
+      "$date": "2024-03-05T00:00:00.000Z"
+    },
+    "etatProtagoniste": "code_3417",
+    "participation": [],
+    "origineParticipation": null,
+    "documentsLegals": [],
+    "personneConcernee": {
+      "$oid": "6e072854def23bf3d3bcb690"
+    },
+    "relationInterneProtagoniste": [],
+    "organisationConcernee": {
+      "$oid": "6dd378a158e6ec999f2de9f9"
+    },
+    "autorisationAffichage": null,
+    "roleEtMission": [],
+    "moment": [],
+    "etats": [],
+    "opportinutes": [],
+    "risques": [],
+    "criteresConditions": [],
+    "echangesCommunications": [],
+    "incidents": [],
+    "elementsBudgets": [],
+    "activites": [],
+    "objetsAssocies": [],
+    "caracteristiques": [],
+    "referentiels": [],
+    "instructions": [],
+    "reglesActivations": [],
+    "produitService": [],
+    "coordonneesLieu": [
+      {
+        "$oid": "51a28b22780dcd5c1e45208d"
+      }
+    ],
+    "instancesOffres": [],
+    "typePersonne": "code_338",
+    "objetsConcernes": []
+  },
+  {
+    "_id": {
+      "$oid": "4320c93e802a9bb66d548e77"
+    },
+    "etatObjet": "code-1",
+    "refProtagoniste": "KB-PRO-3009",
+    "classe": "code_5410",
+    "taxoProtagoniste": "69e8ed38c6121d6a80292013",
+    "translations": [
+      {
+        "language": "fr",
+        "label": "Sara Cherkaoui",
+        "description": "Protagoniste actif de la coopérative."
+      }
+    ],
+    "ordreAffichage": 10,
+    "protagonsiteIntiateurFondateur": "code_5509",
+    "dateEnregistrement": {
+      "$date": "2024-03-13T00:00:00.000Z"
+    },
+    "etatProtagoniste": "code_3417",
+    "participation": [],
+    "origineParticipation": null,
+    "documentsLegals": [],
+    "personneConcernee": {
+      "$oid": "35f5afd37994dcba07886296"
+    },
+    "relationInterneProtagoniste": [],
+    "organisationConcernee": {
+      "$oid": "bdd62512382a9120dd5a87a2"
+    },
+    "autorisationAffichage": null,
+    "roleEtMission": [],
+    "moment": [],
+    "etats": [],
+    "opportinutes": [],
+    "risques": [],
+    "criteresConditions": [],
+    "echangesCommunications": [],
+    "incidents": [],
+    "elementsBudgets": [],
+    "activites": [],
+    "objetsAssocies": [],
+    "caracteristiques": [],
+    "referentiels": [],
+    "instructions": [],
+    "reglesActivations": [],
+    "produitService": [],
+    "coordonneesLieu": [
+      {
+        "$oid": "c7035b62ac4afff7948f0fcb"
+      }
+    ],
+    "instancesOffres": [],
+    "typePersonne": "code_338",
+    "objetsConcernes": []
+  },
+  {
+    "_id": {
+      "$oid": "c95da845b4f9781f96599ad4"
+    },
+    "etatObjet": "code-1",
+    "refProtagoniste": "KB-PRO-3010",
+    "classe": "code_5410",
+    "taxoProtagoniste": "69e8ed38c6121d6a80291f07",
+    "translations": [
+      {
+        "language": "fr",
+        "label": "Othmane El Fassi",
+        "description": "Protagoniste actif de la coopérative."
+      }
+    ],
+    "ordreAffichage": 11,
+    "protagonsiteIntiateurFondateur": "code_5509",
+    "dateEnregistrement": {
+      "$date": "2024-03-21T00:00:00.000Z"
+    },
+    "etatProtagoniste": "code_3417",
+    "participation": [],
+    "origineParticipation": null,
+    "documentsLegals": [],
+    "personneConcernee": {
+      "$oid": "0e371a6636eda37e91badd21"
+    },
+    "relationInterneProtagoniste": [],
+    "organisationConcernee": {
+      "$oid": "89c2fcc35ad399f84d1ed565"
+    },
+    "autorisationAffichage": null,
+    "roleEtMission": [],
+    "moment": [],
+    "etats": [],
+    "opportinutes": [],
+    "risques": [],
+    "criteresConditions": [],
+    "echangesCommunications": [],
+    "incidents": [],
+    "elementsBudgets": [],
+    "activites": [],
+    "objetsAssocies": [],
+    "caracteristiques": [],
+    "referentiels": [],
+    "instructions": [],
+    "reglesActivations": [],
+    "produitService": [],
+    "coordonneesLieu": [
+      {
+        "$oid": "0fda03d07dd5cc145829aa36"
+      }
+    ],
+    "instancesOffres": [],
+    "typePersonne": "code_338",
+    "objetsConcernes": []
+  },
+  {
+    "_id": {
+      "$oid": "680c7a348dd6d20e91134551"
+    },
+    "etatObjet": "code-1",
+    "refProtagoniste": "KB-PRO-3011",
+    "classe": "code_5410",
+    "taxoProtagoniste": "69e8ed38c6121d6a80291f40",
+    "translations": [
+      {
+        "language": "fr",
+        "label": "Zineb Ouazzani",
+        "description": "Protagoniste actif de la coopérative."
+      }
+    ],
+    "ordreAffichage": 12,
+    "protagonsiteIntiateurFondateur": "code_5509",
+    "dateEnregistrement": {
+      "$date": "2024-03-29T00:00:00.000Z"
+    },
+    "etatProtagoniste": "code_3417",
+    "participation": [],
+    "origineParticipation": null,
+    "documentsLegals": [],
+    "personneConcernee": {
+      "$oid": "da4d0eff9a5e4881b96b1181"
+    },
+    "relationInterneProtagoniste": [],
+    "organisationConcernee": {
+      "$oid": "e3033a9a5bb5e456a780d594"
+    },
+    "autorisationAffichage": null,
+    "roleEtMission": [],
+    "moment": [],
+    "etats": [],
+    "opportinutes": [],
+    "risques": [],
+    "criteresConditions": [],
+    "echangesCommunications": [],
+    "incidents": [],
+    "elementsBudgets": [],
+    "activites": [],
+    "objetsAssocies": [],
+    "caracteristiques": [],
+    "referentiels": [],
+    "instructions": [],
+    "reglesActivations": [],
+    "produitService": [],
+    "coordonneesLieu": [
+      {
+        "$oid": "138b58bf66a8fabff5541c14"
+      }
+    ],
+    "instancesOffres": [],
+    "typePersonne": "code_338",
+    "objetsConcernes": []
+  }
+]

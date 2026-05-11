@@ -1,0 +1,254 @@
+[
+  {
+    "_id": {
+      "$oid": "b8be184fd42ef818e2336bcc"
+    },
+    "classTemoignage": "code_4901",
+    "translations": [
+      {
+        "language": "fr",
+        "nom": "El Mansouri",
+        "prenom": "Karim",
+        "temoignage": "Une qualité d'huile d'olive incomparable, on retrouve les saveurs authentiques de mon enfance.",
+        "entreprise": "Casablanca"
+      },
+      {
+        "language": "en",
+        "nom": "El Mansouri",
+        "prenom": "Karim",
+        "temoignage": "Une qualité d'huile d'olive incomparable, on retrouve les saveurs authentiques de mon enfance.",
+        "entreprise": "Casablanca"
+      }
+    ],
+    "fonction": "Olive Oil",
+    "date": {
+      "$date": "2026-02-01T00:00:00.000Z"
+    },
+    "email": "karim.elmansouri@example.com",
+    "photo": "https://source.unsplash.com/featured/1200x800/?portrait,morocco,artisan",
+    "logo": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "lienAssocie": "https://kenzbladi.ma",
+    "typeObjetConcerne": "produitService",
+    "objetConcerne": {
+      "$oid": "9a023081f34a7e9e3332c3ed"
+    },
+    "objetsAssocies": [
+      {
+        "$oid": "c73ae325b6bb4a6f2e898950"
+      }
+    ],
+    "etatObjet": "code-1",
+    "etatDePublication": "code_3417",
+    "objetAssocie": []
+  },
+  {
+    "_id": {
+      "$oid": "5eae103b20569fd3c14b979b"
+    },
+    "classTemoignage": "code_4901",
+    "translations": [
+      {
+        "language": "fr",
+        "nom": "Berrada",
+        "prenom": "Nadia",
+        "temoignage": "Le coffret hammam est un cadeau parfait, le savon beldi est divin.",
+        "entreprise": "Rabat"
+      },
+      {
+        "language": "en",
+        "nom": "Berrada",
+        "prenom": "Nadia",
+        "temoignage": "Le coffret hammam est un cadeau parfait, le savon beldi est divin.",
+        "entreprise": "Rabat"
+      }
+    ],
+    "fonction": "Beauty Lover",
+    "date": {
+      "$date": "2026-02-16T00:00:00.000Z"
+    },
+    "email": "nadia.berrada@example.com",
+    "photo": "https://source.unsplash.com/featured/1200x800/?portrait,morocco,artisan",
+    "logo": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "lienAssocie": "https://kenzbladi.ma",
+    "typeObjetConcerne": "produitService",
+    "objetConcerne": {
+      "$oid": "2662b3d55361dec632d70a4e"
+    },
+    "objetsAssocies": [
+      {
+        "$oid": "98f8e52f7918acc099d800ce"
+      }
+    ],
+    "etatObjet": "code-1",
+    "etatDePublication": "code_3417",
+    "objetAssocie": []
+  },
+  {
+    "_id": {
+      "$oid": "08e6ad8b58ebd98ebfba39ce"
+    },
+    "classTemoignage": "code_4901",
+    "translations": [
+      {
+        "language": "fr",
+        "nom": "Cherkaoui",
+        "prenom": "Sara",
+        "temoignage": "Je recommande vivement les dattes Mejhoul — premium, elles fondent en bouche.",
+        "entreprise": "Paris"
+      },
+      {
+        "language": "en",
+        "nom": "Cherkaoui",
+        "prenom": "Sara",
+        "temoignage": "Je recommande vivement les dattes Mejhoul — premium, elles fondent en bouche.",
+        "entreprise": "Paris"
+      }
+    ],
+    "fonction": "Gastronome",
+    "date": {
+      "$date": "2026-03-03T00:00:00.000Z"
+    },
+    "email": "sara.cherkaoui@example.com",
+    "photo": "https://source.unsplash.com/featured/1200x800/?portrait,morocco,artisan",
+    "logo": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "lienAssocie": "https://kenzbladi.ma",
+    "typeObjetConcerne": "produitService",
+    "objetConcerne": {
+      "$oid": "a58b00562153ab4013d78ae1"
+    },
+    "objetsAssocies": [
+      {
+        "$oid": "2e7fca1415ba2e502457da4a"
+      }
+    ],
+    "etatObjet": "code-1",
+    "etatDePublication": "code_3417",
+    "objetAssocie": []
+  },
+  {
+    "_id": {
+      "$oid": "0dd4e4c61ad2416b7a272bc2"
+    },
+    "classTemoignage": "code_4901",
+    "translations": [
+      {
+        "language": "fr",
+        "nom": "Tazi",
+        "prenom": "Hamza",
+        "temoignage": "Le tapis Beni Ourain est de toute beauté, et la traçabilité est irréprochable.",
+        "entreprise": "Marrakech"
+      },
+      {
+        "language": "en",
+        "nom": "Tazi",
+        "prenom": "Hamza",
+        "temoignage": "Le tapis Beni Ourain est de toute beauté, et la traçabilité est irréprochable.",
+        "entreprise": "Marrakech"
+      }
+    ],
+    "fonction": "Architecte",
+    "date": {
+      "$date": "2026-03-18T00:00:00.000Z"
+    },
+    "email": "hamza.tazi@example.com",
+    "photo": "https://source.unsplash.com/featured/1200x800/?portrait,morocco,artisan",
+    "logo": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "lienAssocie": "https://kenzbladi.ma",
+    "typeObjetConcerne": "produitService",
+    "objetConcerne": {
+      "$oid": "2662b3d55361dec632d70a4e"
+    },
+    "objetsAssocies": [
+      {
+        "$oid": "cc74ee952bfc01fdeb566984"
+      }
+    ],
+    "etatObjet": "code-1",
+    "etatDePublication": "code_3417",
+    "objetAssocie": []
+  },
+  {
+    "_id": {
+      "$oid": "d0b685db86621e126811507c"
+    },
+    "classTemoignage": "code_4901",
+    "translations": [
+      {
+        "language": "fr",
+        "nom": "Ziani",
+        "prenom": "Imane",
+        "temoignage": "L'expérience de séjour au riad du Dadès reste l'une des plus belles de ma vie.",
+        "entreprise": "Tanger"
+      },
+      {
+        "language": "en",
+        "nom": "Ziani",
+        "prenom": "Imane",
+        "temoignage": "L'expérience de séjour au riad du Dadès reste l'une des plus belles de ma vie.",
+        "entreprise": "Tanger"
+      }
+    ],
+    "fonction": "Voyageuse",
+    "date": {
+      "$date": "2026-04-02T00:00:00.000Z"
+    },
+    "email": "imane.ziani@example.com",
+    "photo": "https://source.unsplash.com/featured/1200x800/?portrait,morocco,artisan",
+    "logo": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "lienAssocie": "https://kenzbladi.ma",
+    "typeObjetConcerne": "produitService",
+    "objetConcerne": {
+      "$oid": "9f4492ebf2e1004d81dcf843"
+    },
+    "objetsAssocies": [
+      {
+        "$oid": "a3ddb7ae6a7f65934ca3646c"
+      }
+    ],
+    "etatObjet": "code-1",
+    "etatDePublication": "code_3417",
+    "objetAssocie": []
+  },
+  {
+    "_id": {
+      "$oid": "b49381dba61a516c08dcc31b"
+    },
+    "classTemoignage": "code_4901",
+    "translations": [
+      {
+        "language": "fr",
+        "nom": "Bouhamidi",
+        "prenom": "Reda",
+        "temoignage": "Excellente initiative — produits authentiques expédiés rapidement à l'étranger.",
+        "entreprise": "Bordeaux"
+      },
+      {
+        "language": "en",
+        "nom": "Bouhamidi",
+        "prenom": "Reda",
+        "temoignage": "Excellente initiative — produits authentiques expédiés rapidement à l'étranger.",
+        "entreprise": "Bordeaux"
+      }
+    ],
+    "fonction": "Client international",
+    "date": {
+      "$date": "2026-04-17T00:00:00.000Z"
+    },
+    "email": "reda.bouhamidi@example.com",
+    "photo": "https://source.unsplash.com/featured/1200x800/?portrait,morocco,artisan",
+    "logo": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "lienAssocie": "https://kenzbladi.ma",
+    "typeObjetConcerne": "produitService",
+    "objetConcerne": {
+      "$oid": "fa5e07ecf203eb2367cd5a4d"
+    },
+    "objetsAssocies": [
+      {
+        "$oid": "e9aff9a787f3d8281e527be3"
+      }
+    ],
+    "etatObjet": "code-1",
+    "etatDePublication": "code_3417",
+    "objetAssocie": []
+  }
+]

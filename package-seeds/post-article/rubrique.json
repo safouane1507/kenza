@@ -1,0 +1,160 @@
+[
+  {
+    "_id": {
+      "$oid": "f023af9b5b54c25579eb1069"
+    },
+    "etatObjet": "code-1",
+    "refRubrique": "magazine-terroir",
+    "taxoCategorie": "69e8ed38c6121d6a80291ff0",
+    "translations": [
+      {
+        "language": "fr",
+        "titreRubrique": "Magazine Terroir",
+        "descriptif": "Articles autour des produits du terroir."
+      },
+      {
+        "language": "en",
+        "titreRubrique": "Magazine Terroir",
+        "descriptif": "Articles autour des produits du terroir."
+      }
+    ],
+    "photoRubrique": "https://source.unsplash.com/featured/1200x800/?editorial,morocco,kenz",
+    "iconeRubrique": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "etatDePublication": "code_3417",
+    "postArticle": [
+      {
+        "$oid": "de23bf7ee0a47bc164f93f01"
+      },
+      {
+        "$oid": "f16e311fd35be4115f99ab3d"
+      }
+    ],
+    "menu": [],
+    "blogs": [],
+    "objetsConcernes": []
+  },
+  {
+    "_id": {
+      "$oid": "6cb487821f17af32f6efd6fc"
+    },
+    "etatObjet": "code-1",
+    "refRubrique": "magazine-artisanat",
+    "taxoCategorie": "69e8ed38c6121d6a80291e36",
+    "translations": [
+      {
+        "language": "fr",
+        "titreRubrique": "Magazine Artisanat",
+        "descriptif": "L'art et le savoir-faire marocains."
+      },
+      {
+        "language": "en",
+        "titreRubrique": "Magazine Artisanat",
+        "descriptif": "L'art et le savoir-faire marocains."
+      }
+    ],
+    "photoRubrique": "https://source.unsplash.com/featured/1200x800/?editorial,morocco,kenz",
+    "iconeRubrique": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "etatDePublication": "code_3417",
+    "postArticle": [
+      {
+        "$oid": "95875118a035445907afbf45"
+      }
+    ],
+    "menu": [],
+    "blogs": [],
+    "objetsConcernes": []
+  },
+  {
+    "_id": {
+      "$oid": "0f3e7f94501d5f0d367eb0f2"
+    },
+    "etatObjet": "code-1",
+    "refRubrique": "magazine-tourisme",
+    "taxoCategorie": "69e8ed38c6121d6a80291fa9",
+    "translations": [
+      {
+        "language": "fr",
+        "titreRubrique": "Magazine Tourisme",
+        "descriptif": "Itinéraires et voyages au Maroc."
+      },
+      {
+        "language": "en",
+        "titreRubrique": "Magazine Tourisme",
+        "descriptif": "Itinéraires et voyages au Maroc."
+      }
+    ],
+    "photoRubrique": "https://source.unsplash.com/featured/1200x800/?editorial,morocco,kenz",
+    "iconeRubrique": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "etatDePublication": "code_3417",
+    "postArticle": [
+      {
+        "$oid": "d6a30d2387de675f1502355a"
+      }
+    ],
+    "menu": [],
+    "blogs": [],
+    "objetsConcernes": []
+  },
+  {
+    "_id": {
+      "$oid": "e2895ff8636d96ce721a54f2"
+    },
+    "etatObjet": "code-1",
+    "refRubrique": "magazine-mode",
+    "taxoCategorie": "69e8ed38c6121d6a80291e9d",
+    "translations": [
+      {
+        "language": "fr",
+        "titreRubrique": "Magazine Mode",
+        "descriptif": "Caftans, babouches et tendances."
+      },
+      {
+        "language": "en",
+        "titreRubrique": "Magazine Mode",
+        "descriptif": "Caftans, babouches et tendances."
+      }
+    ],
+    "photoRubrique": "https://source.unsplash.com/featured/1200x800/?editorial,morocco,kenz",
+    "iconeRubrique": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "etatDePublication": "code_3417",
+    "postArticle": [
+      {
+        "$oid": "46a3e6b23659ed8d10fd433f"
+      }
+    ],
+    "menu": [],
+    "blogs": [],
+    "objetsConcernes": []
+  },
+  {
+    "_id": {
+      "$oid": "e9ecc37cfa2796d447cd4569"
+    },
+    "etatObjet": "code-1",
+    "refRubrique": "magazine-beaute",
+    "taxoCategorie": "69e8ed38c6121d6a80291f5d",
+    "translations": [
+      {
+        "language": "fr",
+        "titreRubrique": "Magazine Beauté",
+        "descriptif": "Rituels et soins naturels."
+      },
+      {
+        "language": "en",
+        "titreRubrique": "Magazine Beauté",
+        "descriptif": "Rituels et soins naturels."
+      }
+    ],
+    "photoRubrique": "https://source.unsplash.com/featured/1200x800/?editorial,morocco,kenz",
+    "iconeRubrique": "https://source.unsplash.com/featured/1200x800/?logo,morocco,minimal",
+    "etatDePublication": "code_3417",
+    "postArticle": [
+      {
+        "$oid": "35878a0a5bf3df366fc96d51"
+      }
+    ],
+    "menu": [],
+    "blogs": [],
+    "objetsConcernes": []
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "_id": {
+      "$oid": "f7d202bcaf0cc905fb2f7886"
+    },
+    "etatDePublication": "code_3417",
+    "etatObjet": "code-1",
+    "typeRelation": "code_3034",
+    "produitPrincipale": {
+      "$oid": "f77c67ae235c07d812378fcf"
+    },
+    "produitAssocie": [
+      {
+        "$oid": "424b7543bb763d431454701d"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "4414fe17a511ef8b34dac23d"
+    },
+    "etatDePublication": "code_3417",
+    "etatObjet": "code-1",
+    "typeRelation": "code_3034",
+    "produitPrincipale": {
+      "$oid": "ce44a7c2a200361f3663c681"
+    },
+    "produitAssocie": [
+      {
+        "$oid": "6b3d220d41c260baaa8282c1"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "d97cda2b36cadf73f8882d39"
+    },
+    "etatDePublication": "code_3417",
+    "etatObjet": "code-1",
+    "typeRelation": "code_3034",
+    "produitPrincipale": {
+      "$oid": "8027a3a59972d1e095d69f2a"
+    },
+    "produitAssocie": [
+      {
+        "$oid": "3ff719ccbb8e56100269e13f"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "2e302711272a497658de8450"
+    },
+    "etatDePublication": "code_3417",
+    "etatObjet": "code-1",
+    "typeRelation": "code_3034",
+    "produitPrincipale": {
+      "$oid": "ab97bf12502e7005fbd2e9d7"
+    },
+    "produitAssocie": [
+      {
+        "$oid": "c35a24eec1fd5b76e50f7164"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "29fda56ae387af36d1ba337b"
+    },
+    "etatDePublication": "code_3417",
+    "etatObjet": "code-1",
+    "typeRelation": "code_3034",
+    "produitPrincipale": {
+      "$oid": "773c2db75ac3b8742d911f1b"
+    },
+    "produitAssocie": [
+      {
+        "$oid": "b90252a8de9bbfd23f8ebf16"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5e09040ac6372024b6c50f3c"
+    },
+    "etatDePublication": "code_3417",
+    "etatObjet": "code-1",
+    "typeRelation": "code_3034",
+    "produitPrincipale": {
+      "$oid": "7986b31a486d6de2db4d1e93"
+    },
+    "produitAssocie": [
+      {
+        "$oid": "9fd2d84232c087a131185c4a"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "0e36c7d613831c2ea3f385fc"
+    },
+    "etatDePublication": "code_3417",
+    "etatObjet": "code-1",
+    "typeRelation": "code_3034",
+    "produitPrincipale": {
+      "$oid": "cb7397c94930e29594699f87"
+    },
+    "produitAssocie": [
+      {
+        "$oid": "bdf2cdce671fe8ce7818e438"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "32f98456178333e5e1f2cb97"
+    },
+    "etatDePublication": "code_3417",
+    "etatObjet": "code-1",
+    "typeRelation": "code_3034",
+    "produitPrincipale": {
+      "$oid": "63964efb8c9a9694ff34d667"
+    },
+    "produitAssocie": [
+      {
+        "$oid": "5de1271c67e49377444916be"
+      }
+    ]
+  }
+]

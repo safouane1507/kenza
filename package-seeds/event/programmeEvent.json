@@ -1,0 +1,434 @@
+[
+  {
+    "_id": {
+      "$oid": "cf769692ca658ffbc6e777b0"
+    },
+    "etatObjet": "code-1",
+    "categorieProgramme": "code_8601",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Salon du Terroir Marocain 2026 — Session 1",
+        "description": "Programme thématique avec ateliers et conférences."
+      }
+    ],
+    "dateHeureDebut": {
+      "$date": "2026-06-12T00:00:00.000Z"
+    },
+    "dateHeureFin": {
+      "$date": "2026-06-12T04:00:00.000Z"
+    },
+    "accesibilite": true,
+    "programmeEventParent": null,
+    "programmeEventChildren": [],
+    "agendaEvent": {
+      "$oid": "81e5dc18fae7b36e789984f1"
+    },
+    "lieuConcerne": [
+      {
+        "$oid": "af12805373b13e5325f0b39c"
+      }
+    ],
+    "protagonistePotentiel": [
+      {
+        "$oid": "680c7a348dd6d20e91134551"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "546e9f984948d741deb84baa"
+    },
+    "etatObjet": "code-1",
+    "categorieProgramme": "code_8601",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Salon du Terroir Marocain 2026 — Session 2",
+        "description": "Programme thématique avec ateliers et conférences."
+      }
+    ],
+    "dateHeureDebut": {
+      "$date": "2026-06-13T00:00:00.000Z"
+    },
+    "dateHeureFin": {
+      "$date": "2026-06-13T04:00:00.000Z"
+    },
+    "accesibilite": true,
+    "programmeEventParent": null,
+    "programmeEventChildren": [],
+    "agendaEvent": {
+      "$oid": "81e5dc18fae7b36e789984f1"
+    },
+    "lieuConcerne": [
+      {
+        "$oid": "c7035b62ac4afff7948f0fcb"
+      }
+    ],
+    "protagonistePotentiel": [
+      {
+        "$oid": "8c1ea98e4f84c852400be0a8"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "05d126dc813b5809dda30b50"
+    },
+    "etatObjet": "code-1",
+    "categorieProgramme": "code_8601",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Salon du Terroir Marocain 2026 — Session 3",
+        "description": "Programme thématique avec ateliers et conférences."
+      }
+    ],
+    "dateHeureDebut": {
+      "$date": "2026-06-14T00:00:00.000Z"
+    },
+    "dateHeureFin": {
+      "$date": "2026-06-14T04:00:00.000Z"
+    },
+    "accesibilite": true,
+    "programmeEventParent": null,
+    "programmeEventChildren": [],
+    "agendaEvent": {
+      "$oid": "81e5dc18fae7b36e789984f1"
+    },
+    "lieuConcerne": [
+      {
+        "$oid": "24c7be859f11162acccbcb8f"
+      }
+    ],
+    "protagonistePotentiel": [
+      {
+        "$oid": "c95da845b4f9781f96599ad4"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "142db361eca5ad326843d4ce"
+    },
+    "etatObjet": "code-1",
+    "categorieProgramme": "code_8601",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Festival des Roses de Kelaat M'Gouna — Session 1",
+        "description": "Programme thématique avec ateliers et conférences."
+      }
+    ],
+    "dateHeureDebut": {
+      "$date": "2026-05-08T00:00:00.000Z"
+    },
+    "dateHeureFin": {
+      "$date": "2026-05-08T04:00:00.000Z"
+    },
+    "accesibilite": true,
+    "programmeEventParent": null,
+    "programmeEventChildren": [],
+    "agendaEvent": {
+      "$oid": "946e536e9fe171ad79a06409"
+    },
+    "lieuConcerne": [
+      {
+        "$oid": "e298181ff3970e0f6ae1b32d"
+      }
+    ],
+    "protagonistePotentiel": [
+      {
+        "$oid": "37f56c1a0d1c61c9378213c5"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "89bb105be9be3312c89795cb"
+    },
+    "etatObjet": "code-1",
+    "categorieProgramme": "code_8601",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Festival des Roses de Kelaat M'Gouna — Session 2",
+        "description": "Programme thématique avec ateliers et conférences."
+      }
+    ],
+    "dateHeureDebut": {
+      "$date": "2026-05-09T00:00:00.000Z"
+    },
+    "dateHeureFin": {
+      "$date": "2026-05-09T04:00:00.000Z"
+    },
+    "accesibilite": true,
+    "programmeEventParent": null,
+    "programmeEventChildren": [],
+    "agendaEvent": {
+      "$oid": "946e536e9fe171ad79a06409"
+    },
+    "lieuConcerne": [
+      {
+        "$oid": "138b58bf66a8fabff5541c14"
+      }
+    ],
+    "protagonistePotentiel": [
+      {
+        "$oid": "680c7a348dd6d20e91134551"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "18b3cb967d67e153c9936ac4"
+    },
+    "etatObjet": "code-1",
+    "categorieProgramme": "code_8601",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Festival des Roses de Kelaat M'Gouna — Session 3",
+        "description": "Programme thématique avec ateliers et conférences."
+      }
+    ],
+    "dateHeureDebut": {
+      "$date": "2026-05-10T00:00:00.000Z"
+    },
+    "dateHeureFin": {
+      "$date": "2026-05-10T04:00:00.000Z"
+    },
+    "accesibilite": true,
+    "programmeEventParent": null,
+    "programmeEventChildren": [],
+    "agendaEvent": {
+      "$oid": "946e536e9fe171ad79a06409"
+    },
+    "lieuConcerne": [
+      {
+        "$oid": "f5f839d43e6b7b8ba5843478"
+      }
+    ],
+    "protagonistePotentiel": [
+      {
+        "$oid": "05ae41400ee66b6937b1c887"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "1a985414b435afd02543bbbe"
+    },
+    "etatObjet": "code-1",
+    "categorieProgramme": "code_8601",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Moussem du Patrimoine Vivant — Session 1",
+        "description": "Programme thématique avec ateliers et conférences."
+      }
+    ],
+    "dateHeureDebut": {
+      "$date": "2026-09-20T00:00:00.000Z"
+    },
+    "dateHeureFin": {
+      "$date": "2026-09-20T04:00:00.000Z"
+    },
+    "accesibilite": true,
+    "programmeEventParent": null,
+    "programmeEventChildren": [],
+    "agendaEvent": {
+      "$oid": "5d002d1b6fd364b86cdbfdbe"
+    },
+    "lieuConcerne": [
+      {
+        "$oid": "20806b3d18e443d0debc5bf8"
+      }
+    ],
+    "protagonistePotentiel": [
+      {
+        "$oid": "4320c93e802a9bb66d548e77"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "e6ef41496f86ecbb56a2322b"
+    },
+    "etatObjet": "code-1",
+    "categorieProgramme": "code_8601",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Moussem du Patrimoine Vivant — Session 2",
+        "description": "Programme thématique avec ateliers et conférences."
+      }
+    ],
+    "dateHeureDebut": {
+      "$date": "2026-09-21T00:00:00.000Z"
+    },
+    "dateHeureFin": {
+      "$date": "2026-09-21T04:00:00.000Z"
+    },
+    "accesibilite": true,
+    "programmeEventParent": null,
+    "programmeEventChildren": [],
+    "agendaEvent": {
+      "$oid": "5d002d1b6fd364b86cdbfdbe"
+    },
+    "lieuConcerne": [
+      {
+        "$oid": "69323205f5d1393e4a09cbb8"
+      }
+    ],
+    "protagonistePotentiel": [
+      {
+        "$oid": "4150aa77ea4286387f3803c0"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "915199a7e63facad920f5149"
+    },
+    "etatObjet": "code-1",
+    "categorieProgramme": "code_8601",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Moussem du Patrimoine Vivant — Session 3",
+        "description": "Programme thématique avec ateliers et conférences."
+      }
+    ],
+    "dateHeureDebut": {
+      "$date": "2026-09-22T00:00:00.000Z"
+    },
+    "dateHeureFin": {
+      "$date": "2026-09-22T04:00:00.000Z"
+    },
+    "accesibilite": true,
+    "programmeEventParent": null,
+    "programmeEventChildren": [],
+    "agendaEvent": {
+      "$oid": "5d002d1b6fd364b86cdbfdbe"
+    },
+    "lieuConcerne": [
+      {
+        "$oid": "5638a7814e7569320fcc0246"
+      }
+    ],
+    "protagonistePotentiel": [
+      {
+        "$oid": "d39d9be3529fd733a5a0cd55"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "ab047d7460bcc25d1c0aec94"
+    },
+    "etatObjet": "code-1",
+    "categorieProgramme": "code_8601",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Forum Coopératives & Économie Sociale — Session 1",
+        "description": "Programme thématique avec ateliers et conférences."
+      }
+    ],
+    "dateHeureDebut": {
+      "$date": "2026-11-04T00:00:00.000Z"
+    },
+    "dateHeureFin": {
+      "$date": "2026-11-04T04:00:00.000Z"
+    },
+    "accesibilite": true,
+    "programmeEventParent": null,
+    "programmeEventChildren": [],
+    "agendaEvent": {
+      "$oid": "1fe6bbf8b819ccfbc937dbdb"
+    },
+    "lieuConcerne": [
+      {
+        "$oid": "24c7be859f11162acccbcb8f"
+      }
+    ],
+    "protagonistePotentiel": [
+      {
+        "$oid": "c917fad0328b3c3bd755ee66"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "680bc7d1436954d6e8d101ca"
+    },
+    "etatObjet": "code-1",
+    "categorieProgramme": "code_8601",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Forum Coopératives & Économie Sociale — Session 2",
+        "description": "Programme thématique avec ateliers et conférences."
+      }
+    ],
+    "dateHeureDebut": {
+      "$date": "2026-11-05T00:00:00.000Z"
+    },
+    "dateHeureFin": {
+      "$date": "2026-11-05T04:00:00.000Z"
+    },
+    "accesibilite": true,
+    "programmeEventParent": null,
+    "programmeEventChildren": [],
+    "agendaEvent": {
+      "$oid": "1fe6bbf8b819ccfbc937dbdb"
+    },
+    "lieuConcerne": [
+      {
+        "$oid": "24c7be859f11162acccbcb8f"
+      }
+    ],
+    "protagonistePotentiel": [
+      {
+        "$oid": "ecabd9e27957c632704df88a"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "9bcf75e998ba4248846b6ba2"
+    },
+    "etatObjet": "code-1",
+    "categorieProgramme": "code_8601",
+    "translations": [
+      {
+        "language": "fr",
+        "designation": "Forum Coopératives & Économie Sociale — Session 3",
+        "description": "Programme thématique avec ateliers et conférences."
+      }
+    ],
+    "dateHeureDebut": {
+      "$date": "2026-11-06T00:00:00.000Z"
+    },
+    "dateHeureFin": {
+      "$date": "2026-11-06T04:00:00.000Z"
+    },
+    "accesibilite": true,
+    "programmeEventParent": null,
+    "programmeEventChildren": [],
+    "agendaEvent": {
+      "$oid": "1fe6bbf8b819ccfbc937dbdb"
+    },
+    "lieuConcerne": [
+      {
+        "$oid": "51a28b22780dcd5c1e45208d"
+      }
+    ],
+    "protagonistePotentiel": [
+      {
+        "$oid": "d39d9be3529fd733a5a0cd55"
+      }
+    ]
+  }
+]
